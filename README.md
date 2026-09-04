@@ -53,7 +53,8 @@ set OPENAI_API_KEY=...      # from relevince-outbound/.env
 set TINYFISH_API_KEY=...    # optional; probing runs without it
 python daily_run.py
 ```
-Knobs: `RUN_MINUTES` (75), `SEARCH_BUDGET` (90), `PROBE_BUDGET` (500), `CRAWL_WORKERS` (16).
+Knobs: `RUN_MINUTES` (8, sized for the 10-minute cloud Bash cap), `SEARCH_BUDGET` (45),
+`PROBE_BUDGET` (300), `CRAWL_WORKERS` (16). Locally you can raise all of them.
 
 ## After each cloud run, locally
 ```

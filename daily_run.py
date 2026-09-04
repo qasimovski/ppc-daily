@@ -21,9 +21,9 @@ local/sync_to_ledger.py on the machine that holds it.
 Environment:
   OPENAI_API_KEY     required (v6 qualifier)
   TINYFISH_API_KEY   optional; without it the search channel is skipped, probing still runs
-  RUN_MINUTES        wall-clock budget, default 75
-  SEARCH_BUDGET      TinyFish requests per run, default 90 (~3.5 min at the 30/min ceiling)
-  PROBE_BUDGET       constructed domains to fetch per run, default 500
+  RUN_MINUTES        wall-clock budget, default 8 (a cloud Bash call is capped at 10 min)
+  SEARCH_BUDGET      TinyFish requests per run, default 45 (~1.7 min at the 30/min ceiling)
+  PROBE_BUDGET       constructed domains to fetch per run, default 300
   CRAWL_WORKERS      default 16
 """
 import collections, concurrent.futures as cf, io, json, os, sys, time
@@ -44,9 +44,13 @@ PENDING = os.path.join(STATE, 'pending_v6.jsonl')      # crawled ok, not yet cla
 CANDS = os.path.join(STATE, 'candidates_seen.jsonl')   # every emit, for auditing sources
 LOG = os.path.join(ROOT, 'out', 'run.log')
 
-RUN_MINUTES = float(os.environ.get('RUN_MINUTES', '75'))
-SEARCH_BUDGET = int(os.environ.get('SEARCH_BUDGET', '90'))
-PROBE_BUDGET = int(os.environ.get('PROBE_BUDGET', '500'))
+# Defaults are sized to finish inside ONE cloud Bash call, which is capped at 10 minutes:
+# ~2 min search (25%), crawl done by ~5 min (65%), v6 gets the rest, export in seconds.
+# Measured locally: 150 probes + 8 searches + 23 v6 calls = 2.5 min. Raise via env vars
+# only when running somewhere without that cap.
+RUN_MINUTES = float(os.environ.get('RUN_MINUTES', '8'))
+SEARCH_BUDGET = int(os.environ.get('SEARCH_BUDGET', '45'))
+PROBE_BUDGET = int(os.environ.get('PROBE_BUDGET', '300'))
 CRAWL_WORKERS = int(os.environ.get('CRAWL_WORKERS', '16'))
 RUN_DATE = os.environ.get('RUN_DATE') or time.strftime('%Y-%m-%d')
 

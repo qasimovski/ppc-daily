@@ -101,10 +101,11 @@ rate per channel, anything that failed, and the pushed commit hash.
 ```
 
 ## Budget per run
-- TinyFish Search: free (90 requests, 3.5 min at the 30/min ceiling).
+- TinyFish Search: free (45 requests, ~1.7 min at the 30/min ceiling).
 - OpenAI gpt-4.1-mini: a fraction of a cent per classified company; typically < $0.10/day.
-- Wall clock: `RUN_MINUTES=75` default. Lower it via an environment variable if cloud
-  sessions are capped shorter; the run checkpoints and carries unfinished work forward.
+- Wall clock: `RUN_MINUTES=8` default, because a single Bash command in a cloud session is
+  capped at 10 minutes. The run checkpoints per item and carries unfinished v6 work forward,
+  so a cut-off never loses verdicts. Do not raise `RUN_MINUTES` above 9 for the routine.
 
 ## Weekly, locally
 ```
