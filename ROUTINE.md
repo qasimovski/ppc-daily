@@ -39,7 +39,9 @@ at https://claude.ai/code → environment settings.
     | TinyFish | `api.search.tinyfish.ai` | `X-API-Key` | *(clear it)* | the TinyFish key |
 - **Click Save changes.** The first test run found neither the network change nor the keys
   applied — check the environment dialog shows **Full** and the two entries before re-running.
-- **Setup script** (optional, cached): `pip install -r requirements.txt`
+- **Setup script: leave it EMPTY.** The job has no dependencies (standard library only). A
+  setup script runs before the repository is checked out, so `pip install -r requirements.txt`
+  there fails with "No such file" and the session never starts.
 
 **Verify from a cloud session**: ask it to run `curl -sS -o /dev/null -w '%{http_code}' https://example.com`
 (expect `200`) and `python daily_run.py` prints `[net] outbound HTTP ok`,
@@ -61,7 +63,7 @@ Create it with `/schedule` (or paste the JSON below via `RemoteTrigger create`).
 
 ```
 Run today's pay-per-call sourcing pass for Kaliper exactly as CLAUDE.md describes:
-`pip install -q -r requirements.txt`, then `python daily_run.py`, then read
+`python daily_run.py`, then read
 out/<today>/report.md, then `git add -A state out`, commit as
 "daily run <today>: <N> qualified (<M> icp-clean)" and push to origin main
 (pull --rebase and retry once if rejected). Do not edit any script, prompt or state

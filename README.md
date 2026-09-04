@@ -47,8 +47,8 @@ ROUTINE.md          how to wire this up as a daily routine
 ```
 
 ## Run locally
+No dependencies (standard library only).
 ```
-pip install -r requirements.txt
 set OPENAI_API_KEY=...      # from relevince-outbound/.env
 set TINYFISH_API_KEY=...    # optional; probing runs without it
 python daily_run.py

@@ -14,9 +14,9 @@ Background, if you need it (do not re-derive it): `prompts/AUDIT_runs1-2.md`,
 
 ## The daily procedure — exactly this
 ```
-pip install -q -r requirements.txt
 python daily_run.py
 ```
+(No dependencies to install: standard library only.)
 Then read `out/<today>/report.md`, then:
 ```
 git add -A state out
