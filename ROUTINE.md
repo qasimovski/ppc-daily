@@ -35,7 +35,7 @@ Create it with `/schedule` (or paste the JSON below via `RemoteTrigger create`).
 |---|---|
 | name | `ppc-daily sourcing (Kaliper)` |
 | schedule | daily. Suggested `0 1 * * *` = 01:00 UTC = **06:00 Asia/Karachi** |
-| repo | `https://github.com/<you>/ppc-daily` |
+| repo | `https://github.com/qasimovski/ppc-daily` |
 | model | `claude-sonnet-5` (coordinator only; the judgment is in the scripts) |
 | tools | `Bash`, `Read`, `Glob`, `Grep` (no `Write`/`Edit` — the agent must not modify scripts) |
 | connectors | none |
@@ -66,7 +66,7 @@ rate per channel, anything that failed, and the pushed commit hash.
       "environment_id": "env_01SGYcgc4ieBHEuBJwXEJxAH",
       "session_context": {
         "model": "claude-sonnet-5",
-        "sources": [{"git_repository": {"url": "https://github.com/<you>/ppc-daily"}}],
+        "sources": [{"git_repository": {"url": "https://github.com/qasimovski/ppc-daily"}}],
         "allowed_tools": ["Bash", "Read", "Glob", "Grep"]
       },
       "events": [{"data": {
