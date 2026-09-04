@@ -28,6 +28,12 @@ again. State and outputs in git ARE the persistence layer — a run whose result
 pushed is a run that did not happen, and tomorrow will re-source the same companies.
 
 ## Hard rules
+- **Run `daily_run.py` in the foreground, once, with its defaults.** They are sized to finish
+  inside your 10-minute Bash cap. Never relaunch it in the background with `nohup`/`&` and
+  wait for a wakeup: a routine session is suspended when your turn ends, the process dies
+  with it, and nothing gets committed (this happened on 2026-09-04). If a run is cut off
+  anyway, do NOT rerun it — commit the checkpointed `state/` and `out/` as they are (the
+  next run carries the unfinished work forward) and report the cut-off.
 - **Never edit `prompts/company_pass2_qualifier_v6_hardgate.txt` or the model config in
   `qualify.py`.** Verdicts must stay comparable to the 13k already in the ledger.
 - **Never remove the Ringba drop in `crawl.py`.** Kaliper is permanently banned from Ringba.
