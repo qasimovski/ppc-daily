@@ -20,13 +20,30 @@ Environment: **Default** (`env_01SGYcgc4ieBHEuBJwXEJxAH`) — created for you to
 at https://claude.ai/code → environment settings.
 
 - **Network access → Full.** The Default "Trusted" policy allows only package registries and
-  a few dev domains; the crawler fetches arbitrary company websites and would fail every
-  request with `403 host_not_allowed`.
-- **Environment variables / API credentials:**
-  - `OPENAI_API_KEY` — the same key as `relevince-outbound/.env` (v6 qualifier, gpt-4.1-mini)
-  - `TINYFISH_API_KEY` — from https://agent.tinyfish.ai/api-keys (Search + Fetch are free)
-  On Pro/Max, store them under *API credentials* rather than plain variables.
+  a few dev domains; the crawler fetches arbitrary company websites. Under Trusted, every
+  HTTPS connection (including api.openai.com) is refused by the proxy with
+  `CONNECT tunnel failed, response 403`, and `daily_run.py` aborts on its network preflight.
+- **The two keys.** Either form works; the scripts detect which one is in use.
+  - *Environment variables* (simplest): in the **Environment variables** box add
+    ```
+    OPENAI_API_KEY=sk-...
+    TINYFISH_API_KEY=sk-tin-...
+    ```
+    `OPENAI_API_KEY` is the same key as `relevince-outbound/.env`; the TinyFish key is at
+    https://agent.tinyfish.ai/api-keys (Search + Fetch are free).
+  - *API credentials* (Pro/Max only; the key is attached by Anthropic's proxy and never
+    visible to the session). Add two credentials on the existing environment:
+    | Name | Allowed websites | Header name | Prefix | Value |
+    |---|---|---|---|---|
+    | OpenAI | `api.openai.com` | `Authorization` | `Bearer` | the OpenAI key |
+    | TinyFish | `api.search.tinyfish.ai` | `X-API-Key` | *(clear it)* | the TinyFish key |
+- **Click Save changes.** The first test run found neither the network change nor the keys
+  applied — check the environment dialog shows **Full** and the two entries before re-running.
 - **Setup script** (optional, cached): `pip install -r requirements.txt`
+
+**Verify from a cloud session**: ask it to run `curl -sS -o /dev/null -w '%{http_code}' https://example.com`
+(expect `200`) and `python daily_run.py` prints `[net] outbound HTTP ok`,
+`[search] preflight: ok (...)` and `[v6] preflight: ok (...)`.
 
 ## 3. The routine itself
 Create it with `/schedule` (or paste the JSON below via `RemoteTrigger create`).

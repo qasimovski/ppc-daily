@@ -82,6 +82,21 @@ def main():
     probed = D._load_probed()
     log('=== daily run %s | known=%d evaluated=%d probed=%d budget=%dmin'
         % (RUN_DATE, len(known), len(evaluated), len(probed), RUN_MINUTES))
+
+    # ---- 0. network preflight ------------------------------------------------------------
+    # In a Claude Code cloud environment whose network access is still "Trusted", every
+    # outbound HTTPS CONNECT is refused with 403 by the proxy. Without this check the run
+    # would mark hundreds of live domains 'unreachable' and never probe them again.
+    net_errs = []
+    for probe_url in ('https://example.com', 'https://www.iana.org'):
+        fu, raw, err = C.fast_get(probe_url, timeout=15)
+        if raw and len(raw) > 200: break
+        net_errs.append('%s -> %s' % (probe_url, err))
+    else:
+        sys.exit('ABORT: outbound HTTP is blocked from this machine (%s). In a cloud '
+                 'environment this means Network access is not set to Full. Nothing was '
+                 'crawled or recorded.' % '; '.join(net_errs))
+    log('[net] outbound HTTP ok')
     stats = collections.OrderedDict()
 
     def is_known(d): return d in known or d in evaluated

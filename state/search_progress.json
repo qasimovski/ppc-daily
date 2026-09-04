@@ -62,7 +62,21 @@
   "next_page": 1,
   "retired": false
  },
+ "\"publisher payout terms\"": {
+  "dry_streak": 0,
+  "last_run": "2026-09-05",
+  "new_total": 7,
+  "next_page": 1,
+  "retired": false
+ },
  "\"publisher portal\" ACA calls": {
+  "dry_streak": 0,
+  "last_run": "2026-09-05",
+  "new_total": 4,
+  "next_page": 1,
+  "retired": false
+ },
+ "\"publisher portal\" debt relief calls": {
   "dry_streak": 0,
   "last_run": "2026-09-05",
   "new_total": 4,
@@ -80,6 +94,13 @@
   "dry_streak": 0,
   "last_run": "2026-09-05",
   "new_total": 3,
+  "next_page": 1,
+  "retired": false
+ },
+ "\"publisher sign up\" junk cars calls": {
+  "dry_streak": 0,
+  "last_run": "2026-09-05",
+  "new_total": 2,
   "next_page": 1,
   "retired": false
  },

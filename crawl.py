@@ -64,12 +64,40 @@ def looks_parked(raw, text):
     if hits and len((text or '').strip()) < 600: return True
     return False
 
+def _dns_available():
+    """Claude Code cloud VMs route all traffic through an HTTP proxy and may have no working
+    resolver of their own; there, a local DNS pre-check would mark every domain
+    'unregistered' (this happened: 429 of 500 on the first cloud run). Only trust DNS when
+    it can resolve a host that certainly exists."""
+    if os.environ.get('PPC_SKIP_DNS_CHECK'): return False
+    for h in ('example.com', 'github.com'):
+        try:
+            socket.getaddrinfo(h, 443); return True
+        except Exception:
+            continue
+    return False
+
+DNS_OK = _dns_available()
+
+# error classes a proxy or resolver hands back for a name that does not exist
+_NXDOMAIN_MARKERS = ('name or service not known', 'nodename nor servname', 'getaddrinfo failed',
+                     'no address associated', 'http502', 'http503', 'http504',
+                     'name_not_resolved', 'could not resolve', 'temporary failure in name resolution')
+
 def resolves(d):
+    if not DNS_OK: return True          # cannot tell locally; let the fetch decide
     try:
         socket.getaddrinfo(d, 443); return True
     except Exception:
         try: socket.getaddrinfo('www.' + d, 443); return True
         except Exception: return False
+
+def _classify_dead(errs):
+    """Map the fetch errors of an unreachable domain to 'unregistered' when they look like
+    name-resolution failures (proxy 502/503, gaierror), else 'unreachable'."""
+    low = ' '.join(str(e or '') for e in errs).lower()
+    if any(m in low for m in _NXDOMAIN_MARKERS): return 'unregistered'
+    return 'unreachable'
 
 def fast_get(url, timeout=8):
     """Single attempt, no retry/backoff: for constructed-domain probes, where most targets
@@ -95,7 +123,9 @@ def fast_get(url, timeout=8):
         json.dump({'final_url': url, 'err': 'HTTP%d' % e.code}, open(mp, 'w', encoding='utf-8'))
         return url, '', 'HTTP%d' % e.code
     except Exception as e:
-        return url, '', type(e).__name__
+        # keep the reason: a proxy's "name not resolved" is how we detect unregistered
+        # domains when the VM has no resolver of its own
+        return url, '', '%s:%s' % (type(e).__name__, str(getattr(e, 'reason', e))[:120])
     open(cp, 'w', encoding='utf-8').write(body)
     json.dump({'final_url': fu, 'err': None}, open(mp, 'w', encoding='utf-8'))
     return fu, body, None
@@ -106,13 +136,15 @@ def crawl_one(rec):
     if not resolves(d):
         return {**rec, 'status': 'unregistered', 'text': '', 'pages': 0}
     getter = (lambda u, timeout: fast_get(u, timeout)) if is_probe else L.http_get
-    home_url, home_raw = None, ''
+    home_url, home_raw, errs = None, '', []
     for cand in ('https://' + d, 'https://www.' + d, 'http://' + d):
         fu, raw, e = getter(cand, timeout=8 if is_probe else 12)
+        errs.append(e)
         if raw and len(raw) > 300:
             home_url, home_raw = fu, raw; break
     if not home_raw:
-        return {**rec, 'status': 'unreachable', 'text': '', 'pages': 0}
+        return {**rec, 'status': _classify_dead(errs), 'text': '', 'pages': 0,
+                'fetch_errors': [str(e) for e in errs if e]}
     # a probe that redirects off-domain is someone else's site (or a registrar landing)
     try:
         if L.reg_domain(urlparse(home_url).netloc) != d:

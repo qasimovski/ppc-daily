@@ -84,17 +84,29 @@ def _save_progress(p):
     json.dump(p, io.open(tmp, 'w', encoding='utf-8'), indent=1, sort_keys=True)
     os.replace(tmp, SEARCH_PROGRESS)
 
+class SearchUnavailable(RuntimeError):
+    pass
+
+def _tf_headers():
+    # Two ways the key can be supplied in a Claude Code cloud environment:
+    #  - TINYFISH_API_KEY env var                      -> we send X-API-Key ourselves
+    #  - an "API credential" for api.search.tinyfish.ai -> the agent proxy attaches
+    #    X-API-Key after the request leaves the VM; we send no header at all.
+    return {'X-API-Key': TF_KEY} if TF_KEY else {}
+
 def tf_search(query, page):
-    if not TF_KEY: raise RuntimeError('TINYFISH_API_KEY not set')
     qs = urllib.parse.urlencode({'query': query, 'page': page, 'location': 'US',
                                  'purpose': 'find small pay-per-call publishers, networks and '
                                             'call brokers - company websites, not articles'})
-    req = urllib.request.Request(TF_SEARCH + '?' + qs, headers={'X-API-Key': TF_KEY})
+    req = urllib.request.Request(TF_SEARCH + '?' + qs, headers=_tf_headers())
     for attempt in range(3):
         try:
             with urllib.request.urlopen(req, timeout=40) as r:
                 return json.loads(r.read().decode('utf-8', 'replace'))
         except urllib.error.HTTPError as e:
+            if e.code in (401, 403):
+                raise SearchUnavailable('TinyFish HTTP %d - no usable API key (env var or '
+                                        'API credential for api.search.tinyfish.ai)' % e.code)
             if e.code == 429: time.sleep(20 + 10 * attempt); continue
             if 500 <= e.code < 600: time.sleep(5); continue
             raise
@@ -102,12 +114,26 @@ def tf_search(query, page):
             time.sleep(5)
     return {'results': []}
 
+def search_preflight():
+    """One request. Returns a status string, or raises SearchUnavailable."""
+    try:
+        res = tf_search('pay per call network', 0)
+    except SearchUnavailable:
+        raise
+    except Exception as e:
+        raise SearchUnavailable('TinyFish unreachable: %s %s' % (type(e).__name__, str(e)[:160]))
+    if not isinstance(res, dict) or 'results' not in res:
+        raise SearchUnavailable('TinyFish returned an unexpected payload')
+    return 'ok (auth via %s)' % ('TINYFISH_API_KEY env var' if TF_KEY else 'proxy-attached API credential')
+
 def run_search(emit, is_known, budget, deadline, log=print):
     """Advance the search frontier: `budget` requests, round-robin over queries that are
     not yet exhausted. A query is retired when its page yields nothing new twice in a
     row, or it passes its measured max page. Returns number of requests used."""
-    if not TF_KEY:
-        log('[search] TINYFISH_API_KEY missing - search channel skipped'); return 0
+    try:
+        log('[search] preflight: %s' % search_preflight())
+    except SearchUnavailable as e:
+        log('[search] SKIPPED - %s' % e); return 0
     prog = _load_progress()
     queries = all_queries()
     random.shuffle(queries)              # spread budget; state keeps it fair over days
@@ -190,6 +216,7 @@ def generate_probes(is_known, limit):
     """Yield never-probed, never-known constructed domains, best shapes first."""
     probed = _load_probed()
     out = []
+    if limit <= 0: return out
     for shape in SHAPES:
         for tld in TLDS:
             for v in VERTICAL_TOKENS:
