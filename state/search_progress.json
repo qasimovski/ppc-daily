@@ -1,0 +1,100 @@
+{
+ "\"call payouts\" publishers": {
+  "dry_streak": 1,
+  "last_run": "2026-09-05",
+  "new_total": 0,
+  "next_page": 1,
+  "retired": false
+ },
+ "\"join our network\" \"inbound calls\"": {
+  "dry_streak": 0,
+  "last_run": "2026-09-05",
+  "new_total": 3,
+  "next_page": 1,
+  "retired": false
+ },
+ "\"media buyer application\" ACA calls": {
+  "dry_streak": 1,
+  "last_run": "2026-09-05",
+  "new_total": 0,
+  "next_page": 1,
+  "retired": false
+ },
+ "\"media buyer application\" debt relief calls": {
+  "dry_streak": 1,
+  "last_run": "2026-09-05",
+  "new_total": 0,
+  "next_page": 1,
+  "retired": false
+ },
+ "\"media buyer application\" mass tort calls": {
+  "dry_streak": 1,
+  "last_run": "2026-09-05",
+  "new_total": 0,
+  "next_page": 1,
+  "retired": false
+ },
+ "\"media buyer application\" towing calls": {
+  "dry_streak": 1,
+  "last_run": "2026-09-05",
+  "new_total": 0,
+  "next_page": 1,
+  "retired": false
+ },
+ "\"publisher application\" \"pay per call\"": {
+  "dry_streak": 1,
+  "last_run": "2026-09-05",
+  "new_total": 0,
+  "next_page": 1,
+  "retired": false
+ },
+ "\"publisher onboarding\" debt relief calls": {
+  "dry_streak": 0,
+  "last_run": "2026-09-05",
+  "new_total": 1,
+  "next_page": 1,
+  "retired": false
+ },
+ "\"publisher onboarding\" restoration calls": {
+  "dry_streak": 0,
+  "last_run": "2026-09-05",
+  "new_total": 3,
+  "next_page": 1,
+  "retired": false
+ },
+ "\"publisher portal\" ACA calls": {
+  "dry_streak": 0,
+  "last_run": "2026-09-05",
+  "new_total": 4,
+  "next_page": 1,
+  "retired": false
+ },
+ "\"publisher portal\" foundation repair calls": {
+  "dry_streak": 0,
+  "last_run": "2026-09-05",
+  "new_total": 6,
+  "next_page": 1,
+  "retired": false
+ },
+ "\"publisher portal\" medicare calls": {
+  "dry_streak": 0,
+  "last_run": "2026-09-05",
+  "new_total": 3,
+  "next_page": 1,
+  "retired": false
+ },
+ "\"publisher sign up\" moving calls": {
+  "dry_streak": 0,
+  "last_run": "2026-09-05",
+  "new_total": 2,
+  "next_page": 1,
+  "retired": false
+ },
+ "\"publisher signup\" foundation repair calls": {
+  "dry_streak": 0,
+  "last_run": "2026-09-05",
+  "new_total": 1,
+  "next_page": 1,
+  "retired": false
+ }
+}

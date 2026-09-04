@@ -1,0 +1,10 @@
+# page cache is rebuilt for free; never ship it
+cache/
+__pycache__/
+*.pyc
+*.tmp
+.env
+
+# per-run scratch that would bloat the repo
+out/run.log
+state/candidates_seen.jsonl
