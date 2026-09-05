@@ -46,6 +46,7 @@ def to_row(d, r):
     if not geo: flags.append('geo unknown')
     if 'Ringba' in (r.get('infra') or []): flags.append('EXCLUDE: Ringba tenant')
     if r.get('ringba_prose'): flags.append('REVIEW: names Ringba in prose (likely tenant)')
+    if r.get('microsite_of'): flags.append('MICROSITE of known company: ' + ', '.join(r['microsite_of']))
     return {
         'company_name': r.get('company_name') or '',
         'domain': d,

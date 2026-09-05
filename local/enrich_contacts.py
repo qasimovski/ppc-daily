@@ -141,6 +141,15 @@ ROLE_LOCALS = {'info', 'sales', 'support', 'contact', 'contactus', 'admin', 'hel
     'enquiries', 'inquiries', 'mail', 'marketing', 'media', 'press', 'legal', 'privacy',
     'partners', 'partnerships', 'affiliates', 'publishers', 'buyers', 'leads', 'offers', 'general',
     'reception', 'service', 'services', 'compliance', 'ops', 'operations', 'success'}
+SOCIAL = {'facebook.com', 'linkedin.com', 'twitter.com', 'x.com', 'instagram.com', 'youtube.com', 'tiktok.com',
+          'google.com', 'apple.com', 'wixsite.com', 'wix.com', 'squarespace.com', 'godaddy.com', 'cloudflare.com',
+          'w3.org', 'schema.org', 'gstatic.com', 'jquery.com', 'bootstrapcdn.com', 'fontawesome.com', 'calendly.com',
+          'hubspot.com', 'typeform.com', 'jotform.com', 'mailchimp.com', 'zoom.us', 'vimeo.com', 'wistia.com'}
+def _load_known():
+    p = os.path.join(ROOT, 'state', 'known_domains.txt')
+    try: return set(x.strip() for x in io.open(p, encoding='utf-8') if x.strip())
+    except Exception: return set()
+KNOWN_INDEX = _load_known()
 PAGE_HINT = re.compile(r'(about|team|contact|leadership|our-story|who-we-are|founder|management|staff|meet|people)', re.I)
 PROBE = ['/about', '/about-us', '/team', '/our-team', '/contact', '/contact-us', '/leadership',
          '/meet-the-team', '/publishers', '/partners']
@@ -228,6 +237,18 @@ def mine_company(row):
         for m in re.finditer(r'(?i)\bour\s+(?:founder|owner|ceo)\b[\s,:\-–—]*\n?\s*([A-Z][a-z]{2,15})\b(?![a-z])', txt):
             fn = m.group(1)
             if not NAME_STOP.search(fn) and not any(n.startswith(fn) for n in names): names.append(fn + ' (first name only)')
+    # microsite detection: a discovered domain whose pages link to a domain that is already in
+    # the exclusion index is very likely a landing page / recruiting site of a KNOWN company
+    # (joinoptimizetoconvert.com -> optimizetoconvert.com, 2026-09-05). Report it, don't enrich it.
+    ext = collections.Counter()
+    for fu, raw in pages:
+        for u in L.page_links(raw, fu):
+            try: ed = L.reg_domain(urlparse(u).netloc)
+            except Exception: continue
+            if ed and ed != d and ed not in SOCIAL and not ed.endswith(('.google.com', 'googleapis.com')): ext[ed] += 1
+    core = re.sub(r'^(join|get|my|the|go|try|use|hello|team|hey|buy|sell)', '', d.split('.')[0].replace('-', ''))
+    parent = [ed for ed, n in ext.most_common(15) if ed in KNOWN_INDEX and n >= 2 and
+              (n >= 5 or (len(core) >= 6 and core in ed.replace('-', '')) or ed.split('.')[0].replace('-', '') in d.replace('-', ''))]
     person_emails = sorted(e for e in emails if e.split('@')[0] not in ROLE_LOCALS
                            and (e.split('@')[1] == d or e.split('@')[1].endswith('.' + d)))
     role_emails = sorted(e for e in emails if e not in person_emails)
@@ -238,7 +259,7 @@ def mine_company(row):
             if tag == 'title' and s.strip():
                 site_title = re.split(r'\s+[|\-–—:]\s+', s.strip())[0][:60]; break
     return {'domain': d, 'pages': len(pages), 'region': region, 'phones': phones, 'cells': sorted(cells),
-            'site_title': site_title,
+            'site_title': site_title, 'parent_candidates': parent, 'external_links': ext.most_common(5),
             'person_phone': person_phone, 'li_company': sorted(licos), 'li_person': sorted(lipers),
             'person_emails': person_emails, 'role_emails': role_emails[:5], 'names': names[:5]}
 
@@ -351,6 +372,30 @@ def find_linkedin(name, company_name, domain):
         time.sleep(2.2)
     return '', ''
 
+# ------------------------------------------------------------------ Attio pre-check (read-only)
+def attio_known_linkedin():
+    """Every LinkedIn URL on an Attio Person record. Paginated read, no writes. Lets us skip
+    LeadMagic for people the CRM already holds (2026-09-05: two founders re-bought for 10 credits)."""
+    import urllib.request
+    key = os.environ.get('ATTIO_API_KEY', '')
+    if not key: log('   [attio] ATTIO_API_KEY missing - pre-check skipped'); return set()
+    out, offset = set(), 0
+    while True:
+        req = urllib.request.Request('https://api.attio.com/v2/objects/people/records/query',
+                                     data=json.dumps({'limit': 500, 'offset': offset}).encode(),
+                                     headers={'Authorization': 'Bearer ' + key, 'Content-Type': 'application/json'}, method='POST')
+        try:
+            with urllib.request.urlopen(req, timeout=90) as r: data = json.loads(r.read()).get('data', [])
+        except Exception as e:
+            log('   [attio] pre-check failed: %s' % type(e).__name__); return out
+        for rec in data:
+            for x in rec.get('values', {}).get('linkedin') or []:
+                v = (x.get('value') or '').lower().rstrip('/').replace('https://www.', 'https://')
+                if v: out.add(v)
+        if len(data) < 500: break
+        offset += 500
+    return out
+
 # ------------------------------------------------------------------ main
 def main():
     ap = argparse.ArgumentParser()
@@ -385,12 +430,19 @@ def main():
     # ---- A. mine own pages (free)
     log('\n--- A. mining company pages (free)')
     mined = {}
-    for r in targets:
+    microsites = []
+    for r in list(targets):
         m = mine_company(r); mined[r['domain']] = m
         valid = [e for e, v in m['phones'].items() if v[1] == 'valid']
-        log('   %-30s pages=%-2d phones=%d(valid %d) cells=%d person-emails=%d li-people=%d names=%s' % (
+        log('   %-30s pages=%-2d phones=%d(valid %d) cells=%d person-emails=%d li-people=%d names=%s%s' % (
             r['domain'], m['pages'], len(m['phones']), len(valid), len(m['cells']),
-            len(m['person_emails']), len(m['li_person']), '; '.join(m['names'][:2]) or '-'))
+            len(m['person_emails']), len(m['li_person']), '; '.join(m['names'][:2]) or '-',
+            ('  ** links to KNOWN company %s -> microsite, not enriched' % ', '.join(m['parent_candidates'])) if m['parent_candidates'] else ''))
+        if m['parent_candidates']:
+            microsites.append({**r, 'parent_domain': '; '.join(m['parent_candidates'])}); targets.remove(r)
+    if microsites:
+        wr(os.path.join(OUT, 'microsites_of_known_companies.csv'), microsites)
+    if not targets: log('every company was a microsite of a known company; nothing to enrich'); return
 
     people = []          # candidate persons across sources
     for r in targets:
@@ -493,7 +545,13 @@ def main():
     log('\n   %d candidate people across sources (after persona filter + dedupe)' % len(people))
 
     # ---- D. LeadMagic mobiles (paid) on people with a LinkedIn URL or personal email
-    lm_in = [p for p in people if p.get('linkedin_url') or p.get('email')]
+    attio_li = attio_known_linkedin() if not a.dry_run else set()
+    for p in people:
+        li = (p.get('linkedin_url') or '').lower().rstrip('/').replace('https://www.', 'https://')
+        if li and li in attio_li: p['already_in_attio'] = True
+    n_known = sum(1 for p in people if p.get('already_in_attio'))
+    if n_known: log('   %d of these people are ALREADY in Attio (matched on LinkedIn URL) - not sent to LeadMagic' % n_known)
+    lm_in = [p for p in people if (p.get('linkedin_url') or p.get('email')) and not p.get('already_in_attio')]
     if lm_in and not a.no_leadmagic:
         log('\n--- D. LeadMagic mobile enrichment: %d people with a match key (worst case %d credits)' % (len(lm_in), 5 * len(lm_in)))
         if not a.dry_run:
@@ -598,7 +656,10 @@ def main():
                                'email': (m['person_emails'][:1] or m['role_emails'][:1] or [''])[0], 'company_notes': note,
                                'source': 'site:' + best['classification'], 'mobile_status': '', 'data_provider': 'site',
                                'trestle_is_valid': tv, 'trestle_recommendation': trec, 'trestle_line_type': tlt, 'qa_country': '', 'qa_company_size': ''})
+    known_li = set(p.get('linkedin_url', '').lower().rstrip('/') for p in people if p.get('already_in_attio'))
     for row in all_people:
+        if known_li and row.get('linkedin_url', '').lower().rstrip('/') in known_li:
+            row['source'] += ' (ALREADY IN ATTIO - not pushed)'; row['phone'] = ''; row['linkedin_url'] = ''
         if not phone_ok(row['phone']): row['phone'] = ''          # keep the row, drop the dead number
         if row['phone'] or (row['contact_name'] and row['linkedin_url'] and '(first name only)' not in row['contact_name']):
             attio.append(row)

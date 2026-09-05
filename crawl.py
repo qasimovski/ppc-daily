@@ -44,6 +44,23 @@ PARKED_NEEDLES = ['hugedomains', 'godaddy.com/domainsearch', 'this domain is for
     'welcome to nginx', 'index of /', 'plesk', 'cpanel', 'account suspended',
     'this site can’t be reached', 'future home of something quite cool']
 
+COMMON_3P = set('''w3.org schema.org gstatic.com jquery.com bootstrapcdn.com fontawesome.com calendly.com
+typeform.com jotform.com wufoo.com mailchimp.com zoom.us wistia.com wixsite.com framer.com webflow.com
+googletagmanager.com google-analytics.com doubleclick.net gravatar.com wp.com w.org unsplash.com
+amazonaws.com cloudfront.net jsdelivr.net unpkg.com cdnjs.com fonts.net adobe.com hotjar.com
+intercom.com drift.com tawk.to zendesk.com freshdesk.com clarity.ms'''.split())
+
+def microsite_of(ext_links, domain, known):
+    """Parent company candidate: a linked domain already in the exclusion index that either shares
+    the site's name token (joinoptimizetoconvert.com -> optimizetoconvert.com) or is linked >= 5x."""
+    core = re.sub(r'^(join|get|my|the|go|try|use|hello|team|hey|buy|sell)', '', domain.split('.')[0].replace('-', ''))
+    out = []
+    for ed, n in ext_links or []:
+        if ed not in known or n < 2: continue
+        if n >= 5 or (len(core) >= 6 and core in ed.replace('-', '')) or ed.split('.')[0].replace('-', '') in domain.replace('-', ''):
+            out.append(ed)
+    return out
+
 PROBE = ['/publishers', '/affiliates', '/partners', '/buyers', '/advertisers',
          '/pricing', '/how-it-works', '/services', '/offers', '/contact', '/about']
 
@@ -179,6 +196,14 @@ def crawl_one(rec):
             if raw and len(raw) > 300: pages.append((fu, raw))
     all_raw = '\n'.join(r for _, r in pages)
     infra = [n for n, t in L.detect_infra(all_raw)]
+    # external domains this site links to, for microsite-of-a-known-company detection
+    ext = {}
+    for u, raw in pages:
+        for lk in L.page_links(raw, u):
+            try: ed = L.reg_domain(urlparse(lk).netloc)
+            except Exception: continue
+            if ed and ed != d and ed not in BLOCK and ed not in COMMON_3P: ext[ed] = ext.get(ed, 0) + 1
+    ext_top = sorted(ext.items(), key=lambda kv: -kv[1])[:15]
     # Kaliper is permanently banned from Ringba - drop before spending anything on it
     if 'Ringba' in infra:
         return {**rec, 'status': 'ringba_banned', 'text': '', 'pages': len(pages), 'infra': infra}
@@ -198,5 +223,6 @@ def crawl_one(rec):
             'text': text[:12000], 'pages': len(pages), 'infra': infra,
             'geo': L.guess_from_map(low, L.GEO_HINT, 2),
             'tier1': sorted(L.find_tier1(text).keys()),
+            'ext_links': ext_top,
             # run-3 finding: a tenant can NAME Ringba in prose without loading its tag
             'ringba_prose': bool(re.search(r'\bringba\b', low))}

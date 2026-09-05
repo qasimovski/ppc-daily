@@ -142,6 +142,9 @@ def main():
     crawled, to_v6 = {}, list(carry)
     def on_crawled(res):
         d = res['domain']; crawled[d] = res
+        if res.get('ext_links'):
+            ms = C.microsite_of(res['ext_links'], d, known)
+            if ms: res['microsite_of'] = ms; log('[crawl] %s links to KNOWN %s -> flagged as microsite' % (d, ', '.join(ms)))
         if res['status'] == 'ok':
             to_v6.append(res); append_jsonl(PENDING, res)
         elif res['layer'].startswith('L7') and res['status'] in DEAD_PROBE:
