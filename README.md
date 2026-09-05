@@ -61,3 +61,16 @@ Knobs: `RUN_MINUTES` (8, sized for the 10-minute cloud Bash cap), `SEARCH_BUDGET
 git pull
 python local/sync_to_ledger.py       # appends new verdicts to account_ledger.csv, backup first
 ```
+
+## Contact enrichment (local, weekly, spends credits)
+```
+python local/enrich_contacts.py --dry-run     # free stage + credit estimates
+python local/enrich_contacts.py               # every qualified company not yet enriched
+```
+Cheapest-first: mine the company's own pages (free) → AI Ark decision-makers (~0.5 credit/record)
+→ Clay people at the domain (free) → LinkedIn URL via TinyFish search, accepted only when the
+company is named in the result (free) → LeadMagic mobiles (5 credits/match) → Trestle
+validation (~1.5¢/number). Output `out/contacts/<date>/contacts_for_attio.csv` (gitignored:
+it holds names and phones) plus a `summary.md` with the exact Attio upload and ledger
+commands, which are run by hand after a look. `state/enriched.jsonl` (domains only) keeps it
+idempotent. First run, 7 companies: 2 dialable founders, ~10 LeadMagic credits, 4¢ Trestle.
