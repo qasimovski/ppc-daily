@@ -27,6 +27,13 @@
   "next_page": 1,
   "retired": false
  },
+ "\"become a publisher\" calls": {
+  "dry_streak": 0,
+  "last_run": "2026-09-05",
+  "new_total": 5,
+  "next_page": 1,
+  "retired": false
+ },
  "\"call payouts\" publishers": {
   "dry_streak": 1,
   "last_run": "2026-09-05",
@@ -38,6 +45,13 @@
   "dry_streak": 0,
   "last_run": "2026-09-05",
   "new_total": 3,
+  "next_page": 1,
+  "retired": false
+ },
+ "\"join our publisher network\" calls": {
+  "dry_streak": 0,
+  "last_run": "2026-09-05",
+  "new_total": 1,
   "next_page": 1,
   "retired": false
  },
@@ -111,6 +125,13 @@
   "next_page": 1,
   "retired": false
  },
+ "\"media buyer application\" roadside calls": {
+  "dry_streak": 1,
+  "last_run": "2026-09-05",
+  "new_total": 0,
+  "next_page": 1,
+  "retired": false
+ },
  "\"media buyer application\" solar calls": {
   "dry_streak": 0,
   "last_run": "2026-09-04",
@@ -118,10 +139,38 @@
   "next_page": 1,
   "retired": false
  },
+ "\"media buyer application\" tax relief calls": {
+  "dry_streak": 1,
+  "last_run": "2026-09-05",
+  "new_total": 0,
+  "next_page": 1,
+  "retired": false
+ },
  "\"media buyer application\" towing calls": {
   "dry_streak": 1,
   "last_run": "2026-09-05",
   "new_total": 0,
+  "next_page": 1,
+  "retired": false
+ },
+ "\"our verticals\" \"pay per call\"": {
+  "dry_streak": 0,
+  "last_run": "2026-09-05",
+  "new_total": 2,
+  "next_page": 1,
+  "retired": false
+ },
+ "\"paid per billable call\"": {
+  "dry_streak": 1,
+  "last_run": "2026-09-05",
+  "new_total": 0,
+  "next_page": 1,
+  "retired": false
+ },
+ "\"payout terms\" \"per call\"": {
+  "dry_streak": 0,
+  "last_run": "2026-09-05",
+  "new_total": 1,
   "next_page": 1,
   "retired": false
  },
@@ -133,6 +182,13 @@
   "retired": false
  },
  "\"publisher application\" \"pay per call\"": {
+  "dry_streak": 1,
+  "last_run": "2026-09-05",
+  "new_total": 0,
+  "next_page": 1,
+  "retired": false
+ },
+ "\"publisher onboarding\" ACA calls": {
   "dry_streak": 1,
   "last_run": "2026-09-05",
   "new_total": 0,
@@ -153,6 +209,20 @@
   "next_page": 1,
   "retired": false
  },
+ "\"publisher onboarding\" final expense calls": {
+  "dry_streak": 1,
+  "last_run": "2026-09-05",
+  "new_total": 0,
+  "next_page": 1,
+  "retired": false
+ },
+ "\"publisher onboarding\" foundation repair calls": {
+  "dry_streak": 0,
+  "last_run": "2026-09-05",
+  "new_total": 2,
+  "next_page": 1,
+  "retired": false
+ },
  "\"publisher onboarding\" junk cars calls": {
   "dry_streak": 0,
   "last_run": "2026-09-04",
@@ -163,6 +233,20 @@
  "\"publisher onboarding\" mass tort calls": {
   "dry_streak": 1,
   "last_run": "2026-09-04",
+  "new_total": 0,
+  "next_page": 1,
+  "retired": false
+ },
+ "\"publisher onboarding\" medicare calls": {
+  "dry_streak": 1,
+  "last_run": "2026-09-05",
+  "new_total": 0,
+  "next_page": 1,
+  "retired": false
+ },
+ "\"publisher onboarding\" personal injury calls": {
+  "dry_streak": 1,
+  "last_run": "2026-09-05",
   "new_total": 0,
   "next_page": 1,
   "retired": false
@@ -181,10 +265,24 @@
   "next_page": 1,
   "retired": false
  },
+ "\"publisher onboarding\" solar calls": {
+  "dry_streak": 1,
+  "last_run": "2026-09-05",
+  "new_total": 0,
+  "next_page": 1,
+  "retired": false
+ },
  "\"publisher onboarding\" tax relief calls": {
   "dry_streak": 0,
   "last_run": "2026-09-04",
   "new_total": 2,
+  "next_page": 1,
+  "retired": false
+ },
+ "\"publisher onboarding\" towing calls": {
+  "dry_streak": 0,
+  "last_run": "2026-09-05",
+  "new_total": 1,
   "next_page": 1,
   "retired": false
  },
@@ -230,7 +328,21 @@
   "next_page": 1,
   "retired": false
  },
+ "\"publisher portal\" mass tort calls": {
+  "dry_streak": 0,
+  "last_run": "2026-09-05",
+  "new_total": 3,
+  "next_page": 1,
+  "retired": false
+ },
  "\"publisher portal\" medicare calls": {
+  "dry_streak": 0,
+  "last_run": "2026-09-05",
+  "new_total": 3,
+  "next_page": 1,
+  "retired": false
+ },
+ "\"publisher portal\" moving calls": {
   "dry_streak": 0,
   "last_run": "2026-09-05",
   "new_total": 3,
@@ -244,10 +356,45 @@
   "next_page": 1,
   "retired": false
  },
+ "\"publisher portal\" restoration calls": {
+  "dry_streak": 0,
+  "last_run": "2026-09-05",
+  "new_total": 3,
+  "next_page": 1,
+  "retired": false
+ },
+ "\"publisher portal\" roadside calls": {
+  "dry_streak": 0,
+  "last_run": "2026-09-05",
+  "new_total": 3,
+  "next_page": 1,
+  "retired": false
+ },
+ "\"publisher portal\" solar calls": {
+  "dry_streak": 0,
+  "last_run": "2026-09-05",
+  "new_total": 3,
+  "next_page": 1,
+  "retired": false
+ },
+ "\"publisher portal\" tax relief calls": {
+  "dry_streak": 0,
+  "last_run": "2026-09-05",
+  "new_total": 3,
+  "next_page": 1,
+  "retired": false
+ },
  "\"publisher portal\" towing calls": {
   "dry_streak": 0,
   "last_run": "2026-09-04",
   "new_total": 3,
+  "next_page": 1,
+  "retired": false
+ },
+ "\"publisher sign up\" debt relief calls": {
+  "dry_streak": 0,
+  "last_run": "2026-09-05",
+  "new_total": 1,
   "next_page": 1,
   "retired": false
  },
@@ -272,6 +419,13 @@
   "next_page": 1,
   "retired": false
  },
+ "\"publisher sign up\" medicare calls": {
+  "dry_streak": 1,
+  "last_run": "2026-09-05",
+  "new_total": 0,
+  "next_page": 1,
+  "retired": false
+ },
  "\"publisher sign up\" moving calls": {
   "dry_streak": 0,
   "last_run": "2026-09-05",
@@ -286,10 +440,38 @@
   "next_page": 1,
   "retired": false
  },
+ "\"publisher sign up\" restoration calls": {
+  "dry_streak": 0,
+  "last_run": "2026-09-05",
+  "new_total": 1,
+  "next_page": 1,
+  "retired": false
+ },
+ "\"publisher sign up\" roadside calls": {
+  "dry_streak": 1,
+  "last_run": "2026-09-05",
+  "new_total": 0,
+  "next_page": 1,
+  "retired": false
+ },
  "\"publisher sign up\" solar calls": {
   "dry_streak": 0,
   "last_run": "2026-09-04",
   "new_total": 2,
+  "next_page": 1,
+  "retired": false
+ },
+ "\"publisher signup\" ACA calls": {
+  "dry_streak": 1,
+  "last_run": "2026-09-05",
+  "new_total": 0,
+  "next_page": 1,
+  "retired": false
+ },
+ "\"publisher signup\" auto glass calls": {
+  "dry_streak": 0,
+  "last_run": "2026-09-05",
+  "new_total": 1,
   "next_page": 1,
   "retired": false
  },
@@ -314,10 +496,45 @@
   "next_page": 1,
   "retired": false
  },
+ "\"publisher signup\" junk cars calls": {
+  "dry_streak": 0,
+  "last_run": "2026-09-05",
+  "new_total": 2,
+  "next_page": 1,
+  "retired": false
+ },
+ "\"publisher signup\" medicare calls": {
+  "dry_streak": 0,
+  "last_run": "2026-09-05",
+  "new_total": 1,
+  "next_page": 1,
+  "retired": false
+ },
+ "\"publisher signup\" moving calls": {
+  "dry_streak": 0,
+  "last_run": "2026-09-05",
+  "new_total": 2,
+  "next_page": 1,
+  "retired": false
+ },
  "\"publisher signup\" personal injury calls": {
   "dry_streak": 0,
   "last_run": "2026-09-04",
   "new_total": 1,
+  "next_page": 1,
+  "retired": false
+ },
+ "\"publisher signup\" restoration calls": {
+  "dry_streak": 1,
+  "last_run": "2026-09-05",
+  "new_total": 0,
+  "next_page": 1,
+  "retired": false
+ },
+ "\"publisher signup\" roadside calls": {
+  "dry_streak": 1,
+  "last_run": "2026-09-05",
+  "new_total": 0,
   "next_page": 1,
   "retired": false
  },
@@ -360,6 +577,13 @@
   "dry_streak": 0,
   "last_run": "2026-09-04",
   "new_total": 1,
+  "next_page": 1,
+  "retired": false
+ },
+ "\"weekly payouts\" calls publishers": {
+  "dry_streak": 1,
+  "last_run": "2026-09-05",
+  "new_total": 0,
   "next_page": 1,
   "retired": false
  }
