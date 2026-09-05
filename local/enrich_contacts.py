@@ -559,6 +559,9 @@ def main():
     def tres(e):
         r = trestle.get(e, {})
         return (str(r.get('trestle_is_valid', '')), r.get('trestle_recommendation', ''), r.get('trestle_line_type', ''))
+    def tres_extra(e):
+        r = trestle.get(e, {})
+        return {k: r.get(k, '') for k in ('trestle_activity_score', 'trestle_carrier', 'trestle_validated_at')}
     def phone_ok(e):
         """Trestle 'is_valid' only says the number is well-formed; the recommendation carries
         the activity score. A 'skip' recommendation = disconnected/low activity -> not dialable."""
@@ -602,8 +605,13 @@ def main():
     no_contact = [r for r in targets if not any(x['domain'] == r['domain'] for x in all_people)]
 
     cols = ['company_name', 'domain', 'contact_name', 'title', 'linkedin_url', 'phone', 'email', 'company_notes',
-            'source', 'mobile_status', 'data_provider', 'trestle_is_valid', 'trestle_recommendation', 'trestle_line_type', 'qa_country', 'qa_company_size']
-    wr(os.path.join(OUT, 'contacts_for_attio.csv'), attio, cols)
+            'source', 'mobile_status', 'data_provider', 'trestle_is_valid', 'trestle_recommendation', 'trestle_line_type',
+            'trestle_activity_score', 'trestle_carrier', 'trestle_validated_at', 'qa_country', 'qa_company_size']
+    for row in all_people: row.update(tres_extra(row['phone']))
+    # Upload-leads-to-attio refuses unknown columns; this is exactly the set it maps
+    ATTIO_COLS = ['company_name', 'domain', 'contact_name', 'title', 'linkedin_url', 'phone', 'email', 'company_notes',
+                  'data_provider', 'trestle_is_valid', 'trestle_line_type', 'trestle_activity_score', 'trestle_carrier', 'trestle_validated_at']
+    wr(os.path.join(OUT, 'contacts_for_attio.csv'), attio, ATTIO_COLS)
     wr(os.path.join(OUT, 'people_all.csv'), all_people, cols)
     wr(os.path.join(OUT, 'company_lines.csv'), company_lines)
     wr(os.path.join(OUT, 'companies_no_contact.csv'), no_contact, list(targets[0].keys()))
@@ -627,8 +635,8 @@ def main():
     for r in attio: S.append('| %s | %s | %s | %s | %s | %s |' % (r['domain'], r['contact_name'], (r['title'] or '')[:30], r['phone'], r['trestle_recommendation'] or r['trestle_is_valid'], r['source']))
     S += ['', '## Next (manual, outward-facing — not run by this script)', '', '```',
           'cd "%s"' % REL,
-          'python .claude/skills/Upload-leads-to-attio/upload_to_attio.py --client Kaliper --file "%s" --dry-run --yes' % os.path.join(OUT, 'contacts_for_attio.csv'),
-          'python .claude/skills/Upload-leads-to-attio/upload_to_attio.py --client Kaliper --file "%s" --check-existing' % os.path.join(OUT, 'contacts_for_attio.csv'),
+          'python .claude/skills/Upload-leads-to-attio/upload_to_attio.py --client Kaliper --file "%s" --no-archive --dry-run --yes' % os.path.join(OUT, 'contacts_for_attio.csv'),
+          'python .claude/skills/Upload-leads-to-attio/upload_to_attio.py --client Kaliper --file "%s" --no-archive --check-existing' % os.path.join(OUT, 'contacts_for_attio.csv'),
           'python scripts/ledger_append.py contacts --input "%s" --date %s --run ppc-daily-contacts-%s --ledger "<path to account_ledger.csv>"' % (os.path.join(OUT, 'contacts_for_attio.csv'), date, date),
           '```']
     io.open(os.path.join(OUT, 'summary.md'), 'w', encoding='utf-8').write('\n'.join(S) + '\n')
