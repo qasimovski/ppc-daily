@@ -80,7 +80,10 @@ def main():
                             if d: add(d, path); n += 1
             except Exception as e:
                 print('  skip %s: %s' % (path, e))
-            if n: print('  %-55s %6d' % (os.path.relpath(path, ARCHIVE)[-55:], n))
+            if n:
+                try: label = os.path.relpath(path, ARCHIVE)
+                except ValueError: label = path          # different drive on Windows
+                print('  %-55s %6d' % (label[-55:], n))
     out = os.path.join(ROOT, 'state', 'known_domains.txt')
     with io.open(out, 'w', encoding='utf-8', newline='\n') as f:
         for d in sorted(known): f.write(d + '\n')
