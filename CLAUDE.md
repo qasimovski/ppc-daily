@@ -13,12 +13,12 @@ Background, if you need it (do not re-derive it): `prompts/AUDIT_runs1-2.md`,
 `prompts/NOTES_run3.md`, `prompts/NOTES_run4.md`.
 
 ## The daily procedure — exactly this
-One session = up to **4 passes**. Each pass is one foreground `python daily_run.py` (sized to
+One session = up to **8 passes**. Each pass is one foreground `python daily_run.py` (sized to
 finish inside your 10-minute Bash cap) followed immediately by a commit and push. The script
 resumes from committed state, so pass 2 continues exactly where pass 1 stopped.
 
 ```
-for pass in 1 2 3 4:
+for pass in 1..8:
     python daily_run.py                       # no dependencies: standard library only
     cat state/last_pass.json                  # machine-readable result of this pass
     git add -A state out
@@ -62,7 +62,7 @@ Full). If `daily_run.py` aborts with "outbound HTTP is blocked", or fetches fail
 verbatim, do not work around it, and do not commit anything.
 
 ## What to report at the end (this is the whole deliverable)
-0. Passes run and why the loop stopped (4 passes, or nothing_left_to_do, or a failure).
+0. Passes run and why the loop stopped (8 passes, or nothing_left_to_do, or a failure).
 1. Qualified today / ICP-clean today / cumulative.
 2. Funnel: search requests, raw finds, killed by index, probed, resolved, crawled ok, classified.
 3. Qualify rate per channel (from the report).

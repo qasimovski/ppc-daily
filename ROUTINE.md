@@ -62,7 +62,7 @@ Create it with `/schedule` (or paste the JSON below via `RemoteTrigger create`).
 **Prompt** (the repo's `CLAUDE.md` is loaded automatically and carries the rules):
 
 ```
-Run today's pay-per-call sourcing for Kaliper exactly as CLAUDE.md describes: up to 4
+Run today's pay-per-call sourcing for Kaliper exactly as CLAUDE.md describes: up to 8
 passes. Each pass = `python daily_run.py` in the foreground (no dependencies to install),
 then `cat state/last_pass.json`, then `git add -A state out`, commit as "daily run <today>
 pass <k>: <qualified_this_pass> qualified (today <qualified_today>, cumulative
