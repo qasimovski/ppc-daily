@@ -16,8 +16,8 @@ yesterday's state and re-sources the same companies.
   the repo in the routine form).
 
 ## 2. The cloud environment can reach the open web and holds the two keys
-Environment: **Default** (`env_01SGYcgc4ieBHEuBJwXEJxAH`) — created for you today; edit it
-at https://claude.ai/code → environment settings.
+Environment: **ppc-daily** (`env_01XUCzZSwGJkLnE8igvH24j3`), Network access Full, both keys as
+environment variables, no setup script. Edit it at https://claude.ai/code → environment selector.
 
 - **Network access → Full.** The Default "Trusted" policy allows only package registries and
   a few dev domains; the crawler fetches arbitrary company websites. Under Trusted, every
@@ -77,7 +77,7 @@ numbers from out/<today>/report.md, the qualify rate per channel, anything that 
 and the last pushed commit hash.
 ```
 
-**Create body** (fill in `<you>` and a fresh lowercase v4 UUID):
+**Create body** (live routine: `trig_01ULcao8kGJp6LseDWaNpqoJ`; fill in a fresh lowercase v4 UUID if recreating):
 
 ```json
 {
@@ -86,7 +86,7 @@ and the last pushed commit hash.
   "enabled": true,
   "job_config": {
     "ccr": {
-      "environment_id": "env_01SGYcgc4ieBHEuBJwXEJxAH",
+      "environment_id": "env_01XUCzZSwGJkLnE8igvH24j3",
       "session_context": {
         "model": "claude-sonnet-5",
         "sources": [{"git_repository": {"url": "https://github.com/qasimovski/ppc-daily"}}],
