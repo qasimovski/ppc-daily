@@ -140,7 +140,8 @@ ROLE_LOCALS = {'info', 'sales', 'support', 'contact', 'contactus', 'admin', 'hel
     'help', 'careers', 'jobs', 'hr', 'billing', 'accounts', 'noreply', 'no-reply', 'office',
     'enquiries', 'inquiries', 'mail', 'marketing', 'media', 'press', 'legal', 'privacy',
     'partners', 'partnerships', 'affiliates', 'publishers', 'buyers', 'leads', 'offers', 'general',
-    'reception', 'service', 'services', 'compliance', 'ops', 'operations', 'success'}
+    'reception', 'service', 'services', 'compliance', 'ops', 'operations', 'success', 'accounting', 'partner',
+    'affiliate', 'publisher', 'buyer', 'data', 'sales1', 'sales2', 'apply', 'payouts', 'payments', 'onboarding'}
 SOCIAL = {'facebook.com', 'linkedin.com', 'twitter.com', 'x.com', 'instagram.com', 'youtube.com', 'tiktok.com',
           'google.com', 'apple.com', 'wixsite.com', 'wix.com', 'squarespace.com', 'godaddy.com', 'cloudflare.com',
           'w3.org', 'schema.org', 'gstatic.com', 'jquery.com', 'bootstrapcdn.com', 'fontawesome.com', 'calendly.com',
