@@ -125,7 +125,8 @@ NAME_STOP = re.compile(r'(?i)\b(pay|per|call|calls|lead|leads|media|group|inc|ll
                        r'founders?|owners?|ceo|president|directors?|partners?|manager|verticals?|process|'
                        r'summit|mutual|insurance|final|expense|medicare|solar|roofing|legal|law|calls?|'
                        r'transfers?|live|inbound|exclusive|premium|quality|results|growth|revenue|digital|'
-                       r'online|performance|agency|platform|program|programs|campaigns?|offers?|inc)\b')
+                       r'online|performance|agency|platform|program|programs|campaigns?|offers?|inc|'
+                       r'data|lists?|site|map|sitemap|accounting|menu|search|blog|news|faq|pricing|careers)\b')
 
 def plausible_name(nm):
     nm = re.sub(r'\s+', ' ', nm).strip()
