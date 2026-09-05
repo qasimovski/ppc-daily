@@ -391,6 +391,13 @@
   "next_page": 1,
   "retired": false
  },
+ "\"publisher sign up\" auto glass calls": {
+  "dry_streak": 0,
+  "last_run": "2026-09-05",
+  "new_total": 1,
+  "next_page": 1,
+  "retired": false
+ },
  "\"publisher sign up\" debt relief calls": {
   "dry_streak": 0,
   "last_run": "2026-09-05",
@@ -500,6 +507,13 @@
   "dry_streak": 0,
   "last_run": "2026-09-05",
   "new_total": 2,
+  "next_page": 1,
+  "retired": false
+ },
+ "\"publisher signup\" mass tort calls": {
+  "dry_streak": 0,
+  "last_run": "2026-09-05",
+  "new_total": 1,
   "next_page": 1,
   "retired": false
  },

@@ -1,0 +1,15 @@
+{
+ "run_date": "2026-09-05",
+ "finished_at": "2026-09-05T04:59:49Z",
+ "minutes": 3.3,
+ "net_new_candidates": 22,
+ "crawled_ok": 1,
+ "v6_classified": 1,
+ "qualified_this_pass": 0,
+ "qualified_today": 6,
+ "cumulative_qualified": 8,
+ "search_queries_still_active": 86,
+ "probe_space_remaining": true,
+ "carried_to_next_pass": 0,
+ "nothing_left_to_do": false
+}

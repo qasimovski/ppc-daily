@@ -216,6 +216,21 @@ def main():
         with io.open(KNOWN, 'a', encoding='utf-8', newline='\n') as f:
             for d in add: f.write(d + '\n')
     log('[index] +%d domains -> known_domains.txt now %d' % (len(add), len(known) + len(add)))
+    # machine-readable pass summary, so a session running several passes knows when to stop:
+    # nothing left to discover = every search query retired AND no constructed domain left to probe
+    frontier_left = (sum(1 for v in D._load_progress().values() if not v.get('retired'))
+                     if used or D.TF_KEY else -1)
+    probes_left = len(D.generate_probes(is_known, 1))
+    pass_info = {'run_date': RUN_DATE, 'finished_at': time.strftime('%Y-%m-%dT%H:%M:%SZ', time.gmtime()),
+                 'minutes': round((time.time() - t0) / 60, 1),
+                 'net_new_candidates': len(cands), 'crawled_ok': cs.get('ok', 0),
+                 'v6_classified': stats['v6 classified'], 'qualified_this_pass': len(qualified),
+                 'qualified_today': res['qualified'], 'cumulative_qualified': res['cumulative'],
+                 'search_queries_still_active': frontier_left, 'probe_space_remaining': bool(probes_left),
+                 'carried_to_next_pass': len(left),
+                 'nothing_left_to_do': (len(cands) == 0 and len(left) == 0)}
+    json.dump(pass_info, io.open(os.path.join(STATE, 'last_pass.json'), 'w', encoding='utf-8'), indent=1)
+    log('PASS_RESULT ' + json.dumps(pass_info))
     log('=== done in %.1f min | qualified today %d | cumulative %d'
         % ((time.time() - t0) / 60, res['qualified'], res['cumulative']))
 

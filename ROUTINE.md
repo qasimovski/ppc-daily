@@ -62,15 +62,19 @@ Create it with `/schedule` (or paste the JSON below via `RemoteTrigger create`).
 **Prompt** (the repo's `CLAUDE.md` is loaded automatically and carries the rules):
 
 ```
-Run today's pay-per-call sourcing pass for Kaliper exactly as CLAUDE.md describes:
-`python daily_run.py`, then read
-out/<today>/report.md, then `git add -A state out`, commit as
-"daily run <today>: <N> qualified (<M> icp-clean)" and push to origin main
-(pull --rebase and retry once if rejected). Do not edit any script, prompt or state
-file by hand. If daily_run.py aborts on the exclusion-index size check, or every crawl
-fails with 403 host_not_allowed, or a key is missing, stop and report that verbatim.
-Finish with: qualified today / ICP-clean / cumulative, the funnel numbers, the qualify
-rate per channel, anything that failed, and the pushed commit hash.
+Run today's pay-per-call sourcing for Kaliper exactly as CLAUDE.md describes: up to 4
+passes. Each pass = `python daily_run.py` in the foreground (no dependencies to install),
+then `cat state/last_pass.json`, then `git add -A state out`, commit as "daily run <today>
+pass <k>: <qualified_this_pass> qualified (today <qualified_today>, cumulative
+<cumulative_qualified>)" and push to origin main (pull --rebase and retry once if
+rejected). Stop after a pass whose last_pass.json has "nothing_left_to_do": true. Never
+run daily_run.py in the background and never skip the commit between passes. Do not edit
+any script, prompt or state file by hand. If daily_run.py aborts (exclusion-index size
+check, or 'outbound HTTP is blocked'), or a preflight reports the search or v6 API
+unusable, stop, commit nothing further, and report the message verbatim. Finish with:
+passes run and why you stopped, qualified today / ICP-clean / cumulative, the funnel
+numbers from out/<today>/report.md, the qualify rate per channel, anything that failed,
+and the last pushed commit hash.
 ```
 
 **Create body** (fill in `<you>` and a fresh lowercase v4 UUID):

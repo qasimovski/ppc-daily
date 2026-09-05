@@ -13,19 +13,23 @@ Background, if you need it (do not re-derive it): `prompts/AUDIT_runs1-2.md`,
 `prompts/NOTES_run3.md`, `prompts/NOTES_run4.md`.
 
 ## The daily procedure — exactly this
+One session = up to **4 passes**. Each pass is one foreground `python daily_run.py` (sized to
+finish inside your 10-minute Bash cap) followed immediately by a commit and push. The script
+resumes from committed state, so pass 2 continues exactly where pass 1 stopped.
+
 ```
-python daily_run.py
+for pass in 1 2 3 4:
+    python daily_run.py                       # no dependencies: standard library only
+    cat state/last_pass.json                  # machine-readable result of this pass
+    git add -A state out
+    git commit -m "daily run <today> pass <k>: <qualified_this_pass> qualified (today <qualified_today>, cumulative <cumulative_qualified>)"
+    git push origin HEAD:main                 # pull --rebase and retry once if rejected
+    stop the loop if last_pass.json says "nothing_left_to_do": true
 ```
-(No dependencies to install: standard library only.)
-Then read `out/<today>/report.md`, then:
-```
-git add -A state out
-git commit -m "daily run <today>: <N> qualified (<M> icp-clean)"
-git push origin HEAD:main
-```
-If the push is rejected because the remote moved, `git pull --rebase origin main` and push
-again. State and outputs in git ARE the persistence layer — a run whose results are not
-pushed is a run that did not happen, and tomorrow will re-source the same companies.
+Read `out/<today>/report.md` once at the end; it aggregates every pass of the day.
+State and outputs in git ARE the persistence layer — a pass whose results are not pushed is a
+pass that did not happen, and the next one re-sources the same companies. Never skip the
+commit between passes to "batch" them.
 
 ## Hard rules
 - **Run `daily_run.py` in the foreground, once, with its defaults.** They are sized to finish
@@ -58,6 +62,7 @@ Full). If `daily_run.py` aborts with "outbound HTTP is blocked", or fetches fail
 verbatim, do not work around it, and do not commit anything.
 
 ## What to report at the end (this is the whole deliverable)
+0. Passes run and why the loop stopped (4 passes, or nothing_left_to_do, or a failure).
 1. Qualified today / ICP-clean today / cumulative.
 2. Funnel: search requests, raw finds, killed by index, probed, resolved, crawled ok, classified.
 3. Qualify rate per channel (from the report).
