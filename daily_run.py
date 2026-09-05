@@ -124,7 +124,9 @@ def main():
 
     search_deadline = min(deadline, t0 + 0.25 * RUN_MINUTES * 60)
     used = D.run_search(emit, is_known, SEARCH_BUDGET, search_deadline, log)
+    linked = D.run_linked(emit, is_known, int(os.environ.get('LINKED_BUDGET', '60')), log)
     probes = D.run_probe(emit, is_known, PROBE_BUDGET, log)
+    stats['linked-domain candidates'] = linked
     stats['search requests'] = used
     stats['raw finds (search)'] = sum(v for k, v in raw_emits.items() if not k.startswith('L7'))
     stats['constructed domains probed'] = len(probes)
@@ -172,6 +174,8 @@ def main():
                 for f in futs: f.cancel()
     # every probe that was crawled is recorded as probed, live or not
     D.mark_probed([d for d in probes if d in crawled])
+    # outbound links of live sites -> candidates for the next pass
+    D.queue_linked(list(crawled.values()), is_known, log)
     cs = collections.Counter(r['status'] for r in crawled.values())
     stats['crawled'] = len(crawled)
     for k in ('ok', 'thin', 'unregistered', 'unreachable', 'parked', 'redirect_offdomain', 'ringba_banned'):
@@ -221,14 +225,26 @@ def main():
     frontier_left = (sum(1 for v in D._load_progress().values() if not v.get('retired'))
                      if used or D.TF_KEY else -1)
     probes_left = len(D.generate_probes(is_known, 1))
+    linked_left = sum(1 for _ in read_lines(D.LINKQ)) if os.path.exists(D.LINKQ) else 0
+    # ---- 7. replenish the frontier when it is exhausted ---------------------------------
+    replenished = (0, 0)
+    if frontier_left == 0 and not probes_left and not linked_left and not os.environ.get('PPC_NO_REPLENISH'):
+        import replenish as R
+        log('[replenish] frontier exhausted - generating new phrase families and vertical tokens')
+        replenished = R.generate(force=False, dry_run=False, log=log)
+        frontier_left = sum(1 for v in D._load_progress().values() if not v.get('retired')) + replenished[0]
+        probes_left = len(D.generate_probes(is_known, 1))
     pass_info = {'run_date': RUN_DATE, 'finished_at': time.strftime('%Y-%m-%dT%H:%M:%SZ', time.gmtime()),
+                 'replenished_queries': replenished[0], 'replenished_tokens': replenished[1],
+                 'linked_candidates_queued': linked_left,
                  'minutes': round((time.time() - t0) / 60, 1),
                  'net_new_candidates': len(cands), 'crawled_ok': cs.get('ok', 0),
                  'v6_classified': stats['v6 classified'], 'qualified_this_pass': len(qualified),
                  'qualified_today': res['qualified'], 'cumulative_qualified': res['cumulative'],
                  'search_queries_still_active': frontier_left, 'probe_space_remaining': bool(probes_left),
                  'carried_to_next_pass': len(left),
-                 'nothing_left_to_do': (len(cands) == 0 and len(left) == 0)}
+                 'nothing_left_to_do': (len(cands) == 0 and len(left) == 0 and linked_left == 0
+                                        and not probes_left and frontier_left == 0)}
     json.dump(pass_info, io.open(os.path.join(STATE, 'last_pass.json'), 'w', encoding='utf-8'), indent=1)
     log('PASS_RESULT ' + json.dumps(pass_info))
     log('=== done in %.1f min | qualified today %d | cumulative %d'

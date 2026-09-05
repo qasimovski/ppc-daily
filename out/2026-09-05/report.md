@@ -6,21 +6,18 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | stage | count |
 |---|---|
-| search requests | 31 |
-| raw finds (search) | 260 |
-| constructed domains probed | 300 |
-| net-new candidates after exclusion index | 353 |
-|   of which from search | 53 |
-|   of which from probing | 300 |
-| crawled | 352 |
-|   crawl: ok | 46 |
-|   crawl: thin | 5 |
-|   crawl: unregistered | 290 |
-|   crawl: unreachable | 9 |
-|   crawl: parked | 1 |
-|   crawl: redirect_offdomain | 1 |
-| probes that resolved to a real site | 3 |
-| v6 classified | 46 |
+| linked-domain candidates | 0 |
+| search requests | 4 |
+| raw finds (search) | 26 |
+| constructed domains probed | 0 |
+| net-new candidates after exclusion index | 13 |
+|   of which from search | 13 |
+|   of which from probing | 0 |
+| crawled | 13 |
+|   crawl: ok | 10 |
+|   crawl: unreachable | 3 |
+| probes that resolved to a real site | 0 |
+| v6 classified | 10 |
 | carried to next run (unclassified) | 0 |
 | V6 QUALIFIED | 1 |
 
@@ -28,8 +25,8 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | status | count |
 |---|---|
-| ok | 275 |
-| unreachable | 38 |
+| ok | 287 |
+| unreachable | 41 |
 | thin | 28 |
 | redirect_offdomain | 6 |
 | unregistered | 2 |
@@ -40,23 +37,24 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | channel | classified | qualified | rate |
 |---|---|---|---|
 | L7-probe | 37 | 4 | 10.8% |
+| L4-vertical | 11 | 1 | 9.1% |
 | L4-counterparty | 86 | 6 | 7.0% |
-| L4-familyB | 152 | 5 | 3.3% |
+| L4-familyB | 153 | 5 | 3.3% |
 
-**V6 QUALIFIED TODAY: 15** (ICP-clean: 12). Cumulative across all daily runs: 17.
+**V6 QUALIFIED TODAY: 16** (ICP-clean: 13). Cumulative across all daily runs: 18.
 
 ## Why candidates failed v6
 
 | reason | count |
 |---|---|
-| unrelated | 108 |
-| lead_or_appointment_pricing | 78 |
-| seo_or_ranking_agency | 25 |
-| no_clear_signal | 18 |
-| end_advertiser | 9 |
+| unrelated | 111 |
+| lead_or_appointment_pricing | 80 |
+| seo_or_ranking_agency | 26 |
+| no_clear_signal | 20 |
+| end_advertiser | 11 |
+| service_to_call_receiver | 7 |
 | directory_or_content | 7 |
 | software_or_crm | 6 |
-| service_to_call_receiver | 6 |
 | coach_or_consultant | 2 |
 | recruiting | 1 |
 
@@ -78,6 +76,7 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 |  | mcaleads.us | 90 | MCA lead and live transfer seller to MCA brokers |  |  | geo unknown |
 |  | towleads.co | 90 | pay-per-call live tow truck customer calls to towing businesses |  | United States |  |
 |  | funneltrafficpros.com | 90 | pay-per-call lead generation network | yes |  | geo unknown |
+|  | call-reassurance.com | 90 | automated telephone reassurance calls to seniors and community m |  | United States |  |
 |  | connectivanetwork.com | 85 | pay-per-call network connecting buyers and publishers | yes |  | geo unknown |
 
 ## Files

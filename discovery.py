@@ -14,7 +14,7 @@ only ones still producing net-new companies against a 13k-domain exclusion index
 Both channels write candidates through the same emit() so the orchestrator treats them
 identically. Every candidate carries layer / source_url / source_note like the old inbox.
 """
-import io, itertools, json, os, random, time, urllib.parse, urllib.request, urllib.error
+import io, itertools, json, os, random, re, time, urllib.parse, urllib.request, urllib.error
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 STATE = os.path.join(ROOT, 'state')
@@ -72,8 +72,21 @@ def _family_b():
     for p, v in itertools.product(FAMILY_B_PHRASES, FAMILY_B_VERTICALS):
         yield ('%s %s calls' % (p, v), 2, 'L4-familyB')
 
+EXTENSIONS = os.path.join(STATE, 'frontier_extensions.json')
+
+def _extensions():
+    """Queries and tokens added by replenish.py when the frontier ran dry."""
+    try: b = json.load(io.open(EXTENSIONS, encoding='utf-8')).get('batches', [])
+    except Exception: b = []
+    qs, toks = [], []
+    for batch in b:
+        qs += [tuple(x) for x in batch.get('queries', [])]
+        toks += batch.get('tokens', [])
+    return qs, toks
+
 def all_queries():
-    return COUNTERPARTY + FAMILY_A + list(_family_b())
+    ext_q, _ = _extensions()
+    return COUNTERPARTY + FAMILY_A + list(_family_b()) + ext_q
 
 def _load_progress():
     try: return json.load(io.open(SEARCH_PROGRESS, encoding='utf-8'))
@@ -217,9 +230,11 @@ def generate_probes(is_known, limit):
     probed = _load_probed()
     out = []
     if limit <= 0: return out
+    _, ext_tokens = _extensions()
+    tokens = VERTICAL_TOKENS + [t for t in ext_tokens if t not in VERTICAL_TOKENS]
     for shape in SHAPES:
         for tld in TLDS:
-            for v in VERTICAL_TOKENS:
+            for v in tokens:
                 if '-' in v and shape.startswith('{v}-'): continue    # avoid double hyphen
                 d = shape.format(v=v) + tld
                 if d in probed or is_known(d): continue
@@ -230,6 +245,52 @@ def generate_probes(is_known, limit):
 def mark_probed(domains):
     with io.open(PROBED, 'a', encoding='utf-8', newline='\n') as f:
         for d in domains: f.write(d + '\n')
+
+# ------------------------------------------------------------------ LINKED CHANNEL
+# Operators link to their siblings, parents and partners. Run 5's sibling harvest did this by
+# hand; here every crawled candidate's outbound links to UNKNOWN domains are queued for the next
+# pass as candidates (layer L8-linked). Cheap, and it reaches companies search never surfaces.
+LINKQ = os.path.join(STATE, 'link_candidates.jsonl')
+
+def queue_linked(results, is_known, log=print):
+    """results: crawled records with ext_links [(domain, n), ...]. Appends new unknown domains."""
+    seen = set()
+    if os.path.exists(LINKQ):
+        for line in io.open(LINKQ, encoding='utf-8', errors='replace'):
+            try: seen.add(json.loads(line)['domain'])
+            except Exception: pass
+    n = 0
+    # footer noise: web designers, hosting, builders, registrars
+    noise = re.compile(r'(design|studio|hosting|wpstage|wpengine|kinsta|siteground|godaddy|namecheap|wix|'
+                       r'squarespace|webflow|framer|duda|weebly|shopify|builder|theme|plugin|seo|agency|'
+                       r'creative|digital|media\.com$|marketing\.com$)')
+    with io.open(LINKQ, 'a', encoding='utf-8') as f:
+        for r in results:
+            # only follow links from sites that themselves speak the call-trading vocabulary
+            if r.get('status') not in ('ok', 'thin') or not r.get('tier1'): continue
+            for ed, cnt in (r.get('ext_links') or [])[:8]:
+                if ed in seen or is_known(ed) or noise.search(ed): continue
+                seen.add(ed); n += 1
+                f.write(json.dumps({'domain': ed, 'layer': 'L8-linked', 'source_url': 'https://' + r['domain'],
+                                    'source_note': 'linked %dx from %s (%s)' % (cnt, r['domain'], r.get('layer', ''))}) + '\n')
+    if n: log('[linked] queued %d unknown domains linked from crawled sites for the next pass' % n)
+    return n
+
+def run_linked(emit, is_known, limit, log=print):
+    """Emit queued linked domains as candidates (oldest first), then drop them from the queue."""
+    if not os.path.exists(LINKQ): return 0
+    rows = []
+    for line in io.open(LINKQ, encoding='utf-8', errors='replace'):
+        try: rows.append(json.loads(line))
+        except Exception: pass
+    take, keep = rows[:limit], rows[limit:]
+    n = 0
+    for r in take:
+        if emit(r['domain'], layer=r['layer'], source_url=r['source_url'], source_note=r['source_note']): n += 1
+    with io.open(LINKQ, 'w', encoding='utf-8') as f:
+        for r in keep: f.write(json.dumps(r) + '\n')
+    log('[linked] %d queued domains emitted as candidates (%d left in queue)' % (n, len(keep)))
+    return n
 
 def run_probe(emit, is_known, limit, log=print):
     """Emit constructed domains as candidates. The orchestrator's crawl decides which ones

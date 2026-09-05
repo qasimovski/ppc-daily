@@ -31,6 +31,15 @@ State and outputs in git ARE the persistence layer — a pass whose results are 
 pass that did not happen, and the next one re-sources the same companies. Never skip the
 commit between passes to "batch" them.
 
+## Self-replenishing frontier (automatic — you never edit the phrase lists)
+When a pass finds every search query retired, no constructed domain left to probe and no
+linked domain queued, `daily_run.py` itself calls `replenish.py`, which asks gpt-4.1 for new
+phrase families and vertical tokens under the measured rules, validates them, appends them to
+`state/frontier_extensions.json` and explains them in `state/frontier_log.md`. `last_pass.json`
+then shows `replenished_queries` / `replenished_tokens` > 0 and the next pass uses them.
+Your only job here: when that happened, quote the new phrases from `frontier_log.md` in your
+report so a human can veto any. Do not write phrases or tokens yourself.
+
 ## Hard rules
 - **Run `daily_run.py` in the foreground, once, with its defaults.** They are sized to finish
   inside your 10-minute Bash cap. Never relaunch it in the background with `nohup`/`&` and
@@ -63,6 +72,7 @@ verbatim, do not work around it, and do not commit anything.
 
 ## What to report at the end (this is the whole deliverable)
 0. Passes run and why the loop stopped (8 passes, or nothing_left_to_do, or a failure).
+   If any pass replenished the frontier, list the new phrases/tokens from `state/frontier_log.md`.
 1. Qualified today / ICP-clean today / cumulative.
 2. Funnel: search requests, raw finds, killed by index, probed, resolved, crawled ok, classified.
 3. Qualify rate per channel (from the report).
