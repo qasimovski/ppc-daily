@@ -58,8 +58,8 @@
  "\"become a publisher\" calls": {
   "dry_streak": 0,
   "last_run": "2026-09-06",
-  "new_total": 39,
-  "next_page": 7,
+  "new_total": 40,
+  "next_page": 8,
   "retired": false
  },
  "\"become a traffic partner\" medical transport calls": {
@@ -93,8 +93,8 @@
  "\"join our network\" \"inbound calls\"": {
   "dry_streak": 0,
   "last_run": "2026-09-06",
-  "new_total": 24,
-  "next_page": 6,
+  "new_total": 28,
+  "next_page": 7,
   "retired": false
  },
  "\"join our network\" \"pay per call\"": {
@@ -102,7 +102,7 @@
   "last_run": "2026-09-06",
   "new_total": 7,
   "next_page": 7,
-  "retired": false
+  "retired": true
  },
  "\"join our publisher network\" calls": {
   "dry_streak": 0,
