@@ -6,8 +6,8 @@
    "new_total": 6
   },
   "\"Ringba\" site:bebee.com pay per call": {
-   "next_page": 2,
-   "retired": false,
+   "next_page": 3,
+   "retired": true,
    "new_total": 17
   },
   "\"Ringba\" site:linkedin.com/jobs pay per call": {
@@ -211,19 +211,19 @@
    "new_total": 19
   },
   "\"live transfers\" \"affiliate manager\" hiring insurance calls": {
-   "next_page": 1,
+   "next_page": 2,
    "retired": false,
-   "new_total": 9
+   "new_total": 19
   },
   "\"ping post\" \"call\" campaign manager job": {
-   "next_page": 1,
+   "next_page": 2,
    "retired": false,
-   "new_total": 8
+   "new_total": 18
   },
   "\"buyer caps\" calls job posting": {
-   "next_page": 1,
+   "next_page": 2,
    "retired": false,
-   "new_total": 8
+   "new_total": 18
   }
  },
  "seen_urls": [
@@ -299,13 +299,17 @@
   "https://jobright.ai/jobs/info/68d556a539247e3c807ea325",
   "https://jobright.ai/jobs/info/6a50fe428d7d3e6cf1cbdea9?visit=poultry-territory-account-manager%2C-us-farm-animal-%E2%80%93-se-us-%28ga%2C-al%2C-fl%2C-%2B%29-jobs-in-united-states",
   "https://lt.linkedin.com",
+  "https://lunasolmedia.com/mexico-campaigns/",
+  "https://me.sh/profile/nick-abraham",
   "https://ph.linkedin.com/jobs/view/account-manager-at-voax-media-4425326506",
   "https://phonexa.com/lms-sync/ping-post-software/",
   "https://pk.linkedin.com/jobs/view/ringba-tech-support-specialist-at-primestaff-4395873013",
   "https://profitise.com/home-services-leads/",
+  "https://residentsolarpower.com/blog/solar-lead-generation/",
   "https://rs.linkedin.com/jobs/view/%F0%9F%94%A7-techops-engineer-%E2%80%93-ringba-%2B-automation-%2B-ai-at-standard-conversions-4301315182",
   "https://rs.linkedin.com/jobs/view/project-manager-%E2%80%93-affiliate-performance-marketing-fully-remote-worldwide-at-a-hiring-group-4301425754",
   "https://us.trabajo.org/job-5003-660713e63b264d009b63a127bcfa1564",
+  "https://us.trabajo.org/job-5003-81cdf1ea5d57b83ce85cfbeb6f060005",
   "https://v2.onlinejobs.ph/jobseekers/info/2423104",
   "https://v2.onlinejobs.ph/jobseekers/info/5305499",
   "https://ve.linkedin.com/jobs/view/junior-qa-specialist-pay-per-call-at-a-teamwork-4354035406",
@@ -314,6 +318,7 @@
   "https://www.facebook.com",
   "https://www.facebook.com/NewVisionD/posts/were-hiring-new-vision-digital-is-on-the-lookout-for-a-talented-ppc-executive-to/1344498947794318/",
   "https://www.facebook.com/WelcomeToXeroxOurVisionYourFuture/posts/buying-calls-affiliatemarketing-publishers-finalexpense-obamacare-transfers-affi/755793726564688/",
+  "https://www.facebook.com/doppcallnetwork/posts/imagine-thisyoure-generating-traffic-google-ads-facebook-seo-or-any-other-method/829676773327299/",
   "https://www.facebook.com/doppcallnetwork/posts/publishers-high-converting-mva-live-transfer-campaigndoppcall-is-buying-motor-ve/783523997942577/",
   "https://www.facebook.com/groups/257318333466274/posts/1076141838250582/",
   "https://www.facebook.com/notkevinjon/posts/were-scaling-fast-so-were-hiring-againlooking-for-b2b-sales-reps-who-want-to-hel/1411992580746652/",
