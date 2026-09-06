@@ -169,10 +169,32 @@
    "next_page": 1,
    "retired": false,
    "new_total": 2
+  },
+  "\"pay per call\" \"call QA\" site:onlinejobs.ph": {
+   "next_page": 1,
+   "retired": true,
+   "new_total": 0
+  },
+  "\"pay per call\" \"call QA\" site:bebee.com": {
+   "next_page": 1,
+   "retired": false,
+   "new_total": 6
+  },
+  "\"pay per call\" media buyer site:jobright.ai Ringba OR TrackDrive OR Retreaver": {
+   "next_page": 1,
+   "retired": false,
+   "new_total": 2
+  },
+  "\"pay per call\" media buyer site:himalayas.app Ringba OR TrackDrive OR Retreaver": {
+   "next_page": 1,
+   "retired": false,
+   "new_total": 3
   }
  },
  "seen_urls": [
   "https://bebee.com/ar/jobs/ai-automation-engineer-tort-experts--ss-ar-1yf1hcc",
+  "https://bebee.com/bd/jobs/call-center-sales-agent-onsite-doppcall-affiliate-network--t7xk-789695908",
+  "https://bebee.com/bd/jobs/senior-quality-control-agent-call-auditing-ray-advertising--t7xk-759788266",
   "https://bebee.com/ca/jobs/affiliate-manager-creative-clicks-toronto-on--jooble--6992578834787561204",
   "https://bebee.com/ca/jobs/senior-media-buyer-creative-clicks-toronto-ontario--t7xk-790945847",
   "https://bebee.com/co/jobs/business-development-affiliate-marketing-manager-crm-runner-medellin-antioquia--t7xk-789868703",
@@ -184,16 +206,20 @@
   "https://bebee.com/in/jobs/affiliate-media-buyer-digital-nexon-delhi--jobs-sea-4190304243",
   "https://bebee.com/in/jobs/business-development-executive-valueleaf-services-india-pvt-ltd-bengaluru--fj-2310010690",
   "https://bebee.com/in/jobs/business-development-executive-valueleaf-services-india-pvt-ltd-vasanthanagar--jobmesh-2e67634b-508f-4aa7-b03b-5c79fd8d659a",
+  "https://bebee.com/in/jobs/google-ads-pay-per-call-expert-maxclimb-media-gurugram-haryana--t7xk-752443038",
   "https://bebee.com/in/jobs/media-buyer-google-adcanopus-digital-media-pvt-ltd-bengaluru-karnataka--t7xk-793764473",
   "https://bebee.com/in/jobs/media-buyer-google-ads-adceptive-media-llc-mohali-district--techmap_in_4450064807",
   "https://bebee.com/in/jobs/media-buyer-meta-adcanopus-digital-media-pvt-ltd-bengaluru-karnataka--t7xk-793766089",
   "https://bebee.com/in/jobs/media-buyer-the5co-jamai--bs-in-f3c4de83-1015-45a0-b47c-b1932774df62",
   "https://bebee.com/in/jobs/pay-per-call-specialist-whalemaven--talent-627646777429536008",
   "https://bebee.com/in/jobs/pay-per-call-specialist-whalemaven-gurugram--jobmesh-64196d38-52bf-4795-8f1c-349b1a322b8d",
+  "https://bebee.com/in/jobs/pay-per-call-specialist-whalemaven-gurugram--jobted-3fd5ac1f7ce786e10a59710e8750dd73",
   "https://bebee.com/in/jobs/qa-specialist-pay-per-call-call-quality-crossblade-media-llc--t7xk-793075723",
   "https://bebee.com/in/jobs/strategic-partnerships-manager-direct-advertisers-pay-per-call-clickdee-gurugram--fj-2343128411",
   "https://bebee.com/mx/jobs/client-operations-manager-huzzlecom--t7xk-784702891",
   "https://bebee.com/pk/companies/elite-remotes",
+  "https://bebee.com/pk/companies/the-pay-per-calls-company",
+  "https://bebee.com/us/companies/direct-callscom",
   "https://bebee.com/us/companies/the-aragon-company",
   "https://bebee.com/us/jobs/affiliate-manager-click-thesis-llc-coral-springs-fl--t7xk-789828359",
   "https://bebee.com/us/jobs/affiliate-manager-for-leadbank-paper-call-platform-a-hiring-group-los-angeles--ss-us-16c0ucy",
@@ -212,6 +238,8 @@
   "https://cr.linkedin.com/jobs/view/bilingual-english%E2%80%93russian-sales-customer-support-specialist-remote-at-leadspedia-corporation-4317896010",
   "https://cr.linkedin.com/jobs/view/en-ru-sales-customer-support-specialist-remote-at-leadspedia-corporation-4309654394",
   "https://ge.linkedin.com/jobs/view/senior-full-stack-engineer-%E2%80%94-call-routing-telecom-ai-at-agent-calls-4424504447",
+  "https://jobright.ai/jobs/info/68d556a539247e3c807ea325",
+  "https://jobright.ai/jobs/info/6a50fe428d7d3e6cf1cbdea9?visit=poultry-territory-account-manager%2C-us-farm-animal-%E2%80%93-se-us-%28ga%2C-al%2C-fl%2C-%2B%29-jobs-in-united-states",
   "https://ph.linkedin.com/jobs/view/account-manager-at-voax-media-4425326506",
   "https://pk.linkedin.com/jobs/view/ringba-tech-support-specialist-at-primestaff-4395873013",
   "https://rs.linkedin.com/jobs/view/project-manager-%E2%80%93-affiliate-performance-marketing-fully-remote-worldwide-at-a-hiring-group-4301425754",

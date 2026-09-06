@@ -135,3 +135,32 @@
 {"name": "Expert Marketing", "norm": "expert marketing", "domain": "expert-marketing.com", "how": "guess:expert-marketing.com", "source_url": "https://fastautoquote.org/marketing-partners", "ts": "2026-09-06T07:03:11Z"}
 {"name": "Fidato Leads", "norm": "fidato leads", "domain": "fidatoleads.com", "how": "guess:fidatoleads.com", "source_url": "https://fastautoquote.org/marketing-partners", "ts": "2026-09-06T07:03:11Z"}
 {"name": "Freedom Marketing", "norm": "freedom marketing", "domain": "freedommarketing.io", "how": "guess:freedommarketing.io", "source_url": "https://fastautoquote.org/marketing-partners", "ts": "2026-09-06T07:03:11Z"}
+{"name": "Call Lead Solutions", "norm": "call lead solutions", "domain": null, "how": "unresolved:generic-name", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-06T07:06:53Z"}
+{"name": "AIG Direct", "norm": "aig direct", "domain": null, "how": "unresolved:generic-name", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-06T07:06:55Z"}
+{"name": "All Digital Promotions", "norm": "all digital promotions", "domain": "mediapost.com", "how": "search", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-06T07:07:01Z"}
+{"name": "All Web Leads Company", "norm": "all web leads company", "domain": null, "how": "unresolved:generic-name", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-06T07:07:03Z"}
+{"name": "Alpine Digital Group", "norm": "alpine digital group", "domain": "alpinedigitalgroup.com", "how": "guess:alpinedigitalgroup.com", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-06T07:07:03Z"}
+{"name": "America Direct", "norm": "america direct", "domain": null, "how": "unresolved:generic-name", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-06T07:07:05Z"}
+{"name": "Atlantic Blue Media", "norm": "atlantic blue media", "domain": "mapquest.com", "how": "search", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-06T07:07:12Z"}
+{"name": "Blue Whale Media", "norm": "blue whale media", "domain": "bluewhalemedia.lk", "how": "search", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-06T07:07:30Z"}
+{"name": "Direct Choice", "norm": "direct choice", "domain": "directchoiceinc.com", "how": "guess:directchoiceinc.com", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-06T07:07:30Z"}
+{"name": "Media Alpha", "norm": "media alpha", "domain": "mediaalpha.com", "how": "guess:mediaalpha.com", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-06T07:07:30Z"}
+{"name": "RevRise Media", "norm": "revrise media", "domain": "revrisemedia.com", "how": "guess:revrisemedia.com", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-06T07:07:30Z"}
+{"name": "ABCLeads", "norm": "abcleads", "domain": "abcleads.com", "how": "guess:abcleads.com", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-06T07:07:30Z"}
+{"name": "Acceptance", "norm": "acceptance", "domain": "acceptance.com", "how": "guess:acceptance.com", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-06T07:07:30Z"}
+{"name": "ACSC", "norm": "acsc", "domain": "acscinc.com", "how": "guess:acscinc.com", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-06T07:07:30Z"}
+{"name": "Admaric", "norm": "admaric", "domain": "admaric.com", "how": "guess:admaric.com", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-06T07:07:30Z"}
+{"name": "Advantra", "norm": "advantra", "domain": "advantrainc.com", "how": "guess:advantrainc.com", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-06T07:07:30Z"}
+{"name": "Affirmative", "norm": "affirmative", "domain": "affirmativeinc.com", "how": "guess:affirmativeinc.com", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-06T07:07:30Z"}
+{"name": "AgedLeadStore.com", "norm": "agedleadstore com", "domain": "agedleadstore.com", "how": "literal", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-06T07:07:30Z"}
+{"name": "AHIX", "norm": "ahix", "domain": "ahix.com", "how": "guess:ahix.com", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-06T07:07:30Z"}
+{"name": "All Risk", "norm": "all risk", "domain": "allrisk.com", "how": "guess:allrisk.com", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-06T07:07:30Z"}
+{"name": "Allegiant Group", "norm": "allegiant group", "domain": "allegiantgroup.net", "how": "guess:allegiantgroup.net", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-06T07:07:30Z"}
+{"name": "Alliance", "norm": "alliance", "domain": "alliance.com", "how": "guess:alliance.com", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-06T07:07:30Z"}
+{"name": "Allstarz", "norm": "allstarz", "domain": "allstarz.net", "how": "guess:allstarz.net", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-06T07:07:30Z"}
+{"name": "American Alliance", "norm": "american alliance", "domain": "americanalliance.net", "how": "guess:americanalliance.net", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-06T07:07:30Z"}
+{"name": "American General", "norm": "american general", "domain": "americangeneralllc.com", "how": "guess:americangeneralllc.com", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-06T07:07:30Z"}
+{"name": "AmeriChoice", "norm": "americhoice", "domain": "americhoicellc.com", "how": "guess:americhoicellc.com", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-06T07:07:30Z"}
+{"name": "Americo", "norm": "americo", "domain": "americo.com", "how": "guess:americo.com", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-06T07:07:30Z"}
+{"name": "Amerigroup", "norm": "amerigroup", "domain": "amerigroup.com", "how": "guess:amerigroup.com", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-06T07:07:30Z"}
+{"name": "AmeriHealth", "norm": "amerihealth", "domain": "amerihealth.com", "how": "guess:amerihealth.com", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-06T07:07:30Z"}

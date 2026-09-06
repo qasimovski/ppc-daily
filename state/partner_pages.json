@@ -84,14 +84,14 @@
  },
  "https://meetinsured.com/marketing-partners": {
   "first_seen": "2026-09-06",
-  "last_fetched": "",
-  "names_last": 0,
+  "last_fetched": "2026-09-06",
+  "names_last": 504,
   "ok": true
  },
  "https://meetpolicies.com/marketing-partners": {
   "first_seen": "2026-09-06",
-  "last_fetched": "",
-  "names_last": 0,
+  "last_fetched": "2026-09-06",
+  "names_last": 504,
   "ok": true
  },
  "https://pickmycoverage.com/partners": {
@@ -264,6 +264,10 @@
   "found": true,
   "probed": "2026-09-06"
  },
+ "seed:emberhomepros.com": {
+  "found": false,
+  "probed": "2026-09-06"
+ },
  "seed:everquote.com": {
   "found": true,
   "probed": "2026-09-06"
@@ -301,6 +305,10 @@
   "probed": "2026-09-06"
  },
  "seed:seniorinsuranceshopping.com": {
+  "found": false,
+  "probed": "2026-09-06"
+ },
+ "seed:smartfinancial.com": {
   "found": false,
   "probed": "2026-09-06"
  },
