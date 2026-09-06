@@ -11,9 +11,9 @@
    "new_total": 17
   },
   "\"Ringba\" site:linkedin.com/jobs pay per call": {
-   "next_page": 3,
-   "retired": false,
-   "new_total": 26
+   "next_page": 4,
+   "retired": true,
+   "new_total": 36
   },
   "\"TrackDrive\" site:onlinejobs.ph pay per call": {
    "next_page": 2,
@@ -211,19 +211,19 @@
    "new_total": 29
   },
   "\"live transfers\" \"affiliate manager\" hiring insurance calls": {
-   "next_page": 2,
+   "next_page": 3,
    "retired": false,
-   "new_total": 19
+   "new_total": 29
   },
   "\"ping post\" \"call\" campaign manager job": {
-   "next_page": 2,
+   "next_page": 3,
    "retired": false,
-   "new_total": 18
+   "new_total": 28
   },
   "\"buyer caps\" calls job posting": {
-   "next_page": 2,
+   "next_page": 3,
    "retired": false,
-   "new_total": 18
+   "new_total": 27
   }
  },
  "seen_urls": [
@@ -288,6 +288,7 @@
   "https://bebee.com/za/jobs/publisher-traffic-performance-manager-truecare-marketing--t7xk-806976993",
   "https://ca.linkedin.com/jobs/view/senior-media-buyer-at-creative-clicks-4432716641",
   "https://co.linkedin.com/jobs/view/client-success-manager-%E2%80%94-pay-per-call-at-agent-calls-4434430602",
+  "https://commission.academy/blog/best-pay-per-call-affiliate-programs/",
   "https://community.clay.com/x/share-jobs",
   "https://cr.linkedin.com/jobs/view/bilingual-english%E2%80%93russian-sales-customer-support-specialist-remote-at-leadspedia-corporation-4317896010",
   "https://cr.linkedin.com/jobs/view/en-ru-sales-customer-support-specialist-remote-at-leadspedia-corporation-4309654394",
@@ -319,6 +320,7 @@
   "https://sk.linkedin.com/jobs/view/admin-support-at-elite-remotes-4423507439",
   "https://us.trabajo.org/job-5003-660713e63b264d009b63a127bcfa1564",
   "https://us.trabajo.org/job-5003-81cdf1ea5d57b83ce85cfbeb6f060005",
+  "https://us.trabajo.org/job-5003-f77c175ad1e85afe66e63fdcca1d137f",
   "https://v2.onlinejobs.ph/jobseekers/info/2423104",
   "https://v2.onlinejobs.ph/jobseekers/info/5305499",
   "https://ve.linkedin.com/jobs/view/junior-qa-specialist-pay-per-call-at-a-teamwork-4354035406",
@@ -328,8 +330,11 @@
   "https://www.facebook.com",
   "https://www.facebook.com/NewVisionD/posts/were-hiring-new-vision-digital-is-on-the-lookout-for-a-talented-ppc-executive-to/1344498947794318/",
   "https://www.facebook.com/WelcomeToXeroxOurVisionYourFuture/posts/buying-calls-affiliatemarketing-publishers-finalexpense-obamacare-transfers-affi/755793726564688/",
+  "https://www.facebook.com/doppcallnetwork/posts/high-intent-appliance-repair-inbound-live-transfer-call-suppliers-wantedwere-act/865330823095227/",
   "https://www.facebook.com/doppcallnetwork/posts/imagine-thisyoure-generating-traffic-google-ads-facebook-seo-or-any-other-method/829676773327299/",
+  "https://www.facebook.com/doppcallnetwork/posts/monetize-your-high-intent-garage-door-calls-with-doppcallwe-are-actively-seeking/918608114434164/",
   "https://www.facebook.com/doppcallnetwork/posts/publishers-high-converting-mva-live-transfer-campaigndoppcall-is-buying-motor-ve/783523997942577/",
+  "https://www.facebook.com/doppcallnetwork/posts/still-struggling-to-find-a-buyer-who-actually-respects-the-value-of-your-walk-in/939572025671106/",
   "https://www.facebook.com/groups/1668933340017050/posts/4367325953511095/",
   "https://www.facebook.com/groups/257318333466274/posts/1076141838250582/",
   "https://www.facebook.com/notkevinjon/posts/were-scaling-fast-so-were-hiring-againlooking-for-b2b-sales-reps-who-want-to-hel/1411992580746652/",
@@ -339,6 +344,7 @@
   "https://www.instagram.com",
   "https://www.instagram.com/p/C_TBUJ7Iy1Q/",
   "https://www.instagram.com/reel/Dax2GOcxb4I/",
+  "https://www.instagram.com/vip_response/reels/",
   "https://www.linkedin.com",
   "https://www.linkedin.com/jobs/ringba-jobs",
   "https://www.linkedin.com/jobs/view/advertiser-account-manager-at-the-aragon-company-4293733530",
@@ -359,6 +365,7 @@
   "https://www.linkedin.com/jobs/view/operations-performance-manager-lead-generation-at-anewhealth-4412963441",
   "https://www.linkedin.com/jobs/view/pay-per-call-account-manager-usa-at-kimia-group-4438316334",
   "https://www.linkedin.com/jobs/view/sr-media-partnerships-manager-pay-per-call-at-lendingtree-4432874010",
+  "https://www.linkedin.com/posts/bhawnabalchandani_hiring-affiliatemarketing-affiliatemanager-activity-7494110116284182529-wnXT",
   "https://www.matneoinv.org.uk",
   "https://www.nytimes.com",
   "https://www.onlinejobs.ph/jobseekers/info/3114997",

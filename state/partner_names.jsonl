@@ -334,3 +334,34 @@
 {"name": "Tennessee", "norm": "tennessee", "domain": "tennessee.net", "how": "guess:tennessee.net", "source_url": "https://www.loyolaroofing.com/privacy-policy", "ts": "2026-09-06T13:15:56Z"}
 {"name": "Texas", "norm": "texas", "domain": "texasinc.com", "how": "guess:texasinc.com", "source_url": "https://www.loyolaroofing.com/privacy-policy", "ts": "2026-09-06T13:15:56Z"}
 {"name": "Utah", "norm": "utah", "domain": "utah.com", "how": "guess:utah.com", "source_url": "https://www.loyolaroofing.com/privacy-policy", "ts": "2026-09-06T13:15:56Z"}
+{"name": "Arizona", "norm": "arizona", "domain": "drinkarizona.com", "how": "search", "source_url": "https://www.medicaresolutions.com", "ts": "2026-09-06T13:19:42Z"}
+{"name": "0F30784", "norm": "0f30784", "domain": null, "how": "unresolved:search-miss", "source_url": "https://www.medicaresolutions.com", "ts": "2026-09-06T13:19:48Z"}
+{"name": "L003887", "norm": "l003887", "domain": null, "how": "unresolved:search-miss", "source_url": "https://www.medicaresolutions.com", "ts": "2026-09-06T13:19:54Z"}
+{"name": "DOI-633199", "norm": "doi 633199", "domain": null, "how": "unresolved:search-miss", "source_url": "https://www.medicaresolutions.com", "ts": "2026-09-06T13:20:00Z"}
+{"name": "Louisiana", "norm": "louisiana", "domain": "louisiana.io", "how": "guess:louisiana.io", "source_url": "https://www.medicaresolutions.com", "ts": "2026-09-06T13:20:00Z"}
+{"name": "Maine", "norm": "maine", "domain": "maine.com", "how": "guess:maine.com", "source_url": "https://www.medicaresolutions.com", "ts": "2026-09-06T13:20:00Z"}
+{"name": "AGN150231", "norm": "agn150231", "domain": null, "how": "unresolved:search-miss", "source_url": "https://www.medicaresolutions.com", "ts": "2026-09-06T13:20:06Z"}
+{"name": "Massachusetts", "norm": "massachusetts", "domain": "massachusetts.net", "how": "guess:massachusetts.net", "source_url": "https://www.medicaresolutions.com", "ts": "2026-09-06T13:20:06Z"}
+{"name": "Michigan", "norm": "michigan", "domain": "michigan.net", "how": "guess:michigan.net", "source_url": "https://www.medicaresolutions.com", "ts": "2026-09-06T13:20:06Z"}
+{"name": "Mississippi", "norm": "mississippi", "domain": "mississippi.com", "how": "guess:mississippi.com", "source_url": "https://www.medicaresolutions.com", "ts": "2026-09-06T13:20:06Z"}
+{"name": "Nevada", "norm": "nevada", "domain": "nevada.com", "how": "guess:nevada.com", "source_url": "https://www.medicaresolutions.com", "ts": "2026-09-06T13:20:06Z"}
+{"name": "New York", "norm": "new york", "domain": "newyork.com", "how": "guess:newyork.com", "source_url": "https://www.medicaresolutions.com", "ts": "2026-09-06T13:20:06Z"}
+{"name": "North Carolina", "norm": "north carolina", "domain": "north-carolina.com", "how": "guess:north-carolina.com", "source_url": "https://www.medicaresolutions.com", "ts": "2026-09-06T13:20:06Z"}
+{"name": "North Dakota", "norm": "north dakota", "domain": "north-dakota.com", "how": "guess:north-dakota.com", "source_url": "https://www.medicaresolutions.com", "ts": "2026-09-06T13:20:06Z"}
+{"name": "Ohio", "norm": "ohio", "domain": "ohio.net", "how": "guess:ohio.net", "source_url": "https://www.medicaresolutions.com", "ts": "2026-09-06T13:20:06Z"}
+{"name": "Oklahoma", "norm": "oklahoma", "domain": "oklahoma.com", "how": "guess:oklahoma.com", "source_url": "https://www.medicaresolutions.com", "ts": "2026-09-06T13:20:06Z"}
+{"name": "South Carolina", "norm": "south carolina", "domain": "southcarolina.com", "how": "guess:southcarolina.com", "source_url": "https://www.medicaresolutions.com", "ts": "2026-09-06T13:20:06Z"}
+{"name": "South Dakota", "norm": "south dakota", "domain": "southdakota.com", "how": "guess:southdakota.com", "source_url": "https://www.medicaresolutions.com", "ts": "2026-09-06T13:20:06Z"}
+{"name": "Vermont", "norm": "vermont", "domain": "vermont.com", "how": "guess:vermont.com", "source_url": "https://www.medicaresolutions.com", "ts": "2026-09-06T13:20:06Z"}
+{"name": "West Virginia", "norm": "west virginia", "domain": "westvirginia.com", "how": "guess:westvirginia.com", "source_url": "https://www.medicaresolutions.com", "ts": "2026-09-06T13:20:06Z"}
+{"name": "Wyoming", "norm": "wyoming", "domain": "wyoming.com", "how": "guess:wyoming.com", "source_url": "https://www.medicaresolutions.com", "ts": "2026-09-06T13:20:06Z"}
+{"name": "HealthPlanOne", "norm": "healthplanone", "domain": "healthplanone.com", "how": "guess:healthplanone.com", "source_url": "https://www.medicaresolutions.com", "ts": "2026-09-06T13:20:06Z"}
+{"name": "PFFS", "norm": "pffs", "domain": "pffs.net", "how": "guess:pffs.net", "source_url": "https://www.medicaresolutions.com", "ts": "2026-09-06T13:20:06Z"}
+{"name": "IT support", "norm": "it support", "domain": "it-support.com", "how": "guess:it-support.com", "source_url": "https://www.medicaresolutions.com", "ts": "2026-09-06T13:20:06Z"}
+{"name": "A name", "norm": "name", "domain": "name.com", "how": "guess:name.com", "source_url": "https://www.medicaresolutions.com", "ts": "2026-09-06T13:20:06Z"}
+{"name": "Genetic", "norm": "genetic", "domain": "genetic.com", "how": "guess:genetic.com", "source_url": "https://www.medicaresolutions.com", "ts": "2026-09-06T13:20:06Z"}
+{"name": "TITLE", "norm": "title", "domain": "title.com", "how": "guess:title.com", "source_url": "https://www.medicaresolutions.com", "ts": "2026-09-06T13:20:06Z"}
+{"name": "INDIRECT", "norm": "indirect", "domain": "indirect.io", "how": "guess:indirect.io", "source_url": "https://www.medicaresolutions.com", "ts": "2026-09-06T13:20:06Z"}
+{"name": "PUNITIVE", "norm": "punitive", "domain": "punitive.com", "how": "guess:punitive.com", "source_url": "https://www.medicaresolutions.com", "ts": "2026-09-06T13:20:06Z"}
+{"name": "OFFICERS", "norm": "officers", "domain": "officers.net", "how": "guess:officers.net", "source_url": "https://www.medicaresolutions.com", "ts": "2026-09-06T13:20:06Z"}
+{"name": "SUPPLIERS", "norm": "suppliers", "domain": "suppliers.net", "how": "guess:suppliers.net", "source_url": "https://www.medicaresolutions.com", "ts": "2026-09-06T13:20:06Z"}
