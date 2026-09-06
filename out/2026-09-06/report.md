@@ -6,21 +6,21 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | stage | count |
 |---|---|
-| linked-domain candidates | 3 |
+| linked-domain candidates | 0 |
 | search requests | 30 |
-| raw finds (search) | 257 |
+| raw finds (search) | 260 |
 | constructed domains probed | 300 |
-| net-new candidates after exclusion index | 357 |
-|   of which from search | 57 |
+| net-new candidates after exclusion index | 372 |
+|   of which from search | 72 |
 |   of which from probing | 300 |
-| crawled | 357 |
-|   crawl: ok | 41 |
+| crawled | 369 |
+|   crawl: ok | 60 |
 |   crawl: thin | 2 |
-|   crawl: unregistered | 301 |
-|   crawl: unreachable | 10 |
-|   crawl: redirect_offdomain | 3 |
-| probes that resolved to a real site | 0 |
-| v6 classified | 41 |
+|   crawl: unregistered | 292 |
+|   crawl: unreachable | 13 |
+|   crawl: redirect_offdomain | 2 |
+| probes that resolved to a real site | 3 |
+| v6 classified | 60 |
 | carried to next run (unclassified) | 0 |
 | V6 QUALIFIED | 0 |
 
@@ -28,19 +28,19 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | status | count |
 |---|---|
-| ok | 117 |
-| unreachable | 16 |
-| thin | 7 |
-| unregistered | 4 |
-| redirect_offdomain | 4 |
+| ok | 177 |
+| unreachable | 23 |
+| thin | 9 |
+| unregistered | 6 |
+| redirect_offdomain | 5 |
 
 ## v6 qualify rate per discovery channel
 
 | channel | classified | qualified | rate |
 |---|---|---|---|
-| L4-familyB | 29 | 1 | 3.4% |
-| L4-counterparty | 38 | 1 | 2.6% |
-| L7-probe | 5 | 0 | 0.0% |
+| L4-familyB | 50 | 1 | 2.0% |
+| L4-counterparty | 74 | 1 | 1.4% |
+| L7-probe | 8 | 0 | 0.0% |
 | L4-vertical | 43 | 0 | 0.0% |
 | L8-linked | 2 | 0 | 0.0% |
 
@@ -50,14 +50,14 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | reason | count |
 |---|---|
-| unrelated | 47 |
-| lead_or_appointment_pricing | 18 |
-| service_to_call_receiver | 12 |
-| no_clear_signal | 11 |
+| unrelated | 69 |
+| lead_or_appointment_pricing | 36 |
+| no_clear_signal | 16 |
+| service_to_call_receiver | 14 |
+| seo_or_ranking_agency | 13 |
+| software_or_crm | 9 |
 | end_advertiser | 7 |
-| software_or_crm | 6 |
-| directory_or_content | 5 |
-| seo_or_ranking_agency | 5 |
+| directory_or_content | 7 |
 | diy_ads_or_setup | 2 |
 | recruiting | 2 |
 
