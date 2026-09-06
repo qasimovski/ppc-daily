@@ -1,0 +1,3 @@
+{"domain": "chargeback.io", "layer": "L8-linked", "source_url": "https://merchantguard.ai", "source_note": "linked 6x from merchantguard.ai (L4-counterparty)"}
+{"domain": "x402.org", "layer": "L8-linked", "source_url": "https://merchantguard.ai", "source_note": "linked 6x from merchantguard.ai (L4-counterparty)"}
+{"domain": "npmjs.com", "layer": "L8-linked", "source_url": "https://merchantguard.ai", "source_note": "linked 2x from merchantguard.ai (L4-counterparty)"}

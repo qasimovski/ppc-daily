@@ -1,16 +1,16 @@
 {
  "\"accepting new publishers\" calls": {
   "dry_streak": 0,
-  "last_run": "2026-09-05",
-  "new_total": 12,
-  "next_page": 2,
+  "last_run": "2026-09-06",
+  "new_total": 16,
+  "next_page": 3,
   "retired": false
  },
  "\"apply as a call publisher\" credit repair calls": {
-  "dry_streak": 1,
+  "dry_streak": 0,
   "last_run": "2026-09-06",
-  "new_total": 0,
-  "next_page": 1,
+  "new_total": 2,
+  "next_page": 2,
   "retired": false
  },
  "\"apply as a publisher\" calls": {
@@ -21,10 +21,10 @@
   "retired": false
  },
  "\"apply for call supply\" auto accident calls": {
-  "dry_streak": 0,
+  "dry_streak": 1,
   "last_run": "2026-09-06",
   "new_total": 7,
-  "next_page": 1,
+  "next_page": 2,
   "retired": false
  },
  "\"apply for publisher access\"": {
@@ -36,9 +36,9 @@
  },
  "\"apply to become a publisher\" calls": {
   "dry_streak": 0,
-  "last_run": "2026-09-05",
-  "new_total": 8,
-  "next_page": 2,
+  "last_run": "2026-09-06",
+  "new_total": 11,
+  "next_page": 3,
   "retired": false
  },
  "\"become a buyer\" calls publishers": {
@@ -63,10 +63,10 @@
   "retired": false
  },
  "\"become a traffic partner\" medical transport calls": {
-  "dry_streak": 0,
+  "dry_streak": 1,
   "last_run": "2026-09-06",
   "new_total": 5,
-  "next_page": 1,
+  "next_page": 2,
   "retired": false
  },
  "\"call payouts\" publishers": {
@@ -77,18 +77,18 @@
   "retired": true
  },
  "\"join as a call supplier\" water damage calls": {
-  "dry_streak": 1,
+  "dry_streak": 2,
   "last_run": "2026-09-06",
   "new_total": 0,
-  "next_page": 1,
-  "retired": false
+  "next_page": 2,
+  "retired": true
  },
  "\"join as a publisher\" annuity calls": {
-  "dry_streak": 1,
+  "dry_streak": 2,
   "last_run": "2026-09-06",
   "new_total": 0,
-  "next_page": 1,
-  "retired": false
+  "next_page": 2,
+  "retired": true
  },
  "\"join our network\" \"inbound calls\"": {
   "dry_streak": 0,
@@ -106,16 +106,16 @@
  },
  "\"join our publisher network\" calls": {
   "dry_streak": 0,
-  "last_run": "2026-09-05",
-  "new_total": 7,
-  "next_page": 2,
+  "last_run": "2026-09-06",
+  "new_total": 11,
+  "next_page": 3,
   "retired": false
  },
  "\"looking for traffic partners\" calls": {
-  "dry_streak": 0,
-  "last_run": "2026-09-05",
+  "dry_streak": 1,
+  "last_run": "2026-09-06",
   "new_total": 6,
-  "next_page": 2,
+  "next_page": 3,
   "retired": false
  },
  "\"media buyer application\" ACA calls": {
@@ -224,10 +224,10 @@
   "retired": true
  },
  "\"onboard as publisher\" legal calls": {
-  "dry_streak": 0,
+  "dry_streak": 1,
   "last_run": "2026-09-06",
   "new_total": 3,
-  "next_page": 1,
+  "next_page": 2,
   "retired": false
  },
  "\"our verticals\" \"pay per call\"": {
@@ -245,17 +245,17 @@
   "retired": true
  },
  "\"payout terms\" \"per call\"": {
-  "dry_streak": 1,
-  "last_run": "2026-09-05",
-  "new_total": 1,
-  "next_page": 2,
-  "retired": false
- },
- "\"publisher access request\" commercial insurance calls": {
   "dry_streak": 0,
   "last_run": "2026-09-06",
   "new_total": 5,
-  "next_page": 1,
+  "next_page": 3,
+  "retired": false
+ },
+ "\"publisher access request\" commercial insurance calls": {
+  "dry_streak": 1,
+  "last_run": "2026-09-06",
+  "new_total": 5,
+  "next_page": 2,
   "retired": false
  },
  "\"publisher application form\" calls": {
@@ -266,10 +266,10 @@
   "retired": false
  },
  "\"publisher application portal\" DME calls": {
-  "dry_streak": 0,
+  "dry_streak": 1,
   "last_run": "2026-09-06",
   "new_total": 4,
-  "next_page": 1,
+  "next_page": 2,
   "retired": false
  },
  "\"publisher application\" \"pay per call\"": {
@@ -280,31 +280,31 @@
   "retired": false
  },
  "\"publisher intake form\" mortgage refinance calls": {
-  "dry_streak": 1,
+  "dry_streak": 2,
   "last_run": "2026-09-06",
   "new_total": 0,
-  "next_page": 1,
-  "retired": false
+  "next_page": 2,
+  "retired": true
  },
  "\"publisher login\" medicare supplement calls": {
   "dry_streak": 0,
   "last_run": "2026-09-06",
   "new_total": 4,
   "next_page": 2,
-  "retired": false
+  "retired": true
  },
  "\"publisher onboarding form\" SSDI calls": {
-  "dry_streak": 1,
+  "dry_streak": 2,
   "last_run": "2026-09-06",
   "new_total": 0,
-  "next_page": 1,
-  "retired": false
+  "next_page": 2,
+  "retired": true
  },
  "\"publisher onboarding process\" structured settlement calls": {
-  "dry_streak": 0,
+  "dry_streak": 1,
   "last_run": "2026-09-06",
   "new_total": 1,
-  "next_page": 1,
+  "next_page": 2,
   "retired": false
  },
  "\"publisher onboarding\" ACA calls": {
@@ -400,9 +400,9 @@
  },
  "\"publisher onboarding\" tax relief calls": {
   "dry_streak": 0,
-  "last_run": "2026-09-05",
-  "new_total": 3,
-  "next_page": 2,
+  "last_run": "2026-09-06",
+  "new_total": 7,
+  "next_page": 3,
   "retired": false
  },
  "\"publisher onboarding\" towing calls": {
@@ -456,16 +456,16 @@
  },
  "\"publisher portal\" junk cars calls": {
   "dry_streak": 0,
-  "last_run": "2026-09-05",
-  "new_total": 11,
-  "next_page": 2,
+  "last_run": "2026-09-06",
+  "new_total": 15,
+  "next_page": 3,
   "retired": false
  },
  "\"publisher portal\" mass tort calls": {
-  "dry_streak": 0,
-  "last_run": "2026-09-05",
+  "dry_streak": 1,
+  "last_run": "2026-09-06",
   "new_total": 4,
-  "next_page": 2,
+  "next_page": 3,
   "retired": false
  },
  "\"publisher portal\" medicare calls": {
@@ -519,9 +519,9 @@
  },
  "\"publisher portal\" towing calls": {
   "dry_streak": 0,
-  "last_run": "2026-09-05",
-  "new_total": 4,
-  "next_page": 2,
+  "last_run": "2026-09-06",
+  "new_total": 7,
+  "next_page": 3,
   "retired": false
  },
  "\"publisher registration page\" timeshare exit calls": {
@@ -686,11 +686,11 @@
   "retired": false
  },
  "\"publisher signup\" mass tort calls": {
-  "dry_streak": 1,
-  "last_run": "2026-09-05",
+  "dry_streak": 2,
+  "last_run": "2026-09-06",
   "new_total": 1,
-  "next_page": 2,
-  "retired": false
+  "next_page": 3,
+  "retired": true
  },
  "\"publisher signup\" medicare calls": {
   "dry_streak": 2,
@@ -763,17 +763,17 @@
   "retired": true
  },
  "\"submit call traffic\" window replacement calls": {
-  "dry_streak": 0,
+  "dry_streak": 1,
   "last_run": "2026-09-06",
   "new_total": 3,
-  "next_page": 1,
+  "next_page": 2,
   "retired": false
  },
  "\"submit traffic application\" mca calls": {
-  "dry_streak": 0,
+  "dry_streak": 1,
   "last_run": "2026-09-06",
   "new_total": 7,
-  "next_page": 1,
+  "next_page": 2,
   "retired": false
  },
  "\"supply partners\" calls": {
@@ -798,38 +798,38 @@
   "retired": false
  },
  "\"traffic partner intake form\" inbound calls": {
-  "dry_streak": 0,
+  "dry_streak": 1,
   "last_run": "2026-09-06",
   "new_total": 1,
-  "next_page": 1,
+  "next_page": 2,
   "retired": false
  },
  "\"traffic partner login\" solar calls": {
-  "dry_streak": 0,
+  "dry_streak": 1,
   "last_run": "2026-09-06",
   "new_total": 5,
-  "next_page": 1,
+  "next_page": 2,
   "retired": false
  },
  "\"traffic partner onboarding\" home insurance calls": {
-  "dry_streak": 0,
+  "dry_streak": 1,
   "last_run": "2026-09-06",
   "new_total": 1,
-  "next_page": 1,
+  "next_page": 2,
   "retired": false
  },
  "\"traffic partner registration\" tax relief calls": {
-  "dry_streak": 0,
+  "dry_streak": 1,
   "last_run": "2026-09-06",
   "new_total": 2,
-  "next_page": 1,
+  "next_page": 2,
   "retired": false
  },
  "\"traffic partner sign up\" bail bonds calls": {
-  "dry_streak": 0,
+  "dry_streak": 1,
   "last_run": "2026-09-06",
   "new_total": 6,
-  "next_page": 1,
+  "next_page": 2,
   "retired": false
  },
  "\"traffic source application\" debt settlement calls": {
