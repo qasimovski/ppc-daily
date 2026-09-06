@@ -84,11 +84,11 @@
   "retired": true
  },
  "\"apply to supply call inventory\" rehab calls": {
-  "dry_streak": 1,
+  "dry_streak": 2,
   "last_run": "2026-09-06",
   "new_total": 2,
-  "next_page": 2,
-  "retired": false
+  "next_page": 3,
+  "retired": true
  },
  "\"apply to supply call traffic\" legal calls": {
   "dry_streak": 2,
@@ -147,10 +147,10 @@
   "retired": true
  },
  "\"become a call traffic partner\" medical transport calls": {
-  "dry_streak": 0,
+  "dry_streak": 1,
   "last_run": "2026-09-06",
   "new_total": 2,
-  "next_page": 1,
+  "next_page": 2,
   "retired": false
  },
  "\"become a call traffic partner\" tax relief calls": {
@@ -196,11 +196,11 @@
   "retired": false
  },
  "\"call supply onboarding instructions\" pest exclusion calls": {
-  "dry_streak": 1,
+  "dry_streak": 2,
   "last_run": "2026-09-06",
   "new_total": 4,
-  "next_page": 2,
-  "retired": false
+  "next_page": 3,
+  "retired": true
  },
  "\"call supply registration\" personal injury calls": {
   "dry_streak": 2,
@@ -245,11 +245,11 @@
   "retired": true
  },
  "\"call traffic submission form\" medicare supplement calls": {
-  "dry_streak": 1,
+  "dry_streak": 2,
   "last_run": "2026-09-06",
   "new_total": 0,
-  "next_page": 1,
-  "retired": false
+  "next_page": 2,
+  "retired": true
  },
  "\"call traffic supplier application\" auto insurance calls": {
   "dry_streak": 1,
@@ -511,11 +511,11 @@
   "retired": true
  },
  "\"publisher onboarding checklist\" solar calls": {
-  "dry_streak": 1,
+  "dry_streak": 2,
   "last_run": "2026-09-06",
   "new_total": 5,
-  "next_page": 2,
-  "retired": false
+  "next_page": 3,
+  "retired": true
  },
  "\"publisher onboarding form\" SSDI calls": {
   "dry_streak": 2,
@@ -560,11 +560,11 @@
   "retired": true
  },
  "\"publisher onboarding instructions\" mca calls": {
-  "dry_streak": 1,
+  "dry_streak": 2,
   "last_run": "2026-09-06",
   "new_total": 3,
-  "next_page": 2,
-  "retired": false
+  "next_page": 3,
+  "retired": true
  },
  "\"publisher onboarding instructions\" tax debt calls": {
   "dry_streak": 1,
@@ -602,11 +602,11 @@
   "retired": true
  },
  "\"publisher onboarding requirements\" final expense calls": {
-  "dry_streak": 1,
+  "dry_streak": 2,
   "last_run": "2026-09-06",
   "new_total": 0,
-  "next_page": 1,
-  "retired": false
+  "next_page": 2,
+  "retired": true
  },
  "\"publisher onboarding requirements\" mca calls": {
   "dry_streak": 1,
@@ -1071,18 +1071,18 @@
   "retired": true
  },
  "\"request call traffic access\" solar calls": {
-  "dry_streak": 1,
+  "dry_streak": 2,
   "last_run": "2026-09-06",
   "new_total": 3,
-  "next_page": 2,
-  "retired": false
+  "next_page": 3,
+  "retired": true
  },
  "\"request publisher access\" hearing aid calls": {
-  "dry_streak": 1,
+  "dry_streak": 2,
   "last_run": "2026-09-06",
   "new_total": 4,
-  "next_page": 2,
-  "retired": false
+  "next_page": 3,
+  "retired": true
  },
  "\"request publisher access\" mca calls": {
   "dry_streak": 1,
@@ -1127,10 +1127,10 @@
   "retired": true
  },
  "\"submit call supply application\" home warranty calls": {
-  "dry_streak": 0,
+  "dry_streak": 1,
   "last_run": "2026-09-06",
   "new_total": 3,
-  "next_page": 1,
+  "next_page": 2,
   "retired": false
  },
  "\"submit call supply application\" medicare calls": {
@@ -1176,10 +1176,10 @@
   "retired": true
  },
  "\"submit your call traffic\" home insurance calls": {
-  "dry_streak": 0,
+  "dry_streak": 1,
   "last_run": "2026-09-06",
   "new_total": 3,
-  "next_page": 1,
+  "next_page": 2,
   "retired": false
  },
  "\"submit your call traffic\" insurance calls": {
@@ -1190,11 +1190,11 @@
   "retired": true
  },
  "\"submit your inbound call supply\" funeral insurance": {
-  "dry_streak": 1,
+  "dry_streak": 2,
   "last_run": "2026-09-06",
   "new_total": 2,
-  "next_page": 2,
-  "retired": false
+  "next_page": 3,
+  "retired": true
  },
  "\"submit your inbound call traffic\" water damage calls": {
   "dry_streak": 1,
@@ -1344,11 +1344,11 @@
   "retired": true
  },
  "\"traffic partner onboarding instructions\" solar calls": {
-  "dry_streak": 1,
+  "dry_streak": 2,
   "last_run": "2026-09-06",
   "new_total": 1,
-  "next_page": 2,
-  "retired": false
+  "next_page": 3,
+  "retired": true
  },
  "\"traffic partner onboarding packet\" debt settlement calls": {
   "dry_streak": 1,
@@ -1407,11 +1407,11 @@
   "retired": true
  },
  "\"traffic source eligibility\" inbound calls": {
-  "dry_streak": 1,
+  "dry_streak": 2,
   "last_run": "2026-09-06",
   "new_total": 7,
-  "next_page": 2,
-  "retired": false
+  "next_page": 3,
+  "retired": true
  },
  "\"traffic source onboarding form\" structured annuity calls": {
   "dry_streak": 1,
@@ -1428,17 +1428,17 @@
   "retired": false
  },
  "\"traffic source onboarding instructions\" inbound calls": {
-  "dry_streak": 1,
+  "dry_streak": 2,
   "last_run": "2026-09-06",
   "new_total": 5,
-  "next_page": 2,
-  "retired": false
+  "next_page": 3,
+  "retired": true
  },
  "\"traffic source onboarding packet\" debt settlement calls": {
-  "dry_streak": 0,
+  "dry_streak": 1,
   "last_run": "2026-09-06",
   "new_total": 2,
-  "next_page": 1,
+  "next_page": 2,
   "retired": false
  },
  "\"traffic source onboarding packet\" final expense calls": {
@@ -1484,10 +1484,10 @@
   "retired": true
  },
  "\"traffic supply onboarding instructions\" mass tort calls": {
-  "dry_streak": 0,
+  "dry_streak": 1,
   "last_run": "2026-09-06",
   "new_total": 1,
-  "next_page": 1,
+  "next_page": 2,
   "retired": false
  },
  "\"traffic supply onboarding packet\" tax relief calls": {
@@ -1540,11 +1540,11 @@
   "retired": true
  },
  "\"traffic vendor requirements\" live transfers": {
-  "dry_streak": 1,
+  "dry_streak": 2,
   "last_run": "2026-09-06",
   "new_total": 1,
-  "next_page": 2,
-  "retired": false
+  "next_page": 3,
+  "retired": true
  },
  "\"we buy calls for\" -options -stock": {
   "dry_streak": 2,
