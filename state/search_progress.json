@@ -34,6 +34,13 @@
   "next_page": 4,
   "retired": true
  },
+ "\"apply for call supply access\" addiction calls": {
+  "dry_streak": 1,
+  "last_run": "2026-09-06",
+  "new_total": 0,
+  "next_page": 1,
+  "retired": true
+ },
  "\"apply for call supply access\" water damage calls": {
   "dry_streak": 0,
   "last_run": "2026-09-06",
@@ -47,6 +54,13 @@
   "new_total": 7,
   "next_page": 2,
   "retired": true
+ },
+ "\"apply for call traffic supply\" legal calls": {
+  "dry_streak": 0,
+  "last_run": "2026-09-06",
+  "new_total": 3,
+  "next_page": 1,
+  "retired": false
  },
  "\"apply for publisher access\"": {
   "dry_streak": 2,
@@ -67,6 +81,13 @@
   "last_run": "2026-09-06",
   "new_total": 3,
   "next_page": 3,
+  "retired": true
+ },
+ "\"apply to supply inbound calls\" tax relief": {
+  "dry_streak": 1,
+  "last_run": "2026-09-06",
+  "new_total": 0,
+  "next_page": 1,
   "retired": true
  },
  "\"become a buyer\" calls publishers": {
@@ -152,6 +173,13 @@
   "new_total": 2,
   "next_page": 3,
   "retired": true
+ },
+ "\"call traffic onboarding packet\" disaster recovery calls": {
+  "dry_streak": 0,
+  "last_run": "2026-09-06",
+  "new_total": 7,
+  "next_page": 1,
+  "retired": false
  },
  "\"call traffic onboarding\" debt relief calls": {
   "dry_streak": 2,
@@ -461,6 +489,13 @@
   "next_page": 3,
   "retired": true
  },
+ "\"publisher onboarding guide\" pet insurance calls": {
+  "dry_streak": 0,
+  "last_run": "2026-09-06",
+  "new_total": 7,
+  "next_page": 1,
+  "retired": false
+ },
  "\"publisher onboarding guide\" tax debt calls": {
   "dry_streak": 1,
   "last_run": "2026-09-06",
@@ -502,6 +537,13 @@
   "new_total": 1,
   "next_page": 2,
   "retired": true
+ },
+ "\"publisher onboarding requirements\" final expense calls": {
+  "dry_streak": 1,
+  "last_run": "2026-09-06",
+  "new_total": 0,
+  "next_page": 1,
+  "retired": false
  },
  "\"publisher onboarding requirements\" mca calls": {
   "dry_streak": 1,
@@ -965,12 +1007,26 @@
   "next_page": 1,
   "retired": true
  },
+ "\"request publisher access\" hearing aid calls": {
+  "dry_streak": 0,
+  "last_run": "2026-09-06",
+  "new_total": 4,
+  "next_page": 1,
+  "retired": false
+ },
  "\"request publisher access\" mca calls": {
   "dry_streak": 1,
   "last_run": "2026-09-06",
   "new_total": 0,
   "next_page": 1,
   "retired": true
+ },
+ "\"request traffic partner access\" addiction treatment calls": {
+  "dry_streak": 1,
+  "last_run": "2026-09-06",
+  "new_total": 0,
+  "next_page": 1,
+  "retired": false
  },
  "\"sell us your calls\"": {
   "dry_streak": 2,
@@ -985,6 +1041,13 @@
   "new_total": 0,
   "next_page": 1,
   "retired": true
+ },
+ "\"submit call inventory\" home service calls": {
+  "dry_streak": 0,
+  "last_run": "2026-09-06",
+  "new_total": 3,
+  "next_page": 1,
+  "retired": false
  },
  "\"submit call leads\" final expense calls": {
   "dry_streak": 2,
