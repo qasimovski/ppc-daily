@@ -106,8 +106,8 @@
    "new_total": 20
   },
   "\"boberdoo\" site:onlinejobs.ph pay per call": {
-   "next_page": 1,
-   "retired": false,
+   "next_page": 2,
+   "retired": true,
    "new_total": 4
   },
   "\"boberdoo\" site:bebee.com pay per call": {
@@ -121,18 +121,18 @@
    "new_total": 0
   },
   "\"pay per call\" \"media buyer\" site:onlinejobs.ph": {
-   "next_page": 1,
-   "retired": false,
+   "next_page": 2,
+   "retired": true,
    "new_total": 3
   },
   "\"pay per call\" \"media buyer\" site:bebee.com": {
-   "next_page": 1,
+   "next_page": 2,
    "retired": false,
-   "new_total": 9
+   "new_total": 17
   },
   "\"pay per call\" \"affiliate manager\" site:onlinejobs.ph": {
-   "next_page": 1,
-   "retired": false,
+   "next_page": 2,
+   "retired": true,
    "new_total": 1
   },
   "\"pay per call\" \"affiliate manager\" site:bebee.com": {
@@ -231,10 +231,13 @@
   "https://bebee.com/bd/jobs/call-center-sales-agent-onsite-doppcall-affiliate-network--t7xk-789695908",
   "https://bebee.com/bd/jobs/senior-quality-control-agent-call-auditing-ray-advertising--t7xk-759788266",
   "https://bebee.com/ca/jobs/affiliate-manager-creative-clicks-toronto-on--jooble--6992578834787561204",
+  "https://bebee.com/ca/jobs/senior-media-buyer-at-creative-clicks-creative-clicks-toronto-on--jooble--7244004301287901403",
   "https://bebee.com/ca/jobs/senior-media-buyer-creative-clicks-toronto-ontario--t7xk-790945847",
+  "https://bebee.com/ca/jobs/toronto-senior-media-buyer-role-creative-clicks-bv-toronto--jobted-b3f1b15e2a9b7a96aa3f9679dff436a8",
   "https://bebee.com/co/jobs/business-development-affiliate-marketing-manager-crm-runner-medellin-antioquia--t7xk-789868703",
   "https://bebee.com/cr/jobs/client-operations-manager-huzzle-rio-segundo--fj-2288275582",
   "https://bebee.com/dk/jobs/senior-global-affiliate-manager-performance-partnerships-pinpoint7-danmark--techmap_dk_4443256517",
+  "https://bebee.com/in/companies/growth-fusion",
   "https://bebee.com/in/companies/valueleaf-services-india-pvt-ltd/jobs",
   "https://bebee.com/in/jobs/affiliate-adops-manager-clickdee--talent-633684092003753414",
   "https://bebee.com/in/jobs/affiliate-adops-manager-clickdee-gurugram--jobted-ff89e3b5e1907750816a4b50a8dd4405",
@@ -243,9 +246,14 @@
   "https://bebee.com/in/jobs/business-development-executive-valueleaf-services-india-pvt-ltd-bengaluru--fj-2310010690",
   "https://bebee.com/in/jobs/business-development-executive-valueleaf-services-india-pvt-ltd-vasanthanagar--jobmesh-2e67634b-508f-4aa7-b03b-5c79fd8d659a",
   "https://bebee.com/in/jobs/google-ads-pay-per-call-expert-maxclimb-media-gurugram-haryana--t7xk-752443038",
+  "https://bebee.com/in/jobs/media-buyer-dailyhunt-bengaluru--t7xk-771065011",
+  "https://bebee.com/in/jobs/media-buyer-digital-nexon-noida-uttar-pradesh--t7xk-769644905",
   "https://bebee.com/in/jobs/media-buyer-google-adcanopus-digital-media-pvt-ltd-bengaluru-karnataka--t7xk-793764473",
   "https://bebee.com/in/jobs/media-buyer-google-ads-adceptive-media-llc-mohali-district--techmap_in_4450064807",
+  "https://bebee.com/in/jobs/media-buyer-google-ads-mohali-adceptive-media-llc-mohali-district--t7xk-758093701",
   "https://bebee.com/in/jobs/media-buyer-meta-adcanopus-digital-media-pvt-ltd-bengaluru-karnataka--t7xk-793766089",
+  "https://bebee.com/in/jobs/media-buyer-meta-ads-digital-nexon-noida-uttar-pradesh--t7xk-770730687",
+  "https://bebee.com/in/jobs/media-buyer-tech-world-digital-solution-noida--techmap_in_510021181",
   "https://bebee.com/in/jobs/media-buyer-the5co-jamai--bs-in-f3c4de83-1015-45a0-b47c-b1932774df62",
   "https://bebee.com/in/jobs/meta-ads-intern-mohali-adceptive-media-llc-mohali-district--t7xk-816155880",
   "https://bebee.com/in/jobs/pay-per-call-specialist-whalemaven--talent-627646777429536008",

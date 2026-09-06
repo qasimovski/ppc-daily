@@ -40,6 +40,12 @@
   "names_last": 10,
   "ok": false
  },
+ "https://bankrate.com/partner-list": {
+  "first_seen": "2026-09-06",
+  "last_fetched": "",
+  "names_last": 0,
+  "ok": true
+ },
  "https://compareinsurancequotes.com/marketing-partners": {
   "first_seen": "2026-09-06",
   "last_fetched": "2026-09-06",
@@ -92,6 +98,12 @@
   "first_seen": "2026-09-06",
   "last_fetched": "2026-09-06",
   "names_last": 504,
+  "ok": true
+ },
+ "https://nerdwallet.com/our-partners": {
+  "first_seen": "2026-09-06",
+  "last_fetched": "",
+  "names_last": 0,
   "ok": true
  },
  "https://pickmycoverage.com/partners": {
@@ -156,15 +168,15 @@
  },
  "https://shc-p-001.sitecorecontenthub.cloud/api/public/content/fbf1ddb48a494dd781eda113e95a4ba4": {
   "first_seen": "2026-09-06",
-  "last_fetched": "",
-  "names_last": 0,
+  "last_fetched": "2026-09-06",
+  "names_last": 72,
   "ok": true
  },
  "https://solar-quotes.us/privacy-policy": {
   "first_seen": "2026-09-06",
-  "last_fetched": "",
-  "names_last": 0,
-  "ok": true
+  "last_fetched": "2026-09-06",
+  "names_last": 14,
+  "ok": false
  },
  "https://sunkeyinsurance.com/how-to-buy-auto-insurance-online-without-spam-calls-or-hidden-surprises": {
   "first_seen": "2026-09-06",
@@ -264,6 +276,10 @@
   "found": false,
   "probed": "2026-09-06"
  },
+ "seed:bankrate.com": {
+  "found": true,
+  "probed": "2026-09-06"
+ },
  "seed:coveragebeacon.com": {
   "found": true,
   "probed": "2026-09-06"
@@ -310,6 +326,10 @@
  },
  "seed:modernize.com": {
   "found": false,
+  "probed": "2026-09-06"
+ },
+ "seed:nerdwallet.com": {
+  "found": true,
   "probed": "2026-09-06"
  },
  "seed:policyscout.com": {
