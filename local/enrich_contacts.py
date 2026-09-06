@@ -496,9 +496,19 @@ def main():
         cp = clay_people(targets)
         if cp is not None:
             wr(os.path.join(OUT, 'clay_raw.csv'), cp) if cp else None
+            # Kaliper's ICP is 1-20 staff. If Clay shows a big current headcount, the company is
+            # probably over-size (Melon Local: 40+ staff, 2026-09-06): flag it and keep only the
+            # founder / C-level rather than every Director.
+            headcount = collections.Counter(p['domain'] for p in cp if p['domain'])
+            oversize = {d for d, n in headcount.items() if n > 20}
+            for d in oversize:
+                log('   ** %s: Clay lists %d current employees - over Kaliper\'s 1-20 ICP; keeping founders/C-level only' % (d, headcount[d]))
+            EXEC = re.compile(r'\b(founder|co-?founder|owner|ceo|chief|president|managing director|managing partner)\b', re.I)
             n = 0
             for p in cp:
                 ok = p['domain'] and KEEP.search(p['title'] or '') and not DROP.search(p['title'] or '')
+                if ok and p['domain'] in oversize and not EXEC.search(p['title'] or ''): ok = False
+                if p['domain'] in oversize: p['oversize'] = headcount[p['domain']]
                 log('   %-22s %-32s @ %-26s %-22s %s' % ((p['contact_name'] or '')[:22], (p['title'] or '')[:32],
                     (p['company_name'] or '')[:26], (p['location'] or '')[:22], 'KEEP' if ok else 'drop'))
                 if ok: people.append(p); n += 1
