@@ -55,3 +55,8 @@
 {"url":"https://www.linkedin.com/company/callcoremedia","domain":"callcoremedia.com","employer":"CallCore Media, Inc.","verdict":"known"}
 {"url":"https://usa.inquirer.net/200331/best-live-transfer-companies","domain":"quotewizard.com","employer":"WizardCalls (QuoteWizard)","verdict":"known"}
 {"url":"https://www.instagram.com/p/DT-YvYEDCnP/","domain":"ringlabmedia.com","employer":"Ringlab Media","verdict":"known"}
+{"url":"https://mx.linkedin.com/jobs/view/affiliate-manager-at-ray-advertising-4412820551","domain":"rayadvertising.com","employer":"Ray Advertising LLC","verdict":"known"}
+{"url":"https://www.linkedin.com/jobs/view/4422826417/","domain":"missionwealth.com","employer":"Mission Wealth","verdict":"skipped:wealth_management_not_pay_per_call"}
+{"url":"https://rs.linkedin.com/jobs/view/project-manager-%25E2%2580%2593-affiliate-performance-marketing-fully-remote-worldwide-at-a-hiring-group-4301425754","domain":"","employer":"A Hiring Group (unnamed client)","verdict":"skipped:staffing_agency_unnamed_client"}
+{"url":"https://ge.linkedin.com/jobs/view/project-manager-affiliate-performance-marketing-fully-remote-us-business-hours-at-a-hiring-group-4353566226","domain":"","employer":"A Hiring Group (unnamed client)","verdict":"skipped:staffing_agency_unnamed_client"}
+{"url":"https://mx.linkedin.com/jobs/view/affiliate-manager-%25E2%2580%2594-pay-per-call-home-services-at-a-hiring-group-4434052084","domain":"","employer":"A Hiring Group (unnamed client)","verdict":"skipped:staffing_agency_unnamed_client"}
