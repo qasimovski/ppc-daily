@@ -65,3 +65,37 @@ Evidence shows that longer, operational onboarding phrases and explicit call qua
 | "publisher onboarding packet" solar calls | 7 | L4-vertical | The 'onboarding packet' phrase is rare and signals a small network with documented processes. |
 
 New vertical tokens: viaticalsettlement, medigap, floodinsurance, disasterrecovery, taxlien, foreclosuredefense, structuredannuity, ambulancebilling, incometaxhelp, burialpolicy, businessdebt, firecleanup, childsupport, identitytheft
+
+## 2026-09-06T07:29:05Z — forced (gpt-4.1)
+
+The evidence shows that granular, process-driven onboarding phrases (e.g., checklists, guides, requirements, intake forms) are strong signals for small pay-per-call brokers and publishers, especially when paired with call-specific qualifiers and high-value verticals. This batch focuses on layering these onboarding artifacts with both proven and net-new vertical tokens that are brokerable and have not been previously explored. The vertical tokens proposed here extend into adjacent insurance, legal, and health/finance sub-niches that have not yet been measured, while all queries use long, specific onboarding language to maximize discovery of under-the-radar operators. This approach is designed to push the search frontier deeper into the long tail of small, process-oriented call brokers and publishers.
+
+| query | max page | layer | why |
+|---|---|---|---|
+| "traffic supply requirements" live transfer calls | 7 | L4-counterparty | Uses a requirements phrase that small networks often post for onboarding, paired with 'live transfer calls' to ensure call-specific context. |
+| "publisher onboarding checklist" inbound calls | 6 | L4-counterparty | The 'onboarding checklist' phrase is a granular, operational artifact more likely to be published by small, process-oriented brokers. |
+| "traffic vendor onboarding" pay per call | 7 | L4-counterparty | Combines a supply-side onboarding phrase with 'pay per call' for depth into publisher and broker documentation. |
+| "supply partner registration" billable calls | 6 | L4-counterparty | Targets the specific registration language and 'billable calls' qualifier, which is niche and used by small operators. |
+| "join as a traffic supplier" inbound calls | 7 | L4-counterparty | Explicit supply-side invitation language, rarely used by large marketplaces, paired with 'inbound calls'. |
+| "submit your call inventory" insurance calls | 7 | L4-vertical | The 'call inventory' phrase is used by smaller brokers who manage discrete call volumes, with insurance as a high-value vertical. |
+| "traffic partner onboarding packet" live transfer calls | 7 | L4-counterparty | The 'onboarding packet' artifact is a signal of smaller, process-driven networks; 'live transfer calls' ensures call specificity. |
+| "call traffic submission form" debt relief calls | 6 | L4-vertical | A granular submission form phrase, rarely indexed by large networks, paired with a high-value vertical. |
+| "supply traffic intake form" solar calls | 7 | L4-vertical | The intake form phrase is a bottom-funnel onboarding artifact, paired with a brokerable vertical. |
+| "traffic source onboarding packet" final expense calls | 7 | L4-vertical | This phrase targets documentation artifacts used by smaller networks, with a proven vertical. |
+| "publisher eligibility checklist" per call | 5 | L4-counterparty | Eligibility checklists are detailed, compliance-oriented content more likely to be published by small, process-heavy networks. |
+| "submit call supply" personal injury calls | 6 | L4-vertical | Direct supply submission phrase, paired with a legal vertical where small brokers operate. |
+| "become a call traffic partner" tax relief calls | 7 | L4-vertical | Combines a long-tail onboarding phrase with a high-value finance vertical. |
+| "traffic supply application form" moving calls | 6 | L4-vertical | Targets the granular application process, which is a sign of smaller, hands-on networks. |
+| "register as a call supplier" rehab calls | 7 | L4-vertical | The 'register as' phrase is rarely used by large networks, and 'rehab' is a high-value, call-brokerable vertical. |
+| "publisher onboarding requirements" mca calls | 7 | L4-vertical | Requirement lists are a sign of small network process, paired with merchant cash advance for vertical depth. |
+| "traffic partner onboarding guide" auto insurance calls | 6 | L4-vertical | The onboarding guide artifact is rarely indexed by large players, and auto insurance is a proven vertical. |
+| "submit your inbound call traffic" water damage calls | 7 | L4-vertical | Direct submission phrase with a restoration vertical, both productive for small broker discovery. |
+| "publisher onboarding instructions" credit repair calls | 6 | L4-vertical | Instructions artifacts are a sign of small, process-driven networks, paired with a finance vertical. |
+| "traffic source registration form" junk cars calls | 7 | L4-vertical | Registration form phrase is a bottom-funnel onboarding artifact, paired with a proven call-brokerable vertical. |
+| "supply partner onboarding process" medicare supplement calls | 7 | L4-vertical | Onboarding process phrase is used by small networks, and medicare supplement is a high-value vertical. |
+| "apply to supply call traffic" legal calls | 6 | L4-vertical | Explicit supply-side application phrase, paired with a legal vertical for depth. |
+| "traffic partner onboarding checklist" home insurance calls | 7 | L4-vertical | Checklist artifact is a sign of small, organized networks, paired with a brokerable insurance vertical. |
+| "call traffic onboarding guide" commercial insurance calls | 6 | L4-vertical | Onboarding guide phrase with a commercial insurance vertical, both productive for small broker discovery. |
+| "submit your live transfer inventory" SSDI calls | 7 | L4-vertical | Inventory submission phrase is granular and rarely used by large networks, paired with a legal/finance vertical. |
+
+New vertical tokens: hearingaid, catastropheinsurance, medicaidplanning, dentalimplant, taxpreparation, funeralpreplanning, businesscontinuity, disabilityinsurance, longtermdisability, annuitiesbuyout, medicalbilling, timesharecancellation

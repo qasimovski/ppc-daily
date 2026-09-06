@@ -26,13 +26,13 @@
    "new_total": 1
   },
   "\"TrackDrive\" site:linkedin.com/jobs pay per call": {
-   "next_page": 1,
-   "retired": false,
+   "next_page": 2,
+   "retired": true,
    "new_total": 6
   },
   "\"Retreaver\" site:onlinejobs.ph pay per call": {
-   "next_page": 1,
-   "retired": false,
+   "next_page": 2,
+   "retired": true,
    "new_total": 4
   },
   "\"Retreaver\" site:bebee.com pay per call": {
@@ -41,9 +41,9 @@
    "new_total": 0
   },
   "\"Retreaver\" site:linkedin.com/jobs pay per call": {
-   "next_page": 1,
+   "next_page": 2,
    "retired": false,
-   "new_total": 7
+   "new_total": 13
   },
   "\"Phonexa\" site:onlinejobs.ph pay per call": {
    "next_page": 1,
@@ -51,8 +51,8 @@
    "new_total": 0
   },
   "\"Phonexa\" site:bebee.com pay per call": {
-   "next_page": 1,
-   "retired": false,
+   "next_page": 2,
+   "retired": true,
    "new_total": 1
   },
   "\"Phonexa\" site:linkedin.com/jobs pay per call": {
@@ -280,6 +280,7 @@
   "https://co.linkedin.com/jobs/view/client-success-manager-%E2%80%94-pay-per-call-at-agent-calls-4434430602",
   "https://cr.linkedin.com/jobs/view/bilingual-english%E2%80%93russian-sales-customer-support-specialist-remote-at-leadspedia-corporation-4317896010",
   "https://cr.linkedin.com/jobs/view/en-ru-sales-customer-support-specialist-remote-at-leadspedia-corporation-4309654394",
+  "https://fiskal.kemenkeu.go.id",
   "https://ge.linkedin.com/jobs/view/senior-full-stack-engineer-%E2%80%94-call-routing-telecom-ai-at-agent-calls-4424504447",
   "https://in.linkedin.com/jobs/view/qa-specialist-%E2%80%93-pay-per-call-call-quality-at-crossblade-media-llc-4450003133",
   "https://jobright.ai/jobs/info/68d556a539247e3c807ea325",
@@ -294,8 +295,10 @@
   "https://v2.onlinejobs.ph/jobseekers/info/2423104",
   "https://v2.onlinejobs.ph/jobseekers/info/5305499",
   "https://ve.linkedin.com/jobs/view/junior-qa-specialist-pay-per-call-at-a-teamwork-4354035406",
+  "https://www.bbc.co.uk",
   "https://www.facebook.com/WelcomeToXeroxOurVisionYourFuture/posts/buying-calls-affiliatemarketing-publishers-finalexpense-obamacare-transfers-affi/755793726564688/",
   "https://www.facebook.com/doppcallnetwork/posts/publishers-high-converting-mva-live-transfer-campaigndoppcall-is-buying-motor-ve/783523997942577/",
+  "https://www.instagram.com",
   "https://www.instagram.com/p/C_TBUJ7Iy1Q/",
   "https://www.linkedin.com/jobs/ringba-jobs",
   "https://www.linkedin.com/jobs/view/advertiser-account-manager-at-the-aragon-company-4293733530",
@@ -303,6 +306,8 @@
   "https://www.linkedin.com/jobs/view/operations-performance-manager-lead-generation-at-anewhealth-4412963441",
   "https://www.linkedin.com/jobs/view/pay-per-call-account-manager-usa-at-kimia-group-4438316334",
   "https://www.linkedin.com/jobs/view/sr-media-partnerships-manager-pay-per-call-at-lendingtree-4432874010",
+  "https://www.matneoinv.org.uk",
+  "https://www.nytimes.com",
   "https://www.onlinejobs.ph/jobseekers/info/3114997",
   "https://www.onlinejobs.ph/jobseekers/job/AI-Video-UGC-Image-Creation-Expert-Affiliate-Pay-Per-Call-Marketing-1448614",
   "https://www.onlinejobs.ph/jobseekers/job/Affiliate-Manager-1624849",
@@ -327,6 +332,7 @@
   "https://www.remoterocketship.com/country/switzerland/jobs/media-buyer/",
   "https://www.remoterocketship.com/gb/company/hologrowth/jobs/meta-ads-media-buyer-growth-strategist-europe-remote/",
   "https://www.remoterocketship.com/jobs/media-buyer/",
-  "https://www.ringba.com/blog/the-pay-per-call-report-october-8-2021"
+  "https://www.ringba.com/blog/the-pay-per-call-report-october-8-2021",
+  "https://www.youtube.com"
  ]
 }

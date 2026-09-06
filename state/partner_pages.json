@@ -132,14 +132,14 @@
  },
  "https://rocketquote.com/marketing-partners": {
   "first_seen": "2026-09-06",
-  "last_fetched": "",
-  "names_last": 0,
+  "last_fetched": "2026-09-06",
+  "names_last": 461,
   "ok": true
  },
  "https://roofingcalculator.com/privacy-policy": {
   "first_seen": "2026-09-06",
-  "last_fetched": "",
-  "names_last": 0,
+  "last_fetched": "2026-09-06",
+  "names_last": 40,
   "ok": true
  },
  "https://selectmypolicy.com/partners": {
@@ -276,6 +276,10 @@
   "found": false,
   "probed": "2026-09-06"
  },
+ "seed:homeadvisor.com": {
+  "found": false,
+  "probed": "2026-09-06"
+ },
  "seed:insurify.com": {
   "found": false,
   "probed": "2026-09-06"
@@ -294,6 +298,10 @@
  },
  "seed:meetpolicies.com": {
   "found": true,
+  "probed": "2026-09-06"
+ },
+ "seed:modernize.com": {
+  "found": false,
   "probed": "2026-09-06"
  },
  "seed:policyscout.com": {

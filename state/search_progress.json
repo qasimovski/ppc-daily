@@ -21,11 +21,11 @@
   "retired": true
  },
  "\"apply as a call vendor\" inbound calls": {
-  "dry_streak": 1,
+  "dry_streak": 2,
   "last_run": "2026-09-06",
   "new_total": 5,
-  "next_page": 2,
-  "retired": false
+  "next_page": 3,
+  "retired": true
  },
  "\"apply as a publisher\" calls": {
   "dry_streak": 0,
@@ -70,11 +70,11 @@
   "retired": true
  },
  "\"become a call supplier\" medicare calls": {
-  "dry_streak": 1,
+  "dry_streak": 2,
   "last_run": "2026-09-06",
   "new_total": 2,
-  "next_page": 2,
-  "retired": false
+  "next_page": 3,
+  "retired": true
  },
  "\"become a publisher\" \"pay per call\"": {
   "dry_streak": 2,
@@ -112,11 +112,11 @@
   "retired": true
  },
  "\"call traffic onboarding\" debt relief calls": {
-  "dry_streak": 1,
+  "dry_streak": 2,
   "last_run": "2026-09-06",
   "new_total": 2,
-  "next_page": 2,
-  "retired": false
+  "next_page": 3,
+  "retired": true
  },
  "\"call traffic partner registration\" legal calls": {
   "dry_streak": 1,
@@ -336,11 +336,11 @@
   "retired": true
  },
  "\"publisher eligibility requirements\" pay per call": {
-  "dry_streak": 1,
+  "dry_streak": 2,
   "last_run": "2026-09-06",
   "new_total": 5,
-  "next_page": 3,
-  "retired": false
+  "next_page": 4,
+  "retired": true
  },
  "\"publisher intake form\" mortgage refinance calls": {
   "dry_streak": 2,
@@ -371,18 +371,18 @@
   "retired": true
  },
  "\"publisher onboarding guide\" debt settlement calls": {
-  "dry_streak": 1,
+  "dry_streak": 2,
   "last_run": "2026-09-06",
   "new_total": 2,
-  "next_page": 2,
-  "retired": false
+  "next_page": 3,
+  "retired": true
  },
  "\"publisher onboarding packet\" solar calls": {
-  "dry_streak": 1,
+  "dry_streak": 2,
   "last_run": "2026-09-06",
   "new_total": 5,
-  "next_page": 2,
-  "retired": false
+  "next_page": 3,
+  "retired": true
  },
  "\"publisher onboarding process\" home insurance calls": {
   "dry_streak": 2,
@@ -945,11 +945,11 @@
   "retired": true
  },
  "\"traffic partner onboarding form\" inbound calls": {
-  "dry_streak": 1,
+  "dry_streak": 2,
   "last_run": "2026-09-06",
   "new_total": 1,
-  "next_page": 2,
-  "retired": false
+  "next_page": 3,
+  "retired": true
  },
  "\"traffic partner onboarding\" home insurance calls": {
   "dry_streak": 1,
@@ -994,25 +994,25 @@
   "retired": true
  },
  "\"traffic source registration\" live transfer calls": {
-  "dry_streak": 1,
+  "dry_streak": 2,
   "last_run": "2026-09-06",
   "new_total": 4,
-  "next_page": 2,
-  "retired": false
+  "next_page": 3,
+  "retired": true
  },
  "\"traffic supply application\" tax relief calls": {
-  "dry_streak": 1,
+  "dry_streak": 2,
   "last_run": "2026-09-06",
   "new_total": 1,
-  "next_page": 2,
-  "retired": false
+  "next_page": 3,
+  "retired": true
  },
  "\"traffic supply onboarding\" live transfer calls": {
-  "dry_streak": 1,
+  "dry_streak": 2,
   "last_run": "2026-09-06",
   "new_total": 1,
-  "next_page": 2,
-  "retired": false
+  "next_page": 3,
+  "retired": true
  },
  "\"traffic vendor application\" tax debt calls": {
   "dry_streak": 1,
