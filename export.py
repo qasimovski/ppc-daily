@@ -108,10 +108,17 @@ def main(run_date=None, stats=None):
     L.append('All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper\'s v6 gate and '
              'was absent from the exclusion index at the start of the run.\n')
     if stats:
-        L.append('## Funnel\n')
+        L.append('## Funnel — LAST PASS ONLY (a day may have several passes)\n')
         L.append('| stage | count |\n|---|---|')
         for k, v in stats.items(): L.append('| %s | %s |' % (k, v))
         L.append('')
+    L.append('## Day so far (all passes, unique domains)\n')
+    L.append('| stage | count |\n|---|---|')
+    L.append('| candidates crawled | %d |' % len(today))
+    L.append('| crawled ok | %d |' % sum(1 for r in today.values() if r.get('status') == 'ok'))
+    L.append('| v6 classified | %d |' % sum(1 for r in today.values() if r.get('v6')))
+    L.append('| v6 qualified | %d |' % len(q))
+    L.append('')
     L.append('## Crawl outcomes (net-new candidates only)\n')
     L.append('| status | count |\n|---|---|')
     for k, v in st.most_common(): L.append('| %s | %d |' % (k, v))

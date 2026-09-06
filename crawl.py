@@ -48,7 +48,9 @@ COMMON_3P = set('''w3.org schema.org gstatic.com jquery.com bootstrapcdn.com fon
 typeform.com jotform.com wufoo.com mailchimp.com zoom.us wistia.com wixsite.com framer.com webflow.com
 googletagmanager.com google-analytics.com doubleclick.net gravatar.com wp.com w.org unsplash.com
 amazonaws.com cloudfront.net jsdelivr.net unpkg.com cdnjs.com fonts.net adobe.com hotjar.com
-intercom.com drift.com tawk.to zendesk.com freshdesk.com clarity.ms'''.split())
+intercom.com drift.com tawk.to zendesk.com freshdesk.com clarity.ms
+t.me telegram.me telegram.org wa.me whatsapp.com api.whatsapp.com m.me messenger.com skype.com discord.gg
+discord.com linktr.ee bit.ly goo.gl youtu.be fb.com fb.me instagr.am wixstatic.com'''.split())
 
 def microsite_of(ext_links, domain, known):
     """Parent company candidate: a linked domain already in the exclusion index that either shares

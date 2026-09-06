@@ -228,10 +228,15 @@ def main():
     linked_left = sum(1 for _ in read_lines(D.LINKQ)) if os.path.exists(D.LINKQ) else 0
     # ---- 7. replenish the frontier when it is exhausted ---------------------------------
     replenished = (0, 0)
-    if frontier_left == 0 and not probes_left and not linked_left and not os.environ.get('PPC_NO_REPLENISH'):
+    # Replenish when the SEARCH frontier is (nearly) dry, even if constructed-domain probes remain:
+    # the probe space is mostly dead alt-TLD combinations and would otherwise block new phrases
+    # for days (2026-09-06: 2 live queries left, probes yielding 0 live sites, no replenishment).
+    search_dry = (0 <= frontier_left <= 2)
+    if (search_dry or (not probes_left and not linked_left)) and not os.environ.get('PPC_NO_REPLENISH'):
         import replenish as R
-        log('[replenish] frontier exhausted - generating new phrase families and vertical tokens')
-        replenished = R.generate(force=False, dry_run=False, log=log)
+        log('[replenish] %s - generating new phrase families and vertical tokens'
+            % ('search frontier down to %d live queries' % frontier_left if search_dry else 'frontier exhausted'))
+        replenished = R.generate(force=search_dry, dry_run=False, log=log)
         frontier_left = sum(1 for v in D._load_progress().values() if not v.get('retired')) + replenished[0]
         probes_left = len(D.generate_probes(is_known, 1))
     pass_info = {'run_date': RUN_DATE, 'finished_at': time.strftime('%Y-%m-%dT%H:%M:%SZ', time.gmtime()),
