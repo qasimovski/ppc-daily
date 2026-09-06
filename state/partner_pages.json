@@ -356,6 +356,10 @@
   "found": false,
   "probed": "2026-09-06"
  },
+ "seed:ratemarketplace.com": {
+  "found": false,
+  "probed": "2026-09-06"
+ },
  "seed:ratequote.com": {
   "found": true,
   "probed": "2026-09-06"
