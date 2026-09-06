@@ -136,9 +136,9 @@
    "new_total": 1
   },
   "\"pay per call\" \"affiliate manager\" site:bebee.com": {
-   "next_page": 1,
+   "next_page": 2,
    "retired": false,
-   "new_total": 9
+   "new_total": 10
   },
   "\"pay per call\" \"publisher manager\" site:onlinejobs.ph": {
    "next_page": 1,
@@ -151,18 +151,18 @@
    "new_total": 0
   },
   "\"pay per call\" \"call buyer\" site:onlinejobs.ph": {
-   "next_page": 1,
-   "retired": false,
+   "next_page": 2,
+   "retired": true,
    "new_total": 5
   },
   "\"pay per call\" \"call buyer\" site:bebee.com": {
-   "next_page": 1,
-   "retired": false,
+   "next_page": 2,
+   "retired": true,
    "new_total": 10
   },
   "\"pay per call\" \"campaign manager\" site:onlinejobs.ph": {
-   "next_page": 1,
-   "retired": false,
+   "next_page": 2,
+   "retired": true,
    "new_total": 1
   },
   "\"pay per call\" \"campaign manager\" site:bebee.com": {
@@ -261,6 +261,7 @@
   "https://bebee.com/in/jobs/pay-per-call-specialist-whalemaven-gurugram--jobted-3fd5ac1f7ce786e10a59710e8750dd73",
   "https://bebee.com/in/jobs/ppc-specialist-idea-clan-chandigarh-chandigarh--t7xk-782181074",
   "https://bebee.com/in/jobs/qa-specialist-pay-per-call-call-quality-crossblade-media-llc--t7xk-793075723",
+  "https://bebee.com/in/jobs/role/business-development-manager/vasanthanagar",
   "https://bebee.com/in/jobs/strategic-partnerships-manager-direct-advertisers-pay-per-call-clickdee-gurugram--fj-2343128411",
   "https://bebee.com/mx/jobs/client-operations-manager-huzzlecom--t7xk-784702891",
   "https://bebee.com/pk/companies/elite-remotes",

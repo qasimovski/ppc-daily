@@ -42,8 +42,8 @@
  },
  "https://bankrate.com/partner-list": {
   "first_seen": "2026-09-06",
-  "last_fetched": "",
-  "names_last": 0,
+  "last_fetched": "2026-09-06",
+  "names_last": 217,
   "ok": true
  },
  "https://compareinsurancequotes.com/marketing-partners": {
@@ -102,8 +102,8 @@
  },
  "https://nerdwallet.com/our-partners": {
   "first_seen": "2026-09-06",
-  "last_fetched": "",
-  "names_last": 0,
+  "last_fetched": "2026-09-06",
+  "names_last": 5095,
   "ok": true
  },
  "https://pickmycoverage.com/partners": {
@@ -284,6 +284,10 @@
   "found": true,
   "probed": "2026-09-06"
  },
+ "seed:ehealthinsurance.com": {
+  "found": false,
+  "probed": "2026-09-06"
+ },
  "seed:emberhomepros.com": {
   "found": false,
   "probed": "2026-09-06"
@@ -333,6 +337,10 @@
   "probed": "2026-09-06"
  },
  "seed:policyscout.com": {
+  "found": false,
+  "probed": "2026-09-06"
+ },
+ "seed:quotelab.co": {
   "found": false,
   "probed": "2026-09-06"
  },
