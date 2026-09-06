@@ -119,3 +119,13 @@ git pull
 python local/sync_to_ledger.py
 ```
 appends the week's verdicts to the account ledger (backup first, append-only, deduped).
+
+## Second routine: hiring agents (daily, 1 hour, 3 parallel subagents)
+Routine `trig_01WLbgjM8E6FY3F8wAhfz3TR`, cron `0 9 * * *` (09:00 UTC = 14:00 Karachi), same
+environment, tools `Bash, Read, Glob, Grep, Agent`. It does not run `daily_run.py`; it follows
+`agents/HIRING_AGENTS.md`: three subagents on disjoint sources hunt employers whose job postings
+reveal pay-per-call operations (tool names Ringba/TrackDrive/Retreaver/Phonexa, roles like
+pay-per-call media buyer, offshore postings by US operators), check every employer against the
+exclusion index and the shared `state/hiring_agent_seen.jsonl`, and write candidates to
+`state/inbox/`. The 13:00 UTC pipeline session crawls and v6-scores them. TinyFish via
+`tools/tf.py` (free); the only cost is subscription usage for three agents an hour.
