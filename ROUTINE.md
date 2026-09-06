@@ -53,7 +53,7 @@ Create it with `/schedule` (or paste the JSON below via `RemoteTrigger create`).
 | field | value |
 |---|---|
 | name | `ppc-daily sourcing (Kaliper)` |
-| schedule | daily. Suggested `0 1 * * *` = 01:00 UTC = **06:00 Asia/Karachi** |
+| schedule | twice daily: `0 1,13 * * *` = 01:00 and 13:00 UTC = **06:00 and 18:00 Asia/Karachi** |
 | repo | `https://github.com/qasimovski/ppc-daily` |
 | model | `claude-sonnet-5` (coordinator only; the judgment is in the scripts) |
 | tools | `Bash`, `Read`, `Glob`, `Grep` (no `Write`/`Edit` — the agent must not modify scripts) |
@@ -62,7 +62,7 @@ Create it with `/schedule` (or paste the JSON below via `RemoteTrigger create`).
 **Prompt** (the repo's `CLAUDE.md` is loaded automatically and carries the rules):
 
 ```
-Run today's pay-per-call sourcing for Kaliper exactly as CLAUDE.md describes: up to 8
+Run today's pay-per-call sourcing for Kaliper exactly as CLAUDE.md describes: up to 12
 passes. Each pass = `python daily_run.py` in the foreground (no dependencies to install),
 then `cat state/last_pass.json`, then `git add -A state out`, commit as "daily run <today>
 pass <k>: <qualified_this_pass> qualified (today <qualified_today>, cumulative
@@ -82,7 +82,7 @@ and the last pushed commit hash.
 ```json
 {
   "name": "ppc-daily sourcing (Kaliper)",
-  "cron_expression": "0 1 * * *",
+  "cron_expression": "0 1,13 * * *",
   "enabled": true,
   "job_config": {
     "ccr": {
@@ -107,6 +107,8 @@ and the last pushed commit hash.
 ## Budget per run
 - TinyFish Search: free (45 requests, ~1.7 min at the 30/min ceiling).
 - OpenAI gpt-4.1-mini: a fraction of a cent per classified company; typically < $0.10/day.
+- Per day: 2 sessions x up to 12 passes x ~5-8 min = up to ~3.5 hours of discovery. A session
+  stops early when a pass reports nothing_left_to_do.
 - Wall clock: `RUN_MINUTES=8` default, because a single Bash command in a cloud session is
   capped at 10 minutes. The run checkpoints per item and carries unfinished v6 work forward,
   so a cut-off never loses verdicts. Do not raise `RUN_MINUTES` above 9 for the routine.

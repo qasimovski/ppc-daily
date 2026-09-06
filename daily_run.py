@@ -48,7 +48,7 @@ LOG = os.path.join(ROOT, 'out', 'run.log')
 # ~2 min search (25%), crawl done by ~5 min (65%), v6 gets the rest, export in seconds.
 # Measured locally: 150 probes + 8 searches + 23 v6 calls = 2.5 min. Raise via env vars
 # only when running somewhere without that cap.
-RUN_MINUTES = float(os.environ.get('RUN_MINUTES', '8'))
+RUN_MINUTES = float(os.environ.get('RUN_MINUTES', '7'))
 SEARCH_BUDGET = int(os.environ.get('SEARCH_BUDGET', '45'))
 PROBE_BUDGET = int(os.environ.get('PROBE_BUDGET', '300'))
 CRAWL_WORKERS = int(os.environ.get('CRAWL_WORKERS', '16'))
@@ -121,10 +121,30 @@ def main():
 
     carry = [r for r in read_jsonl(PENDING) if r.get('domain') not in evaluated]
     if carry: log('[carry] %d crawled-but-unclassified candidates from a previous run' % len(carry))
+    # candidates discovered but not crawled before the previous pass's deadline go first
+    PENDING_CRAWL = os.path.join(STATE, 'pending_crawl.jsonl')
+    for r in read_jsonl(PENDING_CRAWL):
+        if r.get('domain') and not is_known(r['domain']) and r['domain'] not in seen_today:
+            seen_today.add(r['domain']); cands.append(r)
+    if cands: log('[carry] %d discovered-but-uncrawled candidates from a previous pass' % len(cands))
+    with io.open(PENDING_CRAWL, 'w', encoding='utf-8') as f: pass
 
     inbox_n = D.run_inbox(emit, log)
     stats['inbox candidates'] = inbox_n
-    search_deadline = min(deadline, t0 + 0.25 * RUN_MINUTES * 60)
+    # permanent channels added 2026-09-06 (measured best of five agent-tested approaches)
+    import partners as P, hiring as H
+    ch_deadline = min(deadline, t0 + 0.30 * RUN_MINUTES * 60)
+    try:
+        ps = P.run(emit, is_known, ch_deadline, log)
+        stats['partner-list names resolved -> candidates'] = '%d -> %d' % (ps['resolved'], ps['emitted'])
+    except Exception as e:
+        log('[partners] channel error %s: %s' % (type(e).__name__, str(e)[:200]))
+    try:
+        hs = H.run(emit, is_known, min(deadline, t0 + 0.40 * RUN_MINUTES * 60), log)
+        stats['hiring postings read -> candidates'] = '%d -> %d' % (hs['postings'], hs['emitted'])
+    except Exception as e:
+        log('[hiring] channel error %s: %s' % (type(e).__name__, str(e)[:200]))
+    search_deadline = min(deadline, t0 + 0.50 * RUN_MINUTES * 60)
     used = D.run_search(emit, is_known, SEARCH_BUDGET, search_deadline, log)
     linked = D.run_linked(emit, is_known, int(os.environ.get('LINKED_BUDGET', '60')), log)
     probes = D.run_probe(emit, is_known, PROBE_BUDGET, log)
@@ -140,8 +160,8 @@ def main():
            stats['raw finds (search)'] - stats['  of which from search']))
 
     # ---- 3. crawl -------------------------------------------------------------------
-    # Budget split: crawl must end by 65% of the wall clock so v6 always gets its turn.
-    crawl_deadline = min(deadline, t0 + 0.65 * RUN_MINUTES * 60)
+    # Budget split: crawl must end by 75% of the wall clock so v6 always gets its turn.
+    crawl_deadline = min(deadline, t0 + 0.75 * RUN_MINUTES * 60)
     DEAD_PROBE = {'unregistered', 'unreachable', 'parked', 'redirect_offdomain'}
     crawled, to_v6 = {}, list(carry)
     def on_crawled(res):
@@ -160,20 +180,25 @@ def main():
             rec = {k: v for k, v in res.items() if k != 'text'}
             append_jsonl(EVAL, rec); evaluated.add(d)
     if cands and time.time() < crawl_deadline:
-        # probes first: they are the cheap, high-yield channel and mostly fail fast
+        # probes first (cheap, mostly fail fast), then carried-over and channel candidates
         order = sorted(cands, key=lambda r: 0 if r['layer'].startswith('L7') else 1)
-        with cf.ThreadPoolExecutor(max_workers=CRAWL_WORKERS) as ex:
-            futs = {ex.submit(C.crawl_one, r): r for r in order}
-            n = 0
-            try:
-                for fut in cf.as_completed(futs, timeout=max(30, crawl_deadline - time.time())):
-                    n += 1
-                    try: on_crawled(fut.result())
-                    except Exception as e: log('[crawl] error %s' % e)
-                    if n % 50 == 0: log('[crawl] %d/%d' % (n, len(cands)))
-            except cf.TimeoutError:
-                log('[crawl] time budget hit at %d/%d; remainder is dropped (not marked known)' % (n, len(cands)))
-                for f in futs: f.cancel()
+        ex = cf.ThreadPoolExecutor(max_workers=CRAWL_WORKERS)
+        futs = {ex.submit(C.crawl_one, r): r for r in order}
+        n = 0
+        try:
+            for fut in cf.as_completed(futs, timeout=max(30, crawl_deadline - time.time())):
+                n += 1
+                try: on_crawled(fut.result())
+                except Exception as e: log('[crawl] error %s' % e)
+                if n % 50 == 0: log('[crawl] %d/%d' % (n, len(cands)))
+            ex.shutdown(wait=True)
+        except cf.TimeoutError:
+            # do not wait for slow fetches: cut the pool, carry the uncrawled to the next pass
+            ex.shutdown(wait=False, cancel_futures=True)
+            left_over = [r for f, r in futs.items() if r['domain'] not in crawled]
+            with io.open(PENDING_CRAWL, 'a', encoding='utf-8') as f:
+                for r in left_over: f.write(json.dumps(r, ensure_ascii=False) + '\n')
+            log('[crawl] time budget hit at %d/%d; %d candidates carried to the next pass' % (n, len(cands), len(left_over)))
     # every probe that was crawled is recorded as probed, live or not
     D.mark_probed([d for d in probes if d in crawled])
     # outbound links of live sites -> candidates for the next pass
@@ -211,6 +236,7 @@ def main():
         for r in left: f.write(json.dumps(r, ensure_ascii=False) + '\n')
     stats['v6 classified'] = len(to_v6) - len(left)
     stats['carried to next run (unclassified)'] = len(left)
+    stats['carried to next run (uncrawled)'] = sum(1 for _ in read_lines(PENDING_CRAWL))
     stats['V6 QUALIFIED'] = len(qualified)
 
     # ---- 5. export ------------------------------------------------------------------
@@ -250,7 +276,9 @@ def main():
                  'qualified_today': res['qualified'], 'cumulative_qualified': res['cumulative'],
                  'search_queries_still_active': frontier_left, 'probe_space_remaining': bool(probes_left),
                  'carried_to_next_pass': len(left),
+                 'uncrawled_carried': stats['carried to next run (uncrawled)'],
                  'nothing_left_to_do': (len(cands) == 0 and len(left) == 0 and linked_left == 0
+                                        and stats['carried to next run (uncrawled)'] == 0
                                         and not probes_left and frontier_left == 0)}
     json.dump(pass_info, io.open(os.path.join(STATE, 'last_pass.json'), 'w', encoding='utf-8'), indent=1)
     log('PASS_RESULT ' + json.dumps(pass_info))

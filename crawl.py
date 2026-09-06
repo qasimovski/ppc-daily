@@ -154,10 +154,12 @@ def crawl_one(rec):
     is_probe = (rec.get('layer') or '').startswith('L7')
     if not resolves(d):
         return {**rec, 'status': 'unregistered', 'text': '', 'pages': 0}
-    getter = (lambda u, timeout: fast_get(u, timeout)) if is_probe else L.http_get
+    # single-attempt fetches for everyone: ppclib.http_get's 3x exponential retry made a pass
+    # of 42 live sites take 7 minutes (2026-09-06); one attempt with an 8s timeout is enough
+    getter = lambda u, timeout: fast_get(u, timeout)
     home_url, home_raw, errs = None, '', []
     for cand in ('https://' + d, 'https://www.' + d, 'http://' + d):
-        fu, raw, e = getter(cand, timeout=8 if is_probe else 12)
+        fu, raw, e = getter(cand, timeout=8)
         errs.append(e)
         if raw and len(raw) > 300:
             home_url, home_raw = fu, raw; break
@@ -186,7 +188,7 @@ def crawl_one(rec):
                      r'service|offer|vertical|network|about|contact)', p):
             if u not in picked: picked.append(u)
     for u in picked[:MAX_PAGES - 1]:
-        fu, raw, e = L.http_get(u, timeout=10)
+        fu, raw, e = fast_get(u, timeout=8)
         if raw and len(raw) > 300: pages.append((fu, raw))
     if len(pages) < MAX_PAGES:
         base = home_url.rstrip('/')
@@ -194,7 +196,7 @@ def crawl_one(rec):
         for p in PROBE:
             if len(pages) >= MAX_PAGES: break
             if p in have: continue
-            fu, raw, e = L.http_get(base + p, timeout=8)
+            fu, raw, e = fast_get(base + p, timeout=6)
             if raw and len(raw) > 300: pages.append((fu, raw))
     all_raw = '\n'.join(r for _, r in pages)
     infra = [n for n, t in L.detect_infra(all_raw)]

@@ -13,12 +13,12 @@ Background, if you need it (do not re-derive it): `prompts/AUDIT_runs1-2.md`,
 `prompts/NOTES_run3.md`, `prompts/NOTES_run4.md`.
 
 ## The daily procedure — exactly this
-One session = up to **8 passes**. Each pass is one foreground `python daily_run.py` (sized to
+One session = up to **12 passes**. Each pass is one foreground `python daily_run.py` (sized to
 finish inside your 10-minute Bash cap) followed immediately by a commit and push. The script
 resumes from committed state, so pass 2 continues exactly where pass 1 stopped.
 
 ```
-for pass in 1..8:
+for pass in 1..12:
     python daily_run.py                       # no dependencies: standard library only
     cat state/last_pass.json                  # machine-readable result of this pass
     git add -A state out
@@ -30,6 +30,12 @@ Read `out/<today>/report.md` once at the end; it aggregates every pass of the da
 State and outputs in git ARE the persistence layer — a pass whose results are not pushed is a
 pass that did not happen, and the next one re-sources the same companies. Never skip the
 commit between passes to "batch" them.
+
+## Discovery channels inside every pass (all automatic)
+search frontier (TinyFish), constructed-domain probes, linked domains, `partners.py` (TCPA
+"marketing partners" disclosure pages on quote sites -> company names -> verified domains) and
+`hiring.py` (tool-name job postings on OnlineJobs.ph / bebee / LinkedIn -> employer domains).
+The two routine runs a day (01:00 and 13:00 UTC) each do up to 12 passes; all state is in git.
 
 ## Self-replenishing frontier (automatic — you never edit the phrase lists)
 When a pass finds every search query retired, no constructed domain left to probe and no
@@ -71,7 +77,7 @@ Full). If `daily_run.py` aborts with "outbound HTTP is blocked", or fetches fail
 verbatim, do not work around it, and do not commit anything.
 
 ## What to report at the end (this is the whole deliverable)
-0. Passes run and why the loop stopped (8 passes, or nothing_left_to_do, or a failure).
+0. Passes run and why the loop stopped (12 passes, or nothing_left_to_do, or a failure).
    If any pass replenished the frontier, list the new phrases/tokens from `state/frontier_log.md`.
 1. Qualified today / ICP-clean today / cumulative.
 2. Funnel: search requests, raw finds, killed by index, probed, resolved, crawled ok, classified.
