@@ -10,7 +10,10 @@
   "\"marketing partners\" \"home services\" \"may contact you\"",
   "\"partner companies\" \"may call\" health insurance quotes",
   "\"marketing partners\" \"debt relief\" \"may contact\"",
-  "\"marketing partners\" \"auto warranty\" quotes"
+  "\"marketing partners\" \"auto warranty\" quotes",
+  "\"marketing partners\" roofing quotes \"may contact\"",
+  "\"marketing partners\" \"windows\" quotes \"may contact you\"",
+  "\"marketing partners\" \"life insurance\" \"may contact you\""
  ],
  "http://www.usfinalexpenseguard.com": {
   "first_seen": "2026-09-06",
@@ -20,8 +23,8 @@
  },
  "https://14.us-unemployment-resources.com/marketing-partners": {
   "first_seen": "2026-09-06",
-  "last_fetched": "",
-  "names_last": 0,
+  "last_fetched": "2026-09-06",
+  "names_last": 336,
   "ok": true
  },
  "https://affordableseniorsinsurance.com/marketing-partners": {
@@ -38,8 +41,8 @@
  },
  "https://compareinsurancequotes.com/marketing-partners": {
   "first_seen": "2026-09-06",
-  "last_fetched": "",
-  "names_last": 0,
+  "last_fetched": "2026-09-06",
+  "names_last": 294,
   "ok": true
  },
  "https://coveragebeacon.com/marketing-partners": {
@@ -70,6 +73,12 @@
   "first_seen": "2026-09-06",
   "last_fetched": "2026-09-06",
   "names_last": 258,
+  "ok": true
+ },
+ "https://mariosroofing.com/privacy-policy": {
+  "first_seen": "2026-09-06",
+  "last_fetched": "",
+  "names_last": 0,
   "ok": true
  },
  "https://meetinsured.com/marketing-partners": {
@@ -126,6 +135,12 @@
   "names_last": 0,
   "ok": true
  },
+ "https://roofingcalculator.com/privacy-policy": {
+  "first_seen": "2026-09-06",
+  "last_fetched": "",
+  "names_last": 0,
+  "ok": true
+ },
  "https://selectmypolicy.com/partners": {
   "first_seen": "2026-09-06",
   "last_fetched": "",
@@ -174,13 +189,31 @@
   "names_last": 0,
   "ok": true
  },
+ "https://wowhealthinsight.com/marketing-partners.html": {
+  "first_seen": "2026-09-06",
+  "last_fetched": "",
+  "names_last": 0,
+  "ok": true
+ },
  "https://www.cal-solar.coop/privacy-policy": {
   "first_seen": "2026-09-06",
   "last_fetched": "",
   "names_last": 0,
   "ok": true
  },
+ "https://www.coveragebeacon.com/marketing-partners": {
+  "first_seen": "2026-09-06",
+  "last_fetched": "",
+  "names_last": 0,
+  "ok": true
+ },
  "https://www.lifestation.com/medical-alert-systems/chronic-pain": {
+  "first_seen": "2026-09-06",
+  "last_fetched": "",
+  "names_last": 0,
+  "ok": true
+ },
+ "https://www.loyolaroofing.com/privacy-policy": {
   "first_seen": "2026-09-06",
   "last_fetched": "",
   "names_last": 0,
@@ -216,6 +249,10 @@
   "names_last": 0,
   "ok": true
  },
+ "seed:adfluential.com": {
+  "found": false,
+  "probed": "2026-09-06"
+ },
  "seed:coveragebeacon.com": {
   "found": true,
   "probed": "2026-09-06"
@@ -234,6 +271,10 @@
  },
  "seed:meetpolicies.com": {
   "found": true,
+  "probed": "2026-09-06"
+ },
+ "seed:policyscout.com": {
+  "found": false,
   "probed": "2026-09-06"
  },
  "seed:quotelab.com": {

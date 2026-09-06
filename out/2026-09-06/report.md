@@ -7,44 +7,45 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | stage | count |
 |---|---|
 | inbox candidates | 0 |
-| partner-list names resolved -> candidates | 17 -> 10 |
+| partner-list names resolved -> candidates | 36 -> 25 |
 | hiring postings read -> candidates | 10 -> 3 |
 | linked-domain candidates | 0 |
-| search requests | 0 |
-| raw finds (search) | 22 |
+| search requests | 7 |
+| raw finds (search) | 61 |
 | constructed domains probed | 300 |
-| net-new candidates after exclusion index | 313 |
-|   of which from search | 13 |
+| net-new candidates after exclusion index | 338 |
+|   of which from search | 38 |
 |   of which from probing | 300 |
-| crawled | 313 |
-|   crawl: ok | 13 |
-|   crawl: thin | 1 |
-|   crawl: unregistered | 294 |
+| crawled | 338 |
+|   crawl: ok | 30 |
+|   crawl: thin | 2 |
+|   crawl: unregistered | 295 |
 |   crawl: unreachable | 4 |
-|   crawl: redirect_offdomain | 1 |
+|   crawl: parked | 2 |
+|   crawl: redirect_offdomain | 5 |
 | probes that resolved to a real site | 0 |
-| v6 classified | 13 |
+| v6 classified | 30 |
 | carried to next run (unclassified) | 0 |
 | carried to next run (uncrawled) | 0 |
-| V6 QUALIFIED | 0 |
+| V6 QUALIFIED | 1 |
 
 ## Day so far (all passes, unique domains)
 
 | stage | count |
 |---|---|
-| candidates crawled | 426 |
-| crawled ok | 339 |
-| v6 classified | 339 |
-| v6 qualified | 12 |
+| candidates crawled | 464 |
+| crawled ok | 369 |
+| v6 classified | 369 |
+| v6 qualified | 13 |
 
 ## Crawl outcomes (net-new candidates only)
 
 | status | count |
 |---|---|
-| ok | 339 |
-| unreachable | 37 |
-| thin | 21 |
-| redirect_offdomain | 21 |
+| ok | 369 |
+| unreachable | 38 |
+| redirect_offdomain | 26 |
+| thin | 23 |
 | unregistered | 8 |
 
 ## v6 qualify rate per discovery channel
@@ -57,24 +58,24 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | L9-registry | 21 | 4 | 19.0% |
 | L8-linked | 11 | 1 | 9.1% |
 | L4-familyB | 50 | 1 | 2.0% |
-| L4-counterparty | 114 | 2 | 1.8% |
+| L4-counterparty | 121 | 2 | 1.7% |
+| L10-partners | 80 | 1 | 1.2% |
 | L7-probe | 21 | 0 | 0.0% |
-| L4-vertical | 43 | 0 | 0.0% |
-| L10-partners | 62 | 0 | 0.0% |
-| L10-hiring | 6 | 0 | 0.0% |
+| L4-vertical | 45 | 0 | 0.0% |
+| L10-hiring | 9 | 0 | 0.0% |
 
-**V6 QUALIFIED TODAY: 12** (ICP-clean: 10). Cumulative across all daily runs: 30.
+**V6 QUALIFIED TODAY: 13** (ICP-clean: 11). Cumulative across all daily runs: 31.
 
 ## Why candidates failed v6
 
 | reason | count |
 |---|---|
-| unrelated | 109 |
-| lead_or_appointment_pricing | 91 |
-| no_clear_signal | 35 |
-| seo_or_ranking_agency | 25 |
-| service_to_call_receiver | 23 |
-| end_advertiser | 15 |
+| unrelated | 120 |
+| lead_or_appointment_pricing | 98 |
+| no_clear_signal | 36 |
+| seo_or_ranking_agency | 28 |
+| service_to_call_receiver | 24 |
+| end_advertiser | 21 |
 | software_or_crm | 14 |
 | directory_or_content | 8 |
 | recruiting | 4 |
@@ -97,6 +98,7 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | Harmony Leads, Inc | harmonyleads.com | 90 | lead generation and live call transfers to buyers |  |  | geo unknown |
 | Instant Lead Source | instantleadsource.com | 90 | pay-per-call lead generation services for agents | yes |  | geo unknown |
 | iFuze Marketing | ifuzemarketing.com | 90 | digital marketing services including lead generation and live ph |  | United States |  |
+| ICI Global Media | iciglobalmedia.com | 85 | pay-per-call advertising network connecting buyers and publisher | yes |  | geo unknown |
 
 ## Files
 

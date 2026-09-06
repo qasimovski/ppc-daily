@@ -129,23 +129,52 @@
    "next_page": 1,
    "retired": false,
    "new_total": 9
+  },
+  "\"pay per call\" \"affiliate manager\" site:onlinejobs.ph": {
+   "next_page": 1,
+   "retired": false,
+   "new_total": 1
+  },
+  "\"pay per call\" \"affiliate manager\" site:bebee.com": {
+   "next_page": 1,
+   "retired": false,
+   "new_total": 9
+  },
+  "\"pay per call\" \"publisher manager\" site:onlinejobs.ph": {
+   "next_page": 1,
+   "retired": true,
+   "new_total": 0
+  },
+  "\"pay per call\" \"publisher manager\" site:bebee.com": {
+   "next_page": 1,
+   "retired": true,
+   "new_total": 0
   }
  },
  "seen_urls": [
   "https://bebee.com/ar/jobs/ai-automation-engineer-tort-experts--ss-ar-1yf1hcc",
+  "https://bebee.com/ca/jobs/affiliate-manager-creative-clicks-toronto-on--jooble--6992578834787561204",
   "https://bebee.com/ca/jobs/senior-media-buyer-creative-clicks-toronto-ontario--t7xk-790945847",
+  "https://bebee.com/co/jobs/business-development-affiliate-marketing-manager-crm-runner-medellin-antioquia--t7xk-789868703",
   "https://bebee.com/cr/jobs/client-operations-manager-huzzle-rio-segundo--fj-2288275582",
+  "https://bebee.com/dk/jobs/senior-global-affiliate-manager-performance-partnerships-pinpoint7-danmark--techmap_dk_4443256517",
+  "https://bebee.com/in/companies/valueleaf-services-india-pvt-ltd/jobs",
   "https://bebee.com/in/jobs/affiliate-adops-manager-clickdee--talent-633684092003753414",
   "https://bebee.com/in/jobs/affiliate-media-buyer-2-years-experience-required-digital-nexon-delhi--t7xk-819450747",
   "https://bebee.com/in/jobs/affiliate-media-buyer-digital-nexon-delhi--jobs-sea-4190304243",
+  "https://bebee.com/in/jobs/business-development-executive-valueleaf-services-india-pvt-ltd-bengaluru--fj-2310010690",
   "https://bebee.com/in/jobs/media-buyer-google-adcanopus-digital-media-pvt-ltd-bengaluru-karnataka--t7xk-793764473",
   "https://bebee.com/in/jobs/media-buyer-google-ads-adceptive-media-llc-mohali-district--techmap_in_4450064807",
   "https://bebee.com/in/jobs/media-buyer-the5co-jamai--bs-in-f3c4de83-1015-45a0-b47c-b1932774df62",
+  "https://bebee.com/in/jobs/pay-per-call-specialist-whalemaven--talent-627646777429536008",
+  "https://bebee.com/in/jobs/pay-per-call-specialist-whalemaven-gurugram--jobmesh-64196d38-52bf-4795-8f1c-349b1a322b8d",
   "https://bebee.com/in/jobs/qa-specialist-pay-per-call-call-quality-crossblade-media-llc--t7xk-793075723",
   "https://bebee.com/in/jobs/strategic-partnerships-manager-direct-advertisers-pay-per-call-clickdee-gurugram--fj-2343128411",
   "https://bebee.com/mx/jobs/client-operations-manager-huzzlecom--t7xk-784702891",
   "https://bebee.com/pk/companies/elite-remotes",
+  "https://bebee.com/us/companies/the-aragon-company",
   "https://bebee.com/us/jobs/affiliate-manager-click-thesis-llc-coral-springs-fl--t7xk-789828359",
+  "https://bebee.com/us/jobs/affiliate-manager-for-leadbank-paper-call-platform-a-hiring-group-los-angeles--ss-us-16c0ucy",
   "https://bebee.com/us/jobs/business-development-manager-the-aragon-company-new-york-ny--t7xk-791389651",
   "https://bebee.com/us/jobs/customer-success-associate-leadspedia-inc-franklin-tn--t7xk-808309192",
   "https://bebee.com/us/jobs/director-performance-marketing-expandiq--t7xk-755820069",
@@ -170,6 +199,7 @@
   "https://www.linkedin.com/jobs/view/pay-per-call-account-manager-usa-at-kimia-group-4438316334",
   "https://www.linkedin.com/jobs/view/sr-media-partnerships-manager-pay-per-call-at-lendingtree-4432874010",
   "https://www.onlinejobs.ph/jobseekers/info/3114997",
+  "https://www.onlinejobs.ph/jobseekers/job/Affiliate-Manager-1624849",
   "https://www.onlinejobs.ph/jobseekers/job/Facebook-Media-Buyer-1270887",
   "https://www.onlinejobs.ph/jobseekers/job/Full-Stack-Media-Buyer-1638937",
   "https://www.onlinejobs.ph/jobseekers/job/Keitaro-Tracker-Support-1484442",
