@@ -149,6 +149,26 @@
    "next_page": 1,
    "retired": true,
    "new_total": 0
+  },
+  "\"pay per call\" \"call buyer\" site:onlinejobs.ph": {
+   "next_page": 1,
+   "retired": false,
+   "new_total": 5
+  },
+  "\"pay per call\" \"call buyer\" site:bebee.com": {
+   "next_page": 1,
+   "retired": false,
+   "new_total": 10
+  },
+  "\"pay per call\" \"campaign manager\" site:onlinejobs.ph": {
+   "next_page": 1,
+   "retired": false,
+   "new_total": 1
+  },
+  "\"pay per call\" \"campaign manager\" site:bebee.com": {
+   "next_page": 1,
+   "retired": false,
+   "new_total": 2
   }
  },
  "seen_urls": [
@@ -163,8 +183,10 @@
   "https://bebee.com/in/jobs/affiliate-media-buyer-2-years-experience-required-digital-nexon-delhi--t7xk-819450747",
   "https://bebee.com/in/jobs/affiliate-media-buyer-digital-nexon-delhi--jobs-sea-4190304243",
   "https://bebee.com/in/jobs/business-development-executive-valueleaf-services-india-pvt-ltd-bengaluru--fj-2310010690",
+  "https://bebee.com/in/jobs/business-development-executive-valueleaf-services-india-pvt-ltd-vasanthanagar--jobmesh-2e67634b-508f-4aa7-b03b-5c79fd8d659a",
   "https://bebee.com/in/jobs/media-buyer-google-adcanopus-digital-media-pvt-ltd-bengaluru-karnataka--t7xk-793764473",
   "https://bebee.com/in/jobs/media-buyer-google-ads-adceptive-media-llc-mohali-district--techmap_in_4450064807",
+  "https://bebee.com/in/jobs/media-buyer-meta-adcanopus-digital-media-pvt-ltd-bengaluru-karnataka--t7xk-793766089",
   "https://bebee.com/in/jobs/media-buyer-the5co-jamai--bs-in-f3c4de83-1015-45a0-b47c-b1932774df62",
   "https://bebee.com/in/jobs/pay-per-call-specialist-whalemaven--talent-627646777429536008",
   "https://bebee.com/in/jobs/pay-per-call-specialist-whalemaven-gurugram--jobmesh-64196d38-52bf-4795-8f1c-349b1a322b8d",
@@ -178,6 +200,9 @@
   "https://bebee.com/us/jobs/business-development-manager-the-aragon-company-new-york-ny--t7xk-791389651",
   "https://bebee.com/us/jobs/customer-success-associate-leadspedia-inc-franklin-tn--t7xk-808309192",
   "https://bebee.com/us/jobs/director-performance-marketing-expandiq--t7xk-755820069",
+  "https://bebee.com/us/jobs/inside-sales-account-manager-pay-per-call-lead-generation-leadledger--techmap_us_ZjOPLdCHBmxcb7KTK9o5KuMWsLwKvJH02ZSJCEMTf9jYoupgk0QYEw",
+  "https://bebee.com/us/jobs/media-broker-edmleadnetwork--predictleads-4f0e2fcd-3b78-4c83-89c5-06e1068dedd9",
+  "https://bebee.com/us/jobs/on-call-mobile-security-rapid-response-paid-per-call-cytesecurity-los-angeles--pureheal-28528_23106_b5e19ab1ced380ead5733b2041124ade",
   "https://bebee.com/us/jobs/pay-per-call-account-manager-usa-kimia-group--t7xk-814465965",
   "https://bebee.com/us/jobs/performance-media-buyer-3-little-birds-interactive-los-angeles--lensa-7428_089ab5eaaff2f2b5a9f32971e6a2c9c51dc1efdca79235d0dc68159ce01f5840",
   "https://bebee.com/us/jobs/ppc-media-buyer-sbc-performance--lensa-2365_d2fca402ac5c63bc709b02d635ead6ddb7f1bf11e104b97c5956392b17676de4",
@@ -190,6 +215,7 @@
   "https://ph.linkedin.com/jobs/view/account-manager-at-voax-media-4425326506",
   "https://pk.linkedin.com/jobs/view/ringba-tech-support-specialist-at-primestaff-4395873013",
   "https://rs.linkedin.com/jobs/view/project-manager-%E2%80%93-affiliate-performance-marketing-fully-remote-worldwide-at-a-hiring-group-4301425754",
+  "https://v2.onlinejobs.ph/jobseekers/info/2423104",
   "https://v2.onlinejobs.ph/jobseekers/info/5305499",
   "https://ve.linkedin.com/jobs/view/junior-qa-specialist-pay-per-call-at-a-teamwork-4354035406",
   "https://www.linkedin.com/jobs/ringba-jobs",
@@ -199,6 +225,7 @@
   "https://www.linkedin.com/jobs/view/pay-per-call-account-manager-usa-at-kimia-group-4438316334",
   "https://www.linkedin.com/jobs/view/sr-media-partnerships-manager-pay-per-call-at-lendingtree-4432874010",
   "https://www.onlinejobs.ph/jobseekers/info/3114997",
+  "https://www.onlinejobs.ph/jobseekers/job/AI-Video-UGC-Image-Creation-Expert-Affiliate-Pay-Per-Call-Marketing-1448614",
   "https://www.onlinejobs.ph/jobseekers/job/Affiliate-Manager-1624849",
   "https://www.onlinejobs.ph/jobseekers/job/Facebook-Media-Buyer-1270887",
   "https://www.onlinejobs.ph/jobseekers/job/Full-Stack-Media-Buyer-1638937",
@@ -207,9 +234,12 @@
   "https://www.onlinejobs.ph/jobseekers/job/Media-Buyer-Lead-Generation-and-Pay-Per-Call-Facebook-Google-TikTok-1081815",
   "https://www.onlinejobs.ph/jobseekers/job/Media-Buyer-PPC-Google-Bing-Call-Only-Ads-1462384",
   "https://www.onlinejobs.ph/jobseekers/job/Media-Buyer-RemoteOverseas-1528773",
+  "https://www.onlinejobs.ph/jobseekers/job/Operations-Communications-VA-Pay-Per-Call-Industry-1660581",
   "https://www.onlinejobs.ph/jobseekers/job/Quality-Controller-Pay-Per-Call-1344805",
   "https://www.onlinejobs.ph/jobseekers/job/Senior-VoIP-Telecom-Engineer-to-Build-Twilio-Scale-Dialer-Routing-LCR-Platform-FreeSWITCH-1542293",
+  "https://www.onlinejobs.ph/jobseekers/job/b2b-outbound-sales-specialist-home-services-1709223",
   "https://www.onlinejobs.ph/jobseekers/job/media-buying-fb-tt-1705560",
-  "https://www.onlinejobs.ph/jobseekers/job/pay-per-lead-media-buyer-1718975"
+  "https://www.onlinejobs.ph/jobseekers/job/pay-per-lead-media-buyer-1718975",
+  "https://www.onlinejobs.ph/jobseekers/job/senior-meta-media-buyer-lead-generation-direct-response-1720496"
  ]
 }

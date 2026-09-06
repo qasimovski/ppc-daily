@@ -13,7 +13,8 @@
   "\"marketing partners\" \"auto warranty\" quotes",
   "\"marketing partners\" roofing quotes \"may contact\"",
   "\"marketing partners\" \"windows\" quotes \"may contact you\"",
-  "\"marketing partners\" \"life insurance\" \"may contact you\""
+  "\"marketing partners\" \"life insurance\" \"may contact you\"",
+  "\"insurance partners\" \"may contact you at the number\" list"
  ],
  "http://www.usfinalexpenseguard.com": {
   "first_seen": "2026-09-06",
@@ -59,8 +60,8 @@
  },
  "https://fastautoquote.org/marketing-partners": {
   "first_seen": "2026-09-06",
-  "last_fetched": "",
-  "names_last": 0,
+  "last_fetched": "2026-09-06",
+  "names_last": 3067,
   "ok": true
  },
  "https://koalatywindows.com/quote": {
@@ -77,8 +78,8 @@
  },
  "https://mariosroofing.com/privacy-policy": {
   "first_seen": "2026-09-06",
-  "last_fetched": "",
-  "names_last": 0,
+  "last_fetched": "2026-09-06",
+  "names_last": 21,
   "ok": true
  },
  "https://meetinsured.com/marketing-partners": {
@@ -172,6 +173,12 @@
   "ok": true
  },
  "https://theseniorquotes.com/partners": {
+  "first_seen": "2026-09-06",
+  "last_fetched": "",
+  "names_last": 0,
+  "ok": true
+ },
+ "https://theswitchboardmarketing.com/marketing-partners": {
   "first_seen": "2026-09-06",
   "last_fetched": "",
   "names_last": 0,
@@ -295,6 +302,14 @@
  },
  "seed:seniorinsuranceshopping.com": {
   "found": false,
+  "probed": "2026-09-06"
+ },
+ "seed:smarthomequotes.com": {
+  "found": false,
+  "probed": "2026-09-06"
+ },
+ "seed:theswitchboardmarketing.com": {
+  "found": true,
   "probed": "2026-09-06"
  },
  "seed:viva-leads.com": {

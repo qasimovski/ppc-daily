@@ -97,6 +97,13 @@
   "next_page": 2,
   "retired": true
  },
+ "\"call supply registration\" personal injury calls": {
+  "dry_streak": 0,
+  "last_run": "2026-09-06",
+  "new_total": 2,
+  "next_page": 1,
+  "retired": false
+ },
  "\"call traffic supplier application\" auto insurance calls": {
   "dry_streak": 1,
   "last_run": "2026-09-06",
@@ -790,6 +797,13 @@
   "next_page": 4,
   "retired": true
  },
+ "\"request publisher access\" mca calls": {
+  "dry_streak": 1,
+  "last_run": "2026-09-06",
+  "new_total": 0,
+  "next_page": 1,
+  "retired": true
+ },
  "\"sell us your calls\"": {
   "dry_streak": 2,
   "last_run": "2026-09-05",
@@ -809,6 +823,13 @@
   "last_run": "2026-09-06",
   "new_total": 7,
   "next_page": 2,
+  "retired": true
+ },
+ "\"submit your call traffic\" insurance calls": {
+  "dry_streak": 1,
+  "last_run": "2026-09-06",
+  "new_total": 0,
+  "next_page": 1,
   "retired": true
  },
  "\"submit your live transfer calls\" medicare supplement": {
