@@ -18,7 +18,7 @@
   "last_run": "2026-09-06",
   "new_total": 12,
   "next_page": 4,
-  "retired": false
+  "retired": true
  },
  "\"apply for call supply\" auto accident calls": {
   "dry_streak": 1,
@@ -39,7 +39,7 @@
   "last_run": "2026-09-06",
   "new_total": 13,
   "next_page": 5,
-  "retired": false
+  "retired": true
  },
  "\"become a buyer\" calls publishers": {
   "dry_streak": 0,
@@ -58,8 +58,8 @@
  "\"become a publisher\" calls": {
   "dry_streak": 0,
   "last_run": "2026-09-06",
-  "new_total": 29,
-  "next_page": 5,
+  "new_total": 35,
+  "next_page": 6,
   "retired": false
  },
  "\"become a traffic partner\" medical transport calls": {
@@ -93,15 +93,15 @@
  "\"join our network\" \"inbound calls\"": {
   "dry_streak": 0,
   "last_run": "2026-09-06",
-  "new_total": 16,
-  "next_page": 4,
+  "new_total": 21,
+  "next_page": 5,
   "retired": false
  },
  "\"join our network\" \"pay per call\"": {
-  "dry_streak": 1,
+  "dry_streak": 0,
   "last_run": "2026-09-06",
-  "new_total": 3,
-  "next_page": 5,
+  "new_total": 5,
+  "next_page": 6,
   "retired": false
  },
  "\"join our publisher network\" calls": {
@@ -277,7 +277,7 @@
   "last_run": "2026-09-06",
   "new_total": 2,
   "next_page": 4,
-  "retired": false
+  "retired": true
  },
  "\"publisher intake form\" mortgage refinance calls": {
   "dry_streak": 2,
@@ -781,7 +781,7 @@
   "last_run": "2026-09-06",
   "new_total": 19,
   "next_page": 4,
-  "retired": false
+  "retired": true
  },
  "\"top payouts\" \"pay per call\"": {
   "dry_streak": 2,
@@ -858,7 +858,7 @@
   "last_run": "2026-09-06",
   "new_total": 6,
   "next_page": 5,
-  "retired": false
+  "retired": true
  },
  "\"we buy inbound calls\"": {
   "dry_streak": 2,

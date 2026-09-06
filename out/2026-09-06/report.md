@@ -6,31 +6,30 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | stage | count |
 |---|---|
-| linked-domain candidates | 9 |
-| search requests | 10 |
-| raw finds (search) | 83 |
+| linked-domain candidates | 1 |
+| search requests | 3 |
+| raw finds (search) | 32 |
 | constructed domains probed | 300 |
-| net-new candidates after exclusion index | 325 |
-|   of which from search | 25 |
+| net-new candidates after exclusion index | 314 |
+|   of which from search | 14 |
 |   of which from probing | 300 |
-| crawled | 325 |
-|   crawl: ok | 20 |
-|   crawl: thin | 2 |
-|   crawl: unregistered | 298 |
+| crawled | 314 |
+|   crawl: ok | 13 |
+|   crawl: thin | 1 |
+|   crawl: unregistered | 296 |
 |   crawl: unreachable | 4 |
-|   crawl: redirect_offdomain | 1 |
 | probes that resolved to a real site | 1 |
-| v6 classified | 20 |
+| v6 classified | 13 |
 | carried to next run (unclassified) | 0 |
-| V6 QUALIFIED | 1 |
+| V6 QUALIFIED | 0 |
 
 ## Crawl outcomes (net-new candidates only)
 
 | status | count |
 |---|---|
-| ok | 197 |
-| unreachable | 26 |
-| thin | 11 |
+| ok | 210 |
+| unreachable | 28 |
+| thin | 12 |
 | unregistered | 8 |
 | redirect_offdomain | 6 |
 
@@ -40,8 +39,8 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 |---|---|---|---|
 | L8-linked | 8 | 1 | 12.5% |
 | L4-familyB | 50 | 1 | 2.0% |
-| L4-counterparty | 87 | 1 | 1.1% |
-| L7-probe | 9 | 0 | 0.0% |
+| L4-counterparty | 99 | 1 | 1.0% |
+| L7-probe | 10 | 0 | 0.0% |
 | L4-vertical | 43 | 0 | 0.0% |
 
 **V6 QUALIFIED TODAY: 3** (ICP-clean: 2). Cumulative across all daily runs: 21.
@@ -50,14 +49,14 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | reason | count |
 |---|---|
-| unrelated | 76 |
-| lead_or_appointment_pricing | 43 |
-| no_clear_signal | 17 |
-| seo_or_ranking_agency | 16 |
+| unrelated | 79 |
+| lead_or_appointment_pricing | 47 |
+| no_clear_signal | 19 |
+| seo_or_ranking_agency | 17 |
 | service_to_call_receiver | 14 |
-| software_or_crm | 9 |
-| end_advertiser | 8 |
-| directory_or_content | 7 |
+| software_or_crm | 10 |
+| end_advertiser | 9 |
+| directory_or_content | 8 |
 | diy_ads_or_setup | 2 |
 | recruiting | 2 |
 
