@@ -55,6 +55,13 @@
   "next_page": 2,
   "retired": true
  },
+ "\"apply for call traffic supply\" commercial auto insurance calls": {
+  "dry_streak": 1,
+  "last_run": "2026-09-06",
+  "new_total": 0,
+  "next_page": 1,
+  "retired": true
+ },
  "\"apply for call traffic supply\" legal calls": {
   "dry_streak": 0,
   "last_run": "2026-09-06",
@@ -90,6 +97,13 @@
   "next_page": 3,
   "retired": true
  },
+ "\"apply to supply calls\" commercial insurance": {
+  "dry_streak": 0,
+  "last_run": "2026-09-06",
+  "new_total": 3,
+  "next_page": 1,
+  "retired": false
+ },
  "\"apply to supply inbound calls\" tax relief": {
   "dry_streak": 1,
   "last_run": "2026-09-06",
@@ -112,10 +126,10 @@
   "retired": true
  },
  "\"become a call supplier\" business continuity calls": {
-  "dry_streak": 0,
+  "dry_streak": 1,
   "last_run": "2026-09-06",
   "new_total": 5,
-  "next_page": 1,
+  "next_page": 2,
   "retired": false
  },
  "\"become a call supplier\" medicare calls": {
@@ -175,17 +189,17 @@
   "retired": true
  },
  "\"call supply onboarding form\" personal injury calls": {
-  "dry_streak": 0,
+  "dry_streak": 1,
   "last_run": "2026-09-06",
   "new_total": 6,
-  "next_page": 1,
+  "next_page": 2,
   "retired": false
  },
  "\"call supply onboarding instructions\" pest exclusion calls": {
-  "dry_streak": 0,
+  "dry_streak": 1,
   "last_run": "2026-09-06",
   "new_total": 4,
-  "next_page": 1,
+  "next_page": 2,
   "retired": false
  },
  "\"call supply registration\" personal injury calls": {
@@ -229,6 +243,13 @@
   "new_total": 0,
   "next_page": 1,
   "retired": true
+ },
+ "\"call traffic submission form\" medicare supplement calls": {
+  "dry_streak": 1,
+  "last_run": "2026-09-06",
+  "new_total": 0,
+  "next_page": 1,
+  "retired": false
  },
  "\"call traffic supplier application\" auto insurance calls": {
   "dry_streak": 1,
@@ -490,10 +511,10 @@
   "retired": true
  },
  "\"publisher onboarding checklist\" solar calls": {
-  "dry_streak": 0,
+  "dry_streak": 1,
   "last_run": "2026-09-06",
   "new_total": 5,
-  "next_page": 1,
+  "next_page": 2,
   "retired": false
  },
  "\"publisher onboarding form\" SSDI calls": {
@@ -1049,6 +1070,13 @@
   "next_page": 1,
   "retired": true
  },
+ "\"request call traffic access\" solar calls": {
+  "dry_streak": 0,
+  "last_run": "2026-09-06",
+  "new_total": 3,
+  "next_page": 1,
+  "retired": false
+ },
  "\"request publisher access\" hearing aid calls": {
   "dry_streak": 0,
   "last_run": "2026-09-06",
@@ -1064,11 +1092,11 @@
   "retired": true
  },
  "\"request traffic partner access\" addiction treatment calls": {
-  "dry_streak": 1,
+  "dry_streak": 2,
   "last_run": "2026-09-06",
   "new_total": 0,
-  "next_page": 1,
-  "retired": false
+  "next_page": 2,
+  "retired": true
  },
  "\"sell us your calls\"": {
   "dry_streak": 2,
@@ -1161,6 +1189,13 @@
   "next_page": 1,
   "retired": true
  },
+ "\"submit your inbound call supply\" funeral insurance": {
+  "dry_streak": 0,
+  "last_run": "2026-09-06",
+  "new_total": 2,
+  "next_page": 1,
+  "retired": false
+ },
  "\"submit your inbound call traffic\" water damage calls": {
   "dry_streak": 1,
   "last_run": "2026-09-06",
@@ -1190,6 +1225,13 @@
   "retired": true
  },
  "\"supply partner application form\" identity theft calls": {
+  "dry_streak": 1,
+  "last_run": "2026-09-06",
+  "new_total": 0,
+  "next_page": 1,
+  "retired": true
+ },
+ "\"supply partner onboarding form\" mca calls": {
   "dry_streak": 1,
   "last_run": "2026-09-06",
   "new_total": 0,
@@ -1243,6 +1285,13 @@
   "last_run": "2026-09-06",
   "new_total": 5,
   "next_page": 2,
+  "retired": true
+ },
+ "\"traffic partner eligibility\" per call": {
+  "dry_streak": 1,
+  "last_run": "2026-09-06",
+  "new_total": 0,
+  "next_page": 1,
   "retired": true
  },
  "\"traffic partner intake form\" inbound calls": {
@@ -1357,6 +1406,27 @@
   "next_page": 1,
   "retired": true
  },
+ "\"traffic source eligibility\" inbound calls": {
+  "dry_streak": 0,
+  "last_run": "2026-09-06",
+  "new_total": 7,
+  "next_page": 1,
+  "retired": false
+ },
+ "\"traffic source onboarding form\" structured annuity calls": {
+  "dry_streak": 0,
+  "last_run": "2026-09-06",
+  "new_total": 7,
+  "next_page": 1,
+  "retired": false
+ },
+ "\"traffic source onboarding instructions\" funeral preplanning calls": {
+  "dry_streak": 0,
+  "last_run": "2026-09-06",
+  "new_total": 7,
+  "next_page": 1,
+  "retired": false
+ },
  "\"traffic source onboarding instructions\" inbound calls": {
   "dry_streak": 0,
   "last_run": "2026-09-06",
@@ -1454,6 +1524,13 @@
   "new_total": 0,
   "next_page": 1,
   "retired": false
+ },
+ "\"traffic vendor onboarding guide\" towing calls": {
+  "dry_streak": 1,
+  "last_run": "2026-09-06",
+  "new_total": 0,
+  "next_page": 1,
+  "retired": true
  },
  "\"traffic vendor onboarding\" pay per call": {
   "dry_streak": 2,
