@@ -99,3 +99,35 @@ The evidence shows that granular, process-driven onboarding phrases (e.g., check
 | "submit your live transfer inventory" SSDI calls | 7 | L4-vertical | Inventory submission phrase is granular and rarely used by large networks, paired with a legal/finance vertical. |
 
 New vertical tokens: hearingaid, catastropheinsurance, medicaidplanning, dentalimplant, taxpreparation, funeralpreplanning, businesscontinuity, disabilityinsurance, longtermdisability, annuitiesbuyout, medicalbilling, timesharecancellation
+
+## 2026-09-06T13:13:23Z — forced (gpt-4.1)
+
+Evidence shows that long, onboarding-specific phrases with vertical call qualifiers consistently drive deeper, net-new discovery of small pay-per-call operators, while generic or short marketplace language fails quickly. This batch focuses on onboarding documentation variants (instructions, packets, guides, eligibility, requirements, submission forms) not yet run, and targets new verticals or vertical/phrase combinations not previously measured. The vertical tokens list extends into less-saturated but still call-brokerable niches (e.g., ambulancebilling, viaticalsettlement, petinsurance) and includes tokens with low or zero prior discovery but clear economic value for calls. The approach is designed to surface small, process-driven networks and brokers with formal but non-corporate onboarding, maximizing the chance of net-new finds for Kaliper's GTM needs.
+
+| query | max page | layer | why |
+|---|---|---|---|
+| "traffic source onboarding instructions" inbound calls | 7 | L4-counterparty | Small operators often use 'onboarding instructions' in their documentation for new call traffic sources, a phrase not yet run and likely to surface self-serve or semi-automated platforms. |
+| "direct call traffic submission" insurance calls | 6 | L4-vertical | The phrase 'direct call traffic submission' is a long-tail onboarding variant likely used by niche pay-per-call brokers and is absent from prior runs. |
+| "submit call supply application" medicare calls | 5 | L4-vertical | Combines a long onboarding phrase with a high-value vertical, targeting small shops with formalized but not generic intake. |
+| "traffic vendor requirements" live transfers | 7 | L4-counterparty | This phrase targets the compliance/requirements documentation that small networks post for traffic vendors, a shape not previously run. |
+| "supply call traffic onboarding" debt relief calls | 6 | L4-vertical | This onboarding phrase is specific and verticalized, likely to surface smaller operators with structured intake. |
+| "publisher onboarding packet" auto insurance calls | 5 | L4-vertical | Packet-based onboarding is a phrase used by smaller networks with formal but manual processes; not yet run in this vertical. |
+| "traffic partner eligibility" per call | 7 | L4-counterparty | Eligibility language is used by networks screening for quality; this phrase is absent from prior runs and targets small, process-driven operators. |
+| "apply to supply calls" commercial insurance | 5 | L4-vertical | This onboarding phrase is not yet run in this vertical and is likely to surface small commercial insurance call brokers. |
+| "submit your call traffic" home insurance calls | 6 | L4-vertical | This phrase is a productive long-tail onboarding variant not yet run for home insurance, likely to surface small supply-side networks. |
+| "traffic supply onboarding packet" tax relief calls | 5 | L4-vertical | Combines a productive onboarding phrase with a high-value vertical, targeting small operators with formal intake. |
+| "publisher onboarding instructions" mca calls | 6 | L4-vertical | Instructions-based onboarding is a phrase likely to surface small merchant cash advance call brokers with structured but non-corporate processes. |
+| "call traffic submission form" medicare supplement calls | 5 | L4-vertical | Submission form language is common among small operators; this variant is net-new for medicare supplement. |
+| "apply for call traffic supply" legal calls | 6 | L4-vertical | A long, formal onboarding phrase for legal calls, not previously run and likely to surface boutique legal call brokers. |
+| "publisher onboarding requirements" final expense calls | 7 | L4-vertical | Requirements-based onboarding is a phrase used by small, compliance-driven call brokers; this variant is net-new for final expense. |
+| "traffic partner onboarding instructions" solar calls | 6 | L4-vertical | Instructions-based onboarding is likely to surface small solar call brokers with formal intake processes. |
+| "call supply onboarding form" personal injury calls | 5 | L4-vertical | Form-based onboarding is a productive shape, and this variant is net-new for personal injury. |
+| "traffic source eligibility" inbound calls | 7 | L4-counterparty | Eligibility language is used by small networks to screen sources; this variant is net-new and likely to surface niche operators. |
+| "submit call inventory" home service calls | 6 | L4-vertical | Inventory submission is a phrase used by small aggregators; this variant is net-new for home service. |
+| "publisher onboarding guide" tax debt calls | 7 | L4-vertical | Guide-based onboarding is a phrase used by small, process-driven call brokers; this variant is net-new for tax debt. |
+| "apply for call supply access" addiction calls | 5 | L4-vertical | Access-based onboarding is a phrase used by small operators in sensitive verticals; this variant is net-new for addiction. |
+| "traffic vendor onboarding guide" towing calls | 6 | L4-vertical | Guide-based onboarding is a productive phrase and is net-new for towing. |
+| "traffic source onboarding packet" debt settlement calls | 5 | L4-vertical | Packet-based onboarding is a phrase used by small, process-driven networks; this variant is net-new for debt settlement. |
+| "publisher onboarding checklist" solar calls | 7 | L4-vertical | Checklist-based onboarding is a phrase used by small solar call brokers; this variant is net-new. |
+| "apply to supply call inventory" rehab calls | 6 | L4-vertical | Inventory-based onboarding is a phrase used by small rehab call brokers; this variant is net-new. |
+| "traffic supply onboarding instructions" mass tort calls | 7 | L4-vertical | Instructions-based onboarding is a phrase used by small mass tort call brokers; this variant is net-new. |

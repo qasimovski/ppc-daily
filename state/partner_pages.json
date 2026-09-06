@@ -216,14 +216,14 @@
  },
  "https://www.cal-solar.coop/privacy-policy": {
   "first_seen": "2026-09-06",
-  "last_fetched": "",
-  "names_last": 0,
-  "ok": true
+  "last_fetched": "2026-09-06",
+  "names_last": 2,
+  "ok": false
  },
  "https://www.coveragebeacon.com/marketing-partners": {
   "first_seen": "2026-09-06",
-  "last_fetched": "",
-  "names_last": 0,
+  "last_fetched": "2026-09-06",
+  "names_last": 70,
   "ok": true
  },
  "https://www.lifestation.com/medical-alert-systems/chronic-pain": {
