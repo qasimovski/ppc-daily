@@ -144,14 +144,14 @@
  },
  "https://selectmypolicy.com/partners": {
   "first_seen": "2026-09-06",
-  "last_fetched": "",
-  "names_last": 0,
+  "last_fetched": "2026-09-06",
+  "names_last": 4325,
   "ok": true
  },
  "https://seniorsadvantages.us/marketing-partners": {
   "first_seen": "2026-09-06",
-  "last_fetched": "",
-  "names_last": 0,
+  "last_fetched": "2026-09-06",
+  "names_last": 489,
   "ok": true
  },
  "https://shc-p-001.sitecorecontenthub.cloud/api/public/content/fbf1ddb48a494dd781eda113e95a4ba4": {
@@ -260,6 +260,10 @@
   "found": false,
   "probed": "2026-09-06"
  },
+ "seed:assurance.com": {
+  "found": false,
+  "probed": "2026-09-06"
+ },
  "seed:coveragebeacon.com": {
   "found": true,
   "probed": "2026-09-06"
@@ -281,6 +285,10 @@
   "probed": "2026-09-06"
  },
  "seed:insurify.com": {
+  "found": false,
+  "probed": "2026-09-06"
+ },
+ "seed:lendingtree.com": {
   "found": false,
   "probed": "2026-09-06"
  },

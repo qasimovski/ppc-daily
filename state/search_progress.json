@@ -909,6 +909,13 @@
   "next_page": 4,
   "retired": true
  },
+ "\"supply traffic intake form\" solar calls": {
+  "dry_streak": 0,
+  "last_run": "2026-09-06",
+  "new_total": 4,
+  "next_page": 1,
+  "retired": false
+ },
  "\"top payouts\" \"pay per call\"": {
   "dry_streak": 2,
   "last_run": "2026-09-05",
@@ -944,11 +951,25 @@
   "next_page": 2,
   "retired": true
  },
+ "\"traffic partner onboarding checklist\" home insurance calls": {
+  "dry_streak": 0,
+  "last_run": "2026-09-06",
+  "new_total": 5,
+  "next_page": 1,
+  "retired": false
+ },
  "\"traffic partner onboarding form\" inbound calls": {
   "dry_streak": 2,
   "last_run": "2026-09-06",
   "new_total": 1,
   "next_page": 3,
+  "retired": true
+ },
+ "\"traffic partner onboarding guide\" auto insurance calls": {
+  "dry_streak": 1,
+  "last_run": "2026-09-06",
+  "new_total": 0,
+  "next_page": 1,
   "retired": true
  },
  "\"traffic partner onboarding\" home insurance calls": {
@@ -999,6 +1020,13 @@
   "new_total": 4,
   "next_page": 3,
   "retired": true
+ },
+ "\"traffic supply application form\" moving calls": {
+  "dry_streak": 0,
+  "last_run": "2026-09-06",
+  "new_total": 7,
+  "next_page": 1,
+  "retired": false
  },
  "\"traffic supply application\" tax relief calls": {
   "dry_streak": 2,

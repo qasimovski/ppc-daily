@@ -56,8 +56,8 @@
    "new_total": 1
   },
   "\"Phonexa\" site:linkedin.com/jobs pay per call": {
-   "next_page": 1,
-   "retired": false,
+   "next_page": 2,
+   "retired": true,
    "new_total": 3
   },
   "\"CallerReady\" site:onlinejobs.ph pay per call": {
@@ -91,19 +91,19 @@
    "new_total": 0
   },
   "\"LeadsPedia\" site:onlinejobs.ph pay per call": {
-   "next_page": 1,
-   "retired": false,
+   "next_page": 2,
+   "retired": true,
    "new_total": 1
   },
   "\"LeadsPedia\" site:bebee.com pay per call": {
-   "next_page": 1,
-   "retired": false,
+   "next_page": 2,
+   "retired": true,
    "new_total": 5
   },
   "\"LeadsPedia\" site:linkedin.com/jobs pay per call": {
-   "next_page": 1,
+   "next_page": 2,
    "retired": false,
-   "new_total": 10
+   "new_total": 20
   },
   "\"boberdoo\" site:onlinejobs.ph pay per call": {
    "next_page": 1,
@@ -302,7 +302,17 @@
   "https://www.instagram.com/p/C_TBUJ7Iy1Q/",
   "https://www.linkedin.com/jobs/ringba-jobs",
   "https://www.linkedin.com/jobs/view/advertiser-account-manager-at-the-aragon-company-4293733530",
+  "https://www.linkedin.com/jobs/view/associate-customer-service-at-pearson-4456037539",
+  "https://www.linkedin.com/jobs/view/associate-customer-success-management-at-censis-technologies-inc-4444497498",
+  "https://www.linkedin.com/jobs/view/chat-support-representative-journeys-onsite-at-genesco-4453461317",
+  "https://www.linkedin.com/jobs/view/client-services-tech-1-at-pace%C2%AE-analytical-services-4435802857",
+  "https://www.linkedin.com/jobs/view/client-support-representative-at-built-4429703766",
+  "https://www.linkedin.com/jobs/view/customer-experience-associate-at-change-order-4452855921",
+  "https://www.linkedin.com/jobs/view/customer-experience-tech-support-representative-at-permobil-4440167562",
   "https://www.linkedin.com/jobs/view/customer-success-associate-at-leadspedia-inc-4454771121",
+  "https://www.linkedin.com/jobs/view/customer-success-representative-at-guardian-access-solutions-4393871885",
+  "https://www.linkedin.com/jobs/view/customer-support-specialist-at-ip-corporation-4447701010",
+  "https://www.linkedin.com/jobs/view/intern-customer-support-and-customer-success-at-harris-computer-4446118082",
   "https://www.linkedin.com/jobs/view/operations-performance-manager-lead-generation-at-anewhealth-4412963441",
   "https://www.linkedin.com/jobs/view/pay-per-call-account-manager-usa-at-kimia-group-4438316334",
   "https://www.linkedin.com/jobs/view/sr-media-partnerships-manager-pay-per-call-at-lendingtree-4432874010",
