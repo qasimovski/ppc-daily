@@ -164,3 +164,20 @@
 {"name": "Americo", "norm": "americo", "domain": "americo.com", "how": "guess:americo.com", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-06T07:07:30Z"}
 {"name": "Amerigroup", "norm": "amerigroup", "domain": "amerigroup.com", "how": "guess:amerigroup.com", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-06T07:07:30Z"}
 {"name": "AmeriHealth", "norm": "amerihealth", "domain": "amerihealth.com", "how": "guess:amerihealth.com", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-06T07:07:30Z"}
+{"name": "All Phone Leads", "norm": "all phone leads", "domain": null, "how": "unresolved:generic-name", "source_url": "https://quotelab.com/marketing-partners", "ts": "2026-09-06T07:11:40Z"}
+{"name": "Ring Router", "norm": "ring router", "domain": "pitchbook.com", "how": "search", "source_url": "https://pickmycoverage.com/partners", "ts": "2026-09-06T07:12:02Z"}
+{"name": "Demo Call BX", "norm": "demo call bx", "domain": null, "how": "unresolved:search-miss", "source_url": "https://quotelab.com/marketing-partners", "ts": "2026-09-06T07:12:08Z"}
+{"name": "Genie Leads, LLC", "norm": "genie leads", "domain": "genieleads.com", "how": "guess:genieleads.com", "source_url": "https://pickmycoverage.com/partners", "ts": "2026-09-06T07:12:08Z"}
+{"name": "Madera Digital", "norm": "madera digital", "domain": "maderadigital.com", "how": "guess:maderadigital.com", "source_url": "https://pickmycoverage.com/partners", "ts": "2026-09-06T07:12:08Z"}
+{"name": "Media Force", "norm": "media force", "domain": "mediaforce.com", "how": "guess:mediaforce.com", "source_url": "https://pickmycoverage.com/partners", "ts": "2026-09-06T07:12:08Z"}
+{"name": "Parasol Leads", "norm": "parasol leads", "domain": "parasolleads.com", "how": "guess:parasolleads.com", "source_url": "https://pickmycoverage.com/partners", "ts": "2026-09-06T07:12:08Z"}
+{"name": "Propath Media", "norm": "propath media", "domain": "propathmedia.com", "how": "guess:propathmedia.com", "source_url": "https://pickmycoverage.com/partners", "ts": "2026-09-06T07:12:08Z"}
+{"name": "Digital Soup Media", "norm": "digital soup media", "domain": "digitalsoupmedia.com", "how": "guess:digitalsoupmedia.com", "source_url": "https://quotelab.com/marketing-partners", "ts": "2026-09-06T07:12:08Z"}
+{"name": "Glassroots Marketing", "norm": "glassroots marketing", "domain": "glassrootsmarketing.com", "how": "guess:glassrootsmarketing.com", "source_url": "https://quotelab.com/marketing-partners", "ts": "2026-09-06T07:12:08Z"}
+{"name": "HyperTarget Marketing", "norm": "hypertarget marketing", "domain": "hypertargetmarketing.com", "how": "guess:hypertargetmarketing.com", "source_url": "https://quotelab.com/marketing-partners", "ts": "2026-09-06T07:12:08Z"}
+{"name": "Impact Media", "norm": "impact media", "domain": "impactmedia.io", "how": "guess:impactmedia.io", "source_url": "https://quotelab.com/marketing-partners", "ts": "2026-09-06T07:12:08Z"}
+{"name": "LS Lead Generation", "norm": "ls lead generation", "domain": "lsleadgeneration.com", "how": "guess:lsleadgeneration.com", "source_url": "https://quotelab.com/marketing-partners", "ts": "2026-09-06T07:12:08Z"}
+{"name": "Lead Genesis", "norm": "lead genesis", "domain": "leadgenesis.com", "how": "guess:leadgenesis.com", "source_url": "https://quotelab.com/marketing-partners", "ts": "2026-09-06T07:12:08Z"}
+{"name": "Lead Giant", "norm": "lead giant", "domain": "leadgiant.io", "how": "guess:leadgiant.io", "source_url": "https://quotelab.com/marketing-partners", "ts": "2026-09-06T07:12:08Z"}
+{"name": "LifeLine Direct", "norm": "lifeline direct", "domain": "lifeline-direct.com", "how": "guess:lifeline-direct.com", "source_url": "https://quotelab.com/marketing-partners", "ts": "2026-09-06T07:12:08Z"}
+{"name": "Matrix Direct", "norm": "matrix direct", "domain": "matrixdirect.net", "how": "guess:matrixdirect.net", "source_url": "https://quotelab.com/marketing-partners", "ts": "2026-09-06T07:12:08Z"}

@@ -96,14 +96,14 @@
  },
  "https://pickmycoverage.com/partners": {
   "first_seen": "2026-09-06",
-  "last_fetched": "",
-  "names_last": 0,
+  "last_fetched": "2026-09-06",
+  "names_last": 464,
   "ok": true
  },
  "https://quotelab.com/marketing-partners": {
   "first_seen": "2026-09-06",
-  "last_fetched": "",
-  "names_last": 0,
+  "last_fetched": "2026-09-06",
+  "names_last": 1395,
   "ok": true
  },
  "https://quotes.priceshopmedicare.com": {
@@ -272,6 +272,10 @@
   "found": true,
   "probed": "2026-09-06"
  },
+ "seed:insurify.com": {
+  "found": false,
+  "probed": "2026-09-06"
+ },
  "seed:liheapassistance.org": {
   "found": true,
   "probed": "2026-09-06"
@@ -290,6 +294,10 @@
  },
  "seed:quotelab.com": {
   "found": true,
+  "probed": "2026-09-06"
+ },
+ "seed:quotewizard.com": {
+  "found": false,
   "probed": "2026-09-06"
  },
  "seed:ratequote.com": {

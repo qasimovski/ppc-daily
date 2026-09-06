@@ -20,6 +20,13 @@
   "next_page": 1,
   "retired": true
  },
+ "\"apply as a call vendor\" inbound calls": {
+  "dry_streak": 0,
+  "last_run": "2026-09-06",
+  "new_total": 5,
+  "next_page": 1,
+  "retired": false
+ },
  "\"apply as a publisher\" calls": {
   "dry_streak": 0,
   "last_run": "2026-09-06",
@@ -98,6 +105,13 @@
   "retired": true
  },
  "\"call supply registration\" personal injury calls": {
+  "dry_streak": 1,
+  "last_run": "2026-09-06",
+  "new_total": 2,
+  "next_page": 2,
+  "retired": false
+ },
+ "\"call traffic onboarding\" debt relief calls": {
   "dry_streak": 0,
   "last_run": "2026-09-06",
   "new_total": 2,
@@ -350,16 +364,30 @@
   "retired": true
  },
  "\"publisher onboarding form\" solar calls": {
-  "dry_streak": 1,
+  "dry_streak": 2,
   "last_run": "2026-09-06",
   "new_total": 0,
-  "next_page": 1,
-  "retired": false
+  "next_page": 2,
+  "retired": true
  },
  "\"publisher onboarding guide\" debt settlement calls": {
   "dry_streak": 0,
   "last_run": "2026-09-06",
   "new_total": 2,
+  "next_page": 1,
+  "retired": false
+ },
+ "\"publisher onboarding packet\" solar calls": {
+  "dry_streak": 0,
+  "last_run": "2026-09-06",
+  "new_total": 5,
+  "next_page": 1,
+  "retired": false
+ },
+ "\"publisher onboarding process\" home insurance calls": {
+  "dry_streak": 1,
+  "last_run": "2026-09-06",
+  "new_total": 0,
   "next_page": 1,
   "retired": false
  },
@@ -832,6 +860,13 @@
   "next_page": 2,
   "retired": true
  },
+ "\"submit call leads\" final expense calls": {
+  "dry_streak": 1,
+  "last_run": "2026-09-06",
+  "new_total": 0,
+  "next_page": 1,
+  "retired": false
+ },
  "\"submit call traffic\" window replacement calls": {
   "dry_streak": 1,
   "last_run": "2026-09-06",
@@ -959,9 +994,23 @@
   "retired": true
  },
  "\"traffic source registration\" live transfer calls": {
-  "dry_streak": 0,
+  "dry_streak": 1,
   "last_run": "2026-09-06",
   "new_total": 4,
+  "next_page": 2,
+  "retired": false
+ },
+ "\"traffic supply application\" tax relief calls": {
+  "dry_streak": 0,
+  "last_run": "2026-09-06",
+  "new_total": 1,
+  "next_page": 1,
+  "retired": false
+ },
+ "\"traffic supply onboarding\" live transfer calls": {
+  "dry_streak": 0,
+  "last_run": "2026-09-06",
+  "new_total": 1,
   "next_page": 1,
   "retired": false
  },

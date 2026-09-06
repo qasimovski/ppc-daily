@@ -189,6 +189,26 @@
    "next_page": 1,
    "retired": false,
    "new_total": 3
+  },
+  "\"pay per call\" media buyer site:remoterocketship.com Ringba OR TrackDrive OR Retreaver": {
+   "next_page": 1,
+   "retired": false,
+   "new_total": 10
+  },
+  "\"pay per call\" media buyer site:workable.com Ringba OR TrackDrive OR Retreaver": {
+   "next_page": 1,
+   "retired": false,
+   "new_total": 10
+  },
+  "\"pay per call\" media buyer site:indeed.com Ringba OR TrackDrive OR Retreaver": {
+   "next_page": 1,
+   "retired": false,
+   "new_total": 5
+  },
+  "\"pay-per-call\" \"we are hiring\" media buyer inbound calls": {
+   "next_page": 1,
+   "retired": false,
+   "new_total": 9
   }
  },
  "seen_urls": [
@@ -268,6 +288,12 @@
   "https://www.onlinejobs.ph/jobseekers/job/b2b-outbound-sales-specialist-home-services-1709223",
   "https://www.onlinejobs.ph/jobseekers/job/media-buying-fb-tt-1705560",
   "https://www.onlinejobs.ph/jobseekers/job/pay-per-lead-media-buyer-1718975",
-  "https://www.onlinejobs.ph/jobseekers/job/senior-meta-media-buyer-lead-generation-direct-response-1720496"
+  "https://www.onlinejobs.ph/jobseekers/job/senior-meta-media-buyer-lead-generation-direct-response-1720496",
+  "https://www.remoterocketship.com/company/division50/jobs/marketing-associate-paid-media-media-buyer-united-arab-emirates-remote/",
+  "https://www.remoterocketship.com/country/europe/jobs/senior-media-buyer/",
+  "https://www.remoterocketship.com/country/latin-america/jobs/media-buyer/",
+  "https://www.remoterocketship.com/country/switzerland/jobs/media-buyer/",
+  "https://www.remoterocketship.com/gb/company/hologrowth/jobs/meta-ads-media-buyer-growth-strategist-europe-remote/",
+  "https://www.remoterocketship.com/jobs/media-buyer/"
  ]
 }
