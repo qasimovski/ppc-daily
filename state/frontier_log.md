@@ -165,3 +165,37 @@ Evidence from prior runs shows that long, specific onboarding and application ph
 | "submit call inventory" catastrophe insurance calls | 7 | L4-vertical | Catastrophe insurance is a high-value, event-driven vertical, and this phrase is favored by small, agile networks. |
 
 New vertical tokens: reverse-mortgage, commercialautoinsurance
+
+## 2026-09-06T13:53:41Z — forced (gpt-4.1)
+
+Evidence shows that granular, workflow-specific onboarding and compliance phrases are most likely to surface small, net-new pay-per-call brokers and networks. This batch leverages language unique to boutique operators—such as 'submit your daily call reports', 'compliance', 'vetting process', and 'onboarding packet'—and applies them to both established and emerging verticals. New vertical tokens focus on high-value, call-brokerable niches (e.g., dental plans, tax settlement, disaster cleanup, elder law) that have not been previously measured but fit the call-sale profile. The goal is to extend the discovery frontier by targeting overlooked workflow language and verticals where small operators thrive.
+
+| query | max page | layer | why |
+|---|---|---|---|
+| "traffic source compliance" inbound calls | 7 | L4-counterparty | Small operators often reference compliance in onboarding, and this phrase is not in prior runs; it should surface boutique brokers and networks. |
+| "submit your daily call reports" insurance calls | 6 | L4-counterparty | Daily reporting is a workflow unique to small pay-per-call shops; this phrase is absent from previous lists and targets hands-on operators. |
+| "traffic partner login portal" live transfer calls | 5 | L4-counterparty | Login portals for partners are typical of purpose-built small networks; this phrasing is net-new and should reach overlooked supply. |
+| "apply to supply live calls" mca | 7 | L4-vertical | This explicit application language is distinct from prior queries and aims to surface small MCA call suppliers. |
+| "submit your call traffic" tax debt calls | 6 | L4-vertical | This phrase targets the act of submitting call traffic, which is common among small, direct call brokers in finance. |
+| "traffic onboarding packet" addiction calls | 5 | L4-vertical | Onboarding packets are specific to smaller networks; this vertical/phrase combo is new and may uncover treatment-focused call brokers. |
+| "publisher eligibility form" debt relief calls | 7 | L4-counterparty | Eligibility forms are a small-network compliance step; this phrase is not in earlier runs and targets finance verticals. |
+| "submit call disposition data" solar calls | 5 | L4-vertical | Disposition data submission is a granular workflow, typical of small solar call networks managing quality. |
+| "traffic partner onboarding workflow" inbound calls | 6 | L4-counterparty | Workflow language is rarely used by large networks but common in small, process-driven shops. |
+| "publisher requirements checklist" personal injury calls | 7 | L4-vertical | Checklists for publisher requirements are typical of small legal call brokers and are not in previous queries. |
+| "supply call traffic onboarding" medicare supplement calls | 6 | L4-vertical | This onboarding phrase is new and targets small Medicare supplement call suppliers. |
+| "publisher traffic approval" home insurance calls | 5 | L4-vertical | Approval language is common in boutique networks focused on quality; this phrase is net-new for home insurance. |
+| "submit your call supply application" commercial insurance calls | 7 | L4-vertical | Application submission for call supply is a small-operator process, and this vertical/phrase combo is new. |
+| "traffic partner vetting process" inbound calls | 6 | L4-counterparty | Vetting process language is used by quality-focused small networks; this phrase is not in prior runs. |
+| "call traffic onboarding instructions" mass tort calls | 7 | L4-vertical | Onboarding instructions for mass tort calls is a precise phrase for small legal call brokers. |
+| "publisher onboarding portal" debt settlement calls | 6 | L4-vertical | Portals for onboarding are typical of small networks with custom workflows; this phrase is new for debt settlement. |
+| "traffic partner payment schedule" inbound calls | 5 | L4-counterparty | Payment schedule details are often published by small shops to attract new partners. |
+| "submit your call volume" auto insurance calls | 7 | L4-vertical | Call volume submission is a unique workflow for small auto insurance call brokers. |
+| "publisher onboarding form" tax relief calls | 6 | L4-vertical | Onboarding forms are a hands-on process for small tax relief call networks. |
+| "traffic partner application form" rehab calls | 7 | L4-vertical | Application forms for traffic partners in rehab are net-new and target small treatment-focused brokers. |
+| "submit your inbound call traffic" structured settlement calls | 5 | L4-vertical | This phrase is new and targets small structured settlement call suppliers. |
+| "publisher onboarding packet" home warranty calls | 7 | L4-vertical | Onboarding packets for home warranty calls are a small-network process, not in prior queries. |
+| "traffic partner onboarding form" water damage calls | 6 | L4-vertical | Form-based onboarding is common in restoration; this phrase is net-new for water damage. |
+| "publisher onboarding instructions" viatical settlement calls | 5 | L4-vertical | Instructions for onboarding in viatical settlement calls is a precise, new phrase for small finance brokers. |
+| "submit your call traffic" merchant cash advance calls | 7 | L4-vertical | This phrase is new for MCA and targets small call brokers in business finance. |
+
+New vertical tokens: dentalplans, taxsettlement, annuitiescashout, mortgagemodification, structuredpayout, disastercleanup, elderlaw, studentdebtrelief, fireinsurance, commercialroofing, businessinterruption, mobilehomeinsurance, timesharelitigation, foreclosureassistance, identityprotection
