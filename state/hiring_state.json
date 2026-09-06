@@ -166,9 +166,9 @@
    "new_total": 1
   },
   "\"pay per call\" \"campaign manager\" site:bebee.com": {
-   "next_page": 1,
+   "next_page": 2,
    "retired": false,
-   "new_total": 2
+   "new_total": 8
   },
   "\"pay per call\" \"call QA\" site:onlinejobs.ph": {
    "next_page": 1,
@@ -176,18 +176,18 @@
    "new_total": 0
   },
   "\"pay per call\" \"call QA\" site:bebee.com": {
-   "next_page": 1,
+   "next_page": 2,
    "retired": false,
-   "new_total": 6
+   "new_total": 10
   },
   "\"pay per call\" media buyer site:jobright.ai Ringba OR TrackDrive OR Retreaver": {
-   "next_page": 1,
-   "retired": false,
+   "next_page": 2,
+   "retired": true,
    "new_total": 2
   },
   "\"pay per call\" media buyer site:himalayas.app Ringba OR TrackDrive OR Retreaver": {
-   "next_page": 1,
-   "retired": false,
+   "next_page": 2,
+   "retired": true,
    "new_total": 3
   },
   "\"pay per call\" media buyer site:remoterocketship.com Ringba OR TrackDrive OR Retreaver": {
@@ -291,9 +291,11 @@
   "https://cr.linkedin.com/jobs/view/en-ru-sales-customer-support-specialist-remote-at-leadspedia-corporation-4309654394",
   "https://fiskal.kemenkeu.go.id",
   "https://ge.linkedin.com/jobs/view/senior-full-stack-engineer-%E2%80%94-call-routing-telecom-ai-at-agent-calls-4424504447",
+  "https://github.com",
   "https://in.linkedin.com/jobs/view/qa-specialist-%E2%80%93-pay-per-call-call-quality-at-crossblade-media-llc-4450003133",
   "https://jobright.ai/jobs/info/68d556a539247e3c807ea325",
   "https://jobright.ai/jobs/info/6a50fe428d7d3e6cf1cbdea9?visit=poultry-territory-account-manager%2C-us-farm-animal-%E2%80%93-se-us-%28ga%2C-al%2C-fl%2C-%2B%29-jobs-in-united-states",
+  "https://lt.linkedin.com",
   "https://ph.linkedin.com/jobs/view/account-manager-at-voax-media-4425326506",
   "https://phonexa.com/lms-sync/ping-post-software/",
   "https://pk.linkedin.com/jobs/view/ringba-tech-support-specialist-at-primestaff-4395873013",
@@ -305,10 +307,14 @@
   "https://v2.onlinejobs.ph/jobseekers/info/5305499",
   "https://ve.linkedin.com/jobs/view/junior-qa-specialist-pay-per-call-at-a-teamwork-4354035406",
   "https://www.bbc.co.uk",
+  "https://www.cj.com",
+  "https://www.facebook.com",
   "https://www.facebook.com/WelcomeToXeroxOurVisionYourFuture/posts/buying-calls-affiliatemarketing-publishers-finalexpense-obamacare-transfers-affi/755793726564688/",
   "https://www.facebook.com/doppcallnetwork/posts/publishers-high-converting-mva-live-transfer-campaigndoppcall-is-buying-motor-ve/783523997942577/",
+  "https://www.fcc.gov",
   "https://www.instagram.com",
   "https://www.instagram.com/p/C_TBUJ7Iy1Q/",
+  "https://www.linkedin.com",
   "https://www.linkedin.com/jobs/ringba-jobs",
   "https://www.linkedin.com/jobs/view/advertiser-account-manager-at-the-aragon-company-4293733530",
   "https://www.linkedin.com/jobs/view/associate-customer-service-at-pearson-4456037539",
@@ -344,6 +350,8 @@
   "https://www.onlinejobs.ph/jobseekers/job/media-buying-fb-tt-1705560",
   "https://www.onlinejobs.ph/jobseekers/job/pay-per-lead-media-buyer-1718975",
   "https://www.onlinejobs.ph/jobseekers/job/senior-meta-media-buyer-lead-generation-direct-response-1720496",
+  "https://www.phoneninjas.com",
+  "https://www.reddit.com",
   "https://www.reddit.com/r/LifeInsurance/comments/1ltfw9g/new_agent_lead_struggles/",
   "https://www.remoterocketship.com/company/division50/jobs/marketing-associate-paid-media-media-buyer-united-arab-emirates-remote/",
   "https://www.remoterocketship.com/country/europe/jobs/senior-media-buyer/",

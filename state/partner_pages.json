@@ -180,15 +180,15 @@
  },
  "https://sunkeyinsurance.com/how-to-buy-auto-insurance-online-without-spam-calls-or-hidden-surprises": {
   "first_seen": "2026-09-06",
-  "last_fetched": "",
+  "last_fetched": "2026-09-06",
   "names_last": 0,
-  "ok": true
+  "ok": false
  },
  "https://theseniorquotes.com/partners": {
   "first_seen": "2026-09-06",
-  "last_fetched": "",
+  "last_fetched": "2026-09-06",
   "names_last": 0,
-  "ok": true
+  "ok": false
  },
  "https://theswitchboardmarketing.com/marketing-partners": {
   "first_seen": "2026-09-06",
@@ -296,6 +296,10 @@
   "found": true,
   "probed": "2026-09-06"
  },
+ "seed:gohealth.com": {
+  "found": false,
+  "probed": "2026-09-06"
+ },
  "seed:healthplanone.com": {
   "found": false,
   "probed": "2026-09-06"
@@ -362,6 +366,10 @@
  },
  "seed:selectmypolicy.com": {
   "found": true,
+  "probed": "2026-09-06"
+ },
+ "seed:selectquote.com": {
+  "found": false,
   "probed": "2026-09-06"
  },
  "seed:seniorinsuranceshopping.com": {

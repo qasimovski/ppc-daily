@@ -370,6 +370,13 @@
   "next_page": 4,
   "retired": true
  },
+ "\"publisher eligibility checklist\" per call": {
+  "dry_streak": 1,
+  "last_run": "2026-09-06",
+  "new_total": 0,
+  "next_page": 1,
+  "retired": true
+ },
  "\"publisher eligibility requirements\" pay per call": {
   "dry_streak": 2,
   "last_run": "2026-09-06",
@@ -902,6 +909,13 @@
   "next_page": 4,
   "retired": true
  },
+ "\"register as a call supplier\" rehab calls": {
+  "dry_streak": 1,
+  "last_run": "2026-09-06",
+  "new_total": 0,
+  "next_page": 1,
+  "retired": true
+ },
  "\"request publisher access\" mca calls": {
   "dry_streak": 1,
   "last_run": "2026-09-06",
@@ -993,6 +1007,13 @@
   "next_page": 2,
   "retired": true
  },
+ "\"supply partner registration\" billable calls": {
+  "dry_streak": 0,
+  "last_run": "2026-09-06",
+  "new_total": 1,
+  "next_page": 1,
+  "retired": false
+ },
  "\"supply partners\" calls": {
   "dry_streak": 0,
   "last_run": "2026-09-06",
@@ -1001,10 +1022,10 @@
   "retired": true
  },
  "\"supply traffic intake form\" solar calls": {
-  "dry_streak": 0,
+  "dry_streak": 1,
   "last_run": "2026-09-06",
   "new_total": 4,
-  "next_page": 1,
+  "next_page": 2,
   "retired": false
  },
  "\"top payouts\" \"pay per call\"": {
@@ -1105,6 +1126,13 @@
   "next_page": 1,
   "retired": true
  },
+ "\"traffic source onboarding packet\" final expense calls": {
+  "dry_streak": 1,
+  "last_run": "2026-09-06",
+  "new_total": 0,
+  "next_page": 1,
+  "retired": false
+ },
  "\"traffic source onboarding\" pest exclusion calls": {
   "dry_streak": 1,
   "last_run": "2026-09-05",
@@ -1160,6 +1188,13 @@
   "new_total": 0,
   "next_page": 1,
   "retired": true
+ },
+ "\"traffic vendor onboarding\" pay per call": {
+  "dry_streak": 0,
+  "last_run": "2026-09-06",
+  "new_total": 2,
+  "next_page": 1,
+  "retired": false
  },
  "\"we buy calls for\" -options -stock": {
   "dry_streak": 2,
