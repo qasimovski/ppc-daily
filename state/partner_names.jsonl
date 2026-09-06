@@ -365,3 +365,11 @@
 {"name": "PUNITIVE", "norm": "punitive", "domain": "punitive.com", "how": "guess:punitive.com", "source_url": "https://www.medicaresolutions.com", "ts": "2026-09-06T13:20:06Z"}
 {"name": "OFFICERS", "norm": "officers", "domain": "officers.net", "how": "guess:officers.net", "source_url": "https://www.medicaresolutions.com", "ts": "2026-09-06T13:20:06Z"}
 {"name": "SUPPLIERS", "norm": "suppliers", "domain": "suppliers.net", "how": "guess:suppliers.net", "source_url": "https://www.medicaresolutions.com", "ts": "2026-09-06T13:20:06Z"}
+{"name": "BRXTN Digital Media", "norm": "brxtn digital media", "domain": null, "how": "unresolved:search-miss", "source_url": "https://www.quotelab.com/marketing-partners.html", "ts": "2026-09-06T13:24:07Z"}
+{"name": "Countershot Media", "norm": "countershot media", "domain": null, "how": "unresolved:search-miss", "source_url": "https://www.quotelab.com/marketing-partners.html", "ts": "2026-09-06T13:24:14Z"}
+{"name": "Deadlift Media", "norm": "deadlift media", "domain": "deadliftmedia.com", "how": "search", "source_url": "https://www.quotelab.com/marketing-partners.html", "ts": "2026-09-06T13:24:20Z"}
+{"name": "Digiline Media", "norm": "digiline media", "domain": "digilinemedia.in", "how": "search", "source_url": "https://www.quotelab.com/marketing-partners.html", "ts": "2026-09-06T13:24:27Z"}
+{"name": "Digital Thrive", "norm": "digital thrive", "domain": "designrush.com", "how": "search", "source_url": "https://www.quotelab.com/marketing-partners.html", "ts": "2026-09-06T13:25:05Z"}
+{"name": "Direct Web Advertising", "norm": "direct web advertising", "domain": "directwebadvertising.com", "how": "guess:directwebadvertising.com", "source_url": "https://www.quotelab.com/marketing-partners.html", "ts": "2026-09-06T13:25:05Z"}
+{"name": "Zenith Media", "norm": "zenith media", "domain": "zenithmedia.com", "how": "guess:zenithmedia.com", "source_url": "https://www.quotelab.com/marketing-partners.html", "ts": "2026-09-06T13:25:05Z"}
+{"name": "21st Century", "norm": "21st century", "domain": "21stcenturyllc.com", "how": "guess:21stcenturyllc.com", "source_url": "https://www.quotelab.com/marketing-partners.html", "ts": "2026-09-06T13:25:05Z"}

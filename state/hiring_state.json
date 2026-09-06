@@ -101,9 +101,9 @@
    "new_total": 5
   },
   "\"LeadsPedia\" site:linkedin.com/jobs pay per call": {
-   "next_page": 3,
-   "retired": false,
-   "new_total": 29
+   "next_page": 4,
+   "retired": true,
+   "new_total": 30
   },
   "\"boberdoo\" site:onlinejobs.ph pay per call": {
    "next_page": 2,
@@ -126,8 +126,8 @@
    "new_total": 3
   },
   "\"pay per call\" \"media buyer\" site:bebee.com": {
-   "next_page": 3,
-   "retired": false,
+   "next_page": 4,
+   "retired": true,
    "new_total": 22
   },
   "\"pay per call\" \"affiliate manager\" site:onlinejobs.ph": {
@@ -206,9 +206,9 @@
    "new_total": 5
   },
   "\"pay-per-call\" \"we are hiring\" media buyer inbound calls": {
-   "next_page": 3,
-   "retired": false,
-   "new_total": 29
+   "next_page": 4,
+   "retired": true,
+   "new_total": 36
   },
   "\"live transfers\" \"affiliate manager\" hiring insurance calls": {
    "next_page": 3,
