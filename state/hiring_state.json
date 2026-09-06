@@ -109,6 +109,26 @@
    "next_page": 1,
    "retired": false,
    "new_total": 4
+  },
+  "\"boberdoo\" site:bebee.com pay per call": {
+   "next_page": 1,
+   "retired": true,
+   "new_total": 0
+  },
+  "\"boberdoo\" site:linkedin.com/jobs pay per call": {
+   "next_page": 1,
+   "retired": true,
+   "new_total": 0
+  },
+  "\"pay per call\" \"media buyer\" site:onlinejobs.ph": {
+   "next_page": 1,
+   "retired": false,
+   "new_total": 3
+  },
+  "\"pay per call\" \"media buyer\" site:bebee.com": {
+   "next_page": 1,
+   "retired": false,
+   "new_total": 9
   }
  },
  "seen_urls": [
@@ -116,6 +136,11 @@
   "https://bebee.com/ca/jobs/senior-media-buyer-creative-clicks-toronto-ontario--t7xk-790945847",
   "https://bebee.com/cr/jobs/client-operations-manager-huzzle-rio-segundo--fj-2288275582",
   "https://bebee.com/in/jobs/affiliate-adops-manager-clickdee--talent-633684092003753414",
+  "https://bebee.com/in/jobs/affiliate-media-buyer-2-years-experience-required-digital-nexon-delhi--t7xk-819450747",
+  "https://bebee.com/in/jobs/affiliate-media-buyer-digital-nexon-delhi--jobs-sea-4190304243",
+  "https://bebee.com/in/jobs/media-buyer-google-adcanopus-digital-media-pvt-ltd-bengaluru-karnataka--t7xk-793764473",
+  "https://bebee.com/in/jobs/media-buyer-google-ads-adceptive-media-llc-mohali-district--techmap_in_4450064807",
+  "https://bebee.com/in/jobs/media-buyer-the5co-jamai--bs-in-f3c4de83-1015-45a0-b47c-b1932774df62",
   "https://bebee.com/in/jobs/qa-specialist-pay-per-call-call-quality-crossblade-media-llc--t7xk-793075723",
   "https://bebee.com/in/jobs/strategic-partnerships-manager-direct-advertisers-pay-per-call-clickdee-gurugram--fj-2343128411",
   "https://bebee.com/mx/jobs/client-operations-manager-huzzlecom--t7xk-784702891",
@@ -125,6 +150,8 @@
   "https://bebee.com/us/jobs/customer-success-associate-leadspedia-inc-franklin-tn--t7xk-808309192",
   "https://bebee.com/us/jobs/director-performance-marketing-expandiq--t7xk-755820069",
   "https://bebee.com/us/jobs/pay-per-call-account-manager-usa-kimia-group--t7xk-814465965",
+  "https://bebee.com/us/jobs/performance-media-buyer-3-little-birds-interactive-los-angeles--lensa-7428_089ab5eaaff2f2b5a9f32971e6a2c9c51dc1efdca79235d0dc68159ce01f5840",
+  "https://bebee.com/us/jobs/ppc-media-buyer-sbc-performance--lensa-2365_d2fca402ac5c63bc709b02d635ead6ddb7f1bf11e104b97c5956392b17676de4",
   "https://bebee.com/us/jobs/project-manager-affiliate-performance-marketing-fully-remote-worldwide-a-hiring-group-ny--appcast-13509_88299518",
   "https://bebee.com/us/jobs/senior-publisher-manager-321-the-agency--ss-us-2aqekf",
   "https://co.linkedin.com/jobs/view/client-success-manager-%E2%80%94-pay-per-call-at-agent-calls-4434430602",
@@ -143,13 +170,16 @@
   "https://www.linkedin.com/jobs/view/pay-per-call-account-manager-usa-at-kimia-group-4438316334",
   "https://www.linkedin.com/jobs/view/sr-media-partnerships-manager-pay-per-call-at-lendingtree-4432874010",
   "https://www.onlinejobs.ph/jobseekers/info/3114997",
+  "https://www.onlinejobs.ph/jobseekers/job/Facebook-Media-Buyer-1270887",
   "https://www.onlinejobs.ph/jobseekers/job/Full-Stack-Media-Buyer-1638937",
   "https://www.onlinejobs.ph/jobseekers/job/Keitaro-Tracker-Support-1484442",
   "https://www.onlinejobs.ph/jobseekers/job/Media-Buyer-Google-Ads-Expert-Pay-Per-Call-Lead-Gen-Performance-Marketing-1380596",
+  "https://www.onlinejobs.ph/jobseekers/job/Media-Buyer-Lead-Generation-and-Pay-Per-Call-Facebook-Google-TikTok-1081815",
   "https://www.onlinejobs.ph/jobseekers/job/Media-Buyer-PPC-Google-Bing-Call-Only-Ads-1462384",
   "https://www.onlinejobs.ph/jobseekers/job/Media-Buyer-RemoteOverseas-1528773",
   "https://www.onlinejobs.ph/jobseekers/job/Quality-Controller-Pay-Per-Call-1344805",
   "https://www.onlinejobs.ph/jobseekers/job/Senior-VoIP-Telecom-Engineer-to-Build-Twilio-Scale-Dialer-Routing-LCR-Platform-FreeSWITCH-1542293",
-  "https://www.onlinejobs.ph/jobseekers/job/media-buying-fb-tt-1705560"
+  "https://www.onlinejobs.ph/jobseekers/job/media-buying-fb-tt-1705560",
+  "https://www.onlinejobs.ph/jobseekers/job/pay-per-lead-media-buyer-1718975"
  ]
 }

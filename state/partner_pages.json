@@ -8,13 +8,21 @@
   "\"companies that may contact you\" quotes",
   "\"our marketing partners\" final expense quotes",
   "\"marketing partners\" \"home services\" \"may contact you\"",
-  "\"partner companies\" \"may call\" health insurance quotes"
+  "\"partner companies\" \"may call\" health insurance quotes",
+  "\"marketing partners\" \"debt relief\" \"may contact\"",
+  "\"marketing partners\" \"auto warranty\" quotes"
  ],
  "http://www.usfinalexpenseguard.com": {
   "first_seen": "2026-09-06",
   "last_fetched": "2026-09-06",
   "names_last": 16,
   "ok": false
+ },
+ "https://14.us-unemployment-resources.com/marketing-partners": {
+  "first_seen": "2026-09-06",
+  "last_fetched": "",
+  "names_last": 0,
+  "ok": true
  },
  "https://affordableseniorsinsurance.com/marketing-partners": {
   "first_seen": "2026-09-06",
@@ -28,6 +36,12 @@
   "names_last": 10,
   "ok": false
  },
+ "https://compareinsurancequotes.com/marketing-partners": {
+  "first_seen": "2026-09-06",
+  "last_fetched": "",
+  "names_last": 0,
+  "ok": true
+ },
  "https://coveragebeacon.com/marketing-partners": {
   "first_seen": "2026-09-06",
   "last_fetched": "2026-09-06",
@@ -40,16 +54,22 @@
   "names_last": 468,
   "ok": true
  },
- "https://koalatywindows.com/quote": {
+ "https://fastautoquote.org/marketing-partners": {
   "first_seen": "2026-09-06",
   "last_fetched": "",
   "names_last": 0,
   "ok": true
  },
+ "https://koalatywindows.com/quote": {
+  "first_seen": "2026-09-06",
+  "last_fetched": "2026-09-06",
+  "names_last": 7283,
+  "ok": true
+ },
  "https://liheapassistance.org/marketing-partners": {
   "first_seen": "2026-09-06",
-  "last_fetched": "",
-  "names_last": 0,
+  "last_fetched": "2026-09-06",
+  "names_last": 258,
   "ok": true
  },
  "https://meetinsured.com/marketing-partners": {
@@ -82,7 +102,19 @@
   "names_last": 0,
   "ok": true
  },
+ "https://ratefinder.com/partners.html": {
+  "first_seen": "2026-09-06",
+  "last_fetched": "",
+  "names_last": 0,
+  "ok": true
+ },
  "https://ratequote.com/marketing-partners": {
+  "first_seen": "2026-09-06",
+  "last_fetched": "",
+  "names_last": 0,
+  "ok": true
+ },
+ "https://renuehome.com/partners": {
   "first_seen": "2026-09-06",
   "last_fetched": "",
   "names_last": 0,
@@ -166,6 +198,12 @@
   "names_last": 0,
   "ok": true
  },
+ "https://www.quotelab.com/marketing-partners.html": {
+  "first_seen": "2026-09-06",
+  "last_fetched": "",
+  "names_last": 0,
+  "ok": true
+ },
  "https://www.ratequote.com/marketing-partners": {
   "first_seen": "2026-09-06",
   "last_fetched": "",
@@ -206,6 +244,10 @@
   "found": true,
   "probed": "2026-09-06"
  },
+ "seed:renuehome.com": {
+  "found": true,
+  "probed": "2026-09-06"
+ },
  "seed:selectmypolicy.com": {
   "found": true,
   "probed": "2026-09-06"
@@ -215,6 +257,10 @@
   "probed": "2026-09-06"
  },
  "seed:viva-leads.com": {
+  "found": false,
+  "probed": "2026-09-06"
+ },
+ "seed:windowquotefinder.com": {
   "found": false,
   "probed": "2026-09-06"
  }
