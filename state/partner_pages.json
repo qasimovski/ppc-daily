@@ -108,14 +108,14 @@
  },
  "https://quotes.priceshopmedicare.com": {
   "first_seen": "2026-09-06",
-  "last_fetched": "",
-  "names_last": 0,
+  "last_fetched": "2026-09-06",
+  "names_last": 832,
   "ok": true
  },
  "https://ratefinder.com/partners.html": {
   "first_seen": "2026-09-06",
-  "last_fetched": "",
-  "names_last": 0,
+  "last_fetched": "2026-09-06",
+  "names_last": 247,
   "ok": true
  },
  "https://ratequote.com/marketing-partners": {
@@ -272,6 +272,10 @@
   "found": true,
   "probed": "2026-09-06"
  },
+ "seed:healthplanone.com": {
+  "found": false,
+  "probed": "2026-09-06"
+ },
  "seed:insurify.com": {
   "found": false,
   "probed": "2026-09-06"
@@ -333,6 +337,10 @@
   "probed": "2026-09-06"
  },
  "seed:windowquotefinder.com": {
+  "found": false,
+  "probed": "2026-09-06"
+ },
+ "seed:zebra.com": {
   "found": false,
   "probed": "2026-09-06"
  }

@@ -1,8 +1,8 @@
 {
  "queries": {
   "\"Ringba\" site:onlinejobs.ph pay per call": {
-   "next_page": 1,
-   "retired": false,
+   "next_page": 2,
+   "retired": true,
    "new_total": 6
   },
   "\"Ringba\" site:bebee.com pay per call": {
@@ -209,6 +209,21 @@
    "next_page": 1,
    "retired": false,
    "new_total": 9
+  },
+  "\"live transfers\" \"affiliate manager\" hiring insurance calls": {
+   "next_page": 1,
+   "retired": false,
+   "new_total": 9
+  },
+  "\"ping post\" \"call\" campaign manager job": {
+   "next_page": 1,
+   "retired": false,
+   "new_total": 8
+  },
+  "\"buyer caps\" calls job posting": {
+   "next_page": 1,
+   "retired": false,
+   "new_total": 8
   }
  },
  "seen_urls": [
@@ -261,11 +276,17 @@
   "https://jobright.ai/jobs/info/68d556a539247e3c807ea325",
   "https://jobright.ai/jobs/info/6a50fe428d7d3e6cf1cbdea9?visit=poultry-territory-account-manager%2C-us-farm-animal-%E2%80%93-se-us-%28ga%2C-al%2C-fl%2C-%2B%29-jobs-in-united-states",
   "https://ph.linkedin.com/jobs/view/account-manager-at-voax-media-4425326506",
+  "https://phonexa.com/lms-sync/ping-post-software/",
   "https://pk.linkedin.com/jobs/view/ringba-tech-support-specialist-at-primestaff-4395873013",
+  "https://profitise.com/home-services-leads/",
   "https://rs.linkedin.com/jobs/view/project-manager-%E2%80%93-affiliate-performance-marketing-fully-remote-worldwide-at-a-hiring-group-4301425754",
+  "https://us.trabajo.org/job-5003-660713e63b264d009b63a127bcfa1564",
   "https://v2.onlinejobs.ph/jobseekers/info/2423104",
   "https://v2.onlinejobs.ph/jobseekers/info/5305499",
   "https://ve.linkedin.com/jobs/view/junior-qa-specialist-pay-per-call-at-a-teamwork-4354035406",
+  "https://www.facebook.com/WelcomeToXeroxOurVisionYourFuture/posts/buying-calls-affiliatemarketing-publishers-finalexpense-obamacare-transfers-affi/755793726564688/",
+  "https://www.facebook.com/doppcallnetwork/posts/publishers-high-converting-mva-live-transfer-campaigndoppcall-is-buying-motor-ve/783523997942577/",
+  "https://www.instagram.com/p/C_TBUJ7Iy1Q/",
   "https://www.linkedin.com/jobs/ringba-jobs",
   "https://www.linkedin.com/jobs/view/advertiser-account-manager-at-the-aragon-company-4293733530",
   "https://www.linkedin.com/jobs/view/customer-success-associate-at-leadspedia-inc-4454771121",
@@ -289,11 +310,13 @@
   "https://www.onlinejobs.ph/jobseekers/job/media-buying-fb-tt-1705560",
   "https://www.onlinejobs.ph/jobseekers/job/pay-per-lead-media-buyer-1718975",
   "https://www.onlinejobs.ph/jobseekers/job/senior-meta-media-buyer-lead-generation-direct-response-1720496",
+  "https://www.reddit.com/r/LifeInsurance/comments/1ltfw9g/new_agent_lead_struggles/",
   "https://www.remoterocketship.com/company/division50/jobs/marketing-associate-paid-media-media-buyer-united-arab-emirates-remote/",
   "https://www.remoterocketship.com/country/europe/jobs/senior-media-buyer/",
   "https://www.remoterocketship.com/country/latin-america/jobs/media-buyer/",
   "https://www.remoterocketship.com/country/switzerland/jobs/media-buyer/",
   "https://www.remoterocketship.com/gb/company/hologrowth/jobs/meta-ads-media-buyer-growth-strategist-europe-remote/",
-  "https://www.remoterocketship.com/jobs/media-buyer/"
+  "https://www.remoterocketship.com/jobs/media-buyer/",
+  "https://www.ringba.com/blog/the-pay-per-call-report-october-8-2021"
  ]
 }
