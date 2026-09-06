@@ -6,41 +6,43 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | stage | count |
 |---|---|
-| linked-domain candidates | 0 |
-| search requests | 28 |
-| raw finds (search) | 97 |
+| linked-domain candidates | 3 |
+| search requests | 30 |
+| raw finds (search) | 257 |
 | constructed domains probed | 300 |
-| net-new candidates after exclusion index | 328 |
-|   of which from search | 28 |
+| net-new candidates after exclusion index | 357 |
+|   of which from search | 57 |
 |   of which from probing | 300 |
-| crawled | 326 |
-|   crawl: ok | 23 |
-|   crawl: thin | 1 |
-|   crawl: unregistered | 292 |
+| crawled | 357 |
+|   crawl: ok | 41 |
+|   crawl: thin | 2 |
+|   crawl: unregistered | 301 |
 |   crawl: unreachable | 10 |
-| probes that resolved to a real site | 1 |
-| v6 classified | 23 |
+|   crawl: redirect_offdomain | 3 |
+| probes that resolved to a real site | 0 |
+| v6 classified | 41 |
 | carried to next run (unclassified) | 0 |
-| V6 QUALIFIED | 1 |
+| V6 QUALIFIED | 0 |
 
 ## Crawl outcomes (net-new candidates only)
 
 | status | count |
 |---|---|
-| ok | 76 |
-| unreachable | 7 |
-| thin | 5 |
-| unregistered | 2 |
-| redirect_offdomain | 1 |
+| ok | 117 |
+| unreachable | 16 |
+| thin | 7 |
+| unregistered | 4 |
+| redirect_offdomain | 4 |
 
 ## v6 qualify rate per discovery channel
 
 | channel | classified | qualified | rate |
 |---|---|---|---|
-| L4-counterparty | 13 | 1 | 7.7% |
-| L4-familyB | 15 | 1 | 6.7% |
+| L4-familyB | 29 | 1 | 3.4% |
+| L4-counterparty | 38 | 1 | 2.6% |
 | L7-probe | 5 | 0 | 0.0% |
 | L4-vertical | 43 | 0 | 0.0% |
+| L8-linked | 2 | 0 | 0.0% |
 
 **V6 QUALIFIED TODAY: 2** (ICP-clean: 2). Cumulative across all daily runs: 20.
 
@@ -48,16 +50,16 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | reason | count |
 |---|---|
-| unrelated | 27 |
-| service_to_call_receiver | 11 |
-| lead_or_appointment_pricing | 8 |
+| unrelated | 47 |
+| lead_or_appointment_pricing | 18 |
+| service_to_call_receiver | 12 |
+| no_clear_signal | 11 |
+| end_advertiser | 7 |
 | software_or_crm | 6 |
-| end_advertiser | 6 |
-| no_clear_signal | 5 |
-| directory_or_content | 4 |
-| seo_or_ranking_agency | 4 |
+| directory_or_content | 5 |
+| seo_or_ranking_agency | 5 |
 | diy_ads_or_setup | 2 |
-| recruiting | 1 |
+| recruiting | 2 |
 
 ## Qualified today
 
