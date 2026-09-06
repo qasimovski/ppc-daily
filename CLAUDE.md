@@ -37,6 +37,15 @@ search frontier (TinyFish), constructed-domain probes, linked domains, `partners
 `hiring.py` (tool-name job postings on OnlineJobs.ph / bebee / LinkedIn -> employer domains).
 The two routine runs a day (01:00 and 13:00 UTC) each do up to 12 passes; all state is in git.
 
+## If your prompt says "hiring agents" — a different job
+A second routine (09:00 UTC daily) does NOT run `daily_run.py`. It follows
+`agents/HIRING_AGENTS.md`: spawn three subagents (slices a/b/c), each hunting employers whose
+job postings show pay-per-call operations, merge and dedupe their output into
+`state/inbox/hiring_agents_<date>.jsonl`, fold the per-slice `state/hiring_agent_seen_*.jsonl`
+files into `state/hiring_agent_seen.jsonl` (then delete the per-slice files), write the summary,
+commit and push. The next pipeline session crawls and v6-scores the inbox. Follow that file
+exactly; the rest of this document (hard rules, environment, honesty) still applies.
+
 ## Self-replenishing frontier (automatic — you never edit the phrase lists)
 When a pass finds every search query retired, no constructed domain left to probe and no
 linked domain queued, `daily_run.py` itself calls `replenish.py`, which asks gpt-4.1 for new
