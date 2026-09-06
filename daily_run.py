@@ -114,7 +114,7 @@ def main():
         if not d: return None
         if is_known(d) or d in seen_today: return None
         seen_today.add(d)
-        rec = {'domain': d, 'company_name': '', 'layer': layer, 'source_url': source_url,
+        rec = {'domain': d, 'company_name': extra.pop('company_name', ''), 'layer': layer, 'source_url': source_url,
                'source_note': source_note, 'run_date': RUN_DATE, **extra}
         cands.append(rec); append_jsonl(CANDS, rec)
         return d
@@ -122,6 +122,8 @@ def main():
     carry = [r for r in read_jsonl(PENDING) if r.get('domain') not in evaluated]
     if carry: log('[carry] %d crawled-but-unclassified candidates from a previous run' % len(carry))
 
+    inbox_n = D.run_inbox(emit, log)
+    stats['inbox candidates'] = inbox_n
     search_deadline = min(deadline, t0 + 0.25 * RUN_MINUTES * 60)
     used = D.run_search(emit, is_known, SEARCH_BUDGET, search_deadline, log)
     linked = D.run_linked(emit, is_known, int(os.environ.get('LINKED_BUDGET', '60')), log)

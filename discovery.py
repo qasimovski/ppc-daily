@@ -246,6 +246,31 @@ def mark_probed(domains):
     with io.open(PROBED, 'a', encoding='utf-8', newline='\n') as f:
         for d in domains: f.write(d + '\n')
 
+# ------------------------------------------------------------------ INBOX CHANNEL
+# Hand-run or agent-run discovery drops JSONL here (same shape as the old ppc-run inbox):
+# {"domain","company_name","layer","source_url","source_note"}. Consumed once, then archived.
+INBOX = os.path.join(STATE, 'inbox')
+
+def run_inbox(emit, log=print):
+    import glob, shutil
+    os.makedirs(INBOX, exist_ok=True)
+    files = sorted(glob.glob(os.path.join(INBOX, '*.jsonl')))
+    n = tot = 0
+    for fp in files:
+        for line in io.open(fp, encoding='utf-8', errors='replace'):
+            line = line.strip()
+            if not line.startswith('{'): continue
+            try: r = json.loads(line)
+            except Exception: continue
+            tot += 1
+            if emit(r.get('domain', ''), layer=r.get('layer') or 'L9-inbox', source_url=r.get('source_url', ''),
+                    source_note=(r.get('source_note') or '')[:300], company_name=(r.get('company_name') or '')[:120]):
+                n += 1
+        done_dir = os.path.join(INBOX, 'consumed'); os.makedirs(done_dir, exist_ok=True)
+        shutil.move(fp, os.path.join(done_dir, os.path.basename(fp)))
+    if files: log('[inbox] %d files, %d lines, %d net-new candidates' % (len(files), tot, n))
+    return n
+
 # ------------------------------------------------------------------ LINKED CHANNEL
 # Operators link to their siblings, parents and partners. Run 5's sibling harvest did this by
 # hand; here every crawled candidate's outbound links to UNKNOWN domains are queued for the next

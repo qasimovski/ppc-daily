@@ -11,3 +11,4 @@ state/candidates_seen.jsonl
 
 # people-level data (names, phones) never goes to git; company-level state does
 out/contacts/
+state/inbox/consumed/
