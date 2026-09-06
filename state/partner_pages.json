@@ -228,14 +228,14 @@
  },
  "https://www.lifestation.com/medical-alert-systems/chronic-pain": {
   "first_seen": "2026-09-06",
-  "last_fetched": "",
+  "last_fetched": "2026-09-06",
   "names_last": 0,
-  "ok": true
+  "ok": false
  },
  "https://www.loyolaroofing.com/privacy-policy": {
   "first_seen": "2026-09-06",
-  "last_fetched": "",
-  "names_last": 0,
+  "last_fetched": "2026-09-06",
+  "names_last": 20,
   "ok": true
  },
  "https://www.medicaresolutions.com": {

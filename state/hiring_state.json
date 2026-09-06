@@ -136,8 +136,8 @@
    "new_total": 1
   },
   "\"pay per call\" \"affiliate manager\" site:bebee.com": {
-   "next_page": 2,
-   "retired": false,
+   "next_page": 3,
+   "retired": true,
    "new_total": 10
   },
   "\"pay per call\" \"publisher manager\" site:onlinejobs.ph": {
@@ -166,8 +166,8 @@
    "new_total": 1
   },
   "\"pay per call\" \"campaign manager\" site:bebee.com": {
-   "next_page": 2,
-   "retired": false,
+   "next_page": 3,
+   "retired": true,
    "new_total": 8
   },
   "\"pay per call\" \"call QA\" site:onlinejobs.ph": {
@@ -176,8 +176,8 @@
    "new_total": 0
   },
   "\"pay per call\" \"call QA\" site:bebee.com": {
-   "next_page": 2,
-   "retired": false,
+   "next_page": 3,
+   "retired": true,
    "new_total": 10
   },
   "\"pay per call\" media buyer site:jobright.ai Ringba OR TrackDrive OR Retreaver": {
@@ -206,9 +206,9 @@
    "new_total": 5
   },
   "\"pay-per-call\" \"we are hiring\" media buyer inbound calls": {
-   "next_page": 2,
+   "next_page": 3,
    "retired": false,
-   "new_total": 19
+   "new_total": 29
   },
   "\"live transfers\" \"affiliate manager\" hiring insurance calls": {
    "next_page": 2,
@@ -291,6 +291,7 @@
   "https://community.clay.com/x/share-jobs",
   "https://cr.linkedin.com/jobs/view/bilingual-english%E2%80%93russian-sales-customer-support-specialist-remote-at-leadspedia-corporation-4317896010",
   "https://cr.linkedin.com/jobs/view/en-ru-sales-customer-support-specialist-remote-at-leadspedia-corporation-4309654394",
+  "https://dcmmoguls.com/dental-marketing/",
   "https://fiskal.kemenkeu.go.id",
   "https://ge.linkedin.com/jobs/view/project-manager-affiliate-performance-marketing-fully-remote-us-business-hours-at-a-hiring-group-4353566226",
   "https://ge.linkedin.com/jobs/view/senior-full-stack-engineer-%E2%80%94-call-routing-telecom-ai-at-agent-calls-4424504447",
@@ -305,6 +306,7 @@
   "https://lt.linkedin.com",
   "https://lunasolmedia.com/mexico-campaigns/",
   "https://me.sh/profile/nick-abraham",
+  "https://news.ycombinator.com/item?id=31235968",
   "https://ph.linkedin.com/jobs/view/account-manager-at-voax-media-4425326506",
   "https://ph.linkedin.com/jobs/view/marketing-manager-%E2%80%93-pay-per-call-lead-gen-at-you-will-raise-capital-4290408096",
   "https://phonexa.com/lms-sync/ping-post-software/",
@@ -321,16 +323,19 @@
   "https://v2.onlinejobs.ph/jobseekers/info/5305499",
   "https://ve.linkedin.com/jobs/view/junior-qa-specialist-pay-per-call-at-a-teamwork-4354035406",
   "https://www.bbc.co.uk",
+  "https://www.caremark.co.uk/careers/job-opportunities/search/",
   "https://www.cj.com",
   "https://www.facebook.com",
   "https://www.facebook.com/NewVisionD/posts/were-hiring-new-vision-digital-is-on-the-lookout-for-a-talented-ppc-executive-to/1344498947794318/",
   "https://www.facebook.com/WelcomeToXeroxOurVisionYourFuture/posts/buying-calls-affiliatemarketing-publishers-finalexpense-obamacare-transfers-affi/755793726564688/",
   "https://www.facebook.com/doppcallnetwork/posts/imagine-thisyoure-generating-traffic-google-ads-facebook-seo-or-any-other-method/829676773327299/",
   "https://www.facebook.com/doppcallnetwork/posts/publishers-high-converting-mva-live-transfer-campaigndoppcall-is-buying-motor-ve/783523997942577/",
+  "https://www.facebook.com/groups/1668933340017050/posts/4367325953511095/",
   "https://www.facebook.com/groups/257318333466274/posts/1076141838250582/",
   "https://www.facebook.com/notkevinjon/posts/were-scaling-fast-so-were-hiring-againlooking-for-b2b-sales-reps-who-want-to-hel/1411992580746652/",
   "https://www.fcc.gov",
   "https://www.freelancer.co.id/job-search/alipay-wechat-pay/5/",
+  "https://www.freelancer.com/job-search/freelance-web-search-jobs-anguilla/",
   "https://www.instagram.com",
   "https://www.instagram.com/p/C_TBUJ7Iy1Q/",
   "https://www.instagram.com/reel/Dax2GOcxb4I/",
@@ -374,8 +379,10 @@
   "https://www.onlinejobs.ph/jobseekers/job/pay-per-lead-media-buyer-1718975",
   "https://www.onlinejobs.ph/jobseekers/job/senior-meta-media-buyer-lead-generation-direct-response-1720496",
   "https://www.phoneninjas.com",
+  "https://www.placementindia.com/job-search/tele-marketing-executive-12th-pass-fresher-jobs-in-mumbai.htm",
   "https://www.reddit.com",
   "https://www.reddit.com/r/LifeInsurance/comments/1ltfw9g/new_agent_lead_struggles/",
+  "https://www.reddit.com/r/paypercall/comments/1od17ni/looking_for_fb_ads_pro_to_generate_qualified/",
   "https://www.remoterocketship.com/company/division50/jobs/marketing-associate-paid-media-media-buyer-united-arab-emirates-remote/",
   "https://www.remoterocketship.com/country/europe/jobs/senior-media-buyer/",
   "https://www.remoterocketship.com/country/latin-america/jobs/media-buyer/",
@@ -383,6 +390,7 @@
   "https://www.remoterocketship.com/gb/company/hologrowth/jobs/meta-ads-media-buyer-growth-strategist-europe-remote/",
   "https://www.remoterocketship.com/jobs/media-buyer/",
   "https://www.ringba.com/blog/the-pay-per-call-report-october-8-2021",
+  "https://www.scribd.com/document/827951202/SalesNav-Company-1125897029-7",
   "https://www.youtube.com"
  ]
 }

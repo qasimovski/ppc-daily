@@ -993,6 +993,13 @@
   "next_page": 1,
   "retired": true
  },
+ "\"supply call traffic onboarding\" debt relief calls": {
+  "dry_streak": 1,
+  "last_run": "2026-09-06",
+  "new_total": 0,
+  "next_page": 1,
+  "retired": true
+ },
  "\"supply partner onboarding process\" medicare supplement calls": {
   "dry_streak": 1,
   "last_run": "2026-09-06",
@@ -1126,6 +1133,13 @@
   "next_page": 1,
   "retired": true
  },
+ "\"traffic source onboarding instructions\" inbound calls": {
+  "dry_streak": 0,
+  "last_run": "2026-09-06",
+  "new_total": 5,
+  "next_page": 1,
+  "retired": false
+ },
  "\"traffic source onboarding packet\" final expense calls": {
   "dry_streak": 2,
   "last_run": "2026-09-06",
@@ -1166,6 +1180,13 @@
   "last_run": "2026-09-06",
   "new_total": 1,
   "next_page": 3,
+  "retired": true
+ },
+ "\"traffic supply onboarding packet\" tax relief calls": {
+  "dry_streak": 1,
+  "last_run": "2026-09-06",
+  "new_total": 0,
+  "next_page": 1,
   "retired": true
  },
  "\"traffic supply onboarding\" live transfer calls": {

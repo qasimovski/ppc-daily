@@ -320,3 +320,17 @@
 {"name": "Elevance Health", "norm": "elevance health", "domain": "elevancehealth.com", "how": "guess:elevancehealth.com", "source_url": "https://www.coveragebeacon.com/marketing-partners", "ts": "2026-09-06T13:12:05Z"}
 {"name": "Foresters Financial", "norm": "foresters financial", "domain": "forestersfinancial.com", "how": "guess:forestersfinancial.com", "source_url": "https://www.coveragebeacon.com/marketing-partners", "ts": "2026-09-06T13:12:05Z"}
 {"name": "Protective Life Insurance", "norm": "protective life insurance", "domain": "protectivelifeinsurance.com", "how": "guess:protectivelifeinsurance.com", "source_url": "https://www.coveragebeacon.com/marketing-partners", "ts": "2026-09-06T13:12:05Z"}
+{"name": "Internet Protocol (IP) addresses", "norm": "internet protocol ip addresses", "domain": "validity.com", "how": "search", "source_url": "https://www.loyolaroofing.com/privacy-policy", "ts": "2026-09-06T13:14:32Z"}
+{"name": "Connecticut", "norm": "connecticut", "domain": "ctvisit.com", "how": "search", "source_url": "https://www.loyolaroofing.com/privacy-policy", "ts": "2026-09-06T13:14:37Z"}
+{"name": "Iowa", "norm": "iowa", "domain": "iowastatefair.org", "how": "search", "source_url": "https://www.loyolaroofing.com/privacy-policy", "ts": "2026-09-06T13:14:47Z"}
+{"name": "Kentucky", "norm": "kentucky", "domain": "kentuckytourism.com", "how": "search", "source_url": "https://www.loyolaroofing.com/privacy-policy", "ts": "2026-09-06T13:15:15Z"}
+{"name": "Maryland", "norm": "maryland", "domain": "maryland.com", "how": "guess:maryland.com", "source_url": "https://www.loyolaroofing.com/privacy-policy", "ts": "2026-09-06T13:15:15Z"}
+{"name": "Minnesota", "norm": "minnesota", "domain": "exploreminnesota.com", "how": "search", "source_url": "https://www.loyolaroofing.com/privacy-policy", "ts": "2026-09-06T13:15:27Z"}
+{"name": "Montana", "norm": "montana", "domain": "visitmt.com", "how": "search", "source_url": "https://www.loyolaroofing.com/privacy-policy", "ts": "2026-09-06T13:15:56Z"}
+{"name": "Nebraska", "norm": "nebraska", "domain": "nebraska.com", "how": "guess:nebraska.com", "source_url": "https://www.loyolaroofing.com/privacy-policy", "ts": "2026-09-06T13:15:56Z"}
+{"name": "New Hampshire", "norm": "new hampshire", "domain": "newhampshire.com", "how": "guess:newhampshire.com", "source_url": "https://www.loyolaroofing.com/privacy-policy", "ts": "2026-09-06T13:15:56Z"}
+{"name": "New Jersey", "norm": "new jersey", "domain": "newjersey.com", "how": "guess:newjersey.com", "source_url": "https://www.loyolaroofing.com/privacy-policy", "ts": "2026-09-06T13:15:56Z"}
+{"name": "Oregon", "norm": "oregon", "domain": "oregon.net", "how": "guess:oregon.net", "source_url": "https://www.loyolaroofing.com/privacy-policy", "ts": "2026-09-06T13:15:56Z"}
+{"name": "Tennessee", "norm": "tennessee", "domain": "tennessee.net", "how": "guess:tennessee.net", "source_url": "https://www.loyolaroofing.com/privacy-policy", "ts": "2026-09-06T13:15:56Z"}
+{"name": "Texas", "norm": "texas", "domain": "texasinc.com", "how": "guess:texasinc.com", "source_url": "https://www.loyolaroofing.com/privacy-policy", "ts": "2026-09-06T13:15:56Z"}
+{"name": "Utah", "norm": "utah", "domain": "utah.com", "how": "guess:utah.com", "source_url": "https://www.loyolaroofing.com/privacy-policy", "ts": "2026-09-06T13:15:56Z"}

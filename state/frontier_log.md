@@ -131,3 +131,37 @@ Evidence shows that long, onboarding-specific phrases with vertical call qualifi
 | "publisher onboarding checklist" solar calls | 7 | L4-vertical | Checklist-based onboarding is a phrase used by small solar call brokers; this variant is net-new. |
 | "apply to supply call inventory" rehab calls | 6 | L4-vertical | Inventory-based onboarding is a phrase used by small rehab call brokers; this variant is net-new. |
 | "traffic supply onboarding instructions" mass tort calls | 7 | L4-vertical | Instructions-based onboarding is a phrase used by small mass tort call brokers; this variant is net-new. |
+
+## 2026-09-06T13:17:45Z — forced (gpt-4.1)
+
+Evidence from prior runs shows that long, specific onboarding and application phrases, especially those referencing call traffic or supply, consistently reach deeper into the web and surface net-new, small-scale call brokers and publishers. Short or generic phrases, as well as directory/review language, are dead. This batch introduces net-new onboarding phrase shapes (e.g., 'request call traffic access', 'submit your call inventory', 'traffic partner onboarding packet') and verticals that are either underexplored (pet insurance, funeral insurance, catastrophe insurance) or highly specialized (structured annuity, viatical settlement, business continuity). The goal is to surface small operators with unique onboarding flows and vertical focus, maximizing the chance of discovering net-new, qualified counterparties for Kaliper's software.
+
+| query | max page | layer | why |
+|---|---|---|---|
+| "submit your call inventory" medicare supplement calls | 7 | L4-counterparty | Small call brokers often use 'submit your call inventory' for direct supply onboarding, and 'medicare supplement calls' is a high-value, brokerable vertical not yet deeply mined in this shape. |
+| "traffic partner onboarding packet" debt settlement calls | 6 | L4-counterparty | Long onboarding phrases combined with 'debt settlement calls' target smaller, specialized networks that use detailed intake processes. |
+| "request call traffic access" solar calls | 6 | L4-counterparty | Phraseology like 'request call traffic access' is used by niche operators seeking vetted partners, especially in high-ticket verticals like solar. |
+| "apply for call traffic supply" commercial auto insurance calls | 7 | L4-vertical | Commercial auto insurance is underrepresented and the application-centric phrase is favored by smaller networks. |
+| "supply partner onboarding form" mca calls | 6 | L4-counterparty | This phrase is used by boutique MCA call buyers and sellers who require detailed onboarding for compliance and quality. |
+| "publisher onboarding instructions" tax debt calls | 6 | L4-counterparty | Tax debt is a brokerable vertical and this onboarding phrase targets small networks with formalized but non-corporate processes. |
+| "become a call supplier" structured settlement calls | 6 | L4-vertical | Structured settlements are high-value, and this phrase is used by smaller operators seeking new call sources. |
+| "traffic vendor application" viatical settlement calls | 7 | L4-vertical | Viatical settlements are rarely targeted; this phrase is used by small networks with specialized vertical focus. |
+| "request traffic partner access" addiction treatment calls | 7 | L4-vertical | Addiction treatment calls are lucrative, and this phrase is specific to small operators using manual vetting. |
+| "submit call supply application" home warranty calls | 7 | L4-vertical | Home warranty is a brokerable vertical; this phrase targets small networks with structured but approachable onboarding. |
+| "apply to supply inbound calls" tax relief | 6 | L4-vertical | Combines a call qualifier with a vertical that remains productive, using language typical of small call brokers. |
+| "traffic partner onboarding guide" burial insurance calls | 6 | L4-vertical | Burial insurance is a niche, high-intent vertical; this onboarding guide phrase is used by small, process-oriented networks. |
+| "become a call traffic partner" medical transport calls | 7 | L4-vertical | Medical transport is a brokerable vertical, and this phrase is tailored to the language of small call networks. |
+| "call supply onboarding instructions" pest exclusion calls | 6 | L4-vertical | Pest exclusion (not generic pest control) is a niche, and this phraseology is favored by smaller, compliance-focused brokers. |
+| "submit your inbound call supply" funeral insurance | 7 | L4-vertical | Funeral insurance is a brokerable vertical, and this phrase is used by networks seeking direct call supply. |
+| "traffic source onboarding form" structured annuity calls | 7 | L4-vertical | Structured annuity is an underexplored vertical; this onboarding form phrase is common among small, specialized networks. |
+| "apply for call supply access" water damage calls | 7 | L4-vertical | Water damage is a high-value vertical, and this phrase targets boutique call buyers and sellers. |
+| "traffic partner registration form" reverse mortgage calls | 6 | L4-vertical | Reverse mortgage is a brokerable vertical, and this registration phrase is used by small networks. |
+| "publisher onboarding guide" pet insurance calls | 7 | L4-vertical | Pet insurance is a newer brokerable vertical, and this guide phrase is typical of small, process-driven operators. |
+| "call traffic onboarding packet" disaster recovery calls | 6 | L4-vertical | Disaster recovery is a high-value, event-driven vertical; this onboarding packet phrase is favored by small, nimble networks. |
+| "request publisher access" hearing aid calls | 7 | L4-vertical | Hearing aid is a niche, high-ticket vertical; this phrase is used by small networks with manual onboarding. |
+| "supply partner application form" identity theft calls | 7 | L4-vertical | Identity theft is a growing brokerable vertical; this application form phrase is used by small, compliance-focused networks. |
+| "traffic source onboarding instructions" funeral preplanning calls | 6 | L4-vertical | Funeral preplanning is a niche vertical, and this onboarding phrase is common among small operators. |
+| "become a call supplier" business continuity calls | 7 | L4-vertical | Business continuity is a rarely targeted, brokerable vertical; this phrase is used by small, specialized call brokers. |
+| "submit call inventory" catastrophe insurance calls | 7 | L4-vertical | Catastrophe insurance is a high-value, event-driven vertical, and this phrase is favored by small, agile networks. |
+
+New vertical tokens: reverse-mortgage, commercialautoinsurance
