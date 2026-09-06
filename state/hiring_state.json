@@ -6,23 +6,23 @@
    "new_total": 6
   },
   "\"Ringba\" site:bebee.com pay per call": {
-   "next_page": 1,
+   "next_page": 2,
    "retired": false,
-   "new_total": 10
+   "new_total": 17
   },
   "\"Ringba\" site:linkedin.com/jobs pay per call": {
-   "next_page": 1,
+   "next_page": 2,
    "retired": false,
-   "new_total": 10
+   "new_total": 18
   },
   "\"TrackDrive\" site:onlinejobs.ph pay per call": {
-   "next_page": 1,
-   "retired": false,
+   "next_page": 2,
+   "retired": true,
    "new_total": 2
   },
   "\"TrackDrive\" site:bebee.com pay per call": {
-   "next_page": 1,
-   "retired": false,
+   "next_page": 2,
+   "retired": true,
    "new_total": 1
   },
   "\"TrackDrive\" site:linkedin.com/jobs pay per call": {
@@ -237,6 +237,7 @@
   "https://bebee.com/dk/jobs/senior-global-affiliate-manager-performance-partnerships-pinpoint7-danmark--techmap_dk_4443256517",
   "https://bebee.com/in/companies/valueleaf-services-india-pvt-ltd/jobs",
   "https://bebee.com/in/jobs/affiliate-adops-manager-clickdee--talent-633684092003753414",
+  "https://bebee.com/in/jobs/affiliate-adops-manager-clickdee-gurugram--jobted-ff89e3b5e1907750816a4b50a8dd4405",
   "https://bebee.com/in/jobs/affiliate-media-buyer-2-years-experience-required-digital-nexon-delhi--t7xk-819450747",
   "https://bebee.com/in/jobs/affiliate-media-buyer-digital-nexon-delhi--jobs-sea-4190304243",
   "https://bebee.com/in/jobs/business-development-executive-valueleaf-services-india-pvt-ltd-bengaluru--fj-2310010690",
@@ -246,9 +247,11 @@
   "https://bebee.com/in/jobs/media-buyer-google-ads-adceptive-media-llc-mohali-district--techmap_in_4450064807",
   "https://bebee.com/in/jobs/media-buyer-meta-adcanopus-digital-media-pvt-ltd-bengaluru-karnataka--t7xk-793766089",
   "https://bebee.com/in/jobs/media-buyer-the5co-jamai--bs-in-f3c4de83-1015-45a0-b47c-b1932774df62",
+  "https://bebee.com/in/jobs/meta-ads-intern-mohali-adceptive-media-llc-mohali-district--t7xk-816155880",
   "https://bebee.com/in/jobs/pay-per-call-specialist-whalemaven--talent-627646777429536008",
   "https://bebee.com/in/jobs/pay-per-call-specialist-whalemaven-gurugram--jobmesh-64196d38-52bf-4795-8f1c-349b1a322b8d",
   "https://bebee.com/in/jobs/pay-per-call-specialist-whalemaven-gurugram--jobted-3fd5ac1f7ce786e10a59710e8750dd73",
+  "https://bebee.com/in/jobs/ppc-specialist-idea-clan-chandigarh-chandigarh--t7xk-782181074",
   "https://bebee.com/in/jobs/qa-specialist-pay-per-call-call-quality-crossblade-media-llc--t7xk-793075723",
   "https://bebee.com/in/jobs/strategic-partnerships-manager-direct-advertisers-pay-per-call-clickdee-gurugram--fj-2343128411",
   "https://bebee.com/mx/jobs/client-operations-manager-huzzlecom--t7xk-784702891",
@@ -261,6 +264,9 @@
   "https://bebee.com/us/jobs/business-development-manager-the-aragon-company-new-york-ny--t7xk-791389651",
   "https://bebee.com/us/jobs/customer-success-associate-leadspedia-inc-franklin-tn--t7xk-808309192",
   "https://bebee.com/us/jobs/director-performance-marketing-expandiq--t7xk-755820069",
+  "https://bebee.com/us/jobs/enterprise-account-executive-phonely-inc-san-francisco--pureheal-28528_23106_e8bddd8156dcb2c2d68f4a574080cf08",
+  "https://bebee.com/us/jobs/founding-account-executive-phonely-san-francisco--fj-2303579329",
+  "https://bebee.com/us/jobs/founding-account-executive-phonely-yc-s24-san-francisco--pureheal-28528_25298_a1be1629d5d18bc86582eea17440ce09",
   "https://bebee.com/us/jobs/inside-sales-account-manager-pay-per-call-lead-generation-leadledger--techmap_us_ZjOPLdCHBmxcb7KTK9o5KuMWsLwKvJH02ZSJCEMTf9jYoupgk0QYEw",
   "https://bebee.com/us/jobs/media-broker-edmleadnetwork--predictleads-4f0e2fcd-3b78-4c83-89c5-06e1068dedd9",
   "https://bebee.com/us/jobs/on-call-mobile-security-rapid-response-paid-per-call-cytesecurity-los-angeles--pureheal-28528_23106_b5e19ab1ced380ead5733b2041124ade",
@@ -269,16 +275,20 @@
   "https://bebee.com/us/jobs/ppc-media-buyer-sbc-performance--lensa-2365_d2fca402ac5c63bc709b02d635ead6ddb7f1bf11e104b97c5956392b17676de4",
   "https://bebee.com/us/jobs/project-manager-affiliate-performance-marketing-fully-remote-worldwide-a-hiring-group-ny--appcast-13509_88299518",
   "https://bebee.com/us/jobs/senior-publisher-manager-321-the-agency--ss-us-2aqekf",
+  "https://bebee.com/za/jobs/publisher-traffic-performance-manager-truecare-marketing--t7xk-806976993",
+  "https://ca.linkedin.com/jobs/view/senior-media-buyer-at-creative-clicks-4432716641",
   "https://co.linkedin.com/jobs/view/client-success-manager-%E2%80%94-pay-per-call-at-agent-calls-4434430602",
   "https://cr.linkedin.com/jobs/view/bilingual-english%E2%80%93russian-sales-customer-support-specialist-remote-at-leadspedia-corporation-4317896010",
   "https://cr.linkedin.com/jobs/view/en-ru-sales-customer-support-specialist-remote-at-leadspedia-corporation-4309654394",
   "https://ge.linkedin.com/jobs/view/senior-full-stack-engineer-%E2%80%94-call-routing-telecom-ai-at-agent-calls-4424504447",
+  "https://in.linkedin.com/jobs/view/qa-specialist-%E2%80%93-pay-per-call-call-quality-at-crossblade-media-llc-4450003133",
   "https://jobright.ai/jobs/info/68d556a539247e3c807ea325",
   "https://jobright.ai/jobs/info/6a50fe428d7d3e6cf1cbdea9?visit=poultry-territory-account-manager%2C-us-farm-animal-%E2%80%93-se-us-%28ga%2C-al%2C-fl%2C-%2B%29-jobs-in-united-states",
   "https://ph.linkedin.com/jobs/view/account-manager-at-voax-media-4425326506",
   "https://phonexa.com/lms-sync/ping-post-software/",
   "https://pk.linkedin.com/jobs/view/ringba-tech-support-specialist-at-primestaff-4395873013",
   "https://profitise.com/home-services-leads/",
+  "https://rs.linkedin.com/jobs/view/%F0%9F%94%A7-techops-engineer-%E2%80%93-ringba-%2B-automation-%2B-ai-at-standard-conversions-4301315182",
   "https://rs.linkedin.com/jobs/view/project-manager-%E2%80%93-affiliate-performance-marketing-fully-remote-worldwide-at-a-hiring-group-4301425754",
   "https://us.trabajo.org/job-5003-660713e63b264d009b63a127bcfa1564",
   "https://v2.onlinejobs.ph/jobseekers/info/2423104",

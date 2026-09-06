@@ -200,3 +200,14 @@
 {"name": "Illinois", "norm": "illinois", "domain": "illinois.com", "how": "guess:illinois.com", "source_url": "https://quotes.priceshopmedicare.com", "ts": "2026-09-06T07:17:37Z"}
 {"name": "Indiana", "norm": "indiana", "domain": "indiana.com", "how": "guess:indiana.com", "source_url": "https://quotes.priceshopmedicare.com", "ts": "2026-09-06T07:17:37Z"}
 {"name": "Kansas", "norm": "kansas", "domain": "kansas.net", "how": "guess:kansas.net", "source_url": "https://quotes.priceshopmedicare.com", "ts": "2026-09-06T07:17:37Z"}
+{"name": "Ring Latino", "norm": "ring latino", "domain": "etsy.com", "how": "search", "source_url": "https://ratequote.com/marketing-partners", "ts": "2026-09-06T07:21:44Z"}
+{"name": "Miller Home Renovations - Phone", "norm": "miller home renovations phone", "domain": null, "how": "unresolved:search-miss", "source_url": "https://renuehome.com/partners", "ts": "2026-09-06T07:21:51Z"}
+{"name": "Ring Partner ULC", "norm": "ring partner ulc", "domain": "ringpartner.com", "how": "search", "source_url": "https://renuehome.com/partners", "ts": "2026-09-06T07:21:57Z"}
+{"name": "Auto Repair Network", "norm": "auto repair network", "domain": "autorepairnetworkus.com", "how": "search", "source_url": "https://ratequote.com/marketing-partners", "ts": "2026-09-06T07:22:04Z"}
+{"name": "Match Media Group", "norm": "match media group", "domain": "matchmediagroup.com", "how": "guess:matchmediagroup.com", "source_url": "https://ratequote.com/marketing-partners", "ts": "2026-09-06T07:22:04Z"}
+{"name": "Nikia Media", "norm": "nikia media", "domain": "nikiamedia.com", "how": "guess:nikiamedia.com", "source_url": "https://ratequote.com/marketing-partners", "ts": "2026-09-06T07:22:04Z"}
+{"name": "One Touch Direct", "norm": "one touch direct", "domain": "onetouchdirect.com", "how": "guess:onetouchdirect.com", "source_url": "https://ratequote.com/marketing-partners", "ts": "2026-09-06T07:22:04Z"}
+{"name": "Peak Advertising", "norm": "peak advertising", "domain": "peak-advertising.com", "how": "guess:peak-advertising.com", "source_url": "https://ratequote.com/marketing-partners", "ts": "2026-09-06T07:22:04Z"}
+{"name": "Powderhorn Media", "norm": "powderhorn media", "domain": "powderhornmedia.com", "how": "guess:powderhornmedia.com", "source_url": "https://ratequote.com/marketing-partners", "ts": "2026-09-06T07:22:04Z"}
+{"name": "Pristine Media Group", "norm": "pristine media group", "domain": "pristine-media-group.com", "how": "guess:pristine-media-group.com", "source_url": "https://ratequote.com/marketing-partners", "ts": "2026-09-06T07:22:04Z"}
+{"name": "Tech Leads", "norm": "tech leads", "domain": "techleads.com", "how": "guess:techleads.com", "source_url": "https://ratequote.com/marketing-partners", "ts": "2026-09-06T07:22:04Z"}
