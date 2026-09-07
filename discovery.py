@@ -251,11 +251,19 @@ def mark_probed(domains):
 # {"domain","company_name","layer","source_url","source_note"}. Consumed once, then archived.
 INBOX = os.path.join(STATE, 'inbox')
 
+# Kaliper is permanently banned from Ringba, so a Ringba tenant is unworkable however
+# well it passes v6. crawl.py catches the tag (and ringba_prose the mention) on the
+# company's OWN site - but the hiring lane's evidence is a job ad, and the brief actively
+# SEARCHES for "wants Ringba experience" as proof of a call seller. 2026-09-07: 2 of that
+# run's 4 employers disclosed Ringba only in source_note, so they would have reached v6
+# and enrichment untouched. Screen here, before anything is spent.
+RINGBA_NOTE = re.compile(r'\bringba\b', re.I)
+
 def run_inbox(emit, log=print):
     import glob, shutil
     os.makedirs(INBOX, exist_ok=True)
     files = sorted(glob.glob(os.path.join(INBOX, '*.jsonl')))
-    n = tot = 0
+    n = tot = banned = 0
     for fp in files:
         for line in io.open(fp, encoding='utf-8', errors='replace'):
             line = line.strip()
@@ -263,12 +271,18 @@ def run_inbox(emit, log=print):
             try: r = json.loads(line)
             except Exception: continue
             tot += 1
+            if RINGBA_NOTE.search('%s %s' % (r.get('source_note') or '', r.get('source_url') or '')):
+                banned += 1
+                log('[inbox] DROP %s - names Ringba in its own sourcing evidence (Kaliper is banned from Ringba)'
+                    % (r.get('domain') or '?'))
+                continue
             if emit(r.get('domain', ''), layer=r.get('layer') or 'L9-inbox', source_url=r.get('source_url', ''),
                     source_note=(r.get('source_note') or '')[:300], company_name=(r.get('company_name') or '')[:120]):
                 n += 1
         done_dir = os.path.join(INBOX, 'consumed'); os.makedirs(done_dir, exist_ok=True)
         shutil.move(fp, os.path.join(done_dir, os.path.basename(fp)))
-    if files: log('[inbox] %d files, %d lines, %d net-new candidates' % (len(files), tot, n))
+    if files: log('[inbox] %d files, %d lines, %d net-new candidates%s' % (
+        len(files), tot, n, ', %d dropped as Ringba' % banned if banned else ''))
     return n
 
 # ------------------------------------------------------------------ LINKED CHANNEL
