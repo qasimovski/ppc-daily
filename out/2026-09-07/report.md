@@ -7,54 +7,53 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | stage | count |
 |---|---|
 | inbox candidates | 0 |
-| partner-list names resolved -> candidates | 43 -> 34 |
+| partner-list names resolved -> candidates | 30 -> 22 |
 | hiring postings read -> candidates | 0 -> 0 |
 | linked-domain candidates | 0 |
-| search requests | 16 |
-| raw finds (search) | 151 |
-| constructed domains probed | 300 |
-| net-new candidates after exclusion index | 366 |
-|   of which from search | 66 |
-|   of which from probing | 300 |
-| crawled | 366 |
-|   crawl: ok | 55 |
-|   crawl: thin | 2 |
-|   crawl: unregistered | 301 |
-|   crawl: unreachable | 5 |
-|   crawl: redirect_offdomain | 3 |
+| search requests | 19 |
+| raw finds (search) | 73 |
+| constructed domains probed | 293 |
+| net-new candidates after exclusion index | 334 |
+|   of which from search | 41 |
+|   of which from probing | 293 |
+| crawled | 334 |
+|   crawl: ok | 28 |
+|   crawl: unregistered | 295 |
+|   crawl: unreachable | 3 |
+|   crawl: redirect_offdomain | 8 |
 | probes that resolved to a real site | 0 |
-| v6 classified | 55 |
+| v6 classified | 28 |
 | carried to next run (unclassified) | 0 |
 | carried to next run (uncrawled) | 0 |
-| V6 QUALIFIED | 1 |
+| V6 QUALIFIED | 0 |
 
 ## Day so far (all passes, unique domains)
 
 | stage | count |
 |---|---|
-| candidates crawled | 186 |
-| crawled ok | 151 |
-| v6 classified | 151 |
+| candidates crawled | 227 |
+| crawled ok | 179 |
+| v6 classified | 179 |
 | v6 qualified | 2 |
 
 ## Crawl outcomes (net-new candidates only)
 
 | status | count |
 |---|---|
-| ok | 151 |
-| redirect_offdomain | 16 |
-| unreachable | 11 |
+| ok | 179 |
+| redirect_offdomain | 24 |
+| unreachable | 14 |
 | thin | 5 |
-| unregistered | 3 |
+| unregistered | 5 |
 
 ## v6 qualify rate per discovery channel
 
 | channel | classified | qualified | rate |
 |---|---|---|---|
 | L7-probe | 3 | 1 | 33.3% |
-| L10-partners | 77 | 1 | 1.3% |
-| L4-vertical | 38 | 0 | 0.0% |
-| L4-counterparty | 33 | 0 | 0.0% |
+| L10-partners | 90 | 1 | 1.1% |
+| L4-vertical | 44 | 0 | 0.0% |
+| L4-counterparty | 42 | 0 | 0.0% |
 
 **V6 QUALIFIED TODAY: 2** (ICP-clean: 2). Cumulative across all daily runs: 42.
 
@@ -62,15 +61,16 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | reason | count |
 |---|---|
-| unrelated | 50 |
-| end_advertiser | 25 |
-| lead_or_appointment_pricing | 22 |
-| software_or_crm | 21 |
-| seo_or_ranking_agency | 12 |
-| service_to_call_receiver | 10 |
-| no_clear_signal | 6 |
+| unrelated | 60 |
+| end_advertiser | 28 |
+| software_or_crm | 26 |
+| lead_or_appointment_pricing | 25 |
+| service_to_call_receiver | 14 |
+| seo_or_ranking_agency | 13 |
+| no_clear_signal | 7 |
 | directory_or_content | 2 |
 | coach_or_consultant | 1 |
+| recruiting | 1 |
 
 ## Qualified today
 
