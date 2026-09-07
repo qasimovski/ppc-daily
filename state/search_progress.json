@@ -497,10 +497,10 @@
   "retired": true
  },
  "\"publisher eligibility form\" debt relief calls": {
-  "dry_streak": 1,
+  "dry_streak": 0,
   "last_run": "2026-09-07",
-  "new_total": 2,
-  "next_page": 2,
+  "new_total": 4,
+  "next_page": 3,
   "retired": false
  },
  "\"publisher eligibility requirements\" pay per call": {
@@ -602,11 +602,11 @@
   "retired": true
  },
  "\"publisher onboarding instructions\" viatical settlement calls": {
-  "dry_streak": 1,
+  "dry_streak": 2,
   "last_run": "2026-09-07",
   "new_total": 5,
-  "next_page": 2,
-  "retired": false
+  "next_page": 3,
+  "retired": true
  },
  "\"publisher onboarding packet\" auto insurance calls": {
   "dry_streak": 1,
@@ -1246,11 +1246,11 @@
   "retired": true
  },
  "\"submit your call supply application\" commercial insurance calls": {
-  "dry_streak": 1,
+  "dry_streak": 2,
   "last_run": "2026-09-07",
   "new_total": 3,
-  "next_page": 2,
-  "retired": false
+  "next_page": 3,
+  "retired": true
  },
  "\"submit your call traffic\" home insurance calls": {
   "dry_streak": 2,
@@ -1267,11 +1267,11 @@
   "retired": true
  },
  "\"submit your call traffic\" merchant cash advance calls": {
-  "dry_streak": 1,
+  "dry_streak": 2,
   "last_run": "2026-09-07",
   "new_total": 5,
-  "next_page": 2,
-  "retired": false
+  "next_page": 3,
+  "retired": true
  },
  "\"submit your call traffic\" tax debt calls": {
   "dry_streak": 2,
@@ -1302,11 +1302,11 @@
   "retired": true
  },
  "\"submit your inbound call traffic\" structured settlement calls": {
-  "dry_streak": 1,
+  "dry_streak": 2,
   "last_run": "2026-09-07",
   "new_total": 3,
-  "next_page": 2,
-  "retired": false
+  "next_page": 3,
+  "retired": true
  },
  "\"submit your inbound call traffic\" water damage calls": {
   "dry_streak": 1,
@@ -1470,11 +1470,11 @@
   "retired": true
  },
  "\"traffic partner onboarding form\" water damage calls": {
-  "dry_streak": 1,
+  "dry_streak": 2,
   "last_run": "2026-09-07",
   "new_total": 1,
-  "next_page": 2,
-  "retired": false
+  "next_page": 3,
+  "retired": true
  },
  "\"traffic partner onboarding guide\" auto insurance calls": {
   "dry_streak": 1,
@@ -1512,11 +1512,11 @@
   "retired": true
  },
  "\"traffic partner onboarding workflow\" inbound calls": {
-  "dry_streak": 1,
+  "dry_streak": 2,
   "last_run": "2026-09-07",
   "new_total": 7,
-  "next_page": 2,
-  "retired": false
+  "next_page": 3,
+  "retired": true
  },
  "\"traffic partner onboarding\" home insurance calls": {
   "dry_streak": 1,
@@ -1561,11 +1561,11 @@
   "retired": true
  },
  "\"traffic partner vetting process\" inbound calls": {
-  "dry_streak": 1,
+  "dry_streak": 2,
   "last_run": "2026-09-07",
   "new_total": 4,
-  "next_page": 2,
-  "retired": false
+  "next_page": 3,
+  "retired": true
  },
  "\"traffic source application\" debt settlement calls": {
   "dry_streak": 1,

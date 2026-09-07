@@ -572,3 +572,21 @@
 {"name": "Freedom National", "norm": "freedom national", "domain": "freedomnational.com", "how": "guess:freedomnational.com", "source_url": "https://everquote.com/partners", "ts": "2026-09-07T01:15:32Z"}
 {"name": "Gainsco", "norm": "gainsco", "domain": "gainsco.com", "how": "guess:gainsco.com", "source_url": "https://everquote.com/partners", "ts": "2026-09-07T01:15:32Z"}
 {"name": "Great West", "norm": "great west", "domain": "greatwestllc.com", "how": "guess:greatwestllc.com", "source_url": "https://everquote.com/partners", "ts": "2026-09-07T01:15:32Z"}
+{"name": "Aptive – Calls", "norm": "aptive calls", "domain": "bestcompany.com", "how": "search", "source_url": "https://koalatywindows.com/quote", "ts": "2026-09-07T01:19:13Z"}
+{"name": "Broker Call", "norm": "broker call", "domain": "investopedia.com", "how": "search", "source_url": "https://koalatywindows.com/quote", "ts": "2026-09-07T01:19:20Z"}
+{"name": "Call Box Sales & Marketing Solutions", "norm": "call box sales & marketing solutions", "domain": null, "how": "unresolved:search-miss", "source_url": "https://koalatywindows.com/quote", "ts": "2026-09-07T01:19:26Z"}
+{"name": "Euro Call Construction", "norm": "euro call construction", "domain": null, "how": "unresolved:search-miss", "source_url": "https://koalatywindows.com/quote", "ts": "2026-09-07T01:19:32Z"}
+{"name": "One Call Energy", "norm": "one call energy", "domain": null, "how": "unresolved:generic-name", "source_url": "https://koalatywindows.com/quote", "ts": "2026-09-07T01:19:34Z"}
+{"name": "Sunpro Solar Transfers", "norm": "sunpro solar transfers", "domain": null, "how": "unresolved:search-miss", "source_url": "https://koalatywindows.com/quote", "ts": "2026-09-07T01:19:40Z"}
+{"name": "Sunpro Transfers", "norm": "sunpro transfers", "domain": null, "how": "unresolved:search-miss", "source_url": "https://koalatywindows.com/quote", "ts": "2026-09-07T01:19:47Z"}
+{"name": "Your Web Calls", "norm": "your web calls", "domain": null, "how": "unresolved:generic-name", "source_url": "https://koalatywindows.com/quote", "ts": "2026-09-07T01:19:49Z"}
+{"name": "AIP Marketing Alliance, LLC", "norm": "aip marketing alliance", "domain": "azurewebsites.net", "how": "search", "source_url": "https://fastautoquote.org/marketing-partners", "ts": "2026-09-07T01:19:55Z"}
+{"name": "BAMR Marketing LLC", "norm": "bamr marketing", "domain": null, "how": "unresolved:search-miss", "source_url": "https://fastautoquote.org/marketing-partners", "ts": "2026-09-07T01:20:01Z"}
+{"name": "BenefitLogix Marketing", "norm": "benefitlogix marketing", "domain": "dnb.com", "how": "search", "source_url": "https://fastautoquote.org/marketing-partners", "ts": "2026-09-07T01:20:08Z"}
+{"name": "Direct Protect Security", "norm": "direct protect security", "domain": "directprotectsecurity.com", "how": "guess:directprotectsecurity.com", "source_url": "https://fastautoquote.org/marketing-partners", "ts": "2026-09-07T01:20:08Z"}
+{"name": "Juiced Media LLC", "norm": "juiced media", "domain": "juicedmedia.com", "how": "guess:juicedmedia.com", "source_url": "https://fastautoquote.org/marketing-partners", "ts": "2026-09-07T01:20:08Z"}
+{"name": "Keystone Interactive", "norm": "keystone interactive", "domain": "keystoneinteractive.com", "how": "guess:keystoneinteractive.com", "source_url": "https://fastautoquote.org/marketing-partners", "ts": "2026-09-07T01:20:08Z"}
+{"name": "Lead Clinic, LLC", "norm": "lead clinic", "domain": "leadclinic.com", "how": "guess:leadclinic.com", "source_url": "https://fastautoquote.org/marketing-partners", "ts": "2026-09-07T01:20:08Z"}
+{"name": "Lead Gate Media", "norm": "lead gate media", "domain": "leadgatemedia.com", "how": "guess:leadgatemedia.com", "source_url": "https://fastautoquote.org/marketing-partners", "ts": "2026-09-07T01:20:08Z"}
+{"name": "Lead Generation Inc", "norm": "lead generation", "domain": "leadgeneration.com", "how": "guess:leadgeneration.com", "source_url": "https://fastautoquote.org/marketing-partners", "ts": "2026-09-07T01:20:08Z"}
+{"name": "Leads 2 Success, LLC", "norm": "leads 2 success", "domain": "leads2success.com", "how": "guess:leads2success.com", "source_url": "https://fastautoquote.org/marketing-partners", "ts": "2026-09-07T01:20:08Z"}

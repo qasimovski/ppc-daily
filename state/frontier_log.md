@@ -199,3 +199,37 @@ Evidence shows that granular, workflow-specific onboarding and compliance phrase
 | "submit your call traffic" merchant cash advance calls | 7 | L4-vertical | This phrase is new for MCA and targets small call brokers in business finance. |
 
 New vertical tokens: dentalplans, taxsettlement, annuitiescashout, mortgagemodification, structuredpayout, disastercleanup, elderlaw, studentdebtrelief, fireinsurance, commercialroofing, businessinterruption, mobilehomeinsurance, timesharelitigation, foreclosureassistance, identityprotection
+
+## 2026-09-07T01:21:09Z — forced (gpt-4.1)
+
+The evidence shows that long, specific onboarding and compliance phrases—especially those referencing documentation, workflow, or intake—are effective at surfacing small, semi-manual pay-per-call brokers and networks. This batch leans into granular onboarding, compliance, and reporting language that is rarely present on large network or directory sites, but common among small operators who manually manage publisher relationships. The vertical tokens extend into nuanced, brokerable areas adjacent to proven verticals (e.g., hearing benefits, annuities buyout, disaster relief), as well as sub-verticals and crossovers (e.g., fire and flood restoration, pet health insurance). The goal is to maximize discovery of net-new, small call brokers and publishers by leveraging their unique operational vocabulary and emerging verticals.
+
+| query | max page | layer | why |
+|---|---|---|---|
+| "traffic supply onboarding portal" inbound calls | 7 | L4-counterparty | Combines a specific onboarding portal phrase with a call qualifier, targeting small networks with custom supply flows. |
+| "submit your call routing preferences" per call | 6 | L4-counterparty | Small brokers often offer granular routing; this phrase surfaces niche operators managing their own call flows. |
+| "publisher compliance documentation" live transfers | 5 | L4-counterparty | Compliance documentation is a phrase used by small networks with manual onboarding, especially for live transfer traffic. |
+| "traffic partner onboarding checklist" inbound calls | 7 | L4-counterparty | Checklists are used by small teams to standardize onboarding; this phrase is rarely found on large network sites. |
+| "submit call disposition reports" pay per call | 6 | L4-counterparty | Disposition reporting is a workflow detail found on sites of smaller operators who manually reconcile call outcomes. |
+| "publisher registration instructions" insurance calls | 7 | L4-vertical | Registration instructions is a phrase used by small networks to help new publishers join vertical-specific call flows. |
+| "traffic vendor onboarding process" debt relief calls | 6 | L4-vertical | The phrase 'vendor onboarding process' is used by small aggregators who need to document steps for new call suppliers. |
+| "supply call traffic application" auto insurance calls | 6 | L4-vertical | Application language is common among small call brokers seeking direct supply in high-value insurance verticals. |
+| "publisher onboarding workflow" solar calls | 7 | L4-vertical | Workflow language is used by smaller solar call buyers and sellers who have semi-manual approval processes. |
+| "traffic partner payment schedule" per call | 7 | L4-counterparty | Payment schedule specificity is typical of small networks who negotiate terms directly with publishers. |
+| "submit your call supply" structured settlement calls | 7 | L4-vertical | Direct call supply submission is a phrase used by small operators in high-value legal/finance verticals. |
+| "publisher onboarding packet" commercial insurance calls | 6 | L4-vertical | Onboarding packets are documentation-heavy and signal smaller networks with hands-on publisher management. |
+| "request traffic vendor access" medicare calls | 6 | L4-vertical | Request language is used by smaller operators who manually review and approve new call vendors. |
+| "traffic partner compliance guide" tax relief calls | 5 | L4-vertical | Compliance guides are published by smaller, regulated call buyers in finance verticals. |
+| "publisher onboarding requirements" home insurance calls | 7 | L4-vertical | Requirements documentation is a small-network hallmark, especially in regulated insurance verticals. |
+| "submit call traffic application" addiction calls | 6 | L4-vertical | Application language is used by small rehab call brokers to vet new supply partners. |
+| "traffic vendor registration page" auto glass calls | 6 | L4-vertical | Registration pages for vendors are a small-operator pattern in auto glass and similar home/auto verticals. |
+| "publisher onboarding portal" tax debt calls | 7 | L4-vertical | Portals for onboarding are more common among small, vertical-focused call buyers. |
+| "submit your call volume" mca calls | 7 | L4-vertical | Call volume submission is a phrase used by small merchant cash advance call buyers and sellers. |
+| "traffic supply intake form" personal injury calls | 6 | L4-vertical | Intake forms are a small-broker staple in high-value legal verticals. |
+| "publisher onboarding guide" reverse mortgage calls | 7 | L4-vertical | Guides for onboarding are used by small reverse mortgage call networks to help new supply partners. |
+| "traffic partner eligibility criteria" inbound calls | 6 | L4-counterparty | Eligibility criteria is a phrase used in small network documentation for vetting new call sources. |
+| "submit call traffic reports" health insurance calls | 6 | L4-vertical | Reporting language is used by small health insurance call buyers who require manual reconciliation. |
+| "publisher onboarding workflow" debt settlement calls | 7 | L4-vertical | Workflow documentation is a small-operator pattern in debt settlement verticals. |
+| "traffic partner onboarding documentation" home warranty calls | 6 | L4-vertical | Documentation for onboarding is a phrase found on small home warranty call aggregator sites. |
+
+New vertical tokens: hearingbenefits, longtermcareinsurance, structuredsettlements, taxconsultation, disasterrelief, pethealthinsurance, viaticalsettlements, homebuyersinsurance, fireandfloodrestoration, medigapplans, seniorbenefits
