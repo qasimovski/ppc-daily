@@ -83,6 +83,13 @@
   "next_page": 5,
   "retired": true
  },
+ "\"apply to provide inbound calls\" health insurance": {
+  "dry_streak": 1,
+  "last_run": "2026-09-07",
+  "new_total": 0,
+  "next_page": 1,
+  "retired": true
+ },
  "\"apply to supply call inventory\" rehab calls": {
   "dry_streak": 2,
   "last_run": "2026-09-06",
@@ -103,6 +110,13 @@
   "new_total": 3,
   "next_page": 3,
   "retired": true
+ },
+ "\"apply to supply inbound calls\" legal": {
+  "dry_streak": 0,
+  "last_run": "2026-09-07",
+  "new_total": 6,
+  "next_page": 1,
+  "retired": false
  },
  "\"apply to supply inbound calls\" tax relief": {
   "dry_streak": 1,
@@ -167,6 +181,13 @@
   "next_page": 3,
   "retired": true
  },
+ "\"become a call traffic supplier\" home warranty calls": {
+  "dry_streak": 0,
+  "last_run": "2026-09-07",
+  "new_total": 2,
+  "next_page": 1,
+  "retired": false
+ },
  "\"become a publisher\" \"pay per call\"": {
   "dry_streak": 2,
   "last_run": "2026-09-05",
@@ -208,6 +229,13 @@
   "new_total": 4,
   "next_page": 3,
   "retired": true
+ },
+ "\"call supply onboarding portal\" tax debt calls": {
+  "dry_streak": 0,
+  "last_run": "2026-09-07",
+  "new_total": 5,
+  "next_page": 1,
+  "retired": false
  },
  "\"call supply registration\" personal injury calls": {
   "dry_streak": 2,
@@ -531,6 +559,13 @@
   "next_page": 2,
   "retired": true
  },
+ "\"publisher onboarding checklist\" auto insurance calls": {
+  "dry_streak": 0,
+  "last_run": "2026-09-07",
+  "new_total": 1,
+  "next_page": 1,
+  "retired": false
+ },
  "\"publisher onboarding checklist\" inbound calls": {
   "dry_streak": 2,
   "last_run": "2026-09-06",
@@ -700,6 +735,13 @@
   "retired": true
  },
  "\"publisher onboarding workflow\" debt settlement calls": {
+  "dry_streak": 1,
+  "last_run": "2026-09-07",
+  "new_total": 0,
+  "next_page": 1,
+  "retired": true
+ },
+ "\"publisher onboarding workflow\" pet insurance calls": {
   "dry_streak": 1,
   "last_run": "2026-09-07",
   "new_total": 0,
@@ -1210,6 +1252,13 @@
   "next_page": 1,
   "retired": true
  },
+ "\"request supply partner access\" medicare calls": {
+  "dry_streak": 0,
+  "last_run": "2026-09-07",
+  "new_total": 2,
+  "next_page": 1,
+  "retired": false
+ },
  "\"request traffic partner access\" addiction treatment calls": {
   "dry_streak": 2,
   "last_run": "2026-09-06",
@@ -1294,6 +1343,13 @@
   "next_page": 2,
   "retired": true
  },
+ "\"submit call traffic application\" structured annuity calls": {
+  "dry_streak": 0,
+  "last_run": "2026-09-07",
+  "new_total": 4,
+  "next_page": 1,
+  "retired": false
+ },
  "\"submit call traffic reports\" health insurance calls": {
   "dry_streak": 2,
   "last_run": "2026-09-07",
@@ -1329,6 +1385,13 @@
   "next_page": 1,
   "retired": true
  },
+ "\"submit your call routing preferences\" inbound calls": {
+  "dry_streak": 0,
+  "last_run": "2026-09-07",
+  "new_total": 3,
+  "next_page": 1,
+  "retired": false
+ },
  "\"submit your call routing preferences\" per call": {
   "dry_streak": 2,
   "last_run": "2026-09-07",
@@ -1342,6 +1405,13 @@
   "new_total": 3,
   "next_page": 3,
   "retired": true
+ },
+ "\"submit your call supply application\" reverse mortgage calls": {
+  "dry_streak": 0,
+  "last_run": "2026-09-07",
+  "new_total": 3,
+  "next_page": 1,
+  "retired": false
  },
  "\"submit your call supply\" structured settlement calls": {
   "dry_streak": 2,
@@ -1525,6 +1595,13 @@
   "next_page": 3,
   "retired": true
  },
+ "\"traffic partner application packet\" rehab calls": {
+  "dry_streak": 0,
+  "last_run": "2026-09-07",
+  "new_total": 2,
+  "next_page": 1,
+  "retired": false
+ },
  "\"traffic partner application\" senior care calls": {
   "dry_streak": 1,
   "last_run": "2026-09-06",
@@ -1626,6 +1703,13 @@
  "\"traffic partner onboarding guide\" burial insurance calls": {
   "dry_streak": 1,
   "last_run": "2026-09-06",
+  "new_total": 0,
+  "next_page": 1,
+  "retired": true
+ },
+ "\"traffic partner onboarding guide\" commercial insurance calls": {
+  "dry_streak": 1,
+  "last_run": "2026-09-07",
   "new_total": 0,
   "next_page": 1,
   "retired": true
@@ -1777,6 +1861,13 @@
   "next_page": 1,
   "retired": true
  },
+ "\"traffic source registration form\" final expense calls": {
+  "dry_streak": 1,
+  "last_run": "2026-09-07",
+  "new_total": 0,
+  "next_page": 1,
+  "retired": false
+ },
  "\"traffic source registration form\" junk cars calls": {
   "dry_streak": 1,
   "last_run": "2026-09-06",
@@ -1859,6 +1950,13 @@
   "last_run": "2026-09-06",
   "new_total": 0,
   "next_page": 2,
+  "retired": true
+ },
+ "\"traffic vendor onboarding guide\" personal injury calls": {
+  "dry_streak": 1,
+  "last_run": "2026-09-07",
+  "new_total": 0,
+  "next_page": 1,
   "retired": true
  },
  "\"traffic vendor onboarding guide\" towing calls": {

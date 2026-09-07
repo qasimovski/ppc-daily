@@ -690,3 +690,18 @@
 {"name": "J&M Advertising", "norm": "j&m advertising", "domain": "pitchbook.com", "how": "search", "source_url": "https://quotelab.com/marketing-partners", "ts": "2026-09-07T01:37:19Z"}
 {"name": "PriceShop Media", "norm": "priceshop media", "domain": "priceshopmedia.com", "how": "guess:priceshopmedia.com", "source_url": "https://quotelab.com/marketing-partners", "ts": "2026-09-07T01:37:19Z"}
 {"name": "Allianz", "norm": "allianz", "domain": "allianz.com", "how": "guess:allianz.com", "source_url": "https://quotelab.com/marketing-partners", "ts": "2026-09-07T01:37:19Z"}
+{"name": "Moss Affiliate Marketing Sellers", "norm": "moss affiliate marketing sellers", "domain": null, "how": "unresolved:search-miss", "source_url": "https://ratefinder.com/partners.html", "ts": "2026-09-07T01:39:55Z"}
+{"name": "Parasol Agents Network", "norm": "parasol agents network", "domain": null, "how": "unresolved:search-miss", "source_url": "https://ratefinder.com/partners.html", "ts": "2026-09-07T01:40:01Z"}
+{"name": "Plasmid Direct", "norm": "plasmid direct", "domain": "ebsco.com", "how": "search", "source_url": "https://ratefinder.com/partners.html", "ts": "2026-09-07T01:40:08Z"}
+{"name": "Real-Comp Data and Marketing", "norm": "real comp data and marketing", "domain": "real-comp.com", "how": "search", "source_url": "https://ratefinder.com/partners.html", "ts": "2026-09-07T01:40:13Z"}
+{"name": "RP Marketing", "norm": "rp marketing", "domain": null, "how": "unresolved:generic-name", "source_url": "https://ratefinder.com/partners.html", "ts": "2026-09-07T01:40:16Z"}
+{"name": "Suretouch Leads", "norm": "suretouch leads", "domain": null, "how": "unresolved:search-miss", "source_url": "https://ratefinder.com/partners.html", "ts": "2026-09-07T01:40:54Z"}
+{"name": "Comparequotes", "norm": "comparequotes", "domain": "comparequotes.com", "how": "guess:comparequotes.com", "source_url": "https://ratefinder.com/partners.html", "ts": "2026-09-07T01:40:54Z"}
+{"name": "Dashers", "norm": "dashers", "domain": "dashers.io", "how": "guess:dashers.io", "source_url": "https://ratefinder.com/partners.html", "ts": "2026-09-07T01:40:54Z"}
+{"name": "Design Benefit Plans", "norm": "design benefit plans", "domain": "designbenefitplans.com", "how": "guess:designbenefitplans.com", "source_url": "https://ratefinder.com/partners.html", "ts": "2026-09-07T01:40:54Z"}
+{"name": "Ethos", "norm": "ethos", "domain": "ethos.com", "how": "guess:ethos.com", "source_url": "https://ratefinder.com/partners.html", "ts": "2026-09-07T01:40:54Z"}
+{"name": "Family First", "norm": "family first", "domain": "familyfirst.com", "how": "guess:familyfirst.com", "source_url": "https://ratefinder.com/partners.html", "ts": "2026-09-07T01:40:54Z"}
+{"name": "Final Expense Connect", "norm": "final expense connect", "domain": "finalexpenseconnect.com", "how": "guess:finalexpenseconnect.com", "source_url": "https://ratefinder.com/partners.html", "ts": "2026-09-07T01:40:54Z"}
+{"name": "Fiorella", "norm": "fiorella", "domain": "fiorella.net", "how": "guess:fiorella.net", "source_url": "https://ratefinder.com/partners.html", "ts": "2026-09-07T01:40:54Z"}
+{"name": "GetMeHealthInsurance.com", "norm": "getmehealthinsurance com", "domain": "getmehealthinsurance.com", "how": "literal", "source_url": "https://ratefinder.com/partners.html", "ts": "2026-09-07T01:40:54Z"}
+{"name": "Goji", "norm": "goji", "domain": "goji.io", "how": "guess:goji.io", "source_url": "https://ratefinder.com/partners.html", "ts": "2026-09-07T01:40:54Z"}
