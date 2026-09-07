@@ -7,21 +7,19 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | stage | count |
 |---|---|
 | inbox candidates | 0 |
-| partner-list names resolved -> candidates | 13 -> 8 |
+| partner-list names resolved -> candidates | 6 -> 3 |
 | hiring postings read -> candidates | 0 -> 0 |
 | linked-domain candidates | 0 |
-| search requests | 16 |
-| raw finds (search) | 13 |
+| search requests | 8 |
+| raw finds (search) | 6 |
 | constructed domains probed | 0 |
-| net-new candidates after exclusion index | 8 |
-|   of which from search | 8 |
+| net-new candidates after exclusion index | 3 |
+|   of which from search | 3 |
 |   of which from probing | 0 |
-| crawled | 8 |
-|   crawl: ok | 6 |
-|   crawl: unreachable | 1 |
-|   crawl: redirect_offdomain | 1 |
+| crawled | 3 |
+|   crawl: ok | 3 |
 | probes that resolved to a real site | 0 |
-| v6 classified | 6 |
+| v6 classified | 3 |
 | carried to next run (unclassified) | 0 |
 | carried to next run (uncrawled) | 0 |
 | V6 QUALIFIED | 0 |
@@ -30,16 +28,16 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | stage | count |
 |---|---|
-| candidates crawled | 235 |
-| crawled ok | 185 |
-| v6 classified | 185 |
+| candidates crawled | 238 |
+| crawled ok | 188 |
+| v6 classified | 188 |
 | v6 qualified | 2 |
 
 ## Crawl outcomes (net-new candidates only)
 
 | status | count |
 |---|---|
-| ok | 185 |
+| ok | 188 |
 | redirect_offdomain | 25 |
 | unreachable | 15 |
 | thin | 5 |
@@ -50,7 +48,7 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | channel | classified | qualified | rate |
 |---|---|---|---|
 | L7-probe | 3 | 1 | 33.3% |
-| L10-partners | 96 | 1 | 1.0% |
+| L10-partners | 99 | 1 | 1.0% |
 | L4-vertical | 44 | 0 | 0.0% |
 | L4-counterparty | 42 | 0 | 0.0% |
 
@@ -60,8 +58,8 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | reason | count |
 |---|---|
-| unrelated | 63 |
-| end_advertiser | 29 |
+| unrelated | 65 |
+| end_advertiser | 30 |
 | lead_or_appointment_pricing | 27 |
 | software_or_crm | 26 |
 | service_to_call_receiver | 14 |

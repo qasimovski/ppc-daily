@@ -682,3 +682,11 @@
 {"name": "Alliance Realty Network", "norm": "alliance realty network", "domain": "alliancerealtynetwork.com", "how": "guess:alliancerealtynetwork.com", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-07T01:33:38Z"}
 {"name": "Bruce Media Corp", "norm": "bruce media", "domain": "brucemedia.com", "how": "guess:brucemedia.com", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-07T01:33:38Z"}
 {"name": "Citizens Direct", "norm": "citizens direct", "domain": "citizens-direct.com", "how": "guess:citizens-direct.com", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-07T01:33:38Z"}
+{"name": "Go Direct Lead Gen", "norm": "go direct lead gen", "domain": null, "how": "unresolved:generic-name", "source_url": "https://quotelab.com/marketing-partners", "ts": "2026-09-07T01:36:30Z"}
+{"name": "GoDirect Leads Generation", "norm": "godirect leads generation", "domain": null, "how": "unresolved:search-miss", "source_url": "https://quotelab.com/marketing-partners", "ts": "2026-09-07T01:36:36Z"}
+{"name": "Healthcare Direct", "norm": "healthcare direct", "domain": "accesshealthcaredirect.com", "how": "search", "source_url": "https://quotelab.com/marketing-partners", "ts": "2026-09-07T01:36:54Z"}
+{"name": "Helmkin Digital", "norm": "helmkin digital", "domain": "rocketreach.co", "how": "search", "source_url": "https://quotelab.com/marketing-partners", "ts": "2026-09-07T01:37:00Z"}
+{"name": "Inquire Media", "norm": "inquire media", "domain": "inquirekent.co.uk", "how": "search", "source_url": "https://quotelab.com/marketing-partners", "ts": "2026-09-07T01:37:12Z"}
+{"name": "J&M Advertising", "norm": "j&m advertising", "domain": "pitchbook.com", "how": "search", "source_url": "https://quotelab.com/marketing-partners", "ts": "2026-09-07T01:37:19Z"}
+{"name": "PriceShop Media", "norm": "priceshop media", "domain": "priceshopmedia.com", "how": "guess:priceshopmedia.com", "source_url": "https://quotelab.com/marketing-partners", "ts": "2026-09-07T01:37:19Z"}
+{"name": "Allianz", "norm": "allianz", "domain": "allianz.com", "how": "guess:allianz.com", "source_url": "https://quotelab.com/marketing-partners", "ts": "2026-09-07T01:37:19Z"}

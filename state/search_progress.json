@@ -504,11 +504,11 @@
   "retired": true
  },
  "\"publisher eligibility form\" debt relief calls": {
-  "dry_streak": 1,
+  "dry_streak": 2,
   "last_run": "2026-09-07",
   "new_total": 4,
-  "next_page": 4,
-  "retired": false
+  "next_page": 5,
+  "retired": true
  },
  "\"publisher eligibility requirements\" pay per call": {
   "dry_streak": 2,
@@ -581,11 +581,11 @@
   "retired": true
  },
  "\"publisher onboarding guide\" reverse mortgage calls": {
-  "dry_streak": 1,
+  "dry_streak": 2,
   "last_run": "2026-09-07",
   "new_total": 1,
-  "next_page": 2,
-  "retired": false
+  "next_page": 3,
+  "retired": true
  },
  "\"publisher onboarding guide\" tax debt calls": {
   "dry_streak": 2,
@@ -707,11 +707,11 @@
   "retired": true
  },
  "\"publisher onboarding workflow\" solar calls": {
-  "dry_streak": 1,
+  "dry_streak": 2,
   "last_run": "2026-09-07",
   "new_total": 2,
-  "next_page": 2,
-  "retired": false
+  "next_page": 3,
+  "retired": true
  },
  "\"publisher onboarding\" ACA calls": {
   "dry_streak": 2,
@@ -931,11 +931,11 @@
   "retired": true
  },
  "\"publisher registration instructions\" insurance calls": {
-  "dry_streak": 1,
+  "dry_streak": 2,
   "last_run": "2026-09-07",
   "new_total": 2,
-  "next_page": 2,
-  "retired": false
+  "next_page": 3,
+  "retired": true
  },
  "\"publisher registration page\" timeshare exit calls": {
   "dry_streak": 1,
@@ -1239,11 +1239,11 @@
   "retired": true
  },
  "\"submit call disposition reports\" pay per call": {
-  "dry_streak": 1,
+  "dry_streak": 2,
   "last_run": "2026-09-07",
   "new_total": 4,
-  "next_page": 2,
-  "retired": false
+  "next_page": 3,
+  "retired": true
  },
  "\"submit call inventory\" catastrophe insurance calls": {
   "dry_streak": 1,
@@ -1330,11 +1330,11 @@
   "retired": true
  },
  "\"submit your call routing preferences\" per call": {
-  "dry_streak": 1,
+  "dry_streak": 2,
   "last_run": "2026-09-07",
   "new_total": 5,
-  "next_page": 2,
-  "retired": false
+  "next_page": 3,
+  "retired": true
  },
  "\"submit your call supply application\" commercial insurance calls": {
   "dry_streak": 2,
@@ -1596,11 +1596,11 @@
   "retired": true
  },
  "\"traffic partner onboarding documentation\" home warranty calls": {
-  "dry_streak": 1,
+  "dry_streak": 2,
   "last_run": "2026-09-07",
   "new_total": 4,
-  "next_page": 2,
-  "retired": false
+  "next_page": 3,
+  "retired": true
  },
  "\"traffic partner onboarding form\" inbound calls": {
   "dry_streak": 2,
@@ -1827,11 +1827,11 @@
   "retired": true
  },
  "\"traffic supply onboarding portal\" inbound calls": {
-  "dry_streak": 1,
+  "dry_streak": 2,
   "last_run": "2026-09-07",
   "new_total": 6,
-  "next_page": 2,
-  "retired": false
+  "next_page": 3,
+  "retired": true
  },
  "\"traffic supply onboarding\" live transfer calls": {
   "dry_streak": 2,

@@ -233,3 +233,36 @@ The evidence shows that long, specific onboarding and compliance phrases—espec
 | "traffic partner onboarding documentation" home warranty calls | 6 | L4-vertical | Documentation for onboarding is a phrase found on small home warranty call aggregator sites. |
 
 New vertical tokens: hearingbenefits, longtermcareinsurance, structuredsettlements, taxconsultation, disasterrelief, pethealthinsurance, viaticalsettlements, homebuyersinsurance, fireandfloodrestoration, medigapplans, seniorbenefits
+
+## 2026-09-07T01:38:15Z — forced (gpt-4.1)
+
+The evidence shows that long, operationally specific onboarding and workflow phrases surface smaller, less-discovered pay-per-call brokers and networks, while short or generic terms die quickly. This batch focuses on net-new, multi-word phrases that reference forms, checklists, documentation, and reporting—language that only small, process-oriented operators use and that has not been previously run. The vertical tokens extend into nuanced, brokerable sub-niches (e.g., hearingcoverage, disasterclaims, seniorplacement) not yet measured, avoiding generic repair trades or previously exhausted categories. The goal is to maximize the discovery of net-new, qualified small operators by combining fresh onboarding vocabulary with high-value, call-brokerable verticals.
+
+| query | max page | layer | why |
+|---|---|---|---|
+| "traffic inventory submission" pay per call | 7 | L4-counterparty | Small brokers and networks use 'traffic inventory submission' to describe their publisher-side onboarding, and this phrase has not been previously run. |
+| "submit your call traffic report" insurance calls | 6 | L4-vertical | This phrase targets operational reporting language unique to small, hands-on call brokers in insurance, avoiding generic or previously measured onboarding terms. |
+| "apply to supply inbound calls" legal | 5 | L4-vertical | Legal verticals remain productive and this onboarding phrase is longer and more specific than prior runs, filtering for small operators. |
+| "submit call supply application" structured settlement calls | 6 | L4-vertical | Structured settlements are high-value and the query shape is net-new, targeting forms and processes used by boutique call brokers. |
+| "traffic partner onboarding portal" debt relief calls | 7 | L4-vertical | Debt relief is a brokerable vertical and this phrase is a net-new variant targeting publisher onboarding infrastructure. |
+| "become a call traffic supplier" home warranty calls | 6 | L4-vertical | This phrase is longer and more explicit than prior variants, likely to surface small operators in home warranty. |
+| "publisher onboarding documentation" tax relief calls | 5 | L4-vertical | Tax relief is productive and documentation-based onboarding phrases have not been run, targeting smaller networks. |
+| "request supply partner access" medicare calls | 6 | L4-vertical | Medicare remains a strong vertical and this request-based phrase is net-new, likely to surface small networks. |
+| "submit call disposition data" commercial insurance calls | 5 | L4-vertical | Disposition data submission is a workflow phrase used by small operators and has not been previously run. |
+| "traffic vendor onboarding guide" personal injury calls | 7 | L4-vertical | Personal injury is a high-value vertical and this onboarding guide phrase is net-new, targeting boutique brokers. |
+| "supply partner onboarding documentation" solar calls | 6 | L4-vertical | Solar remains productive and this documentation-based onboarding phrase is untested, filtering for small networks. |
+| "submit your call routing preferences" inbound calls | 6 | L4-counterparty | Routing preferences are operationally specific and this phrase is new, likely to surface small call brokers. |
+| "traffic source registration form" final expense calls | 5 | L4-vertical | Final expense is a productive insurance vertical and registration form language is net-new, targeting small operators. |
+| "call supply onboarding portal" tax debt calls | 7 | L4-vertical | Tax debt is a high-value vertical and onboarding portal phrasing is new, likely to find small networks. |
+| "traffic partner application packet" rehab calls | 6 | L4-vertical | Rehab/addiction is brokerable and this application packet phrase is net-new, targeting boutique networks. |
+| "publisher onboarding checklist" auto insurance calls | 5 | L4-vertical | Auto insurance is productive and onboarding checklist language is new, likely to surface small call brokers. |
+| "submit call traffic application" structured annuity calls | 6 | L4-vertical | Structured annuities are high-value and this phrase is net-new, targeting small call brokers. |
+| "traffic supply onboarding instructions" mortgage calls | 6 | L4-vertical | Mortgage is a brokerable vertical and onboarding instructions language is new, filtering for small operators. |
+| "apply to provide inbound calls" health insurance | 5 | L4-vertical | Health insurance is productive and this phrase is a net-new, longer variant targeting small networks. |
+| "traffic vendor application form" water damage calls | 7 | L4-vertical | Water damage is a proven vertical and this application form phrase is new, targeting small operators. |
+| "submit your call supply application" reverse mortgage calls | 6 | L4-vertical | Reverse mortgage is a high-value vertical and this phrase is net-new, likely to surface small brokers. |
+| "traffic partner onboarding guide" commercial insurance calls | 6 | L4-vertical | Commercial insurance is productive and onboarding guide phrasing is new, targeting boutique networks. |
+| "publisher onboarding workflow" pet insurance calls | 5 | L4-vertical | Pet insurance is a newer vertical and onboarding workflow language is net-new, likely to find small operators. |
+| "traffic source onboarding checklist" timeshare exit calls | 7 | L4-vertical | Timeshare exit is a brokerable legal vertical and onboarding checklist phrasing is new, targeting small networks. |
+
+New vertical tokens: hearingcoverage, dentalinsurance, prepaidlegal, funeralpolicy, disasterclaims, longtermcareplanning, seniorplacement, catastropheclaims, structuredpayouts, medicaltransportation, taxresolution, petcoverage, waterremediation
