@@ -223,6 +223,13 @@
   "next_page": 2,
   "retired": true
  },
+ "\"call flow documentation\" live transfer calls": {
+  "dry_streak": 0,
+  "last_run": "2026-09-07",
+  "new_total": 10,
+  "next_page": 1,
+  "retired": false
+ },
  "\"call payouts\" publishers": {
   "dry_streak": 2,
   "last_run": "2026-09-05",
@@ -699,6 +706,13 @@
   "next_page": 3,
   "retired": true
  },
+ "\"publisher onboarding packet\" disaster cleanup calls": {
+  "dry_streak": 1,
+  "last_run": "2026-09-07",
+  "new_total": 0,
+  "next_page": 1,
+  "retired": true
+ },
  "\"publisher onboarding packet\" home warranty calls": {
   "dry_streak": 2,
   "last_run": "2026-09-07",
@@ -772,6 +786,13 @@
  "\"publisher onboarding requirements\" mca calls": {
   "dry_streak": 1,
   "last_run": "2026-09-06",
+  "new_total": 0,
+  "next_page": 1,
+  "retired": true
+ },
+ "\"publisher onboarding workflow\" business insurance calls": {
+  "dry_streak": 1,
+  "last_run": "2026-09-07",
   "new_total": 0,
   "next_page": 1,
   "retired": true
@@ -914,6 +935,13 @@
   "last_run": "2026-09-06",
   "new_total": 1,
   "next_page": 3,
+  "retired": true
+ },
+ "\"publisher payment calendar\" per call": {
+  "dry_streak": 1,
+  "last_run": "2026-09-07",
+  "new_total": 0,
+  "next_page": 1,
   "retired": true
  },
  "\"publisher payout terms\"": {
@@ -1280,12 +1308,26 @@
   "next_page": 2,
   "retired": true
  },
+ "\"publisher vetting process\" pay per call": {
+  "dry_streak": 0,
+  "last_run": "2026-09-07",
+  "new_total": 4,
+  "next_page": 1,
+  "retired": false
+ },
  "\"register as a call supplier\" rehab calls": {
   "dry_streak": 1,
   "last_run": "2026-09-06",
   "new_total": 0,
   "next_page": 1,
   "retired": true
+ },
+ "\"request call supply access\" reverse mortgage calls": {
+  "dry_streak": 0,
+  "last_run": "2026-09-07",
+  "new_total": 1,
+  "next_page": 1,
+  "retired": false
  },
  "\"request call traffic access\" solar calls": {
   "dry_streak": 2,
@@ -1355,6 +1397,13 @@
   "last_run": "2026-09-07",
   "new_total": 4,
   "next_page": 3,
+  "retired": true
+ },
+ "\"submit call inventory report\" commercial insurance calls": {
+  "dry_streak": 1,
+  "last_run": "2026-09-07",
+  "new_total": 0,
+  "next_page": 1,
   "retired": true
  },
  "\"submit call inventory\" catastrophe insurance calls": {
@@ -1432,6 +1481,13 @@
   "last_run": "2026-09-07",
   "new_total": 0,
   "next_page": 2,
+  "retired": true
+ },
+ "\"submit call traffic intake form\" home warranty calls": {
+  "dry_streak": 1,
+  "last_run": "2026-09-07",
+  "new_total": 0,
+  "next_page": 1,
   "retired": true
  },
  "\"submit call traffic reports\" health insurance calls": {
@@ -1644,6 +1700,13 @@
   "next_page": 1,
   "retired": true
  },
+ "\"supply partner application\" addiction calls": {
+  "dry_streak": 0,
+  "last_run": "2026-09-07",
+  "new_total": 6,
+  "next_page": 1,
+  "retired": false
+ },
  "\"supply partner onboarding documentation\" solar calls": {
   "dry_streak": 2,
   "last_run": "2026-09-07",
@@ -1798,6 +1861,13 @@
   "next_page": 2,
   "retired": true
  },
+ "\"traffic partner login portal\" inbound calls": {
+  "dry_streak": 1,
+  "last_run": "2026-09-07",
+  "new_total": 0,
+  "next_page": 1,
+  "retired": true
+ },
  "\"traffic partner login portal\" live transfer calls": {
   "dry_streak": 1,
   "last_run": "2026-09-07",
@@ -1882,6 +1952,13 @@
   "next_page": 1,
   "retired": true
  },
+ "\"traffic partner onboarding guide\" health insurance calls": {
+  "dry_streak": 1,
+  "last_run": "2026-09-07",
+  "new_total": 0,
+  "next_page": 1,
+  "retired": true
+ },
  "\"traffic partner onboarding guide\" structured annuity calls": {
   "dry_streak": 2,
   "last_run": "2026-09-07",
@@ -1922,6 +1999,13 @@
   "last_run": "2026-09-07",
   "new_total": 1,
   "next_page": 3,
+  "retired": true
+ },
+ "\"traffic partner onboarding webinar\" inbound calls": {
+  "dry_streak": 1,
+  "last_run": "2026-09-07",
+  "new_total": 0,
+  "next_page": 1,
   "retired": true
  },
  "\"traffic partner onboarding workflow\" inbound calls": {

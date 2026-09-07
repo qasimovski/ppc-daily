@@ -818,3 +818,18 @@
 {"name": "STATE", "norm": "state", "domain": "state.com", "how": "guess:state.com", "source_url": "https://www.quinstreet.com/terms-of-use", "ts": "2026-09-07T13:34:23Z"}
 {"name": "Foster City", "norm": "foster city", "domain": "fostercity.com", "how": "guess:fostercity.com", "source_url": "https://www.quinstreet.com/terms-of-use", "ts": "2026-09-07T13:34:23Z"}
 {"name": "MORE EFFICIENT", "norm": "more efficient", "domain": "moreefficient.com", "how": "guess:moreefficient.com", "source_url": "https://www.quinstreet.com/terms-of-use", "ts": "2026-09-07T13:34:23Z"}
+{"name": "eMarketing Media Group", "norm": "emarketing media group", "domain": null, "how": "unresolved:search-miss", "source_url": "https://www.ratequote.com/marketing-partners", "ts": "2026-09-07T13:36:57Z"}
+{"name": "J2 Media Ventures", "norm": "j2 media ventures", "domain": "axial.net", "how": "search", "source_url": "https://www.ratequote.com/marketing-partners", "ts": "2026-09-07T13:37:03Z"}
+{"name": "Premium Marketing", "norm": "premium marketing", "domain": "premiummarketingcorp.com", "how": "search", "source_url": "https://www.ratequote.com/marketing-partners", "ts": "2026-09-07T13:37:22Z"}
+{"name": "Prospect America Media, LLC", "norm": "prospect america media", "domain": null, "how": "unresolved:search-miss", "source_url": "https://www.ratequote.com/marketing-partners", "ts": "2026-09-07T13:37:29Z"}
+{"name": "Reel Media Ventures", "norm": "reel media ventures", "domain": null, "how": "unresolved:search-miss", "source_url": "https://www.ratequote.com/marketing-partners", "ts": "2026-09-07T13:37:36Z"}
+{"name": "Revi Media", "norm": "revi media", "domain": "behance.net", "how": "search", "source_url": "https://www.ratequote.com/marketing-partners", "ts": "2026-09-07T13:38:07Z"}
+{"name": "American Casualty", "norm": "american casualty", "domain": "americancasualty.com", "how": "guess:americancasualty.com", "source_url": "https://www.ratequote.com/marketing-partners", "ts": "2026-09-07T13:38:07Z"}
+{"name": "American Economy", "norm": "american economy", "domain": "americaneconomy.com", "how": "guess:americaneconomy.com", "source_url": "https://www.ratequote.com/marketing-partners", "ts": "2026-09-07T13:38:07Z"}
+{"name": "American International", "norm": "american international", "domain": "american-international.com", "how": "guess:american-international.com", "source_url": "https://www.ratequote.com/marketing-partners", "ts": "2026-09-07T13:38:07Z"}
+{"name": "American Reliable", "norm": "american reliable", "domain": "americanreliable.com", "how": "guess:americanreliable.com", "source_url": "https://www.ratequote.com/marketing-partners", "ts": "2026-09-07T13:38:07Z"}
+{"name": "American Standard", "norm": "american standard", "domain": "americanstandard.com", "how": "guess:americanstandard.com", "source_url": "https://www.ratequote.com/marketing-partners", "ts": "2026-09-07T13:38:07Z"}
+{"name": "Amerilife", "norm": "amerilife", "domain": "amerilife.com", "how": "guess:amerilife.com", "source_url": "https://www.ratequote.com/marketing-partners", "ts": "2026-09-07T13:38:07Z"}
+{"name": "Apliant", "norm": "apliant", "domain": "apliant.com", "how": "guess:apliant.com", "source_url": "https://www.ratequote.com/marketing-partners", "ts": "2026-09-07T13:38:07Z"}
+{"name": "Arbella", "norm": "arbella", "domain": "arbella.com", "how": "guess:arbella.com", "source_url": "https://www.ratequote.com/marketing-partners", "ts": "2026-09-07T13:38:07Z"}
+{"name": "Atlantis", "norm": "atlantis", "domain": "atlantis.io", "how": "guess:atlantis.io", "source_url": "https://www.ratequote.com/marketing-partners", "ts": "2026-09-07T13:38:07Z"}
