@@ -668,3 +668,17 @@
 {"name": "Citizens Disability", "norm": "citizens disability", "domain": "citizensdisability.com", "how": "guess:citizensdisability.com", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-07T01:28:50Z"}
 {"name": "Clear One", "norm": "clear one", "domain": "clearone.com", "how": "guess:clearone.com", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-07T01:28:50Z"}
 {"name": "ClearMatch Medicare", "norm": "clearmatch medicare", "domain": "clearmatchmedicare.com", "how": "guess:clearmatchmedicare.com", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-07T01:28:50Z"}
+{"name": "Westlake Direct LLC", "norm": "westlake direct", "domain": "sunbiz.org", "how": "search", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-07T01:33:05Z"}
+{"name": "HSBC Direct Bank", "norm": "hsbc direct bank", "domain": "justdial.com", "how": "search", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-07T01:33:12Z"}
+{"name": "Cadence Media Partners", "norm": "cadence media partners", "domain": "cadencemediapartners.com", "how": "guess:cadencemediapartners.com", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-07T01:33:12Z"}
+{"name": "Callblade Media", "norm": "callblade media", "domain": "tracxn.com", "how": "search", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-07T01:33:18Z"}
+{"name": "Digital Agents United", "norm": "digital agents united", "domain": "wayup.com", "how": "search", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-07T01:33:24Z"}
+{"name": "Digital Marketing Media", "norm": "digital marketing media", "domain": null, "how": "unresolved:generic-name", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-07T01:33:27Z"}
+{"name": "Fresh Leads", "norm": "fresh leads", "domain": "freshleads-eg.com", "how": "search", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-07T01:33:32Z"}
+{"name": "Get Seen Media Group", "norm": "get seen media group", "domain": "rocketreach.co", "how": "search", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-07T01:33:38Z"}
+{"name": "Time 2 Lead", "norm": "time 2 lead", "domain": "time2lead.com", "how": "guess:time2lead.com", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-07T01:33:38Z"}
+{"name": "Traffic Tree LLC", "norm": "traffic tree", "domain": "traffictree.net", "how": "guess:traffictree.net", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-07T01:33:38Z"}
+{"name": "Interactive Brokers", "norm": "interactive brokers", "domain": "interactivebrokers.com", "how": "guess:interactivebrokers.com", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-07T01:33:38Z"}
+{"name": "Alliance Realty Network", "norm": "alliance realty network", "domain": "alliancerealtynetwork.com", "how": "guess:alliancerealtynetwork.com", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-07T01:33:38Z"}
+{"name": "Bruce Media Corp", "norm": "bruce media", "domain": "brucemedia.com", "how": "guess:brucemedia.com", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-07T01:33:38Z"}
+{"name": "Citizens Direct", "norm": "citizens direct", "domain": "citizens-direct.com", "how": "guess:citizens-direct.com", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-07T01:33:38Z"}
