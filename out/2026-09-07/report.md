@@ -7,41 +7,41 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | stage | count |
 |---|---|
 | inbox candidates | 0 |
-| partner-list names resolved -> candidates | 11 -> 10 |
+| partner-list names resolved -> candidates | 12 -> 9 |
 | hiring postings read -> candidates | 0 -> 0 |
 | linked-domain candidates | 0 |
-| search requests | 12 |
-| raw finds (search) | 11 |
+| search requests | 5 |
+| raw finds (search) | 12 |
 | constructed domains probed | 0 |
-| net-new candidates after exclusion index | 10 |
-|   of which from search | 10 |
+| net-new candidates after exclusion index | 9 |
+|   of which from search | 9 |
 |   of which from probing | 0 |
-| crawled | 10 |
-|   crawl: ok | 9 |
-|   crawl: unreachable | 1 |
+| crawled | 9 |
+|   crawl: ok | 6 |
+|   crawl: thin | 3 |
 | probes that resolved to a real site | 0 |
-| v6 classified | 9 |
+| v6 classified | 6 |
 | carried to next run (unclassified) | 0 |
 | carried to next run (uncrawled) | 0 |
-| V6 QUALIFIED | 1 |
+| V6 QUALIFIED | 0 |
 
 ## Day so far (all passes, unique domains)
 
 | stage | count |
 |---|---|
-| candidates crawled | 388 |
-| crawled ok | 312 |
-| v6 classified | 312 |
+| candidates crawled | 397 |
+| crawled ok | 318 |
+| v6 classified | 318 |
 | v6 qualified | 5 |
 
 ## Crawl outcomes (net-new candidates only)
 
 | status | count |
 |---|---|
-| ok | 312 |
+| ok | 318 |
 | redirect_offdomain | 33 |
 | unreachable | 22 |
-| thin | 13 |
+| thin | 16 |
 | unregistered | 8 |
 
 ## v6 qualify rate per discovery channel
@@ -50,7 +50,7 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 |---|---|---|---|
 | L11-hiring-agent | 2 | 1 | 50.0% |
 | L7-probe | 5 | 1 | 20.0% |
-| L10-partners | 150 | 2 | 1.3% |
+| L10-partners | 156 | 2 | 1.3% |
 | L4-vertical | 108 | 1 | 0.9% |
 | L4-counterparty | 47 | 0 | 0.0% |
 
@@ -60,10 +60,10 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | reason | count |
 |---|---|
-| unrelated | 104 |
+| unrelated | 107 |
 | end_advertiser | 56 |
-| lead_or_appointment_pricing | 43 |
-| software_or_crm | 42 |
+| lead_or_appointment_pricing | 44 |
+| software_or_crm | 44 |
 | service_to_call_receiver | 23 |
 | seo_or_ranking_agency | 21 |
 | no_clear_signal | 12 |

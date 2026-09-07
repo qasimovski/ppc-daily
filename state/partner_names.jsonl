@@ -805,3 +805,16 @@
 {"name": "Hearing", "norm": "hearing", "domain": "hearing.io", "how": "guess:hearing.io", "source_url": "https://www.medicaresolutions.com", "ts": "2026-09-07T13:30:48Z"}
 {"name": "Cancer", "norm": "cancer", "domain": "cancer.io", "how": "guess:cancer.io", "source_url": "https://www.medicaresolutions.com", "ts": "2026-09-07T13:30:48Z"}
 {"name": "Medicare Supplement", "norm": "medicare supplement", "domain": "medicaresupplement.com", "how": "guess:medicaresupplement.com", "source_url": "https://www.medicaresolutions.com", "ts": "2026-09-07T13:30:48Z"}
+{"name": "Mangano Media", "norm": "mangano media", "domain": "aureliatalent.com", "how": "search", "source_url": "https://www.quotelab.com/marketing-partners.html", "ts": "2026-09-07T13:33:30Z"}
+{"name": "Media Champs", "norm": "media champs", "domain": "localmediachamps.com", "how": "search", "source_url": "https://www.quotelab.com/marketing-partners.html", "ts": "2026-09-07T13:33:36Z"}
+{"name": "Mobile Focused Media", "norm": "mobile focused media", "domain": "bloomberg.com", "how": "search", "source_url": "https://www.quotelab.com/marketing-partners.html", "ts": "2026-09-07T13:33:54Z"}
+{"name": "Moss Affiliate Marketing", "norm": "moss affiliate marketing", "domain": "mapquest.com", "how": "search", "source_url": "https://www.quotelab.com/marketing-partners.html", "ts": "2026-09-07T13:34:01Z"}
+{"name": "National Solar Network", "norm": "national solar network", "domain": "nationalsolarnetwork.com", "how": "search", "source_url": "https://www.quotelab.com/marketing-partners.html", "ts": "2026-09-07T13:34:07Z"}
+{"name": "Oxford Marketing Partners", "norm": "oxford marketing partners", "domain": "mapquest.com", "how": "search", "source_url": "https://www.quotelab.com/marketing-partners.html", "ts": "2026-09-07T13:34:15Z"}
+{"name": "Pier21 Media", "norm": "pier21 media", "domain": null, "how": "unresolved:search-miss", "source_url": "https://www.quotelab.com/marketing-partners.html", "ts": "2026-09-07T13:34:23Z"}
+{"name": "ACCURACY", "norm": "accuracy", "domain": "accuracy.com", "how": "guess:accuracy.com", "source_url": "https://www.quinstreet.com/terms-of-use", "ts": "2026-09-07T13:34:23Z"}
+{"name": "GUARANTEE", "norm": "guarantee", "domain": "guarantee.com", "how": "guess:guarantee.com", "source_url": "https://www.quinstreet.com/terms-of-use", "ts": "2026-09-07T13:34:23Z"}
+{"name": "SAFETY", "norm": "safety", "domain": "safety.io", "how": "guess:safety.io", "source_url": "https://www.quinstreet.com/terms-of-use", "ts": "2026-09-07T13:34:23Z"}
+{"name": "STATE", "norm": "state", "domain": "state.com", "how": "guess:state.com", "source_url": "https://www.quinstreet.com/terms-of-use", "ts": "2026-09-07T13:34:23Z"}
+{"name": "Foster City", "norm": "foster city", "domain": "fostercity.com", "how": "guess:fostercity.com", "source_url": "https://www.quinstreet.com/terms-of-use", "ts": "2026-09-07T13:34:23Z"}
+{"name": "MORE EFFICIENT", "norm": "more efficient", "domain": "moreefficient.com", "how": "guess:moreefficient.com", "source_url": "https://www.quinstreet.com/terms-of-use", "ts": "2026-09-07T13:34:23Z"}

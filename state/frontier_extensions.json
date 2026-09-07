@@ -1534,6 +1534,154 @@
     "\"submit your call supply application\" senior care calls": "Senior care is a brokerable vertical and application submission is common among small, niche call brokers.",
     "\"traffic partner onboarding guide\" structured annuity calls": "Structured annuity calls are high-value; onboarding guides are typical of small, compliance-driven call networks."
    }
+  },
+  {
+   "generated_at": "2026-09-07T13:35:27Z",
+   "model": "gpt-4.1",
+   "trigger": "forced",
+   "queries": [
+    [
+     "\"submit call routing instructions\" inbound calls",
+     1,
+     "L4-counterparty"
+    ],
+    [
+     "\"request traffic allocation\" pay per call",
+     1,
+     "L4-counterparty"
+    ],
+    [
+     "\"publisher onboarding schedule\" live transfer calls",
+     1,
+     "L4-counterparty"
+    ],
+    [
+     "\"submit your call disposition\" insurance calls",
+     1,
+     "L4-vertical"
+    ],
+    [
+     "\"publisher payment calendar\" per call",
+     1,
+     "L4-counterparty"
+    ],
+    [
+     "\"traffic partner onboarding webinar\" inbound calls",
+     1,
+     "L4-counterparty"
+    ],
+    [
+     "\"publisher vetting process\" pay per call",
+     1,
+     "L4-counterparty"
+    ],
+    [
+     "\"call flow documentation\" live transfer calls",
+     1,
+     "L4-familyB"
+    ],
+    [
+     "\"publisher traffic cap request\" inbound calls",
+     1,
+     "L4-counterparty"
+    ],
+    [
+     "\"submit call quality reports\" tax relief calls",
+     1,
+     "L4-vertical"
+    ],
+    [
+     "\"publisher onboarding checklist\" home insurance calls",
+     1,
+     "L4-vertical"
+    ],
+    [
+     "\"supply partner application\" addiction calls",
+     1,
+     "L4-vertical"
+    ],
+    [
+     "\"submit your call traffic application\" annuity calls",
+     1,
+     "L4-vertical"
+    ],
+    [
+     "\"traffic partner login portal\" inbound calls",
+     1,
+     "L4-counterparty"
+    ],
+    [
+     "\"request call supply access\" reverse mortgage calls",
+     1,
+     "L4-vertical"
+    ],
+    [
+     "\"traffic partner onboarding instructions\" viatical settlement calls",
+     1,
+     "L4-vertical"
+    ],
+    [
+     "\"publisher onboarding workflow\" business insurance calls",
+     1,
+     "L4-vertical"
+    ],
+    [
+     "\"submit call traffic intake form\" home warranty calls",
+     1,
+     "L4-vertical"
+    ],
+    [
+     "\"traffic partner onboarding guide\" health insurance calls",
+     1,
+     "L4-vertical"
+    ],
+    [
+     "\"publisher onboarding packet\" disaster cleanup calls",
+     1,
+     "L4-vertical"
+    ],
+    [
+     "\"submit call inventory report\" commercial insurance calls",
+     1,
+     "L4-vertical"
+    ],
+    [
+     "\"publisher onboarding process\" structured payout calls",
+     1,
+     "L4-vertical"
+    ]
+   ],
+   "tokens": [
+    "reverseannuity"
+   ],
+   "rationale": "The evidence shows that long, specific onboarding phrases and vertical-specific language consistently surface small, independent pay-per-call brokers and networks, while generic or directory-like queries fail. This batch focuses on onboarding and compliance language that is unique to smaller operators—such as 'submit call routing instructions', 'publisher payment calendar', and 'traffic partner onboarding webinar'—which are rarely seen at scale or on aggregator sites. The new vertical tokens are drawn from high-value, call-brokerable niches that have not appeared in prior runs, including regulated or emerging verticals (e.g., dental implant, structured payout, catastrophe insurance, reverse annuity, SSDI appeal). The queries and tokens are designed to maximize the discovery of net-new, qualified small operators while avoiding previously poisoned or exhausted patterns.",
+   "why": {
+    "\"submit call routing instructions\" inbound calls": "Small pay-per-call networks often use unique onboarding language like 'routing instructions' in publisher documentation to distinguish their manual approach from larger, automated platforms.",
+    "\"request traffic allocation\" pay per call": "The phrase 'traffic allocation' is used by smaller networks who manually assign call volumes to publishers, a process less common among large aggregators.",
+    "\"publisher onboarding schedule\" live transfer calls": "A detailed onboarding schedule is typically published by smaller operators to help new partners understand their manual review and integration process.",
+    "\"submit your call disposition\" insurance calls": "The requirement to submit call disposition data is a hallmark of small networks ensuring compliance and payout accuracy for insurance verticals.",
+    "\"publisher payment calendar\" per call": "Small brokers often provide explicit payment calendars to build trust with new publishers who are wary of delayed payouts.",
+    "\"traffic partner onboarding webinar\" inbound calls": "Webinar-based onboarding is a tactic used by boutique networks to efficiently train small batches of new call supply partners.",
+    "\"publisher vetting process\" pay per call": "Smaller networks emphasize their vetting process to signal quality and compliance, differentiating themselves from open, less curated networks.",
+    "\"call flow documentation\" live transfer calls": "Detailed call flow documentation is typically published by technical small operators to guide new publishers integrating with their systems.",
+    "\"publisher onboarding requirements\" mca calls": "Merchant cash advance (MCA) call buyers often outline onboarding requirements to attract niche call supply partners.",
+    "\"publisher traffic cap request\" inbound calls": "Traffic cap requests are common among small networks who need to manually balance supply and demand for inbound calls.",
+    "\"submit call quality reports\" tax relief calls": "Small tax relief call buyers often require manual quality reporting from publishers to optimize campaign performance.",
+    "\"publisher onboarding checklist\" home insurance calls": "Checklists are used by small home insurance call brokers to standardize onboarding and reduce friction for new partners.",
+    "\"supply partner application\" addiction calls": "Addiction call verticals are typically handled by boutique networks that use formal application processes for compliance.",
+    "\"submit your call traffic application\" annuity calls": "Annuity call supply is highly regulated, so small networks require explicit traffic applications to onboard new partners.",
+    "\"traffic partner login portal\" inbound calls": "Login portals for traffic partners are a feature of small networks seeking to automate some onboarding steps while maintaining control.",
+    "\"publisher onboarding packet\" structured settlement calls": "Structured settlement is a niche vertical, and onboarding packets are typical for small networks to ensure regulatory compliance.",
+    "\"publisher onboarding documentation\" pet insurance calls": "Pet insurance is an emerging brokerable vertical where small networks publish onboarding documentation to attract new supply.",
+    "\"request call supply access\" reverse mortgage calls": "Reverse mortgage calls are handled by specialized brokers who require supply access requests to filter for qualified partners.",
+    "\"traffic partner onboarding instructions\" viatical settlement calls": "Viatical settlements are a compliance-heavy niche where onboarding instructions are necessary for new call suppliers.",
+    "\"publisher onboarding workflow\" business insurance calls": "Business insurance call brokers often publish their onboarding workflow to streamline the process for small publishers.",
+    "\"submit call traffic intake form\" home warranty calls": "Home warranty call buyers use intake forms to manually vet and onboard new supply partners.",
+    "\"traffic partner onboarding guide\" health insurance calls": "Health insurance call brokers provide onboarding guides to help small publishers comply with regulatory requirements.",
+    "\"publisher onboarding packet\" disaster cleanup calls": "Disaster cleanup is a high-value, low-volume vertical where onboarding packets are used by boutique brokers.",
+    "\"submit call inventory report\" commercial insurance calls": "Small commercial insurance call buyers require inventory reports to manage supply and ensure quality.",
+    "\"publisher onboarding process\" structured payout calls": "Structured payout is a niche vertical where small networks publish onboarding processes for transparency and compliance."
+   }
   }
  ]
 }
