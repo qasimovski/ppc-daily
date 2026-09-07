@@ -7,66 +7,68 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | stage | count |
 |---|---|
 | inbox candidates | 0 |
-| partner-list names resolved -> candidates | 11 -> 4 |
+| partner-list names resolved -> candidates | 43 -> 34 |
 | hiring postings read -> candidates | 0 -> 0 |
 | linked-domain candidates | 0 |
-| search requests | 8 |
-| raw finds (search) | 19 |
-| constructed domains probed | 0 |
-| net-new candidates after exclusion index | 6 |
-|   of which from search | 6 |
-|   of which from probing | 0 |
-| crawled | 6 |
-|   crawl: ok | 4 |
-|   crawl: thin | 1 |
-|   crawl: unreachable | 1 |
+| search requests | 16 |
+| raw finds (search) | 151 |
+| constructed domains probed | 300 |
+| net-new candidates after exclusion index | 366 |
+|   of which from search | 66 |
+|   of which from probing | 300 |
+| crawled | 366 |
+|   crawl: ok | 55 |
+|   crawl: thin | 2 |
+|   crawl: unregistered | 301 |
+|   crawl: unreachable | 5 |
+|   crawl: redirect_offdomain | 3 |
 | probes that resolved to a real site | 0 |
-| v6 classified | 4 |
+| v6 classified | 55 |
 | carried to next run (unclassified) | 0 |
 | carried to next run (uncrawled) | 0 |
-| V6 QUALIFIED | 0 |
+| V6 QUALIFIED | 1 |
 
 ## Day so far (all passes, unique domains)
 
 | stage | count |
 |---|---|
-| candidates crawled | 120 |
-| crawled ok | 96 |
-| v6 classified | 96 |
-| v6 qualified | 1 |
+| candidates crawled | 186 |
+| crawled ok | 151 |
+| v6 classified | 151 |
+| v6 qualified | 2 |
 
 ## Crawl outcomes (net-new candidates only)
 
 | status | count |
 |---|---|
-| ok | 96 |
-| redirect_offdomain | 13 |
-| unreachable | 7 |
-| thin | 3 |
-| unregistered | 1 |
+| ok | 151 |
+| redirect_offdomain | 16 |
+| unreachable | 11 |
+| thin | 5 |
+| unregistered | 3 |
 
 ## v6 qualify rate per discovery channel
 
 | channel | classified | qualified | rate |
 |---|---|---|---|
 | L7-probe | 3 | 1 | 33.3% |
-| L10-partners | 52 | 0 | 0.0% |
-| L4-vertical | 25 | 0 | 0.0% |
-| L4-counterparty | 16 | 0 | 0.0% |
+| L10-partners | 77 | 1 | 1.3% |
+| L4-vertical | 38 | 0 | 0.0% |
+| L4-counterparty | 33 | 0 | 0.0% |
 
-**V6 QUALIFIED TODAY: 1** (ICP-clean: 1). Cumulative across all daily runs: 41.
+**V6 QUALIFIED TODAY: 2** (ICP-clean: 2). Cumulative across all daily runs: 42.
 
 ## Why candidates failed v6
 
 | reason | count |
 |---|---|
-| unrelated | 33 |
-| end_advertiser | 19 |
-| lead_or_appointment_pricing | 12 |
-| software_or_crm | 9 |
-| service_to_call_receiver | 8 |
-| seo_or_ranking_agency | 7 |
-| no_clear_signal | 4 |
+| unrelated | 50 |
+| end_advertiser | 25 |
+| lead_or_appointment_pricing | 22 |
+| software_or_crm | 21 |
+| seo_or_ranking_agency | 12 |
+| service_to_call_receiver | 10 |
+| no_clear_signal | 6 |
 | directory_or_content | 2 |
 | coach_or_consultant | 1 |
 
@@ -75,6 +77,7 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | company | domain | fit | business model | marketplace | geo | flags |
 |---|---|---|---|---|---|---|
 |  | identityprotectionleads.com | 90 | sells identity protection leads and live transfer leads to buyer |  | United States |  |
+| Bongoze | bongoze.com | 90 | warm lead live transfer service for sales teams |  | United States |  |
 
 ## Files
 
