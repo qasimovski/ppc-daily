@@ -266,3 +266,37 @@ The evidence shows that long, operationally specific onboarding and workflow phr
 | "traffic source onboarding checklist" timeshare exit calls | 7 | L4-vertical | Timeshare exit is a brokerable legal vertical and onboarding checklist phrasing is new, targeting small networks. |
 
 New vertical tokens: hearingcoverage, dentalinsurance, prepaidlegal, funeralpolicy, disasterclaims, longtermcareplanning, seniorplacement, catastropheclaims, structuredpayouts, medicaltransportation, taxresolution, petcoverage, waterremediation
+
+## 2026-09-07T01:55:46Z — forced (gpt-4.1)
+
+Evidence from previous runs shows that long, process-specific onboarding and supply phrases consistently surface small, net-new pay-per-call operators, while generic terms and directory-bait are exhausted or dead. Many verticals with complex compliance or niche value (e.g., legal, insurance, disaster, pet) are under-explored with onboarding-specific vocabulary. This batch focuses on highly specific onboarding, compliance, and intake phrases across both core and emerging brokerable verticals, and introduces new vertical tokens that reflect evolving call-brokerable markets (e.g., disaster mitigation, public adjuster, probate, medsupp, pet medical insurance). The aim is to maximize depth into the long tail of small operators and avoid overlap with previously poisoned or exhausted queries.
+
+| query | max page | layer | why |
+|---|---|---|---|
+| "traffic supply onboarding packet" inbound calls | 7 | L4-counterparty | This phrase is highly specific to small networks and brokers who require manual onboarding and documentation, which is a common practice among operators with limited automation. |
+| "submit your call disposition report" per call | 6 | L4-counterparty | Small pay-per-call shops often require manual submission of call outcome data; this phrase targets their portals and workflow pages. |
+| "publisher onboarding requirements" inbound calls | 6 | L4-counterparty | Onboarding requirements are typically published by smaller networks to screen publishers; this query surfaces those not captured by generic onboarding terms. |
+| "traffic partner application packet" live transfer calls | 5 | L4-counterparty | Small networks and brokers use application packets for compliance and vetting; this phrase is rarely used by larger, automated platforms. |
+| "submit call traffic data" pay per call | 7 | L4-counterparty | Manual data submission is a hallmark of small operators; this query seeks out their publisher-facing documentation. |
+| "traffic vendor onboarding instructions" inbound calls | 6 | L4-counterparty | Instructions for traffic vendors are typically posted by small networks for new partners, especially those lacking self-serve onboarding. |
+| "apply for call traffic supply" medicare calls | 7 | L4-vertical | Vertical+onboarding language specific to Medicare calls, which are highly brokerable and often handled by small shops. |
+| "publisher onboarding workflow" debt relief calls | 6 | L4-vertical | Debt relief is a core vertical for small call brokers; workflow documentation is a strong indicator of a small, process-driven operation. |
+| "traffic partner eligibility form" insurance calls | 6 | L4-vertical | Eligibility forms are used by small networks to vet new partners in high-value verticals like insurance. |
+| "supply partner onboarding packet" auto insurance calls | 5 | L4-vertical | Auto insurance calls are brokerable and onboarding packets are typical for small networks seeking new supply. |
+| "submit your call volume report" solar calls | 7 | L4-vertical | Volume reporting is a manual process for small solar call brokers; this query targets their publisher portals. |
+| "traffic partner onboarding guide" tax relief calls | 6 | L4-vertical | Tax relief is a lucrative vertical for small call brokers; onboarding guides are a sign of bespoke, non-automated processes. |
+| "publisher onboarding packet" structured settlement calls | 5 | L4-vertical | Structured settlements are high-value and onboarding packets are unique to small, compliance-heavy call shops. |
+| "traffic vendor application form" final expense calls | 6 | L4-vertical | Final expense is a core vertical for small call brokers; application forms are rarely indexed by large platforms. |
+| "submit call supply onboarding" legal calls | 7 | L4-vertical | Legal calls (e.g., personal injury, SSDI) are highly brokerable and onboarding language is unique to small operators. |
+| "traffic partner onboarding documentation" reverse mortgage calls | 6 | L4-vertical | Reverse mortgage is a niche, brokerable vertical; onboarding documentation is a marker of small network operations. |
+| "publisher onboarding workflow" home warranty calls | 6 | L4-vertical | Home warranty is a brokerable vertical and workflow documentation is typical of small, process-oriented call networks. |
+| "traffic partner intake form" addiction calls | 7 | L4-vertical | Addiction treatment is a high-value vertical for small call brokers; intake forms are a strong signal for discovery. |
+| "supply partner registration page" commercial insurance calls | 5 | L4-vertical | Commercial insurance is lucrative and registration pages are often only present in small, niche networks. |
+| "become a call traffic supplier" mass tort calls | 7 | L4-vertical | Mass tort is a specialized legal vertical; this phrase targets small brokers seeking new supply. |
+| "traffic vendor onboarding packet" health insurance calls | 6 | L4-vertical | Health insurance calls are highly brokerable and onboarding packets are a marker of small, manual networks. |
+| "publisher onboarding documentation" pet insurance calls | 6 | L4-vertical | Pet insurance is an emerging vertical for call brokers; onboarding docs are likely to surface net-new, small operators. |
+| "traffic partner onboarding workflow" merchant cash advance calls | 6 | L4-vertical | MCA calls are a core vertical for small call brokers; workflow onboarding is a sign of a non-enterprise operation. |
+| "submit your call supply application" senior care calls | 7 | L4-vertical | Senior care is a brokerable vertical and application submission is common among small, niche call brokers. |
+| "traffic partner onboarding guide" structured annuity calls | 6 | L4-vertical | Structured annuity calls are high-value; onboarding guides are typical of small, compliance-driven call networks. |
+
+New vertical tokens: disastermitigation, publicadjuster, probate, burialpreplanning, identitymonitoring, stormrestoration, viaticals, eldercare, taxauditdefense

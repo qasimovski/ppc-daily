@@ -1288,10 +1288,10 @@
   "retired": true
  },
  "\"submit call disposition data\" commercial insurance calls": {
-  "dry_streak": 1,
+  "dry_streak": 0,
   "last_run": "2026-09-07",
-  "new_total": 5,
-  "next_page": 2,
+  "new_total": 6,
+  "next_page": 3,
   "retired": false
  },
  "\"submit call disposition data\" solar calls": {
@@ -1442,11 +1442,11 @@
   "retired": true
  },
  "\"submit your call traffic report\" insurance calls": {
-  "dry_streak": 1,
+  "dry_streak": 2,
   "last_run": "2026-09-07",
   "new_total": 4,
-  "next_page": 2,
-  "retired": false
+  "next_page": 3,
+  "retired": true
  },
  "\"submit your call traffic\" home insurance calls": {
   "dry_streak": 2,
@@ -1561,11 +1561,11 @@
   "retired": true
  },
  "\"supply partner onboarding documentation\" solar calls": {
-  "dry_streak": 1,
+  "dry_streak": 2,
   "last_run": "2026-09-07",
   "new_total": 7,
-  "next_page": 2,
-  "retired": false
+  "next_page": 3,
+  "retired": true
  },
  "\"supply partner onboarding form\" mca calls": {
   "dry_streak": 1,
@@ -1778,11 +1778,11 @@
   "retired": true
  },
  "\"traffic partner onboarding portal\" debt relief calls": {
-  "dry_streak": 1,
+  "dry_streak": 2,
   "last_run": "2026-09-07",
   "new_total": 1,
-  "next_page": 2,
-  "retired": false
+  "next_page": 3,
+  "retired": true
  },
  "\"traffic partner onboarding workflow\" inbound calls": {
   "dry_streak": 2,
@@ -1869,11 +1869,11 @@
   "retired": true
  },
  "\"traffic source onboarding checklist\" timeshare exit calls": {
-  "dry_streak": 1,
+  "dry_streak": 2,
   "last_run": "2026-09-07",
   "new_total": 3,
-  "next_page": 2,
-  "retired": false
+  "next_page": 3,
+  "retired": true
  },
  "\"traffic source onboarding form\" structured annuity calls": {
   "dry_streak": 2,
@@ -1967,11 +1967,11 @@
   "retired": true
  },
  "\"traffic supply onboarding instructions\" mortgage calls": {
-  "dry_streak": 1,
+  "dry_streak": 2,
   "last_run": "2026-09-07",
   "new_total": 5,
-  "next_page": 2,
-  "retired": false
+  "next_page": 3,
+  "retired": true
  },
  "\"traffic supply onboarding packet\" tax relief calls": {
   "dry_streak": 1,
@@ -2002,11 +2002,11 @@
   "retired": true
  },
  "\"traffic vendor application form\" water damage calls": {
-  "dry_streak": 1,
+  "dry_streak": 2,
   "last_run": "2026-09-07",
   "new_total": 1,
-  "next_page": 2,
-  "retired": false
+  "next_page": 3,
+  "retired": true
  },
  "\"traffic vendor application\" tax debt calls": {
   "dry_streak": 1,

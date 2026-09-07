@@ -162,13 +162,13 @@
  },
  "https://seniorsadvantages.us/marketing-partners": {
   "first_seen": "2026-09-06",
-  "last_fetched": "2026-09-06",
-  "names_last": 489,
-  "ok": true
+  "last_fetched": "2026-09-07",
+  "names_last": 0,
+  "ok": false
  },
  "https://shc-p-001.sitecorecontenthub.cloud/api/public/content/fbf1ddb48a494dd781eda113e95a4ba4": {
   "first_seen": "2026-09-06",
-  "last_fetched": "2026-09-06",
+  "last_fetched": "2026-09-07",
   "names_last": 72,
   "ok": true
  },
