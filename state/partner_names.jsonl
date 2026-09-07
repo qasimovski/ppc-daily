@@ -735,3 +735,20 @@
 {"name": "All County One Day Bath", "norm": "all county one day bath", "domain": "allcountyonedaybath.com", "how": "guess:allcountyonedaybath.com", "source_url": "https://renuehome.com/partners", "ts": "2026-09-07T01:45:44Z"}
 {"name": "All Season Solar", "norm": "all season solar", "domain": "allseasonsolar.net", "how": "guess:allseasonsolar.net", "source_url": "https://renuehome.com/partners", "ts": "2026-09-07T01:45:44Z"}
 {"name": "Alley Design To Build", "norm": "alley design to build", "domain": "alleydesigntobuild.com", "how": "guess:alleydesigntobuild.com", "source_url": "https://renuehome.com/partners", "ts": "2026-09-07T01:45:44Z"}
+{"name": "Digital Call Solutions", "norm": "digital call solutions", "domain": null, "how": "unresolved:generic-name", "source_url": "https://selectmypolicy.com/partners", "ts": "2026-09-07T01:49:46Z"}
+{"name": "HealthSpire Calls", "norm": "healthspire calls", "domain": null, "how": "unresolved:search-miss", "source_url": "https://selectmypolicy.com/partners", "ts": "2026-09-07T01:49:52Z"}
+{"name": "3 Zone Media LL", "norm": "3 zone media ll", "domain": null, "how": "unresolved:search-miss", "source_url": "https://selectmypolicy.com/partners", "ts": "2026-09-07T01:49:57Z"}
+{"name": "4th Dimensional Leads", "norm": "4th dimensional leads", "domain": null, "how": "unresolved:search-miss", "source_url": "https://selectmypolicy.com/partners", "ts": "2026-09-07T01:50:04Z"}
+{"name": "5 Mile Media", "norm": "5 mile media", "domain": "fivemm.com", "how": "search", "source_url": "https://selectmypolicy.com/partners", "ts": "2026-09-07T01:50:10Z"}
+{"name": "7Made Media", "norm": "7made media", "domain": "alignable.com", "how": "search", "source_url": "https://selectmypolicy.com/partners", "ts": "2026-09-07T01:50:16Z"}
+{"name": "AA Media", "norm": "aa media", "domain": null, "how": "unresolved:generic-name", "source_url": "https://selectmypolicy.com/partners", "ts": "2026-09-07T01:50:18Z"}
+{"name": "ABC Leads", "norm": "abc leads", "domain": null, "how": "unresolved:generic-name", "source_url": "https://selectmypolicy.com/partners", "ts": "2026-09-07T01:50:20Z"}
+{"name": "ABN Network, LLC", "norm": "abn network", "domain": "pacermonitor.com", "how": "search", "source_url": "https://selectmypolicy.com/partners", "ts": "2026-09-07T01:50:26Z"}
+{"name": "AER Marketing, LLC", "norm": "aer marketing", "domain": null, "how": "unresolved:generic-name", "source_url": "https://selectmypolicy.com/partners", "ts": "2026-09-07T01:50:28Z"}
+{"name": "AIA Direct", "norm": "aia direct", "domain": null, "how": "unresolved:generic-name", "source_url": "https://selectmypolicy.com/partners", "ts": "2026-09-07T01:50:30Z"}
+{"name": "All In Marketing Inc", "norm": "all in marketing", "domain": null, "how": "unresolved:generic-name", "source_url": "https://selectmypolicy.com/partners", "ts": "2026-09-07T01:50:32Z"}
+{"name": "Alliance Direct", "norm": "alliance direct", "domain": "alliancedirectservices.com", "how": "search", "source_url": "https://selectmypolicy.com/partners", "ts": "2026-09-07T01:50:54Z"}
+{"name": "Fused Leads", "norm": "fused leads", "domain": "fusedleads.com", "how": "guess:fusedleads.com", "source_url": "https://selectmypolicy.com/partners", "ts": "2026-09-07T01:50:54Z"}
+{"name": "Global Digital Revenue", "norm": "global digital revenue", "domain": "globaldigitalrevenue.com", "how": "guess:globaldigitalrevenue.com", "source_url": "https://selectmypolicy.com/partners", "ts": "2026-09-07T01:50:54Z"}
+{"name": "Harmony Leads", "norm": "harmony leads", "domain": "harmonyleads.com", "how": "guess:harmonyleads.com", "source_url": "https://selectmypolicy.com/partners", "ts": "2026-09-07T01:50:54Z"}
+{"name": "Integrity Marketing Group", "norm": "integrity marketing group", "domain": "integritymarketinggroup.com", "how": "guess:integritymarketinggroup.com", "source_url": "https://selectmypolicy.com/partners", "ts": "2026-09-07T01:50:54Z"}
