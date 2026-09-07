@@ -6,66 +6,70 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | stage | count |
 |---|---|
-| inbox candidates | 0 |
-| partner-list names resolved -> candidates | 9 -> 8 |
+| inbox candidates | 2 |
+| partner-list names resolved -> candidates | 14 -> 10 |
 | hiring postings read -> candidates | 0 -> 0 |
 | linked-domain candidates | 0 |
-| search requests | 7 |
-| raw finds (search) | 18 |
-| constructed domains probed | 0 |
-| net-new candidates after exclusion index | 9 |
-|   of which from search | 9 |
-|   of which from probing | 0 |
-| crawled | 9 |
-|   crawl: ok | 7 |
-|   crawl: redirect_offdomain | 2 |
-| probes that resolved to a real site | 0 |
-| v6 classified | 7 |
+| search requests | 16 |
+| raw finds (search) | 65 |
+| constructed domains probed | 300 |
+| net-new candidates after exclusion index | 325 |
+|   of which from search | 25 |
+|   of which from probing | 300 |
+| crawled | 325 |
+|   crawl: ok | 20 |
+|   crawl: thin | 3 |
+|   crawl: unregistered | 297 |
+|   crawl: unreachable | 4 |
+|   crawl: redirect_offdomain | 1 |
+| probes that resolved to a real site | 2 |
+| v6 classified | 20 |
 | carried to next run (unclassified) | 0 |
 | carried to next run (uncrawled) | 0 |
-| V6 QUALIFIED | 0 |
+| V6 QUALIFIED | 2 |
 
 ## Day so far (all passes, unique domains)
 
 | stage | count |
 |---|---|
-| candidates crawled | 333 |
-| crawled ok | 269 |
-| v6 classified | 269 |
-| v6 qualified | 2 |
+| candidates crawled | 361 |
+| crawled ok | 289 |
+| v6 classified | 289 |
+| v6 qualified | 4 |
 
 ## Crawl outcomes (net-new candidates only)
 
 | status | count |
 |---|---|
-| ok | 269 |
-| redirect_offdomain | 31 |
-| unreachable | 19 |
-| thin | 8 |
-| unregistered | 6 |
+| ok | 289 |
+| redirect_offdomain | 32 |
+| unreachable | 21 |
+| thin | 11 |
+| unregistered | 8 |
 
 ## v6 qualify rate per discovery channel
 
 | channel | classified | qualified | rate |
 |---|---|---|---|
-| L7-probe | 3 | 1 | 33.3% |
-| L10-partners | 131 | 1 | 0.8% |
-| L4-vertical | 91 | 0 | 0.0% |
-| L4-counterparty | 44 | 0 | 0.0% |
+| L11-hiring-agent | 2 | 1 | 50.0% |
+| L7-probe | 5 | 1 | 20.0% |
+| L4-vertical | 96 | 1 | 1.0% |
+| L10-partners | 139 | 1 | 0.7% |
+| L4-counterparty | 47 | 0 | 0.0% |
 
-**V6 QUALIFIED TODAY: 2** (ICP-clean: 2). Cumulative across all daily runs: 42.
+**V6 QUALIFIED TODAY: 4** (ICP-clean: 4). Cumulative across all daily runs: 44.
 
 ## Why candidates failed v6
 
 | reason | count |
 |---|---|
-| unrelated | 90 |
-| end_advertiser | 52 |
-| software_or_crm | 39 |
-| lead_or_appointment_pricing | 33 |
+| unrelated | 96 |
+| end_advertiser | 53 |
+| software_or_crm | 40 |
+| lead_or_appointment_pricing | 39 |
 | service_to_call_receiver | 21 |
-| seo_or_ranking_agency | 17 |
-| no_clear_signal | 10 |
+| seo_or_ranking_agency | 20 |
+| no_clear_signal | 11 |
 | directory_or_content | 3 |
 | coach_or_consultant | 1 |
 | recruiting | 1 |
@@ -74,6 +78,8 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | company | domain | fit | business model | marketplace | geo | flags |
 |---|---|---|---|---|---|---|
+| CallSignal | callsignal.app | 95 | pay-per-call leads for pest control businesses | yes |  | geo unknown |
+|  | insurances-calls.com | 95 | sells inbound insurance calls and live transfers to insurance pa | yes | United States |  |
 |  | identityprotectionleads.com | 90 | sells identity protection leads and live transfer leads to buyer |  | United States |  |
 | Bongoze | bongoze.com | 90 | warm lead live transfer service for sales teams |  | United States |  |
 
