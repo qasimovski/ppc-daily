@@ -542,3 +542,33 @@
 {"name": "Fairway Independent Mortgage Corporation", "norm": "fairway independent mortgage", "domain": "fairwayindependentmortgage.com", "how": "guess:fairwayindependentmortgage.com", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-07T01:10:51Z"}
 {"name": "Family Federal Savings", "norm": "family federal savings", "domain": "familyfederalsavings.com", "how": "guess:familyfederalsavings.com", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-07T01:10:51Z"}
 {"name": "Fidelity Bank", "norm": "fidelity bank", "domain": "fidelitybank.com", "how": "guess:fidelitybank.com", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-07T01:10:51Z"}
+{"name": "Direct Auto", "norm": "direct auto", "domain": null, "how": "unresolved:generic-name", "source_url": "https://everquote.com/partners", "ts": "2026-09-07T01:15:02Z"}
+{"name": "Direct Property & Casualty", "norm": "direct property & casualty", "domain": "wtwco.com", "how": "search", "source_url": "https://everquote.com/partners", "ts": "2026-09-07T01:15:10Z"}
+{"name": "Formula Marketing & Analytics", "norm": "formula marketing & analytics", "domain": "formulamarketinganalytics.com", "how": "search", "source_url": "https://everquote.com/partners", "ts": "2026-09-07T01:15:16Z"}
+{"name": "Leads Interactive", "norm": "leads interactive", "domain": "leadsinteractive.com.sg", "how": "search", "source_url": "https://everquote.com/partners", "ts": "2026-09-07T01:15:22Z"}
+{"name": "Media Mix 365", "norm": "media mix 365", "domain": null, "how": "unresolved:generic-name", "source_url": "https://everquote.com/partners", "ts": "2026-09-07T01:15:24Z"}
+{"name": "MediaAlpha's Marketing Partners", "norm": "mediaalpha s marketing partners", "domain": null, "how": "unresolved:search-miss", "source_url": "https://everquote.com/partners", "ts": "2026-09-07T01:15:30Z"}
+{"name": "MJ Direct", "norm": "mj direct", "domain": null, "how": "unresolved:generic-name", "source_url": "https://everquote.com/partners", "ts": "2026-09-07T01:15:32Z"}
+{"name": "Alpha Surance", "norm": "alpha surance", "domain": "alphasurance.com", "how": "guess:alphasurance.com", "source_url": "https://everquote.com/partners", "ts": "2026-09-07T01:15:32Z"}
+{"name": "Amsive", "norm": "amsive", "domain": "amsive.com", "how": "guess:amsive.com", "source_url": "https://everquote.com/partners", "ts": "2026-09-07T01:15:32Z"}
+{"name": "AssuranceAmerica", "norm": "assuranceamerica", "domain": "assuranceamerica.com", "how": "guess:assuranceamerica.com", "source_url": "https://everquote.com/partners", "ts": "2026-09-07T01:15:32Z"}
+{"name": "ATSI Group", "norm": "atsi group", "domain": "atsigroup.com", "how": "guess:atsigroup.com", "source_url": "https://everquote.com/partners", "ts": "2026-09-07T01:15:32Z"}
+{"name": "Boundless Rider", "norm": "boundless rider", "domain": "boundlessrider.com", "how": "guess:boundlessrider.com", "source_url": "https://everquote.com/partners", "ts": "2026-09-07T01:15:32Z"}
+{"name": "Certainly", "norm": "certainly", "domain": "certainly.com", "how": "guess:certainly.com", "source_url": "https://everquote.com/partners", "ts": "2026-09-07T01:15:32Z"}
+{"name": "CO Farm Bureau", "norm": "farm bureau", "domain": "farmbureau.com", "how": "guess:farmbureau.com", "source_url": "https://everquote.com/partners", "ts": "2026-09-07T01:15:32Z"}
+{"name": "CommercialInsurance.net", "norm": "commercialinsurance net", "domain": "commercialinsurance.net", "how": "literal", "source_url": "https://everquote.com/partners", "ts": "2026-09-07T01:15:32Z"}
+{"name": "Compare.com", "norm": "compare com", "domain": "compare.com", "how": "literal", "source_url": "https://everquote.com/partners", "ts": "2026-09-07T01:15:32Z"}
+{"name": "Confie", "norm": "confie", "domain": "confie.com", "how": "guess:confie.com", "source_url": "https://everquote.com/partners", "ts": "2026-09-07T01:15:32Z"}
+{"name": "Contactability", "norm": "contactability", "domain": "contactability.com", "how": "guess:contactability.com", "source_url": "https://everquote.com/partners", "ts": "2026-09-07T01:15:32Z"}
+{"name": "Coverdell", "norm": "coverdell", "domain": "coverdell.com", "how": "guess:coverdell.com", "source_url": "https://everquote.com/partners", "ts": "2026-09-07T01:15:32Z"}
+{"name": "CoverHound", "norm": "coverhound", "domain": "coverhound.com", "how": "guess:coverhound.com", "source_url": "https://everquote.com/partners", "ts": "2026-09-07T01:15:32Z"}
+{"name": "DirectMail.com", "norm": "directmail com", "domain": "directmail.com", "how": "literal", "source_url": "https://everquote.com/partners", "ts": "2026-09-07T01:15:32Z"}
+{"name": "DTRIC", "norm": "dtric", "domain": "dtric.com", "how": "guess:dtric.com", "source_url": "https://everquote.com/partners", "ts": "2026-09-07T01:15:32Z"}
+{"name": "East Coast", "norm": "east coast", "domain": "eastcoastllc.com", "how": "guess:eastcoastllc.com", "source_url": "https://everquote.com/partners", "ts": "2026-09-07T01:15:32Z"}
+{"name": "Electric", "norm": "electric", "domain": "electric.com", "how": "guess:electric.com", "source_url": "https://everquote.com/partners", "ts": "2026-09-07T01:15:32Z"}
+{"name": "Empower", "norm": "empower", "domain": "empower.com", "how": "guess:empower.com", "source_url": "https://everquote.com/partners", "ts": "2026-09-07T01:15:32Z"}
+{"name": "Flinsco", "norm": "flinsco", "domain": "flinsco.com", "how": "guess:flinsco.com", "source_url": "https://everquote.com/partners", "ts": "2026-09-07T01:15:32Z"}
+{"name": "Florida First", "norm": "florida first", "domain": "floridafirst.com", "how": "guess:floridafirst.com", "source_url": "https://everquote.com/partners", "ts": "2026-09-07T01:15:32Z"}
+{"name": "Freedom National", "norm": "freedom national", "domain": "freedomnational.com", "how": "guess:freedomnational.com", "source_url": "https://everquote.com/partners", "ts": "2026-09-07T01:15:32Z"}
+{"name": "Gainsco", "norm": "gainsco", "domain": "gainsco.com", "how": "guess:gainsco.com", "source_url": "https://everquote.com/partners", "ts": "2026-09-07T01:15:32Z"}
+{"name": "Great West", "norm": "great west", "domain": "greatwestllc.com", "how": "guess:greatwestllc.com", "source_url": "https://everquote.com/partners", "ts": "2026-09-07T01:15:32Z"}

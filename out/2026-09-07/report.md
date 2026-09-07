@@ -7,23 +7,23 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | stage | count |
 |---|---|
 | inbox candidates | 0 |
-| partner-list names resolved -> candidates | 32 -> 32 |
+| partner-list names resolved -> candidates | 26 -> 22 |
 | hiring postings read -> candidates | 0 -> 0 |
 | linked-domain candidates | 0 |
 | search requests | 16 |
-| raw finds (search) | 77 |
-| constructed domains probed | 300 |
-| net-new candidates after exclusion index | 347 |
-|   of which from search | 47 |
-|   of which from probing | 300 |
-| crawled | 347 |
-|   crawl: ok | 35 |
+| raw finds (search) | 26 |
+| constructed domains probed | 209 |
+| net-new candidates after exclusion index | 231 |
+|   of which from search | 22 |
+|   of which from probing | 209 |
+| crawled | 231 |
+|   crawl: ok | 17 |
 |   crawl: thin | 1 |
-|   crawl: unregistered | 301 |
-|   crawl: unreachable | 2 |
-|   crawl: redirect_offdomain | 8 |
+|   crawl: unregistered | 208 |
+|   crawl: unreachable | 1 |
+|   crawl: redirect_offdomain | 4 |
 | probes that resolved to a real site | 0 |
-| v6 classified | 35 |
+| v6 classified | 17 |
 | carried to next run (unclassified) | 0 |
 | carried to next run (uncrawled) | 0 |
 | V6 QUALIFIED | 0 |
@@ -32,19 +32,19 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | stage | count |
 |---|---|
-| candidates crawled | 91 |
-| crawled ok | 75 |
-| v6 classified | 75 |
+| candidates crawled | 114 |
+| crawled ok | 92 |
+| v6 classified | 92 |
 | v6 qualified | 1 |
 
 ## Crawl outcomes (net-new candidates only)
 
 | status | count |
 |---|---|
-| ok | 75 |
-| redirect_offdomain | 9 |
-| unreachable | 5 |
-| thin | 1 |
+| ok | 92 |
+| redirect_offdomain | 13 |
+| unreachable | 6 |
+| thin | 2 |
 | unregistered | 1 |
 
 ## v6 qualify rate per discovery channel
@@ -52,7 +52,7 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | channel | classified | qualified | rate |
 |---|---|---|---|
 | L7-probe | 3 | 1 | 33.3% |
-| L10-partners | 33 | 0 | 0.0% |
+| L10-partners | 50 | 0 | 0.0% |
 | L4-vertical | 25 | 0 | 0.0% |
 | L4-counterparty | 14 | 0 | 0.0% |
 
@@ -62,13 +62,13 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | reason | count |
 |---|---|
-| unrelated | 26 |
-| end_advertiser | 13 |
-| lead_or_appointment_pricing | 9 |
-| software_or_crm | 8 |
+| unrelated | 32 |
+| end_advertiser | 19 |
+| lead_or_appointment_pricing | 10 |
+| software_or_crm | 9 |
 | service_to_call_receiver | 7 |
-| seo_or_ranking_agency | 5 |
-| no_clear_signal | 3 |
+| seo_or_ranking_agency | 7 |
+| no_clear_signal | 4 |
 | directory_or_content | 2 |
 | coach_or_consultant | 1 |
 
