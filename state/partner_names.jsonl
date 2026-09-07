@@ -794,3 +794,14 @@
 {"name": "Legal & General America (RPM Direct", "norm": "legal & general america rpm direct", "domain": null, "how": "unresolved:search-miss", "source_url": "https://wowhealthinsight.com/marketing-partners.html", "ts": "2026-09-07T13:26:20Z"}
 {"name": "iFuze Marketing", "norm": "ifuze marketing", "domain": "ifuzemarketing.com", "how": "guess:ifuzemarketing.com", "source_url": "https://wowhealthinsight.com/marketing-partners.html", "ts": "2026-09-07T13:26:20Z"}
 {"name": "AgencyPro", "norm": "agencypro", "domain": "agencypro.com", "how": "guess:agencypro.com", "source_url": "https://wowhealthinsight.com/marketing-partners.html", "ts": "2026-09-07T13:26:20Z"}
+{"name": "Rhode Island", "norm": "rhode island", "domain": "tripadvisor.nl", "how": "search", "source_url": "https://www.loyolaroofing.com/privacy-policy", "ts": "2026-09-07T13:30:41Z"}
+{"name": "or Virginia", "norm": "or virginia", "domain": "pilotonline.com", "how": "search", "source_url": "https://www.loyolaroofing.com/privacy-policy", "ts": "2026-09-07T13:30:48Z"}
+{"name": "Wisconsin", "norm": "wisconsin", "domain": "wisconsin.com", "how": "guess:wisconsin.com", "source_url": "https://www.medicaresolutions.com", "ts": "2026-09-07T13:30:48Z"}
+{"name": "ASSOCIATED", "norm": "associated", "domain": "associated.com", "how": "guess:associated.com", "source_url": "https://www.medicaresolutions.com", "ts": "2026-09-07T13:30:48Z"}
+{"name": "CLAIMS", "norm": "claims", "domain": "claims.com", "how": "guess:claims.com", "source_url": "https://www.medicaresolutions.com", "ts": "2026-09-07T13:30:48Z"}
+{"name": "COMPLAINTS", "norm": "complaints", "domain": "complaints.com", "how": "guess:complaints.com", "source_url": "https://www.medicaresolutions.com", "ts": "2026-09-07T13:30:48Z"}
+{"name": "DEMANDS", "norm": "demands", "domain": "demands.io", "how": "guess:demands.io", "source_url": "https://www.medicaresolutions.com", "ts": "2026-09-07T13:30:48Z"}
+{"name": "Vision", "norm": "vision", "domain": "vision.com", "how": "guess:vision.com", "source_url": "https://www.medicaresolutions.com", "ts": "2026-09-07T13:30:48Z"}
+{"name": "Hearing", "norm": "hearing", "domain": "hearing.io", "how": "guess:hearing.io", "source_url": "https://www.medicaresolutions.com", "ts": "2026-09-07T13:30:48Z"}
+{"name": "Cancer", "norm": "cancer", "domain": "cancer.io", "how": "guess:cancer.io", "source_url": "https://www.medicaresolutions.com", "ts": "2026-09-07T13:30:48Z"}
+{"name": "Medicare Supplement", "norm": "medicare supplement", "domain": "medicaresupplement.com", "how": "guess:medicaresupplement.com", "source_url": "https://www.medicaresolutions.com", "ts": "2026-09-07T13:30:48Z"}

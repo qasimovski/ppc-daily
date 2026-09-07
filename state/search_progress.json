@@ -196,10 +196,10 @@
   "retired": true
  },
  "\"become a call traffic supplier\" mass tort calls": {
-  "dry_streak": 0,
+  "dry_streak": 1,
   "last_run": "2026-09-07",
   "new_total": 2,
-  "next_page": 1,
+  "next_page": 2,
   "retired": false
  },
  "\"become a publisher\" \"pay per call\"": {
@@ -1337,11 +1337,11 @@
   "retired": true
  },
  "\"submit call disposition data\" commercial insurance calls": {
-  "dry_streak": 1,
+  "dry_streak": 2,
   "last_run": "2026-09-07",
   "new_total": 6,
-  "next_page": 4,
-  "retired": false
+  "next_page": 5,
+  "retired": true
  },
  "\"submit call disposition data\" solar calls": {
   "dry_streak": 1,
@@ -1428,11 +1428,11 @@
   "retired": true
  },
  "\"submit call traffic data\" pay per call": {
-  "dry_streak": 1,
+  "dry_streak": 2,
   "last_run": "2026-09-07",
   "new_total": 0,
-  "next_page": 1,
-  "retired": false
+  "next_page": 2,
+  "retired": true
  },
  "\"submit call traffic reports\" health insurance calls": {
   "dry_streak": 2,
@@ -1505,11 +1505,11 @@
   "retired": true
  },
  "\"submit your call supply application\" senior care calls": {
-  "dry_streak": 1,
+  "dry_streak": 2,
   "last_run": "2026-09-07",
   "new_total": 2,
-  "next_page": 2,
-  "retired": false
+  "next_page": 3,
+  "retired": true
  },
  "\"submit your call supply\" structured settlement calls": {
   "dry_streak": 2,
@@ -1554,11 +1554,11 @@
   "retired": true
  },
  "\"submit your call volume report\" solar calls": {
-  "dry_streak": 1,
+  "dry_streak": 2,
   "last_run": "2026-09-07",
   "new_total": 2,
-  "next_page": 2,
-  "retired": false
+  "next_page": 3,
+  "retired": true
  },
  "\"submit your call volume\" auto insurance calls": {
   "dry_streak": 2,
@@ -1680,10 +1680,10 @@
   "retired": true
  },
  "\"supply partner registration page\" commercial insurance calls": {
-  "dry_streak": 0,
+  "dry_streak": 1,
   "last_run": "2026-09-07",
   "new_total": 5,
-  "next_page": 1,
+  "next_page": 2,
   "retired": false
  },
  "\"supply partner registration\" billable calls": {
@@ -1736,11 +1736,11 @@
   "retired": true
  },
  "\"traffic partner application packet\" live transfer calls": {
-  "dry_streak": 1,
+  "dry_streak": 2,
   "last_run": "2026-09-07",
   "new_total": 5,
-  "next_page": 2,
-  "retired": false
+  "next_page": 3,
+  "retired": true
  },
  "\"traffic partner application packet\" rehab calls": {
   "dry_streak": 2,
@@ -1771,11 +1771,11 @@
   "retired": true
  },
  "\"traffic partner eligibility form\" insurance calls": {
-  "dry_streak": 1,
+  "dry_streak": 2,
   "last_run": "2026-09-07",
   "new_total": 3,
-  "next_page": 2,
-  "retired": false
+  "next_page": 3,
+  "retired": true
  },
  "\"traffic partner eligibility\" per call": {
   "dry_streak": 1,
@@ -1841,10 +1841,10 @@
   "retired": true
  },
  "\"traffic partner onboarding documentation\" reverse mortgage calls": {
-  "dry_streak": 0,
+  "dry_streak": 1,
   "last_run": "2026-09-07",
   "new_total": 1,
-  "next_page": 1,
+  "next_page": 2,
   "retired": false
  },
  "\"traffic partner onboarding form\" inbound calls": {
@@ -1883,10 +1883,10 @@
   "retired": true
  },
  "\"traffic partner onboarding guide\" structured annuity calls": {
-  "dry_streak": 0,
+  "dry_streak": 1,
   "last_run": "2026-09-07",
   "new_total": 2,
-  "next_page": 1,
+  "next_page": 2,
   "retired": false
  },
  "\"traffic partner onboarding guide\" tax relief calls": {
@@ -2156,11 +2156,11 @@
   "retired": true
  },
  "\"traffic vendor application form\" final expense calls": {
-  "dry_streak": 1,
+  "dry_streak": 2,
   "last_run": "2026-09-07",
   "new_total": 1,
-  "next_page": 2,
-  "retired": false
+  "next_page": 3,
+  "retired": true
  },
  "\"traffic vendor application form\" water damage calls": {
   "dry_streak": 2,
@@ -2205,10 +2205,10 @@
   "retired": true
  },
  "\"traffic vendor onboarding packet\" health insurance calls": {
-  "dry_streak": 0,
+  "dry_streak": 1,
   "last_run": "2026-09-07",
   "new_total": 3,
-  "next_page": 1,
+  "next_page": 2,
   "retired": false
  },
  "\"traffic vendor onboarding process\" debt relief calls": {
