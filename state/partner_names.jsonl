@@ -922,3 +922,9 @@
 {"name": "Uplift Economy", "norm": "uplift economy", "domain": "uplifteconomy.com", "how": "guess:uplifteconomy.com", "source_url": "https://14.us-unemployment-resources.com/marketing-partners", "ts": "2026-09-07T14:00:33Z"}
 {"name": "Urgent Message", "norm": "urgent message", "domain": "urgent-message.com", "how": "guess:urgent-message.com", "source_url": "https://14.us-unemployment-resources.com/marketing-partners", "ts": "2026-09-07T14:00:33Z"}
 {"name": "Useful Utilities", "norm": "useful utilities", "domain": "usefulutilities.com", "how": "guess:usefulutilities.com", "source_url": "https://14.us-unemployment-resources.com/marketing-partners", "ts": "2026-09-07T14:00:33Z"}
+{"name": "Intoleads B.V", "norm": "intoleads b v", "domain": "creditsafe.com", "how": "search", "source_url": "https://14.us-unemployment-resources.com/marketing-partners", "ts": "2026-09-08T01:03:39Z"}
+{"name": "LCR / Local Consumer Reach", "norm": "lcr local consumer reach", "domain": null, "how": "unresolved:search-miss", "source_url": "https://14.us-unemployment-resources.com/marketing-partners", "ts": "2026-09-08T01:03:46Z"}
+{"name": "LMS / Living Meadows", "norm": "lms living meadows", "domain": null, "how": "unresolved:search-miss", "source_url": "https://14.us-unemployment-resources.com/marketing-partners", "ts": "2026-09-08T01:03:52Z"}
+{"name": "LawLogic", "norm": "lawlogic", "domain": "lawlogic.law", "how": "search", "source_url": "https://14.us-unemployment-resources.com/marketing-partners", "ts": "2026-09-08T01:03:56Z"}
+{"name": "Learn 2 Achieve", "norm": "learn 2 achieve", "domain": "justdial.com", "how": "search", "source_url": "https://14.us-unemployment-resources.com/marketing-partners", "ts": "2026-09-08T01:04:03Z"}
+{"name": "American Benefit", "norm": "american benefit", "domain": "americanbenefitllc.com", "how": "guess:americanbenefitllc.com", "source_url": "https://affordableseniorsinsurance.com/marketing-partners", "ts": "2026-09-08T01:04:03Z"}
