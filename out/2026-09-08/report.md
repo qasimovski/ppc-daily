@@ -7,21 +7,21 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | stage | count |
 |---|---|
 | inbox candidates | 0 |
-| partner-list names resolved -> candidates | 18 -> 17 |
+| partner-list names resolved -> candidates | 4 -> 4 |
 | hiring postings read -> candidates | 0 -> 0 |
 | linked-domain candidates | 0 |
 | search requests | 0 |
-| raw finds (search) | 18 |
+| raw finds (search) | 4 |
 | constructed domains probed | 0 |
-| net-new candidates after exclusion index | 17 |
-|   of which from search | 17 |
+| net-new candidates after exclusion index | 4 |
+|   of which from search | 4 |
 |   of which from probing | 0 |
-| crawled | 17 |
-|   crawl: ok | 14 |
+| crawled | 4 |
+|   crawl: ok | 1 |
 |   crawl: thin | 1 |
-|   crawl: redirect_offdomain | 2 |
+|   crawl: unreachable | 2 |
 | probes that resolved to a real site | 0 |
-| v6 classified | 14 |
+| v6 classified | 1 |
 | carried to next run (unclassified) | 0 |
 | carried to next run (uncrawled) | 0 |
 | V6 QUALIFIED | 0 |
@@ -30,19 +30,19 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | stage | count |
 |---|---|
-| candidates crawled | 701 |
-| crawled ok | 544 |
-| v6 classified | 544 |
+| candidates crawled | 705 |
+| crawled ok | 545 |
+| v6 classified | 545 |
 | v6 qualified | 29 |
 
 ## Crawl outcomes (net-new candidates only)
 
 | status | count |
 |---|---|
-| ok | 544 |
+| ok | 545 |
 | redirect_offdomain | 58 |
-| unreachable | 56 |
-| thin | 22 |
+| unreachable | 58 |
+| thin | 23 |
 | unregistered | 15 |
 | parked | 5 |
 | ringba_banned | 1 |
@@ -53,7 +53,7 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 |---|---|---|---|
 | L12-exalookalike | 150 | 22 | 14.7% |
 | L12-contactio | 179 | 4 | 2.2% |
-| L10-partners | 135 | 3 | 2.2% |
+| L10-partners | 136 | 3 | 2.2% |
 | L12-affsummit | 65 | 0 | 0.0% |
 | L11-hiring-agent | 1 | 0 | 0.0% |
 | L12-trackdrive | 1 | 0 | 0.0% |
@@ -65,7 +65,7 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | reason | count |
 |---|---|
-| lead_or_appointment_pricing | 150 |
+| lead_or_appointment_pricing | 151 |
 | unrelated | 134 |
 | service_to_call_receiver | 58 |
 | end_advertiser | 52 |
