@@ -1038,3 +1038,26 @@
 {"name": "Infinity Lending Direct", "norm": "infinity lending direct", "domain": "infinitylendingdirect.com", "how": "guess:infinitylendingdirect.com", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-08T01:21:34Z"}
 {"name": "Midwest Marketing", "norm": "midwest marketing", "domain": "midwestmarketing.net", "how": "guess:midwestmarketing.net", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-08T01:21:34Z"}
 {"name": "Nations Direct Mortgage, LLC", "norm": "nations direct mortgage", "domain": "nationsdirectmortgage.com", "how": "guess:nationsdirectmortgage.com", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-08T01:21:34Z"}
+{"name": "US Web Leads", "norm": "us web leads", "domain": null, "how": "unresolved:generic-name", "source_url": "https://quotelab.com/marketing-partners", "ts": "2026-09-08T01:22:52Z"}
+{"name": "Unitrin Direct", "norm": "unitrin direct", "domain": "bloomberg.com", "how": "search", "source_url": "https://quotelab.com/marketing-partners", "ts": "2026-09-08T01:22:58Z"}
+{"name": "VSC Digital", "norm": "vsc digital", "domain": null, "how": "unresolved:generic-name", "source_url": "https://quotelab.com/marketing-partners", "ts": "2026-09-08T01:23:01Z"}
+{"name": "Wasatch Marketing Group", "norm": "wasatch marketing group", "domain": "rocketreach.co", "how": "search", "source_url": "https://quotelab.com/marketing-partners", "ts": "2026-09-08T01:23:06Z"}
+{"name": "Whoop Media", "norm": "whoop media", "domain": "whoop-whoop-media.com", "how": "search", "source_url": "https://quotelab.com/marketing-partners", "ts": "2026-09-08T01:23:12Z"}
+{"name": "World Mail Direct USA", "norm": "world mail direct usa", "domain": "selling.com", "how": "search", "source_url": "https://quotelab.com/marketing-partners", "ts": "2026-09-08T01:23:18Z"}
+{"name": "Zac 3 Media", "norm": "zac 3 media", "domain": null, "how": "unresolved:generic-name", "source_url": "https://quotelab.com/marketing-partners", "ts": "2026-09-08T01:23:20Z"}
+{"name": "Agent Marketing Partners", "norm": "agent marketing partners", "domain": "wowhealthinsight.com", "how": "search", "source_url": "https://quotelab.com/marketing-partners", "ts": "2026-09-08T01:23:26Z"}
+{"name": "The Lead Co", "norm": "lead", "domain": null, "how": "unresolved:generic-name", "source_url": "https://quotes.priceshopmedicare.com", "ts": "2026-09-08T01:23:28Z"}
+{"name": "4M Consulting", "norm": "4m consulting", "domain": "4mconsultingsolutions.com", "how": "search", "source_url": "https://quotelab.com/marketing-partners", "ts": "2026-09-08T01:23:33Z"}
+{"name": "5 Star Auto Protection", "norm": "5 star auto protection", "domain": "ispot.tv", "how": "search", "source_url": "https://quotelab.com/marketing-partners", "ts": "2026-09-08T01:23:39Z"}
+{"name": "A & E Vehicle Services", "norm": "& e vehicle services", "domain": "service.gov.uk", "how": "search", "source_url": "https://quotelab.com/marketing-partners", "ts": "2026-09-08T01:23:46Z"}
+{"name": "AA Auto Protect", "norm": "aa auto protect", "domain": "consumeraffairs.com", "how": "search", "source_url": "https://quotelab.com/marketing-partners", "ts": "2026-09-08T01:23:52Z"}
+{"name": "AAA Auto Warranty", "norm": "aaa auto warranty", "domain": "automoblog.com", "how": "search", "source_url": "https://quotelab.com/marketing-partners", "ts": "2026-09-08T01:23:58Z"}
+{"name": "AHCP", "norm": "ahcp", "domain": "ahcpsales.com", "how": "search", "source_url": "https://quotelab.com/marketing-partners", "ts": "2026-09-08T01:24:19Z"}
+{"name": "America's Trust", "norm": "america s trust", "domain": "americastrustinc.com", "how": "guess:americastrustinc.com", "source_url": "https://quotelab.com/marketing-partners", "ts": "2026-09-08T01:24:19Z"}
+{"name": "Auto Owners", "norm": "auto owners", "domain": "auto-owners.com", "how": "guess:auto-owners.com", "source_url": "https://quotelab.com/marketing-partners", "ts": "2026-09-08T01:24:19Z"}
+{"name": "AutoInsurance.com", "norm": "autoinsurance com", "domain": "autoinsurance.com", "how": "literal", "source_url": "https://quotelab.com/marketing-partners", "ts": "2026-09-08T01:24:19Z"}
+{"name": "Badger Mutual", "norm": "badger mutual", "domain": "badgermutual.com", "how": "guess:badgermutual.com", "source_url": "https://quotelab.com/marketing-partners", "ts": "2026-09-08T01:24:19Z"}
+{"name": "Baldwin Risk Partners", "norm": "baldwin risk partners", "domain": "baldwinriskpartners.com", "how": "guess:baldwinriskpartners.com", "source_url": "https://quotelab.com/marketing-partners", "ts": "2026-09-08T01:24:19Z"}
+{"name": "Banker's Fidelity", "norm": "banker s fidelity", "domain": "bankersfidelity.com", "how": "guess:bankersfidelity.com", "source_url": "https://quotelab.com/marketing-partners", "ts": "2026-09-08T01:24:19Z"}
+{"name": "Benepath", "norm": "benepath", "domain": "benepath.com", "how": "guess:benepath.com", "source_url": "https://quotelab.com/marketing-partners", "ts": "2026-09-08T01:24:19Z"}
+{"name": "Bindable", "norm": "bindable", "domain": "bindable.com", "how": "guess:bindable.com", "source_url": "https://quotelab.com/marketing-partners", "ts": "2026-09-08T01:24:19Z"}
