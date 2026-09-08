@@ -928,3 +928,15 @@
 {"name": "LawLogic", "norm": "lawlogic", "domain": "lawlogic.law", "how": "search", "source_url": "https://14.us-unemployment-resources.com/marketing-partners", "ts": "2026-09-08T01:03:56Z"}
 {"name": "Learn 2 Achieve", "norm": "learn 2 achieve", "domain": "justdial.com", "how": "search", "source_url": "https://14.us-unemployment-resources.com/marketing-partners", "ts": "2026-09-08T01:04:03Z"}
 {"name": "American Benefit", "norm": "american benefit", "domain": "americanbenefitllc.com", "how": "guess:americanbenefitllc.com", "source_url": "https://affordableseniorsinsurance.com/marketing-partners", "ts": "2026-09-08T01:04:03Z"}
+{"name": "HSBC Bank USA, N.A./HSBC Bank/LQ Digital", "norm": "hsbc bank usa n hsbc bank lq digital", "domain": "hsbc.com", "how": "search", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-08T01:06:22Z"}
+{"name": "HSBC Direct Savings", "norm": "hsbc direct savings", "domain": null, "how": "unresolved:search-miss", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-08T01:06:29Z"}
+{"name": "RWM Direct", "norm": "rwm direct", "domain": null, "how": "unresolved:generic-name", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-08T01:06:31Z"}
+{"name": "Figure", "norm": "figure", "domain": "figure.com", "how": "guess:figure.com", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-08T01:06:31Z"}
+{"name": "First Meridian Mortgage Corporation", "norm": "first meridian mortgage", "domain": "firstmeridianmortgage.com", "how": "guess:firstmeridianmortgage.com", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-08T01:06:31Z"}
+{"name": "First Rate Mortgage", "norm": "first rate mortgage", "domain": "firstratemortgage.com", "how": "guess:firstratemortgage.com", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-08T01:06:31Z"}
+{"name": "FIRST SAVINGS MORTGAGE", "norm": "first savings mortgage", "domain": "firstsavingsmortgage.com", "how": "guess:firstsavingsmortgage.com", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-08T01:06:31Z"}
+{"name": "Forcht Bank", "norm": "forcht bank", "domain": "forchtbank.com", "how": "guess:forchtbank.com", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-08T01:06:31Z"}
+{"name": "Guild Mortgage", "norm": "guild mortgage", "domain": "guildmortgage.com", "how": "guess:guildmortgage.com", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-08T01:06:31Z"}
+{"name": "Heritage Bank, NA", "norm": "heritage bank na", "domain": "heritagebankna.com", "how": "guess:heritagebankna.com", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-08T01:06:31Z"}
+{"name": "HighTechLending Inc", "norm": "hightechlending", "domain": "hightechlending.com", "how": "guess:hightechlending.com", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-08T01:06:31Z"}
+{"name": "Home Loans Today", "norm": "home loans today", "domain": "homeloanstoday.com", "how": "guess:homeloanstoday.com", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-08T01:06:31Z"}
