@@ -940,3 +940,26 @@
 {"name": "Heritage Bank, NA", "norm": "heritage bank na", "domain": "heritagebankna.com", "how": "guess:heritagebankna.com", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-08T01:06:31Z"}
 {"name": "HighTechLending Inc", "norm": "hightechlending", "domain": "hightechlending.com", "how": "guess:hightechlending.com", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-08T01:06:31Z"}
 {"name": "Home Loans Today", "norm": "home loans today", "domain": "homeloanstoday.com", "how": "guess:homeloanstoday.com", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-08T01:06:31Z"}
+{"name": "RevPoint Media", "norm": "revpoint media", "domain": "tcpaworld.com", "how": "search", "source_url": "https://everquote.com/partners", "ts": "2026-09-08T01:08:36Z"}
+{"name": "The Complete Lead", "norm": "complete lead", "domain": "thelancet.com", "how": "search", "source_url": "https://everquote.com/partners", "ts": "2026-09-08T01:08:54Z"}
+{"name": "TPG Direct", "norm": "tpg direct", "domain": null, "how": "unresolved:generic-name", "source_url": "https://everquote.com/partners", "ts": "2026-09-08T01:08:56Z"}
+{"name": "Union Square Media", "norm": "union square media", "domain": "usmagency.com", "how": "search", "source_url": "https://everquote.com/partners", "ts": "2026-09-08T01:09:19Z"}
+{"name": "Archenia, Inc", "norm": "archenia", "domain": "archenia.com", "how": "guess:archenia.com", "source_url": "https://everquote.com/partners", "ts": "2026-09-08T01:09:19Z"}
+{"name": "Guide One", "norm": "guide one", "domain": "guideone.com", "how": "guess:guideone.com", "source_url": "https://everquote.com/partners", "ts": "2026-09-08T01:09:19Z"}
+{"name": "Hanover", "norm": "hanover", "domain": "hanover.com", "how": "guess:hanover.com", "source_url": "https://everquote.com/partners", "ts": "2026-09-08T01:09:19Z"}
+{"name": "Homeinsurance.com", "norm": "homeinsurance com", "domain": "homeinsurance.com", "how": "literal", "source_url": "https://everquote.com/partners", "ts": "2026-09-08T01:09:19Z"}
+{"name": "Hometown Quotes", "norm": "hometown quotes", "domain": "hometownquotes.com", "how": "guess:hometownquotes.com", "source_url": "https://everquote.com/partners", "ts": "2026-09-08T01:09:19Z"}
+{"name": "HoneyQuote", "norm": "honeyquote", "domain": "honeyquote.com", "how": "guess:honeyquote.com", "source_url": "https://everquote.com/partners", "ts": "2026-09-08T01:09:19Z"}
+{"name": "Horace Mann", "norm": "horace mann", "domain": "horacemann.com", "how": "guess:horacemann.com", "source_url": "https://everquote.com/partners", "ts": "2026-09-08T01:09:19Z"}
+{"name": "Ideal Concepts", "norm": "ideal concepts", "domain": "idealconcepts.com", "how": "guess:idealconcepts.com", "source_url": "https://everquote.com/partners", "ts": "2026-09-08T01:09:19Z"}
+{"name": "Inavision", "norm": "inavision", "domain": "inavision.com", "how": "guess:inavision.com", "source_url": "https://everquote.com/partners", "ts": "2026-09-08T01:09:19Z"}
+{"name": "Independent Agent", "norm": "independent agent", "domain": "independentagent.com", "how": "guess:independentagent.com", "source_url": "https://everquote.com/partners", "ts": "2026-09-08T01:09:19Z"}
+{"name": "InsuraMatch", "norm": "insuramatch", "domain": "insuramatch.com", "how": "guess:insuramatch.com", "source_url": "https://everquote.com/partners", "ts": "2026-09-08T01:09:19Z"}
+{"name": "InsuranceMichigan.com", "norm": "insurancemichigan com", "domain": "insurancemichigan.com", "how": "literal", "source_url": "https://everquote.com/partners", "ts": "2026-09-08T01:09:19Z"}
+{"name": "InsuranceOnly", "norm": "insuranceonly", "domain": "insuranceonly.net", "how": "guess:insuranceonly.net", "source_url": "https://everquote.com/partners", "ts": "2026-09-08T01:09:19Z"}
+{"name": "Insure.com", "norm": "insure com", "domain": "insure.com", "how": "literal", "source_url": "https://everquote.com/partners", "ts": "2026-09-08T01:09:19Z"}
+{"name": "InsureMe", "norm": "insureme", "domain": "insureme.com", "how": "guess:insureme.com", "source_url": "https://everquote.com/partners", "ts": "2026-09-08T01:09:19Z"}
+{"name": "Jobble, Inc", "norm": "jobble", "domain": "jobble.com", "how": "guess:jobble.com", "source_url": "https://everquote.com/partners", "ts": "2026-09-08T01:09:19Z"}
+{"name": "Jupiter", "norm": "jupiter", "domain": "jupiter.com", "how": "guess:jupiter.com", "source_url": "https://everquote.com/partners", "ts": "2026-09-08T01:09:19Z"}
+{"name": "Keenan Associates", "norm": "keenan associates", "domain": "keenanassociates.com", "how": "guess:keenanassociates.com", "source_url": "https://everquote.com/partners", "ts": "2026-09-08T01:09:19Z"}
+{"name": "Kemper", "norm": "kemper", "domain": "kemper.com", "how": "guess:kemper.com", "source_url": "https://everquote.com/partners", "ts": "2026-09-08T01:09:19Z"}

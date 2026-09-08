@@ -7,21 +7,21 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | stage | count |
 |---|---|
 | inbox candidates | 0 |
-| partner-list names resolved -> candidates | 10 -> 9 |
+| partner-list names resolved -> candidates | 22 -> 12 |
 | hiring postings read -> candidates | 0 -> 0 |
 | linked-domain candidates | 0 |
 | search requests | 0 |
-| raw finds (search) | 10 |
+| raw finds (search) | 22 |
 | constructed domains probed | 0 |
-| net-new candidates after exclusion index | 9 |
-|   of which from search | 9 |
+| net-new candidates after exclusion index | 12 |
+|   of which from search | 12 |
 |   of which from probing | 0 |
-| crawled | 9 |
-|   crawl: ok | 7 |
+| crawled | 12 |
+|   crawl: ok | 10 |
 |   crawl: thin | 1 |
-|   crawl: redirect_offdomain | 1 |
+|   crawl: unreachable | 1 |
 | probes that resolved to a real site | 0 |
-| v6 classified | 7 |
+| v6 classified | 10 |
 | carried to next run (unclassified) | 0 |
 | carried to next run (uncrawled) | 0 |
 | V6 QUALIFIED | 0 |
@@ -30,24 +30,25 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | stage | count |
 |---|---|
-| candidates crawled | 11 |
-| crawled ok | 9 |
-| v6 classified | 9 |
+| candidates crawled | 23 |
+| crawled ok | 19 |
+| v6 classified | 19 |
 | v6 qualified | 0 |
 
 ## Crawl outcomes (net-new candidates only)
 
 | status | count |
 |---|---|
-| ok | 9 |
+| ok | 19 |
+| thin | 2 |
 | redirect_offdomain | 1 |
-| thin | 1 |
+| unreachable | 1 |
 
 ## v6 qualify rate per discovery channel
 
 | channel | classified | qualified | rate |
 |---|---|---|---|
-| L10-partners | 9 | 0 | 0.0% |
+| L10-partners | 19 | 0 | 0.0% |
 
 **V6 QUALIFIED TODAY: 0** (ICP-clean: 0). Cumulative across all daily runs: 45.
 
@@ -55,9 +56,10 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | reason | count |
 |---|---|
-| end_advertiser | 4 |
-| unrelated | 3 |
-| lead_or_appointment_pricing | 2 |
+| end_advertiser | 9 |
+| unrelated | 6 |
+| lead_or_appointment_pricing | 3 |
+| no_clear_signal | 1 |
 
 ## Files
 
