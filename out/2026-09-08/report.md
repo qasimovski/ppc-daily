@@ -7,19 +7,19 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | stage | count |
 |---|---|
 | inbox candidates | 0 |
-| partner-list names resolved -> candidates | 3 -> 3 |
+| partner-list names resolved -> candidates | 5 -> 2 |
 | hiring postings read -> candidates | 0 -> 0 |
 | linked-domain candidates | 0 |
 | search requests | 0 |
-| raw finds (search) | 3 |
+| raw finds (search) | 5 |
 | constructed domains probed | 0 |
-| net-new candidates after exclusion index | 3 |
-|   of which from search | 3 |
+| net-new candidates after exclusion index | 2 |
+|   of which from search | 2 |
 |   of which from probing | 0 |
-| crawled | 3 |
-|   crawl: ok | 3 |
+| crawled | 2 |
+|   crawl: ok | 2 |
 | probes that resolved to a real site | 0 |
-| v6 classified | 3 |
+| v6 classified | 2 |
 | carried to next run (unclassified) | 0 |
 | carried to next run (uncrawled) | 0 |
 | V6 QUALIFIED | 0 |
@@ -28,16 +28,16 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | stage | count |
 |---|---|
-| candidates crawled | 1370 |
-| crawled ok | 991 |
-| v6 classified | 991 |
+| candidates crawled | 1372 |
+| crawled ok | 993 |
+| v6 classified | 993 |
 | v6 qualified | 56 |
 
 ## Crawl outcomes (net-new candidates only)
 
 | status | count |
 |---|---|
-| ok | 991 |
+| ok | 993 |
 | unreachable | 174 |
 | unregistered | 70 |
 | redirect_offdomain | 67 |
@@ -53,7 +53,7 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | L12-exalike-1hit | 180 | 8 | 4.4% |
 | L8-linked | 24 | 1 | 4.2% |
 | L12-contactio | 179 | 4 | 2.2% |
-| L10-partners | 147 | 3 | 2.0% |
+| L10-partners | 149 | 3 | 2.0% |
 | L12-affsummit | 65 | 0 | 0.0% |
 | L11-hiring-agent | 1 | 0 | 0.0% |
 | L12-trackdrive | 1 | 0 | 0.0% |
@@ -69,7 +69,7 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | service_to_call_receiver | 107 |
 | seo_or_ranking_agency | 103 |
 | no_clear_signal | 71 |
-| end_advertiser | 58 |
+| end_advertiser | 60 |
 | directory_or_content | 53 |
 | software_or_crm | 39 |
 | recruiting | 3 |
