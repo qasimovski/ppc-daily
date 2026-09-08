@@ -6,49 +6,57 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | stage | count |
 |---|---|
-| inbox candidates | 0 |
-| partner-list names resolved -> candidates | 0 -> 0 |
+| inbox candidates | 635 |
+| partner-list names resolved -> candidates | 1 -> 1 |
 | hiring postings read -> candidates | 0 -> 0 |
 | linked-domain candidates | 0 |
 | search requests | 0 |
-| raw finds (search) | 0 |
+| raw finds (search) | 636 |
 | constructed domains probed | 0 |
-| net-new candidates after exclusion index | 0 |
-|   of which from search | 0 |
+| net-new candidates after exclusion index | 636 |
+|   of which from search | 636 |
 |   of which from probing | 0 |
-| crawled | 0 |
+| crawled | 261 |
+|   crawl: ok | 157 |
+|   crawl: thin | 8 |
+|   crawl: unregistered | 28 |
+|   crawl: unreachable | 53 |
+|   crawl: parked | 7 |
+|   crawl: redirect_offdomain | 7 |
+|   crawl: ringba_banned | 1 |
 | probes that resolved to a real site | 0 |
-| v6 classified | 0 |
+| v6 classified | 157 |
 | carried to next run (unclassified) | 0 |
-| carried to next run (uncrawled) | 0 |
-| V6 QUALIFIED | 0 |
+| carried to next run (uncrawled) | 375 |
+| V6 QUALIFIED | 7 |
 
 ## Day so far (all passes, unique domains)
 
 | stage | count |
 |---|---|
-| candidates crawled | 708 |
-| crawled ok | 547 |
-| v6 classified | 547 |
-| v6 qualified | 29 |
+| candidates crawled | 969 |
+| crawled ok | 704 |
+| v6 classified | 704 |
+| v6 qualified | 36 |
 
 ## Crawl outcomes (net-new candidates only)
 
 | status | count |
 |---|---|
-| ok | 547 |
-| redirect_offdomain | 58 |
-| unreachable | 58 |
-| thin | 24 |
-| unregistered | 15 |
-| parked | 5 |
-| ringba_banned | 1 |
+| ok | 704 |
+| unreachable | 111 |
+| redirect_offdomain | 65 |
+| unregistered | 43 |
+| thin | 32 |
+| parked | 12 |
+| ringba_banned | 2 |
 
 ## v6 qualify rate per discovery channel
 
 | channel | classified | qualified | rate |
 |---|---|---|---|
 | L12-exalookalike | 150 | 22 | 14.7% |
+| L12-exalike-1hit | 157 | 7 | 4.5% |
 | L12-contactio | 179 | 4 | 2.2% |
 | L10-partners | 138 | 3 | 2.2% |
 | L12-affsummit | 65 | 0 | 0.0% |
@@ -56,20 +64,20 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | L12-trackdrive | 1 | 0 | 0.0% |
 | L8-linked | 13 | 0 | 0.0% |
 
-**V6 QUALIFIED TODAY: 29** (ICP-clean: 26). Cumulative across all daily runs: 74.
+**V6 QUALIFIED TODAY: 36** (ICP-clean: 32). Cumulative across all daily runs: 81.
 
 ## Why candidates failed v6
 
 | reason | count |
 |---|---|
-| lead_or_appointment_pricing | 151 |
-| unrelated | 136 |
-| service_to_call_receiver | 58 |
-| end_advertiser | 52 |
-| seo_or_ranking_agency | 36 |
-| no_clear_signal | 29 |
-| software_or_crm | 29 |
-| directory_or_content | 22 |
+| lead_or_appointment_pricing | 205 |
+| unrelated | 154 |
+| service_to_call_receiver | 76 |
+| seo_or_ranking_agency | 65 |
+| end_advertiser | 55 |
+| no_clear_signal | 51 |
+| software_or_crm | 33 |
+| directory_or_content | 24 |
 | recruiting | 3 |
 | coach_or_consultant | 1 |
 | diy_ads_or_setup | 1 |
@@ -105,8 +113,15 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 |  | medialey.com | 90 | pay-per-call advertising and lead generation services |  |  | geo unknown |
 |  | livelegalcalls.com | 90 | exclusive live phone calls sold to law firms |  | United States |  |
 |  | amplifyleadmedia.com | 90 | performance-based digital marketing services to businesses |  | India; United States |  |
+|  | addcalls.com | 90 | AI voice call traffic marketplace | yes |  | geo unknown |
+|  | arkleads.com | 90 | pay-per-call lead generation and live transfer call sales to bus | yes |  | geo unknown |
+|  | dataperform.co | 90 | pay-per-call lead generation network | yes | Canada |  |
+|  | demetrioleads.com | 90 | Lead generation and live transfer call sales to businesses |  | United States |  |
+|  | localspark.net | 90 | pay-per-call advertising for local home-service companies |  | United States |  |
+|  | ringindia.net | 90 | lead generation and telemarketing services selling qualified lea |  | India; Australia | geo outside US/UK/CA: India, Australia |
 | 2ND CHANCE CREDIT FUNDING | 2ndchancecreditfunding.com | 85 | pay-per-call lead generation for credit funding | yes |  | geo unknown |
 | SURETY AUTO GROUP | suretyautogroup.com | 85 | insurance agency selling car insurance quotes and live transfers |  |  | geo unknown |
+|  | attorneyconnectnetwork.com | 85 | pay-per-call network for legal leads | yes |  | geo unknown |
 
 ## Files
 
