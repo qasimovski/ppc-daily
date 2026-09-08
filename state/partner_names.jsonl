@@ -997,3 +997,23 @@
 {"name": "Tax Depot", "norm": "tax depot", "domain": "tax-depot.com", "how": "guess:tax-depot.com", "source_url": "https://liheapassistance.org/marketing-partners", "ts": "2026-09-08T01:14:59Z"}
 {"name": "Tax Law Advocates", "norm": "tax law advocates", "domain": "taxlawadvocates.com", "how": "guess:taxlawadvocates.com", "source_url": "https://liheapassistance.org/marketing-partners", "ts": "2026-09-08T01:14:59Z"}
 {"name": "Taylored Legacy", "norm": "taylored legacy", "domain": "tayloredlegacy.com", "how": "guess:tayloredlegacy.com", "source_url": "https://liheapassistance.org/marketing-partners", "ts": "2026-09-08T01:14:59Z"}
+{"name": "AABCO", "norm": "aabco", "domain": "aabcogroup.com", "how": "search", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-08T01:18:05Z"}
+{"name": "AARP", "norm": "aarp", "domain": "aarp.org", "how": "search", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-08T01:18:22Z"}
+{"name": "ACA Express", "norm": "aca express", "domain": "insurance-forums.com", "how": "search", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-08T01:18:27Z"}
+{"name": "AccordantMedia", "norm": "accordantmedia", "domain": "rocketreach.co", "how": "search", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-08T01:18:42Z"}
+{"name": "Acme", "norm": "acme", "domain": "cambridge.org", "how": "search", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-08T01:18:54Z"}
+{"name": "Colonial", "norm": "colonial", "domain": "colonialllc.com", "how": "guess:colonialllc.com", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-08T01:18:54Z"}
+{"name": "Combined", "norm": "combined", "domain": "combined.com", "how": "guess:combined.com", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-08T01:18:54Z"}
+{"name": "Commercial Union", "norm": "commercial union", "domain": "commercialunion.com", "how": "guess:commercialunion.com", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-08T01:18:54Z"}
+{"name": "Commonwealth", "norm": "commonwealth", "domain": "commonwealth.com", "how": "guess:commonwealth.com", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-08T01:18:54Z"}
+{"name": "CompareInsuranceQuotes", "norm": "compareinsurancequotes", "domain": "compareinsurancequotes.com", "how": "guess:compareinsurancequotes.com", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-08T01:18:54Z"}
+{"name": "Connect Plus", "norm": "connect plus", "domain": "connect-plus.com", "how": "guess:connect-plus.com", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-08T01:18:54Z"}
+{"name": "Coventry", "norm": "coventry", "domain": "coventry.com", "how": "guess:coventry.com", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-08T01:18:54Z"}
+{"name": "DentalInsurance.com", "norm": "dentalinsurance com", "domain": "dentalinsurance.com", "how": "literal", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-08T01:18:54Z"}
+{"name": "Drips", "norm": "drips", "domain": "drips.com", "how": "guess:drips.com", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-08T01:18:54Z"}
+{"name": "Drobu", "norm": "drobu", "domain": "drobu.com", "how": "guess:drobu.com", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-08T01:18:54Z"}
+{"name": "Ensure", "norm": "ensure", "domain": "ensure.com", "how": "guess:ensure.com", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-08T01:18:54Z"}
+{"name": "Ensurem", "norm": "ensurem", "domain": "ensurem.com", "how": "guess:ensurem.com", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-08T01:18:54Z"}
+{"name": "Excellus", "norm": "excellus", "domain": "excellus.com", "how": "guess:excellus.com", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-08T01:18:54Z"}
+{"name": "First American", "norm": "first american", "domain": "firstamerican.com", "how": "guess:firstamerican.com", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-08T01:18:54Z"}
+{"name": "First General", "norm": "first general", "domain": "first-general.com", "how": "guess:first-general.com", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-08T01:18:54Z"}

@@ -7,47 +7,48 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | stage | count |
 |---|---|
 | inbox candidates | 0 |
-| partner-list names resolved -> candidates | 19 -> 17 |
+| partner-list names resolved -> candidates | 20 -> 14 |
 | hiring postings read -> candidates | 0 -> 0 |
 | linked-domain candidates | 0 |
 | search requests | 0 |
-| raw finds (search) | 19 |
+| raw finds (search) | 20 |
 | constructed domains probed | 0 |
-| net-new candidates after exclusion index | 17 |
-|   of which from search | 17 |
+| net-new candidates after exclusion index | 14 |
+|   of which from search | 14 |
 |   of which from probing | 0 |
-| crawled | 17 |
-|   crawl: ok | 16 |
-|   crawl: redirect_offdomain | 1 |
+| crawled | 14 |
+|   crawl: ok | 9 |
+|   crawl: thin | 1 |
+|   crawl: redirect_offdomain | 4 |
 | probes that resolved to a real site | 0 |
-| v6 classified | 16 |
+| v6 classified | 9 |
 | carried to next run (unclassified) | 0 |
 | carried to next run (uncrawled) | 0 |
-| V6 QUALIFIED | 2 |
+| V6 QUALIFIED | 0 |
 
 ## Day so far (all passes, unique domains)
 
 | stage | count |
 |---|---|
-| candidates crawled | 47 |
-| crawled ok | 42 |
-| v6 classified | 42 |
+| candidates crawled | 61 |
+| crawled ok | 51 |
+| v6 classified | 51 |
 | v6 qualified | 2 |
 
 ## Crawl outcomes (net-new candidates only)
 
 | status | count |
 |---|---|
-| ok | 42 |
-| redirect_offdomain | 2 |
-| thin | 2 |
+| ok | 51 |
+| redirect_offdomain | 6 |
+| thin | 3 |
 | unreachable | 1 |
 
 ## v6 qualify rate per discovery channel
 
 | channel | classified | qualified | rate |
 |---|---|---|---|
-| L10-partners | 42 | 2 | 4.8% |
+| L10-partners | 51 | 2 | 3.9% |
 
 **V6 QUALIFIED TODAY: 2** (ICP-clean: 2). Cumulative across all daily runs: 47.
 
@@ -55,9 +56,9 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | reason | count |
 |---|---|
+| unrelated | 17 |
 | end_advertiser | 14 |
-| unrelated | 11 |
-| lead_or_appointment_pricing | 9 |
+| lead_or_appointment_pricing | 12 |
 | service_to_call_receiver | 2 |
 | directory_or_content | 2 |
 | no_clear_signal | 1 |
