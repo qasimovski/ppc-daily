@@ -7,41 +7,39 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | stage | count |
 |---|---|
 | inbox candidates | 0 |
-| partner-list names resolved -> candidates | 1 -> 0 |
+| partner-list names resolved -> candidates | 3 -> 2 |
 | hiring postings read -> candidates | 0 -> 0 |
-| linked-domain candidates | 14 |
+| linked-domain candidates | 2 |
 | search requests | 0 |
-| raw finds (search) | 15 |
+| raw finds (search) | 5 |
 | constructed domains probed | 0 |
-| net-new candidates after exclusion index | 102 |
-|   of which from search | 102 |
+| net-new candidates after exclusion index | 4 |
+|   of which from search | 4 |
 |   of which from probing | 0 |
-| crawled | 102 |
-|   crawl: ok | 71 |
-|   crawl: thin | 4 |
-|   crawl: unregistered | 9 |
-|   crawl: unreachable | 18 |
+| crawled | 4 |
+|   crawl: ok | 3 |
+|   crawl: unreachable | 1 |
 | probes that resolved to a real site | 0 |
-| v6 classified | 82 |
+| v6 classified | 3 |
 | carried to next run (unclassified) | 0 |
 | carried to next run (uncrawled) | 0 |
-| V6 QUALIFIED | 3 |
+| V6 QUALIFIED | 1 |
 
 ## Day so far (all passes, unique domains)
 
 | stage | count |
 |---|---|
-| candidates crawled | 1360 |
-| crawled ok | 982 |
-| v6 classified | 982 |
-| v6 qualified | 55 |
+| candidates crawled | 1364 |
+| crawled ok | 985 |
+| v6 classified | 985 |
+| v6 qualified | 56 |
 
 ## Crawl outcomes (net-new candidates only)
 
 | status | count |
 |---|---|
-| ok | 982 |
-| unreachable | 173 |
+| ok | 985 |
+| unreachable | 174 |
 | unregistered | 70 |
 | redirect_offdomain | 67 |
 | thin | 50 |
@@ -54,14 +52,14 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 |---|---|---|---|
 | L12-exalookalike | 394 | 40 | 10.2% |
 | L12-exalike-1hit | 180 | 8 | 4.4% |
+| L8-linked | 24 | 1 | 4.2% |
 | L12-contactio | 179 | 4 | 2.2% |
-| L10-partners | 139 | 3 | 2.2% |
+| L10-partners | 141 | 3 | 2.1% |
 | L12-affsummit | 65 | 0 | 0.0% |
 | L11-hiring-agent | 1 | 0 | 0.0% |
 | L12-trackdrive | 1 | 0 | 0.0% |
-| L8-linked | 23 | 0 | 0.0% |
 
-**V6 QUALIFIED TODAY: 55** (ICP-clean: 48). Cumulative across all daily runs: 100.
+**V6 QUALIFIED TODAY: 56** (ICP-clean: 49). Cumulative across all daily runs: 101.
 
 ## Why candidates failed v6
 
@@ -69,10 +67,10 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 |---|---|
 | lead_or_appointment_pricing | 310 |
 | unrelated | 184 |
-| service_to_call_receiver | 106 |
+| service_to_call_receiver | 107 |
 | seo_or_ranking_agency | 103 |
 | no_clear_signal | 70 |
-| end_advertiser | 57 |
+| end_advertiser | 58 |
 | directory_or_content | 53 |
 | software_or_crm | 39 |
 | recruiting | 3 |
@@ -135,6 +133,7 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 |  | relianceleads.com | 90 | sells various types of leads including call transfer leads to bu |  |  | geo unknown |
 |  | ringrecoup.com | 90 | pay-per-call advertising network connecting buyers and publisher | yes |  | geo unknown |
 |  | thefpmgroup.com | 90 | lead generation and inbound live transfer calls to buyers |  |  | geo unknown |
+|  | bouncehelp.com | 90 | pay-per-lead phone call connection service to businesses |  |  | geo unknown |
 | 2ND CHANCE CREDIT FUNDING | 2ndchancecreditfunding.com | 85 | pay-per-call lead generation for credit funding | yes |  | geo unknown |
 | SURETY AUTO GROUP | suretyautogroup.com | 85 | insurance agency selling car insurance quotes and live transfers |  |  | geo unknown |
 |  | attorneyconnectnetwork.com | 85 | pay-per-call network for legal leads | yes |  | geo unknown |
