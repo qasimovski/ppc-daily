@@ -128,6 +128,26 @@ NAME_STOP = re.compile(r'(?i)\b(pay|per|call|calls|lead|leads|media|group|inc|ll
                        r'online|performance|agency|platform|program|programs|campaigns?|offers?|inc|'
                        r'data|lists?|site|map|sitemap|accounting|menu|search|blog|news|faq|pricing|careers)\b')
 
+# Every field a Ringba mention can reach an ALL_qualified.csv row through: the crawl's own
+# tag detection (infrastructure_detected), the REVIEW flag export.py writes off ringba_prose,
+# the v6 evidence text, and the sourcing note (the hiring lane's only evidence). Ringba ONLY -
+# TrackDrive / Retreaver / Phonexa tenants are fine for Kaliper.
+RINGBA_RE = re.compile(r'\bringba\b', re.I)
+RINGBA_FIELDS = ('kaliper_flags', 'infrastructure_detected', 'source_note', 'source_url',
+                 'v6_positive_evidence', 'v6_reasoning', 'v6_business_model',
+                 'tier1_phrases_on_site', 'company_name', 'domain')
+
+def ringba_tainted(row):
+    """Reason string if this row mentions Ringba anywhere, else '' (falsy)."""
+    for f in RINGBA_FIELDS:
+        v = row.get(f) or ''
+        m = RINGBA_RE.search(v)
+        if m:
+            s = max(0, m.start() - 40); e = min(len(v), m.end() + 40)
+            return '%s: ...%s...' % (f, v[s:e].replace('\n', ' '))
+    return ''
+
+
 def plausible_name(nm):
     nm = re.sub(r'\s+', ' ', nm).strip()
     if not (4 < len(nm) < 40): return None
@@ -424,6 +444,21 @@ def main():
     else:
         targets = [r for r in allq if r['domain'] not in done
                    and (a.include_flagged or r.get('kaliper_flags', '') in ('', 'geo unknown'))]
+
+    # Kaliper is PERMANENTLY banned from Ringba, so a Ringba company can never be worked -
+    # no sourcing, no enrichment, no dial list. The kaliper_flags gate above happens to catch
+    # "REVIEW: names Ringba in prose" rows, but BOTH --include-flagged and --domains walk
+    # straight past it, and neither ever looked at infrastructure_detected. This screen runs
+    # after both branches, reads every field the evidence can land in, and is deliberately
+    # not overridable - it sits immediately before the first paid call (AI Ark, Clay,
+    # LeadMagic, Trestle) and before the Attio push.
+    banned = [r for r in targets if ringba_tainted(r)]
+    if banned:
+        log('\n!! RINGBA GATE: dropping %d company(ies) - Kaliper is banned from Ringba' % len(banned))
+        for r in banned:
+            log('   DROP %-32s %s' % (r['domain'], ringba_tainted(r)))
+        targets = [r for r in targets if not ringba_tainted(r)]
+
     targets = targets[:a.limit]
     if not targets: log('nothing to enrich (all qualified companies already processed)'); return
     log('=== contact enrichment %s | %d companies%s' % (date, len(targets), ' | DRY RUN' if a.dry_run else ''))
