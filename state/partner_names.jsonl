@@ -1090,3 +1090,28 @@
 {"name": "OpenJar", "norm": "openjar", "domain": "openjar.com", "how": "guess:openjar.com", "source_url": "https://ratefinder.com/partners.html", "ts": "2026-09-08T01:27:09Z"}
 {"name": "Oscar", "norm": "oscar", "domain": "oscar.com", "how": "guess:oscar.com", "source_url": "https://ratefinder.com/partners.html", "ts": "2026-09-08T01:27:09Z"}
 {"name": "Precise", "norm": "precise", "domain": "precise.com", "how": "guess:precise.com", "source_url": "https://ratefinder.com/partners.html", "ts": "2026-09-08T01:27:09Z"}
+{"name": "Home Performance Systems", "norm": "home performance systems", "domain": "hpsystems.ca", "how": "search", "source_url": "https://renuehome.com/partners", "ts": "2026-09-08T01:28:31Z"}
+{"name": "Joyce Factory Direct of Asheville", "norm": "joyce factory direct asheville", "domain": "modernize.com", "how": "search", "source_url": "https://renuehome.com/partners", "ts": "2026-09-08T01:28:38Z"}
+{"name": "Joyce Factory Direct of Pennsylvania", "norm": "joyce factory direct pennsylvania", "domain": "modernize.com", "how": "search", "source_url": "https://renuehome.com/partners", "ts": "2026-09-08T01:28:44Z"}
+{"name": "LL Media", "norm": "ll media", "domain": null, "how": "unresolved:generic-name", "source_url": "https://renuehome.com/partners", "ts": "2026-09-08T01:28:46Z"}
+{"name": "Partner Airo Marketing Exclusive", "norm": "partner airo marketing exclusive", "domain": null, "how": "unresolved:search-miss", "source_url": "https://renuehome.com/partners", "ts": "2026-09-08T01:28:52Z"}
+{"name": "Partner Airo Marketing Shared", "norm": "partner airo marketing shared", "domain": null, "how": "unresolved:search-miss", "source_url": "https://renuehome.com/partners", "ts": "2026-09-08T01:28:58Z"}
+{"name": "Performance Advertising Consultants", "norm": "performance advertising consultants", "domain": "theagencyguide.com", "how": "search", "source_url": "https://renuehome.com/partners", "ts": "2026-09-08T01:29:06Z"}
+{"name": "RGR Marketing", "norm": "rgr marketing", "domain": null, "how": "unresolved:generic-name", "source_url": "https://renuehome.com/partners", "ts": "2026-09-08T01:29:08Z"}
+{"name": "Universal Windows Direct - ENT", "norm": "universal windows direct ent", "domain": "modernize.com", "how": "search", "source_url": "https://renuehome.com/partners", "ts": "2026-09-08T01:29:14Z"}
+{"name": "Zero Khaos Marketing", "norm": "zero khaos marketing", "domain": null, "how": "unresolved:search-miss", "source_url": "https://renuehome.com/partners", "ts": "2026-09-08T01:29:20Z"}
+{"name": "EZ Marketing LLC", "norm": "ez marketing", "domain": null, "how": "unresolved:generic-name", "source_url": "https://rocketquote.com/marketing-partners", "ts": "2026-09-08T01:29:22Z"}
+{"name": "Insurely Leads", "norm": "insurely leads", "domain": null, "how": "unresolved:search-miss", "source_url": "https://rocketquote.com/marketing-partners", "ts": "2026-09-08T01:29:28Z"}
+{"name": "What If Media Group", "norm": "what if media group", "domain": null, "how": "unresolved:generic-name", "source_url": "https://rocketquote.com/marketing-partners", "ts": "2026-09-08T01:29:30Z"}
+{"name": "Able Roof - Mr Roof", "norm": "able roof mr roof", "domain": "roofingcontractor.com", "how": "search", "source_url": "https://renuehome.com/partners", "ts": "2026-09-08T01:29:37Z"}
+{"name": "Absolute Construction Group-FC", "norm": "absolute construction group fc", "domain": "service.gov.uk", "how": "search", "source_url": "https://renuehome.com/partners", "ts": "2026-09-08T01:29:43Z"}
+{"name": "Accolade Exteriors", "norm": "accolade exteriors", "domain": "guildquality.com", "how": "search", "source_url": "https://renuehome.com/partners", "ts": "2026-09-08T01:29:54Z"}
+{"name": "American Home Improvement Group LLC", "norm": "american home improvement group", "domain": "americanhomeimprovementgroup.com", "how": "guess:americanhomeimprovementgroup.com", "source_url": "https://renuehome.com/partners", "ts": "2026-09-08T01:29:54Z"}
+{"name": "American Metal Roofs", "norm": "american metal roofs", "domain": "americanmetalroofs.net", "how": "guess:americanmetalroofs.net", "source_url": "https://renuehome.com/partners", "ts": "2026-09-08T01:29:54Z"}
+{"name": "American WeatherTechs", "norm": "american weathertechs", "domain": "americanweathertechs.com", "how": "guess:americanweathertechs.com", "source_url": "https://renuehome.com/partners", "ts": "2026-09-08T01:29:54Z"}
+{"name": "Americas Best Choice", "norm": "americas best choice", "domain": "americas-best-choice.com", "how": "guess:americas-best-choice.com", "source_url": "https://renuehome.com/partners", "ts": "2026-09-08T01:29:54Z"}
+{"name": "Ameritech Construction Corporation", "norm": "ameritech construction", "domain": "ameritechconstruction.com", "how": "guess:ameritechconstruction.com", "source_url": "https://renuehome.com/partners", "ts": "2026-09-08T01:29:54Z"}
+{"name": "Amos Exteriors", "norm": "amos exteriors", "domain": "amosexteriors.com", "how": "guess:amosexteriors.com", "source_url": "https://renuehome.com/partners", "ts": "2026-09-08T01:29:54Z"}
+{"name": "Bath Makeover of Arkansas", "norm": "bath makeover arkansas", "domain": "bathmakeoverarkansas.com", "how": "guess:bathmakeoverarkansas.com", "source_url": "https://renuehome.com/partners", "ts": "2026-09-08T01:29:54Z"}
+{"name": "Bath Pros LLC", "norm": "bath pros", "domain": "bathprosinc.com", "how": "guess:bathprosinc.com", "source_url": "https://renuehome.com/partners", "ts": "2026-09-08T01:29:54Z"}
+{"name": "Bath Stone", "norm": "bath stone", "domain": "bathstone.com", "how": "guess:bathstone.com", "source_url": "https://renuehome.com/partners", "ts": "2026-09-08T01:29:54Z"}
