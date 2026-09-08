@@ -1166,3 +1166,15 @@
 {"name": "Nsure", "norm": "nsure", "domain": "nsure.net", "how": "guess:nsure.net", "source_url": "https://tunepolicy.com/partners", "ts": "2026-09-08T13:18:08Z"}
 {"name": "Pemco", "norm": "pemco", "domain": "pemco.com", "how": "guess:pemco.com", "source_url": "https://tunepolicy.com/partners", "ts": "2026-09-08T13:18:08Z"}
 {"name": "Plymouth Rock", "norm": "plymouth rock", "domain": "plymouthrock.com", "how": "guess:plymouthrock.com", "source_url": "https://tunepolicy.com/partners", "ts": "2026-09-08T13:18:08Z"}
+{"name": "RedVentures", "norm": "redventures", "domain": null, "how": "unresolved:search-miss", "source_url": "https://www.coveragebeacon.com/marketing-partners", "ts": "2026-09-08T13:24:03Z"}
+{"name": "ReviMedia", "norm": "revimedia", "domain": "vcnewsdaily.com", "how": "search", "source_url": "https://www.coveragebeacon.com/marketing-partners", "ts": "2026-09-08T13:24:35Z"}
+{"name": "Verified Insurance Lead", "norm": "verified insurance lead", "domain": "lucrativelegal.com", "how": "search", "source_url": "https://www.coveragebeacon.com/marketing-partners", "ts": "2026-09-08T13:24:43Z"}
+{"name": "WeGenerate / MyCareClub", "norm": "wegenerate mycareclub", "domain": null, "how": "unresolved:search-miss", "source_url": "https://www.coveragebeacon.com/marketing-partners", "ts": "2026-09-08T13:24:51Z"}
+{"name": "Medicare Solutions", "norm": "medicare solutions", "domain": null, "how": "unresolved:generic-name", "source_url": "https://www.coveragebeacon.com/marketing-partners", "ts": "2026-09-08T13:24:53Z"}
+{"name": "Palmetto Senior Solutions", "norm": "palmetto senior solutions", "domain": "palmettosrsolutions.com", "how": "search", "source_url": "https://www.coveragebeacon.com/marketing-partners", "ts": "2026-09-08T13:25:02Z"}
+{"name": "TogetherHealth Insurance", "norm": "togetherhealth insurance", "domain": "sunbiz.org", "how": "search", "source_url": "https://www.coveragebeacon.com/marketing-partners", "ts": "2026-09-08T13:25:09Z"}
+{"name": "TZ Insurance Solutions, LLC", "norm": "tz insurance solutions", "domain": null, "how": "unresolved:generic-name", "source_url": "https://www.coveragebeacon.com/marketing-partners", "ts": "2026-09-08T13:25:11Z"}
+{"name": "WellCare Health Plans", "norm": "wellcare health plans", "domain": "wellcare.com", "how": "search", "source_url": "https://www.coveragebeacon.com/marketing-partners", "ts": "2026-09-08T13:25:18Z"}
+{"name": "Health Net", "norm": "health net", "domain": null, "how": "unresolved:generic-name", "source_url": "https://www.coveragebeacon.com/marketing-partners", "ts": "2026-09-08T13:25:20Z"}
+{"name": "AAA Life Insurance", "norm": "aaa life insurance", "domain": null, "how": "unresolved:generic-name", "source_url": "https://www.coveragebeacon.com/marketing-partners", "ts": "2026-09-08T13:25:22Z"}
+{"name": "American General Life (Corebridge", "norm": "american general life corebridge", "domain": null, "how": "unresolved:search-miss", "source_url": "https://www.coveragebeacon.com/marketing-partners", "ts": "2026-09-08T13:25:29Z"}
