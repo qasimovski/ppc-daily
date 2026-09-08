@@ -1178,3 +1178,6 @@
 {"name": "Health Net", "norm": "health net", "domain": null, "how": "unresolved:generic-name", "source_url": "https://www.coveragebeacon.com/marketing-partners", "ts": "2026-09-08T13:25:20Z"}
 {"name": "AAA Life Insurance", "norm": "aaa life insurance", "domain": null, "how": "unresolved:generic-name", "source_url": "https://www.coveragebeacon.com/marketing-partners", "ts": "2026-09-08T13:25:22Z"}
 {"name": "American General Life (Corebridge", "norm": "american general life corebridge", "domain": null, "how": "unresolved:search-miss", "source_url": "https://www.coveragebeacon.com/marketing-partners", "ts": "2026-09-08T13:25:29Z"}
+{"name": "Missouri", "norm": "missouri", "domain": "visitmo.com", "how": "search", "source_url": "https://www.medicaresolutions.com", "ts": "2026-09-08T13:32:15Z"}
+{"name": "New Mexico", "norm": "new mexico", "domain": "hoteles.com", "how": "search", "source_url": "https://www.medicaresolutions.com", "ts": "2026-09-08T13:32:50Z"}
+{"name": "LOSSES", "norm": "losses", "domain": "losses.com", "how": "guess:losses.com", "source_url": "https://www.medicaresolutions.com", "ts": "2026-09-08T13:32:50Z"}
