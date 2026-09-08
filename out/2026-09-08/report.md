@@ -7,19 +7,19 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | stage | count |
 |---|---|
 | inbox candidates | 0 |
-| partner-list names resolved -> candidates | 3 -> 1 |
+| partner-list names resolved -> candidates | 3 -> 3 |
 | hiring postings read -> candidates | 0 -> 0 |
 | linked-domain candidates | 0 |
 | search requests | 0 |
 | raw finds (search) | 3 |
 | constructed domains probed | 0 |
-| net-new candidates after exclusion index | 1 |
-|   of which from search | 1 |
+| net-new candidates after exclusion index | 3 |
+|   of which from search | 3 |
 |   of which from probing | 0 |
-| crawled | 1 |
-|   crawl: ok | 1 |
+| crawled | 3 |
+|   crawl: ok | 3 |
 | probes that resolved to a real site | 0 |
-| v6 classified | 1 |
+| v6 classified | 3 |
 | carried to next run (unclassified) | 0 |
 | carried to next run (uncrawled) | 0 |
 | V6 QUALIFIED | 0 |
@@ -28,16 +28,16 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | stage | count |
 |---|---|
-| candidates crawled | 1367 |
-| crawled ok | 988 |
-| v6 classified | 988 |
+| candidates crawled | 1370 |
+| crawled ok | 991 |
+| v6 classified | 991 |
 | v6 qualified | 56 |
 
 ## Crawl outcomes (net-new candidates only)
 
 | status | count |
 |---|---|
-| ok | 988 |
+| ok | 991 |
 | unreachable | 174 |
 | unregistered | 70 |
 | redirect_offdomain | 67 |
@@ -53,7 +53,7 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | L12-exalike-1hit | 180 | 8 | 4.4% |
 | L8-linked | 24 | 1 | 4.2% |
 | L12-contactio | 179 | 4 | 2.2% |
-| L10-partners | 144 | 3 | 2.1% |
+| L10-partners | 147 | 3 | 2.0% |
 | L12-affsummit | 65 | 0 | 0.0% |
 | L11-hiring-agent | 1 | 0 | 0.0% |
 | L12-trackdrive | 1 | 0 | 0.0% |
@@ -64,11 +64,11 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | reason | count |
 |---|---|
-| lead_or_appointment_pricing | 310 |
+| lead_or_appointment_pricing | 312 |
 | unrelated | 187 |
 | service_to_call_receiver | 107 |
 | seo_or_ranking_agency | 103 |
-| no_clear_signal | 70 |
+| no_clear_signal | 71 |
 | end_advertiser | 58 |
 | directory_or_content | 53 |
 | software_or_crm | 39 |

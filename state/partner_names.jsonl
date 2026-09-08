@@ -1222,3 +1222,7 @@
 {"name": "NewStrata", "norm": "newstrata", "domain": "brandzam.com", "how": "search", "source_url": "https://14.us-unemployment-resources.com/marketing-partners", "ts": "2026-09-08T16:06:23Z"}
 {"name": "PRO / PrimeTime", "norm": "pro primetime", "domain": "ebay.com", "how": "search", "source_url": "https://14.us-unemployment-resources.com/marketing-partners", "ts": "2026-09-08T16:06:31Z"}
 {"name": "Pacific Debt Relief", "norm": "pacific debt relief", "domain": "pacificdebt.com", "how": "search", "source_url": "https://14.us-unemployment-resources.com/marketing-partners", "ts": "2026-09-08T16:06:38Z"}
+{"name": "PartnerPros", "norm": "partnerpros", "domain": "partnerpros.org", "how": "search", "source_url": "https://14.us-unemployment-resources.com/marketing-partners", "ts": "2026-09-08T16:09:25Z"}
+{"name": "Pennsylvania Gas And Electric", "norm": "pennsylvania gas and electric", "domain": "paenergyratings.com", "how": "search", "source_url": "https://14.us-unemployment-resources.com/marketing-partners", "ts": "2026-09-08T16:09:33Z"}
+{"name": "Pennsylvania Power and Gas", "norm": "pennsylvania power and gas", "domain": null, "how": "unresolved:search-miss", "source_url": "https://14.us-unemployment-resources.com/marketing-partners", "ts": "2026-09-08T16:09:40Z"}
+{"name": "Mobile Help", "norm": "mobile help", "domain": "mobilehelp.com", "how": "guess:mobilehelp.com", "source_url": "https://affordableseniorsinsurance.com/marketing-partners", "ts": "2026-09-08T16:09:40Z"}
