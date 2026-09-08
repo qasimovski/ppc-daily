@@ -7,40 +7,40 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | stage | count |
 |---|---|
 | inbox candidates | 0 |
-| partner-list names resolved -> candidates | 6 -> 6 |
+| partner-list names resolved -> candidates | 4 -> 2 |
 | hiring postings read -> candidates | 0 -> 0 |
 | linked-domain candidates | 0 |
 | search requests | 0 |
-| raw finds (search) | 6 |
+| raw finds (search) | 4 |
 | constructed domains probed | 0 |
-| net-new candidates after exclusion index | 6 |
-|   of which from search | 6 |
+| net-new candidates after exclusion index | 2 |
+|   of which from search | 2 |
 |   of which from probing | 0 |
-| crawled | 6 |
-|   crawl: ok | 5 |
-|   crawl: redirect_offdomain | 1 |
+| crawled | 2 |
+|   crawl: ok | 1 |
+|   crawl: unregistered | 1 |
 | probes that resolved to a real site | 0 |
-| v6 classified | 5 |
+| v6 classified | 1 |
 | carried to next run (unclassified) | 0 |
 | carried to next run (uncrawled) | 0 |
-| V6 QUALIFIED | 0 |
+| V6 QUALIFIED | 1 |
 
 ## Day so far (all passes, unique domains)
 
 | stage | count |
 |---|---|
-| candidates crawled | 1378 |
-| crawled ok | 998 |
-| v6 classified | 998 |
-| v6 qualified | 56 |
+| candidates crawled | 1380 |
+| crawled ok | 999 |
+| v6 classified | 999 |
+| v6 qualified | 57 |
 
 ## Crawl outcomes (net-new candidates only)
 
 | status | count |
 |---|---|
-| ok | 998 |
+| ok | 999 |
 | unreachable | 174 |
-| unregistered | 70 |
+| unregistered | 71 |
 | redirect_offdomain | 68 |
 | thin | 50 |
 | parked | 15 |
@@ -53,13 +53,13 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | L12-exalookalike | 394 | 40 | 10.2% |
 | L12-exalike-1hit | 180 | 8 | 4.4% |
 | L8-linked | 24 | 1 | 4.2% |
+| L10-partners | 155 | 4 | 2.6% |
 | L12-contactio | 179 | 4 | 2.2% |
-| L10-partners | 154 | 3 | 1.9% |
 | L12-affsummit | 65 | 0 | 0.0% |
 | L11-hiring-agent | 1 | 0 | 0.0% |
 | L12-trackdrive | 1 | 0 | 0.0% |
 
-**V6 QUALIFIED TODAY: 56** (ICP-clean: 49). Cumulative across all daily runs: 101.
+**V6 QUALIFIED TODAY: 57** (ICP-clean: 50). Cumulative across all daily runs: 102.
 
 ## Why candidates failed v6
 
@@ -134,6 +134,7 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 |  | ringrecoup.com | 90 | pay-per-call advertising network connecting buyers and publisher | yes |  | geo unknown |
 |  | thefpmgroup.com | 90 | lead generation and inbound live transfer calls to buyers |  |  | geo unknown |
 |  | bouncehelp.com | 90 | pay-per-lead phone call connection service to businesses |  |  | geo unknown |
+| Policy Impact, LLC | policyimpactllc.com | 90 | pay per call and pay per lead marketing services |  |  | geo unknown |
 | 2ND CHANCE CREDIT FUNDING | 2ndchancecreditfunding.com | 85 | pay-per-call lead generation for credit funding | yes |  | geo unknown |
 | SURETY AUTO GROUP | suretyautogroup.com | 85 | insurance agency selling car insurance quotes and live transfers |  |  | geo unknown |
 |  | attorneyconnectnetwork.com | 85 | pay-per-call network for legal leads | yes |  | geo unknown |
