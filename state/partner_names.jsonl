@@ -1061,3 +1061,32 @@
 {"name": "Banker's Fidelity", "norm": "banker s fidelity", "domain": "bankersfidelity.com", "how": "guess:bankersfidelity.com", "source_url": "https://quotelab.com/marketing-partners", "ts": "2026-09-08T01:24:19Z"}
 {"name": "Benepath", "norm": "benepath", "domain": "benepath.com", "how": "guess:benepath.com", "source_url": "https://quotelab.com/marketing-partners", "ts": "2026-09-08T01:24:19Z"}
 {"name": "Bindable", "norm": "bindable", "domain": "bindable.com", "how": "guess:bindable.com", "source_url": "https://quotelab.com/marketing-partners", "ts": "2026-09-08T01:24:19Z"}
+{"name": "Our Partners", "norm": "our partners", "domain": null, "how": "unresolved:generic-name", "source_url": "https://ratefinder.com/partners.html", "ts": "2026-09-08T01:25:50Z"}
+{"name": "Advanced Vehicle Protection Center", "norm": "advanced vehicle protection center", "domain": "mapquest.com", "how": "search", "source_url": "https://ratefinder.com/partners.html", "ts": "2026-09-08T01:25:56Z"}
+{"name": "Agent Insider", "norm": "agent insider", "domain": "webflow.io", "how": "search", "source_url": "https://ratefinder.com/partners.html", "ts": "2026-09-08T01:26:07Z"}
+{"name": "American Automotive Alliance, LLC", "norm": "american automotive alliance", "domain": "aautoalliance.com", "how": "search", "source_url": "https://ratefinder.com/partners.html", "ts": "2026-09-08T01:26:12Z"}
+{"name": "Applied General", "norm": "applied general", "domain": "appliedga.com", "how": "search", "source_url": "https://ratefinder.com/partners.html", "ts": "2026-09-08T01:26:18Z"}
+{"name": "Atlantic Auto Protection", "norm": "atlantic auto protection", "domain": "f6s.com", "how": "search", "source_url": "https://ratefinder.com/partners.html", "ts": "2026-09-08T01:26:24Z"}
+{"name": "Auto Protection 1", "norm": "auto protection 1", "domain": "bestofmilehigh.com", "how": "search", "source_url": "https://ratefinder.com/partners.html", "ts": "2026-09-08T01:26:30Z"}
+{"name": "Auto Protection Club", "norm": "auto protection club", "domain": "automoblog.com", "how": "search", "source_url": "https://ratefinder.com/partners.html", "ts": "2026-09-08T01:26:43Z"}
+{"name": "Auto Repair Protection Services", "norm": "auto repair protection services", "domain": null, "how": "unresolved:search-miss", "source_url": "https://ratefinder.com/partners.html", "ts": "2026-09-08T01:26:49Z"}
+{"name": "Auto Warranty Savings Center", "norm": "auto warranty savings center", "domain": null, "how": "unresolved:search-miss", "source_url": "https://ratefinder.com/partners.html", "ts": "2026-09-08T01:26:55Z"}
+{"name": "Bantam Connect", "norm": "bantam connect", "domain": "bloomberg.com", "how": "search", "source_url": "https://ratefinder.com/partners.html", "ts": "2026-09-08T01:27:09Z"}
+{"name": "Healthcare, Inc", "norm": "healthcare", "domain": "healthcare.com", "how": "guess:healthcare.com", "source_url": "https://ratefinder.com/partners.html", "ts": "2026-09-08T01:27:09Z"}
+{"name": "HealthIQ", "norm": "healthiq", "domain": "healthiq.com", "how": "guess:healthiq.com", "source_url": "https://ratefinder.com/partners.html", "ts": "2026-09-08T01:27:09Z"}
+{"name": "HealthPlan One", "norm": "healthplan one", "domain": "healthplanone.com", "how": "guess:healthplanone.com", "source_url": "https://ratefinder.com/partners.html", "ts": "2026-09-08T01:27:09Z"}
+{"name": "Healthy Halo", "norm": "healthy halo", "domain": "healthyhalo.com", "how": "guess:healthyhalo.com", "source_url": "https://ratefinder.com/partners.html", "ts": "2026-09-08T01:27:09Z"}
+{"name": "HighPoint", "norm": "highpoint", "domain": "highpoint.com", "how": "guess:highpoint.com", "source_url": "https://ratefinder.com/partners.html", "ts": "2026-09-08T01:27:09Z"}
+{"name": "Home Town Quotes", "norm": "home town quotes", "domain": "hometownquotes.com", "how": "guess:hometownquotes.com", "source_url": "https://ratefinder.com/partners.html", "ts": "2026-09-08T01:27:09Z"}
+{"name": "Infinix", "norm": "infinix", "domain": "infinix.com", "how": "guess:infinix.com", "source_url": "https://ratefinder.com/partners.html", "ts": "2026-09-08T01:27:09Z"}
+{"name": "Lighthouse", "norm": "lighthouse", "domain": "lighthouse.com", "how": "guess:lighthouse.com", "source_url": "https://ratefinder.com/partners.html", "ts": "2026-09-08T01:27:09Z"}
+{"name": "LoanBright", "norm": "loanbright", "domain": "loanbright.com", "how": "guess:loanbright.com", "source_url": "https://ratefinder.com/partners.html", "ts": "2026-09-08T01:27:09Z"}
+{"name": "MatchMedia", "norm": "matchmedia", "domain": "matchmedia.com", "how": "guess:matchmedia.com", "source_url": "https://ratefinder.com/partners.html", "ts": "2026-09-08T01:27:09Z"}
+{"name": "Mayo Lab", "norm": "mayo lab", "domain": "mayolab.net", "how": "guess:mayolab.net", "source_url": "https://ratefinder.com/partners.html", "ts": "2026-09-08T01:27:09Z"}
+{"name": "Medi-Share", "norm": "medi share", "domain": "medishare.com", "how": "guess:medishare.com", "source_url": "https://ratefinder.com/partners.html", "ts": "2026-09-08T01:27:09Z"}
+{"name": "Mortgage Maven", "norm": "mortgage maven", "domain": "mortgagemaven.com", "how": "guess:mortgagemaven.com", "source_url": "https://ratefinder.com/partners.html", "ts": "2026-09-08T01:27:09Z"}
+{"name": "Moss", "norm": "moss", "domain": "moss.com", "how": "guess:moss.com", "source_url": "https://ratefinder.com/partners.html", "ts": "2026-09-08T01:27:09Z"}
+{"name": "Open Market Quotes", "norm": "open market quotes", "domain": "openmarketquotes.com", "how": "guess:openmarketquotes.com", "source_url": "https://ratefinder.com/partners.html", "ts": "2026-09-08T01:27:09Z"}
+{"name": "OpenJar", "norm": "openjar", "domain": "openjar.com", "how": "guess:openjar.com", "source_url": "https://ratefinder.com/partners.html", "ts": "2026-09-08T01:27:09Z"}
+{"name": "Oscar", "norm": "oscar", "domain": "oscar.com", "how": "guess:oscar.com", "source_url": "https://ratefinder.com/partners.html", "ts": "2026-09-08T01:27:09Z"}
+{"name": "Precise", "norm": "precise", "domain": "precise.com", "how": "guess:precise.com", "source_url": "https://ratefinder.com/partners.html", "ts": "2026-09-08T01:27:09Z"}
