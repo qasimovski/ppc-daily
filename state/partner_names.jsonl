@@ -1181,3 +1181,21 @@
 {"name": "Missouri", "norm": "missouri", "domain": "visitmo.com", "how": "search", "source_url": "https://www.medicaresolutions.com", "ts": "2026-09-08T13:32:15Z"}
 {"name": "New Mexico", "norm": "new mexico", "domain": "hoteles.com", "how": "search", "source_url": "https://www.medicaresolutions.com", "ts": "2026-09-08T13:32:50Z"}
 {"name": "LOSSES", "norm": "losses", "domain": "losses.com", "how": "guess:losses.com", "source_url": "https://www.medicaresolutions.com", "ts": "2026-09-08T13:32:50Z"}
+{"name": "AHIA", "norm": "ahia", "domain": "ahia.org", "how": "search", "source_url": "https://www.quotelab.com/marketing-partners.html", "ts": "2026-09-08T13:34:52Z"}
+{"name": "ANPAC", "norm": "anpac", "domain": "americannational.com", "how": "search", "source_url": "https://www.quotelab.com/marketing-partners.html", "ts": "2026-09-08T13:35:10Z"}
+{"name": "Acordia", "norm": "acordia", "domain": "acordia.com.br", "how": "search", "source_url": "https://www.quotelab.com/marketing-partners.html", "ts": "2026-09-08T13:35:16Z"}
+{"name": "Acquisition Technologies", "norm": "acquisition technologies", "domain": "service.gov.uk", "how": "search", "source_url": "https://www.quotelab.com/marketing-partners.html", "ts": "2026-09-08T13:35:40Z"}
+{"name": "Blueberry", "norm": "blueberry", "domain": "blueberry.com", "how": "guess:blueberry.com", "source_url": "https://www.quotelab.com/marketing-partners.html", "ts": "2026-09-08T13:35:40Z"}
+{"name": "Builders", "norm": "builders", "domain": "builders.com", "how": "guess:builders.com", "source_url": "https://www.quotelab.com/marketing-partners.html", "ts": "2026-09-08T13:35:40Z"}
+{"name": "Burial Expense", "norm": "burial expense", "domain": "burialexpense.com", "how": "guess:burialexpense.com", "source_url": "https://www.quotelab.com/marketing-partners.html", "ts": "2026-09-08T13:35:40Z"}
+{"name": "CDPHP", "norm": "cdphp", "domain": "cdphp.com", "how": "guess:cdphp.com", "source_url": "https://www.quotelab.com/marketing-partners.html", "ts": "2026-09-08T13:35:40Z"}
+{"name": "Cambia", "norm": "cambia", "domain": "cambia.com", "how": "guess:cambia.com", "source_url": "https://www.quotelab.com/marketing-partners.html", "ts": "2026-09-08T13:35:40Z"}
+{"name": "Camden", "norm": "camden", "domain": "camden.net", "how": "guess:camden.net", "source_url": "https://www.quotelab.com/marketing-partners.html", "ts": "2026-09-08T13:35:40Z"}
+{"name": "Candid Maven", "norm": "candid maven", "domain": "candidmaven.com", "how": "guess:candidmaven.com", "source_url": "https://www.quotelab.com/marketing-partners.html", "ts": "2026-09-08T13:35:40Z"}
+{"name": "CareMore", "norm": "caremore", "domain": "caremore.com", "how": "guess:caremore.com", "source_url": "https://www.quotelab.com/marketing-partners.html", "ts": "2026-09-08T13:35:40Z"}
+{"name": "CareZone", "norm": "carezone", "domain": "carezone.com", "how": "guess:carezone.com", "source_url": "https://www.quotelab.com/marketing-partners.html", "ts": "2026-09-08T13:35:40Z"}
+{"name": "Centene", "norm": "centene", "domain": "centene.com", "how": "guess:centene.com", "source_url": "https://www.quotelab.com/marketing-partners.html", "ts": "2026-09-08T13:35:40Z"}
+{"name": "Channel Blend", "norm": "channel blend", "domain": "channelblend.com", "how": "guess:channelblend.com", "source_url": "https://www.quotelab.com/marketing-partners.html", "ts": "2026-09-08T13:35:40Z"}
+{"name": "Church Mutual", "norm": "church mutual", "domain": "churchmutual.com", "how": "guess:churchmutual.com", "source_url": "https://www.quotelab.com/marketing-partners.html", "ts": "2026-09-08T13:35:40Z"}
+{"name": "Clicks and Clients", "norm": "clicks and clients", "domain": "clicksandclients.com", "how": "guess:clicksandclients.com", "source_url": "https://www.quotelab.com/marketing-partners.html", "ts": "2026-09-08T13:35:40Z"}
+{"name": "Community Care", "norm": "community care", "domain": "communitycare.com", "how": "guess:communitycare.com", "source_url": "https://www.quotelab.com/marketing-partners.html", "ts": "2026-09-08T13:35:40Z"}
