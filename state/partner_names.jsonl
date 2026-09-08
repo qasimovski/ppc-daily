@@ -1017,3 +1017,24 @@
 {"name": "Excellus", "norm": "excellus", "domain": "excellus.com", "how": "guess:excellus.com", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-08T01:18:54Z"}
 {"name": "First American", "norm": "first american", "domain": "firstamerican.com", "how": "guess:firstamerican.com", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-08T01:18:54Z"}
 {"name": "First General", "norm": "first general", "domain": "first-general.com", "how": "guess:first-general.com", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-08T01:18:54Z"}
+{"name": "Online Digital, LLC", "norm": "online digital", "domain": null, "how": "unresolved:generic-name", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-08T01:20:31Z"}
+{"name": "Push Interactive", "norm": "push interactive", "domain": "pitchbook.com", "how": "search", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-08T01:20:37Z"}
+{"name": "Qatalyst Media", "norm": "qatalyst media", "domain": "appsruntheworld.com", "how": "search", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-08T01:21:00Z"}
+{"name": "RPG Leads", "norm": "rpg leads", "domain": null, "how": "unresolved:generic-name", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-08T01:21:02Z"}
+{"name": "Rex Direct", "norm": "rex direct", "domain": null, "how": "unresolved:generic-name", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-08T01:21:04Z"}
+{"name": "S&M Marketing Associates LLC", "norm": "s&m marketing associates", "domain": null, "how": "unresolved:search-miss", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-08T01:21:10Z"}
+{"name": "Stratum Media DMCC", "norm": "stratum media dmcc", "domain": "city-data.com", "how": "search", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-08T01:21:16Z"}
+{"name": "Tekram Marketing", "norm": "tekram marketing", "domain": "vat-search.co.uk", "how": "search", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-08T01:21:23Z"}
+{"name": "Teran Marketing", "norm": "teran marketing", "domain": "mapquest.com", "how": "search", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-08T01:21:28Z"}
+{"name": "TruSource Marketing", "norm": "trusource marketing", "domain": "dnb.com", "how": "search", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-08T01:21:34Z"}
+{"name": "Direct Home Loans, LLC", "norm": "direct home loans", "domain": "directhomeloans.com", "how": "guess:directhomeloans.com", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-08T01:21:34Z"}
+{"name": "Direct Lenders, LLC", "norm": "direct lenders", "domain": "directlendersllc.com", "how": "guess:directlendersllc.com", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-08T01:21:34Z"}
+{"name": "Direct Mortgage Loans", "norm": "direct mortgage loans", "domain": "directmortgageloans.com", "how": "guess:directmortgageloans.com", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-08T01:21:34Z"}
+{"name": "Evergreen Media", "norm": "evergreen media", "domain": "evergreenmedia.com", "how": "guess:evergreenmedia.com", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-08T01:21:34Z"}
+{"name": "Fast Track Marketing", "norm": "fast track marketing", "domain": "fasttrackmarketing.com", "how": "guess:fasttrackmarketing.com", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-08T01:21:34Z"}
+{"name": "Flow Media", "norm": "flow media", "domain": "flowmedia.io", "how": "guess:flowmedia.io", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-08T01:21:34Z"}
+{"name": "High Altitude Marketing", "norm": "high altitude marketing", "domain": "highaltitudemarketing.com", "how": "guess:highaltitudemarketing.com", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-08T01:21:34Z"}
+{"name": "Home Funds Direct", "norm": "home funds direct", "domain": "homefundsdirect.com", "how": "guess:homefundsdirect.com", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-08T01:21:34Z"}
+{"name": "Infinity Lending Direct", "norm": "infinity lending direct", "domain": "infinitylendingdirect.com", "how": "guess:infinitylendingdirect.com", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-08T01:21:34Z"}
+{"name": "Midwest Marketing", "norm": "midwest marketing", "domain": "midwestmarketing.net", "how": "guess:midwestmarketing.net", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-08T01:21:34Z"}
+{"name": "Nations Direct Mortgage, LLC", "norm": "nations direct mortgage", "domain": "nationsdirectmortgage.com", "how": "guess:nationsdirectmortgage.com", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-08T01:21:34Z"}
