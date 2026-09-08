@@ -7,47 +7,44 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | stage | count |
 |---|---|
 | inbox candidates | 0 |
-| partner-list names resolved -> candidates | 0 -> 0 |
+| partner-list names resolved -> candidates | 1 -> 0 |
 | hiring postings read -> candidates | 0 -> 0 |
-| linked-domain candidates | 2 |
+| linked-domain candidates | 14 |
 | search requests | 0 |
-| raw finds (search) | 2 |
+| raw finds (search) | 15 |
 | constructed domains probed | 0 |
-| net-new candidates after exclusion index | 377 |
-|   of which from search | 377 |
+| net-new candidates after exclusion index | 102 |
+|   of which from search | 102 |
 |   of which from probing | 0 |
-| crawled | 289 |
-|   crawl: ok | 207 |
-|   crawl: thin | 14 |
-|   crawl: unregistered | 18 |
-|   crawl: unreachable | 44 |
-|   crawl: parked | 3 |
-|   crawl: redirect_offdomain | 2 |
-|   crawl: ringba_banned | 1 |
+| crawled | 102 |
+|   crawl: ok | 71 |
+|   crawl: thin | 4 |
+|   crawl: unregistered | 9 |
+|   crawl: unreachable | 18 |
 | probes that resolved to a real site | 0 |
-| v6 classified | 196 |
-| carried to next run (unclassified) | 11 |
-| carried to next run (uncrawled) | 88 |
-| V6 QUALIFIED | 16 |
+| v6 classified | 82 |
+| carried to next run (unclassified) | 0 |
+| carried to next run (uncrawled) | 0 |
+| V6 QUALIFIED | 3 |
 
 ## Day so far (all passes, unique domains)
 
 | stage | count |
 |---|---|
-| candidates crawled | 1247 |
-| crawled ok | 900 |
-| v6 classified | 900 |
-| v6 qualified | 52 |
+| candidates crawled | 1360 |
+| crawled ok | 982 |
+| v6 classified | 982 |
+| v6 qualified | 55 |
 
 ## Crawl outcomes (net-new candidates only)
 
 | status | count |
 |---|---|
-| ok | 900 |
-| unreachable | 155 |
+| ok | 982 |
+| unreachable | 173 |
+| unregistered | 70 |
 | redirect_offdomain | 67 |
-| unregistered | 61 |
-| thin | 46 |
+| thin | 50 |
 | parked | 15 |
 | ringba_banned | 3 |
 
@@ -55,29 +52,29 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | channel | classified | qualified | rate |
 |---|---|---|---|
-| L12-exalookalike | 323 | 37 | 11.5% |
+| L12-exalookalike | 394 | 40 | 10.2% |
 | L12-exalike-1hit | 180 | 8 | 4.4% |
 | L12-contactio | 179 | 4 | 2.2% |
-| L10-partners | 138 | 3 | 2.2% |
+| L10-partners | 139 | 3 | 2.2% |
 | L12-affsummit | 65 | 0 | 0.0% |
 | L11-hiring-agent | 1 | 0 | 0.0% |
 | L12-trackdrive | 1 | 0 | 0.0% |
-| L8-linked | 13 | 0 | 0.0% |
+| L8-linked | 23 | 0 | 0.0% |
 
-**V6 QUALIFIED TODAY: 52** (ICP-clean: 45). Cumulative across all daily runs: 97.
+**V6 QUALIFIED TODAY: 55** (ICP-clean: 48). Cumulative across all daily runs: 100.
 
 ## Why candidates failed v6
 
 | reason | count |
 |---|---|
-| lead_or_appointment_pricing | 287 |
-| unrelated | 170 |
-| service_to_call_receiver | 98 |
-| seo_or_ranking_agency | 95 |
-| no_clear_signal | 66 |
-| end_advertiser | 56 |
-| software_or_crm | 37 |
-| directory_or_content | 34 |
+| lead_or_appointment_pricing | 310 |
+| unrelated | 184 |
+| service_to_call_receiver | 106 |
+| seo_or_ranking_agency | 103 |
+| no_clear_signal | 70 |
+| end_advertiser | 57 |
+| directory_or_content | 53 |
+| software_or_crm | 39 |
 | recruiting | 3 |
 | coach_or_consultant | 1 |
 | diy_ads_or_setup | 1 |
@@ -102,6 +99,7 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 |  | leadvault.us | 95 | pay-per-call call generation and routing service for buyers |  | United States | REVIEW: names Ringba in prose (likely tenant) |
 |  | leadstoaction.com | 95 | pay-per-call lead generation agency selling calls to advertisers | yes | United States |  |
 |  | pixelproads.com | 95 | pay per call lead generation services for advertisers | yes |  | geo unknown |
+|  | towingcashcalls.com | 95 | pay per qualified phone call leads for towing services |  |  | geo unknown |
 | InstaCare | instacare.io | 90 | pay-per-call network connecting advertisers and publishers | yes |  | geo unknown |
 | Taylored Legacy | tayloredlegacy.com | 90 | pay-per-call network for publishers and advertisers | yes |  | geo unknown |
 | Direct Response Leads | forbesmarketinggroup.com | 90 | sells live transfer calls and direct response leads to buyers |  | United States |  |
@@ -135,6 +133,8 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 |  | prospectlab.io | 90 | sells inbound calls and data leads to buyers | yes |  | geo unknown |
 |  | primetechbpo.com | 90 | call center outsourcing services including exclusive live transf |  |  | geo unknown |
 |  | relianceleads.com | 90 | sells various types of leads including call transfer leads to bu |  |  | geo unknown |
+|  | ringrecoup.com | 90 | pay-per-call advertising network connecting buyers and publisher | yes |  | geo unknown |
+|  | thefpmgroup.com | 90 | lead generation and inbound live transfer calls to buyers |  |  | geo unknown |
 | 2ND CHANCE CREDIT FUNDING | 2ndchancecreditfunding.com | 85 | pay-per-call lead generation for credit funding | yes |  | geo unknown |
 | SURETY AUTO GROUP | suretyautogroup.com | 85 | insurance agency selling car insurance quotes and live transfers |  |  | geo unknown |
 |  | attorneyconnectnetwork.com | 85 | pay-per-call network for legal leads | yes |  | geo unknown |

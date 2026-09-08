@@ -1210,3 +1210,5 @@
 {"name": "LocalCares", "norm": "localcares", "domain": "mylocalcares.com", "how": "search", "source_url": "https://14.us-unemployment-resources.com/marketing-partners", "ts": "2026-09-08T15:39:51Z"}
 {"name": "LyfeOG / Lyfe Off Grid", "norm": "lyfeog lyfe off grid", "domain": null, "how": "unresolved:search-miss", "source_url": "https://14.us-unemployment-resources.com/marketing-partners", "ts": "2026-09-08T15:46:30Z"}
 {"name": "MPA / Maple Work Aid", "norm": "mpa maple work aid", "domain": null, "how": "unresolved:search-miss", "source_url": "https://14.us-unemployment-resources.com/marketing-partners", "ts": "2026-09-08T15:46:39Z"}
+{"name": "MaverickPolicy", "norm": "maverickpolicy", "domain": "scamadviser.com", "how": "search", "source_url": "https://14.us-unemployment-resources.com/marketing-partners", "ts": "2026-09-08T15:53:49Z"}
+{"name": "Medical Sync & Review", "norm": "medical sync & review", "domain": null, "how": "unresolved:search-miss", "source_url": "https://14.us-unemployment-resources.com/marketing-partners", "ts": "2026-09-08T15:53:57Z"}
