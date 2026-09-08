@@ -7,38 +7,37 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | stage | count |
 |---|---|
 | inbox candidates | 0 |
-| partner-list names resolved -> candidates | 16 -> 6 |
+| partner-list names resolved -> candidates | 7 -> 4 |
 | hiring postings read -> candidates | 0 -> 0 |
 | linked-domain candidates | 0 |
 | search requests | 0 |
-| raw finds (search) | 16 |
+| raw finds (search) | 7 |
 | constructed domains probed | 0 |
-| net-new candidates after exclusion index | 6 |
-|   of which from search | 6 |
+| net-new candidates after exclusion index | 4 |
+|   of which from search | 4 |
 |   of which from probing | 0 |
-| crawled | 6 |
-|   crawl: ok | 5 |
-|   crawl: unreachable | 1 |
+| crawled | 4 |
+|   crawl: ok | 4 |
 | probes that resolved to a real site | 0 |
-| v6 classified | 5 |
+| v6 classified | 4 |
 | carried to next run (unclassified) | 0 |
 | carried to next run (uncrawled) | 0 |
-| V6 QUALIFIED | 1 |
+| V6 QUALIFIED | 0 |
 
 ## Day so far (all passes, unique domains)
 
 | stage | count |
 |---|---|
-| candidates crawled | 125 |
-| crawled ok | 103 |
-| v6 classified | 103 |
+| candidates crawled | 129 |
+| crawled ok | 107 |
+| v6 classified | 107 |
 | v6 qualified | 3 |
 
 ## Crawl outcomes (net-new candidates only)
 
 | status | count |
 |---|---|
-| ok | 103 |
+| ok | 107 |
 | redirect_offdomain | 16 |
 | thin | 3 |
 | unreachable | 3 |
@@ -47,7 +46,7 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | channel | classified | qualified | rate |
 |---|---|---|---|
-| L10-partners | 103 | 3 | 2.9% |
+| L10-partners | 107 | 3 | 2.8% |
 
 **V6 QUALIFIED TODAY: 3** (ICP-clean: 3). Cumulative across all daily runs: 48.
 
@@ -55,13 +54,14 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | reason | count |
 |---|---|
-| unrelated | 38 |
-| lead_or_appointment_pricing | 24 |
+| unrelated | 39 |
+| lead_or_appointment_pricing | 25 |
 | end_advertiser | 22 |
-| seo_or_ranking_agency | 5 |
+| seo_or_ranking_agency | 6 |
 | service_to_call_receiver | 4 |
 | directory_or_content | 4 |
 | no_clear_signal | 3 |
+| coach_or_consultant | 1 |
 
 ## Qualified today
 
