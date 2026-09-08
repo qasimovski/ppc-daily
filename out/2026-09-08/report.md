@@ -7,19 +7,20 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | stage | count |
 |---|---|
 | inbox candidates | 0 |
-| partner-list names resolved -> candidates | 5 -> 2 |
+| partner-list names resolved -> candidates | 6 -> 6 |
 | hiring postings read -> candidates | 0 -> 0 |
 | linked-domain candidates | 0 |
 | search requests | 0 |
-| raw finds (search) | 5 |
+| raw finds (search) | 6 |
 | constructed domains probed | 0 |
-| net-new candidates after exclusion index | 2 |
-|   of which from search | 2 |
+| net-new candidates after exclusion index | 6 |
+|   of which from search | 6 |
 |   of which from probing | 0 |
-| crawled | 2 |
-|   crawl: ok | 2 |
+| crawled | 6 |
+|   crawl: ok | 5 |
+|   crawl: redirect_offdomain | 1 |
 | probes that resolved to a real site | 0 |
-| v6 classified | 2 |
+| v6 classified | 5 |
 | carried to next run (unclassified) | 0 |
 | carried to next run (uncrawled) | 0 |
 | V6 QUALIFIED | 0 |
@@ -28,19 +29,19 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | stage | count |
 |---|---|
-| candidates crawled | 1372 |
-| crawled ok | 993 |
-| v6 classified | 993 |
+| candidates crawled | 1378 |
+| crawled ok | 998 |
+| v6 classified | 998 |
 | v6 qualified | 56 |
 
 ## Crawl outcomes (net-new candidates only)
 
 | status | count |
 |---|---|
-| ok | 993 |
+| ok | 998 |
 | unreachable | 174 |
 | unregistered | 70 |
-| redirect_offdomain | 67 |
+| redirect_offdomain | 68 |
 | thin | 50 |
 | parked | 15 |
 | ringba_banned | 3 |
@@ -53,7 +54,7 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | L12-exalike-1hit | 180 | 8 | 4.4% |
 | L8-linked | 24 | 1 | 4.2% |
 | L12-contactio | 179 | 4 | 2.2% |
-| L10-partners | 149 | 3 | 2.0% |
+| L10-partners | 154 | 3 | 1.9% |
 | L12-affsummit | 65 | 0 | 0.0% |
 | L11-hiring-agent | 1 | 0 | 0.0% |
 | L12-trackdrive | 1 | 0 | 0.0% |
@@ -64,12 +65,12 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | reason | count |
 |---|---|
-| lead_or_appointment_pricing | 312 |
-| unrelated | 187 |
-| service_to_call_receiver | 107 |
+| lead_or_appointment_pricing | 313 |
+| unrelated | 188 |
+| service_to_call_receiver | 108 |
 | seo_or_ranking_agency | 103 |
 | no_clear_signal | 71 |
-| end_advertiser | 60 |
+| end_advertiser | 62 |
 | directory_or_content | 53 |
 | software_or_crm | 39 |
 | recruiting | 3 |
