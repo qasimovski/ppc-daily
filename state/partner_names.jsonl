@@ -1423,3 +1423,5 @@
 {"name": "Heritage Life Insurance Company", "norm": "heritage life insurance company", "domain": "ambest.com", "how": "search", "source_url": "https://www.coveragebeacon.com/marketing-partners", "ts": "2026-09-09T13:08:27Z"}
 {"name": "Pacific Life Insurance", "norm": "pacific life insurance", "domain": "pacificlife.com", "how": "search", "source_url": "https://www.coveragebeacon.com/marketing-partners", "ts": "2026-09-09T13:08:36Z"}
 {"name": "Prosperity Life Group", "norm": "prosperity life group", "domain": "prosperitylifegroup.com", "how": "guess:prosperitylifegroup.com", "source_url": "https://www.coveragebeacon.com/marketing-partners", "ts": "2026-09-09T13:08:36Z"}
+{"name": "LA-1024797", "norm": "la 1024797", "domain": null, "how": "unresolved:search-miss", "source_url": "https://www.medicaresolutions.com", "ts": "2026-09-09T13:10:54Z"}
+{"name": "Pennsylvania", "norm": "pennsylvania", "domain": "palegis.us", "how": "search", "source_url": "https://www.medicaresolutions.com", "ts": "2026-09-09T13:11:21Z"}
