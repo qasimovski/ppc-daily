@@ -1345,3 +1345,20 @@
 {"name": "Criterion", "norm": "criterion", "domain": "criterion.net", "how": "guess:criterion.net", "source_url": "https://quotelab.com/marketing-partners", "ts": "2026-09-09T01:24:52Z"}
 {"name": "Dakota Fire", "norm": "dakota fire", "domain": "dakotafire.com", "how": "guess:dakotafire.com", "source_url": "https://quotelab.com/marketing-partners", "ts": "2026-09-09T01:24:52Z"}
 {"name": "DataMax", "norm": "datamax", "domain": "datamax.net", "how": "guess:datamax.net", "source_url": "https://quotelab.com/marketing-partners", "ts": "2026-09-09T01:24:52Z"}
+{"name": "BBRS Group", "norm": "bbrs group", "domain": "tracxn.com", "how": "search", "source_url": "https://ratefinder.com/partners.html", "ts": "2026-09-09T01:27:45Z"}
+{"name": "Capital Auto Protection", "norm": "capital auto protection", "domain": "capautopro.com", "how": "search", "source_url": "https://ratefinder.com/partners.html", "ts": "2026-09-09T01:28:08Z"}
+{"name": "Protect America", "norm": "protect america", "domain": "protectamerica.com", "how": "guess:protectamerica.com", "source_url": "https://ratefinder.com/partners.html", "ts": "2026-09-09T01:28:08Z"}
+{"name": "Protect My Car", "norm": "protect my car", "domain": "protectmycar.com", "how": "guess:protectmycar.com", "source_url": "https://ratefinder.com/partners.html", "ts": "2026-09-09T01:28:08Z"}
+{"name": "Quick Quote", "norm": "quick quote", "domain": "quickquote.com", "how": "guess:quickquote.com", "source_url": "https://ratefinder.com/partners.html", "ts": "2026-09-09T01:28:08Z"}
+{"name": "RateForce", "norm": "rateforce", "domain": "rateforce.com", "how": "guess:rateforce.com", "source_url": "https://ratefinder.com/partners.html", "ts": "2026-09-09T01:28:08Z"}
+{"name": "Rocking Ham Group", "norm": "rocking ham group", "domain": "rockinghamgroup.net", "how": "guess:rockinghamgroup.net", "source_url": "https://ratefinder.com/partners.html", "ts": "2026-09-09T01:28:08Z"}
+{"name": "SafeAuto", "norm": "safeauto", "domain": "safeauto.com", "how": "guess:safeauto.com", "source_url": "https://ratefinder.com/partners.html", "ts": "2026-09-09T01:28:08Z"}
+{"name": "Secure Car Care", "norm": "secure car care", "domain": "securecarcare.com", "how": "guess:securecarcare.com", "source_url": "https://ratefinder.com/partners.html", "ts": "2026-09-09T01:28:08Z"}
+{"name": "Select Quote", "norm": "select quote", "domain": "selectquote.com", "how": "guess:selectquote.com", "source_url": "https://ratefinder.com/partners.html", "ts": "2026-09-09T01:28:08Z"}
+{"name": "Serenity", "norm": "serenity", "domain": "serenity.io", "how": "guess:serenity.io", "source_url": "https://ratefinder.com/partners.html", "ts": "2026-09-09T01:28:08Z"}
+{"name": "Solar Savings America", "norm": "solar savings america", "domain": "solarsavingsamerica.com", "how": "guess:solarsavingsamerica.com", "source_url": "https://ratefinder.com/partners.html", "ts": "2026-09-09T01:28:08Z"}
+{"name": "SolidQuote", "norm": "solidquote", "domain": "solidquote.com", "how": "guess:solidquote.com", "source_url": "https://ratefinder.com/partners.html", "ts": "2026-09-09T01:28:08Z"}
+{"name": "SureHits", "norm": "surehits", "domain": "surehits.com", "how": "guess:surehits.com", "source_url": "https://ratefinder.com/partners.html", "ts": "2026-09-09T01:28:08Z"}
+{"name": "Toggle", "norm": "toggle", "domain": "toggle.com", "how": "guess:toggle.com", "source_url": "https://ratefinder.com/partners.html", "ts": "2026-09-09T01:28:08Z"}
+{"name": "Torchlight", "norm": "torchlight", "domain": "torchlight.com", "how": "guess:torchlight.com", "source_url": "https://ratefinder.com/partners.html", "ts": "2026-09-09T01:28:08Z"}
+{"name": "Torr", "norm": "torr", "domain": "torr.com", "how": "guess:torr.com", "source_url": "https://ratefinder.com/partners.html", "ts": "2026-09-09T01:28:08Z"}
