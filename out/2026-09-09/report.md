@@ -6,38 +6,40 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | stage | count |
 |---|---|
-| inbox candidates | 0 |
-| partner-list names resolved -> candidates | 3 -> 0 |
+| inbox candidates | 10 |
+| partner-list names resolved -> candidates | 11 -> 8 |
 | hiring postings read -> candidates | 0 -> 0 |
 | linked-domain candidates | 0 |
 | search requests | 0 |
-| raw finds (search) | 3 |
+| raw finds (search) | 22 |
 | constructed domains probed | 0 |
-| net-new candidates after exclusion index | 0 |
-|   of which from search | 0 |
+| net-new candidates after exclusion index | 18 |
+|   of which from search | 18 |
 |   of which from probing | 0 |
-| crawled | 0 |
+| crawled | 18 |
+|   crawl: ok | 17 |
+|   crawl: redirect_offdomain | 1 |
 | probes that resolved to a real site | 0 |
-| v6 classified | 0 |
+| v6 classified | 17 |
 | carried to next run (unclassified) | 0 |
 | carried to next run (uncrawled) | 0 |
-| V6 QUALIFIED | 0 |
+| V6 QUALIFIED | 1 |
 
 ## Day so far (all passes, unique domains)
 
 | stage | count |
 |---|---|
-| candidates crawled | 101 |
-| crawled ok | 70 |
-| v6 classified | 70 |
-| v6 qualified | 1 |
+| candidates crawled | 119 |
+| crawled ok | 87 |
+| v6 classified | 87 |
+| v6 qualified | 2 |
 
 ## Crawl outcomes (net-new candidates only)
 
 | status | count |
 |---|---|
-| ok | 70 |
-| redirect_offdomain | 15 |
+| ok | 87 |
+| redirect_offdomain | 16 |
 | unreachable | 6 |
 | thin | 5 |
 | unregistered | 4 |
@@ -47,21 +49,23 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | channel | classified | qualified | rate |
 |---|---|---|---|
-| L10-partners | 67 | 1 | 1.5% |
+| L11-hiring-agent | 10 | 1 | 10.0% |
+| L10-partners | 74 | 1 | 1.4% |
 | L8-linked | 3 | 0 | 0.0% |
 
-**V6 QUALIFIED TODAY: 1** (ICP-clean: 1). Cumulative across all daily runs: 103.
+**V6 QUALIFIED TODAY: 2** (ICP-clean: 2). Cumulative across all daily runs: 104.
 
 ## Why candidates failed v6
 
 | reason | count |
 |---|---|
-| lead_or_appointment_pricing | 25 |
+| lead_or_appointment_pricing | 29 |
+| unrelated | 22 |
 | end_advertiser | 17 |
-| unrelated | 15 |
+| no_clear_signal | 5 |
 | service_to_call_receiver | 4 |
-| no_clear_signal | 3 |
-| seo_or_ranking_agency | 3 |
+| seo_or_ranking_agency | 4 |
+| directory_or_content | 2 |
 | recruiting | 1 |
 | coach_or_consultant | 1 |
 
@@ -70,6 +74,7 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | company | domain | fit | business model | marketplace | geo | flags |
 |---|---|---|---|---|---|---|
 | Quoting Fast | quotingfast.com | 95 | lead generation with live transfer calls and internet leads sold | yes | United States |  |
+| Al Rehman Communication LLC | alrehmancommunicationllc.com | 90 | performance marketing services selling pay-per-call campaigns to | yes | United States; Canada |  |
 
 ## Files
 

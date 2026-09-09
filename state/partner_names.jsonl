@@ -1405,3 +1405,14 @@
 {"name": "Leads Market", "norm": "leads market", "domain": "europa.eu", "how": "search", "source_url": "https://theswitchboardmarketing.com/marketing-partners", "ts": "2026-09-09T01:37:13Z"}
 {"name": "Leads Quotes Media", "norm": "leads quotes media", "domain": null, "how": "unresolved:generic-name", "source_url": "https://theswitchboardmarketing.com/marketing-partners", "ts": "2026-09-09T01:37:15Z"}
 {"name": "Lets Make A Lead", "norm": "lets make lead", "domain": null, "how": "unresolved:search-miss", "source_url": "https://theswitchboardmarketing.com/marketing-partners", "ts": "2026-09-09T01:37:22Z"}
+{"name": "AAA Texas, LLC", "norm": "aaa texas", "domain": "irvingchamber.com", "how": "search", "source_url": "https://tunepolicy.com/partners", "ts": "2026-09-09T13:05:16Z"}
+{"name": "Adam Kelly", "norm": "adam kelly", "domain": "ucd.ie", "how": "search", "source_url": "https://tunepolicy.com/partners", "ts": "2026-09-09T13:05:37Z"}
+{"name": "Rocket Quote", "norm": "rocket quote", "domain": "rocketquote.com", "how": "guess:rocketquote.com", "source_url": "https://tunepolicy.com/partners", "ts": "2026-09-09T13:05:37Z"}
+{"name": "Ryan Finney", "norm": "ryan finney", "domain": "ryanfinney.com", "how": "guess:ryanfinney.com", "source_url": "https://tunepolicy.com/partners", "ts": "2026-09-09T13:05:37Z"}
+{"name": "Savvy", "norm": "savvy", "domain": "savvy.com", "how": "guess:savvy.com", "source_url": "https://tunepolicy.com/partners", "ts": "2026-09-09T13:05:37Z"}
+{"name": "Shane Wilson", "norm": "shane wilson", "domain": "shanewilson.com", "how": "guess:shanewilson.com", "source_url": "https://tunepolicy.com/partners", "ts": "2026-09-09T13:05:37Z"}
+{"name": "Squeeze", "norm": "squeeze", "domain": "squeeze.com", "how": "guess:squeeze.com", "source_url": "https://tunepolicy.com/partners", "ts": "2026-09-09T13:05:37Z"}
+{"name": "State Auto", "norm": "state auto", "domain": "stateauto.com", "how": "guess:stateauto.com", "source_url": "https://tunepolicy.com/partners", "ts": "2026-09-09T13:05:37Z"}
+{"name": "Surety Auto Group, LLC", "norm": "surety auto group", "domain": "suretyautogroup.com", "how": "guess:suretyautogroup.com", "source_url": "https://tunepolicy.com/partners", "ts": "2026-09-09T13:05:37Z"}
+{"name": "Swiss Re", "norm": "swiss re", "domain": "swissre.com", "how": "guess:swissre.com", "source_url": "https://tunepolicy.com/partners", "ts": "2026-09-09T13:05:37Z"}
+{"name": "The Abbey Group", "norm": "abbey group", "domain": "abbey-group.com", "how": "guess:abbey-group.com", "source_url": "https://tunepolicy.com/partners", "ts": "2026-09-09T13:05:37Z"}
