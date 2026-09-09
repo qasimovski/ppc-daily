@@ -7,19 +7,20 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | stage | count |
 |---|---|
 | inbox candidates | 0 |
-| partner-list names resolved -> candidates | 1 -> 1 |
+| partner-list names resolved -> candidates | 0 -> 0 |
 | hiring postings read -> candidates | 0 -> 0 |
-| linked-domain candidates | 0 |
+| linked-domain candidates | 4 |
 | search requests | 0 |
-| raw finds (search) | 1 |
+| raw finds (search) | 4 |
 | constructed domains probed | 0 |
-| net-new candidates after exclusion index | 1 |
-|   of which from search | 1 |
+| net-new candidates after exclusion index | 4 |
+|   of which from search | 4 |
 |   of which from probing | 0 |
-| crawled | 1 |
-|   crawl: ok | 1 |
+| crawled | 4 |
+|   crawl: ok | 3 |
+|   crawl: unregistered | 1 |
 | probes that resolved to a real site | 0 |
-| v6 classified | 1 |
+| v6 classified | 3 |
 | carried to next run (unclassified) | 0 |
 | carried to next run (uncrawled) | 0 |
 | V6 QUALIFIED | 0 |
@@ -28,20 +29,20 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | stage | count |
 |---|---|
-| candidates crawled | 142 |
-| crawled ok | 106 |
-| v6 classified | 106 |
+| candidates crawled | 146 |
+| crawled ok | 109 |
+| v6 classified | 109 |
 | v6 qualified | 2 |
 
 ## Crawl outcomes (net-new candidates only)
 
 | status | count |
 |---|---|
-| ok | 106 |
+| ok | 109 |
 | redirect_offdomain | 19 |
 | unreachable | 7 |
 | thin | 5 |
-| unregistered | 4 |
+| unregistered | 5 |
 | parked | 1 |
 
 ## v6 qualify rate per discovery channel
@@ -50,7 +51,7 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 |---|---|---|---|
 | L11-hiring-agent | 10 | 1 | 10.0% |
 | L10-partners | 93 | 1 | 1.1% |
-| L8-linked | 3 | 0 | 0.0% |
+| L8-linked | 6 | 0 | 0.0% |
 
 **V6 QUALIFIED TODAY: 2** (ICP-clean: 2). Cumulative across all daily runs: 104.
 
@@ -58,8 +59,8 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | reason | count |
 |---|---|
+| lead_or_appointment_pricing | 34 |
 | unrelated | 33 |
-| lead_or_appointment_pricing | 31 |
 | end_advertiser | 20 |
 | no_clear_signal | 6 |
 | service_to_call_receiver | 4 |
