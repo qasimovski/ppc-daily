@@ -1362,3 +1362,24 @@
 {"name": "Toggle", "norm": "toggle", "domain": "toggle.com", "how": "guess:toggle.com", "source_url": "https://ratefinder.com/partners.html", "ts": "2026-09-09T01:28:08Z"}
 {"name": "Torchlight", "norm": "torchlight", "domain": "torchlight.com", "how": "guess:torchlight.com", "source_url": "https://ratefinder.com/partners.html", "ts": "2026-09-09T01:28:08Z"}
 {"name": "Torr", "norm": "torr", "domain": "torr.com", "how": "guess:torr.com", "source_url": "https://ratefinder.com/partners.html", "ts": "2026-09-09T01:28:08Z"}
+{"name": "Achtens Quality Roofing", "norm": "achtens quality roofing", "domain": "homeadvisor.com", "how": "search", "source_url": "https://renuehome.com/partners", "ts": "2026-09-09T01:30:31Z"}
+{"name": "ACS Home Services", "norm": "acs home services", "domain": null, "how": "unresolved:generic-name", "source_url": "https://renuehome.com/partners", "ts": "2026-09-09T01:30:33Z"}
+{"name": "Aeris Heating and Air Conditioning", "norm": "aeris heating and air conditioning", "domain": "rocketreach.co", "how": "search", "source_url": "https://renuehome.com/partners", "ts": "2026-09-09T01:30:41Z"}
+{"name": "Aesop's Gables", "norm": "aesop s gables", "domain": "substack.com", "how": "search", "source_url": "https://renuehome.com/partners", "ts": "2026-09-09T01:30:47Z"}
+{"name": "Affordable Solar Roof and Air", "norm": "affordable solar roof and air", "domain": "energysage.com", "how": "search", "source_url": "https://renuehome.com/partners", "ts": "2026-09-09T01:30:53Z"}
+{"name": "Affordable Walk Ins LLC", "norm": "affordable walk ins", "domain": "networx.com", "how": "search", "source_url": "https://renuehome.com/partners", "ts": "2026-09-09T01:30:59Z"}
+{"name": "Air Experts of Central Florida", "norm": "air experts central florida", "domain": "angi.com", "how": "search", "source_url": "https://renuehome.com/partners", "ts": "2026-09-09T01:31:06Z"}
+{"name": "Aire Serv of Fort Worth", "norm": "aire serv fort worth", "domain": "aireserv.com", "how": "search", "source_url": "https://renuehome.com/partners", "ts": "2026-09-09T01:31:12Z"}
+{"name": "Allstar Services LLC", "norm": "allstar services", "domain": "allstarservices.net", "how": "guess:allstarservices.net", "source_url": "https://renuehome.com/partners", "ts": "2026-09-09T01:31:12Z"}
+{"name": "Bath World", "norm": "bath world", "domain": "bathworld.net", "how": "guess:bathworld.net", "source_url": "https://renuehome.com/partners", "ts": "2026-09-09T01:31:12Z"}
+{"name": "Bathroom Buddy Remodeling", "norm": "bathroom buddy remodeling", "domain": "bathroombuddyremodeling.com", "how": "guess:bathroombuddyremodeling.com", "source_url": "https://renuehome.com/partners", "ts": "2026-09-09T01:31:12Z"}
+{"name": "Baths R Us", "norm": "baths r us", "domain": "baths-r-us.com", "how": "guess:baths-r-us.com", "source_url": "https://renuehome.com/partners", "ts": "2026-09-09T01:31:12Z"}
+{"name": "Bath Concepts", "norm": "bath concepts", "domain": "bathconcepts.com", "how": "guess:bathconcepts.com", "source_url": "https://renuehome.com/partners", "ts": "2026-09-09T01:31:12Z"}
+{"name": "Beaver Home Services inc", "norm": "beaver home services", "domain": "beaverhomeservices.net", "how": "guess:beaverhomeservices.net", "source_url": "https://renuehome.com/partners", "ts": "2026-09-09T01:31:12Z"}
+{"name": "Bentley Roofing", "norm": "bentley roofing", "domain": "bentleyroofing.com", "how": "guess:bentleyroofing.com", "source_url": "https://renuehome.com/partners", "ts": "2026-09-09T01:31:12Z"}
+{"name": "Best Choice Roofing", "norm": "best choice roofing", "domain": "bestchoiceroofing.com", "how": "guess:bestchoiceroofing.com", "source_url": "https://renuehome.com/partners", "ts": "2026-09-09T01:31:12Z"}
+{"name": "Best Roofing", "norm": "best roofing", "domain": "best-roofing.com", "how": "guess:best-roofing.com", "source_url": "https://renuehome.com/partners", "ts": "2026-09-09T01:31:12Z"}
+{"name": "Better Place Remodeling", "norm": "better place remodeling", "domain": "betterplaceremodeling.com", "how": "guess:betterplaceremodeling.com", "source_url": "https://renuehome.com/partners", "ts": "2026-09-09T01:31:12Z"}
+{"name": "Better Together Builders", "norm": "better together builders", "domain": "bettertogetherbuilders.com", "how": "guess:bettertogetherbuilders.com", "source_url": "https://renuehome.com/partners", "ts": "2026-09-09T01:31:12Z"}
+{"name": "Big City Construction", "norm": "big city construction", "domain": "bigcityconstruction.com", "how": "guess:bigcityconstruction.com", "source_url": "https://renuehome.com/partners", "ts": "2026-09-09T01:31:12Z"}
+{"name": "Big Wave Roofing and Solar", "norm": "big wave roofing and solar", "domain": "bigwaveroofingandsolar.com", "how": "guess:bigwaveroofingandsolar.com", "source_url": "https://renuehome.com/partners", "ts": "2026-09-09T01:31:12Z"}
