@@ -1261,3 +1261,16 @@
 {"name": "Institution for Savings", "norm": "institution for savings", "domain": "institutionforsavings.com", "how": "guess:institutionforsavings.com", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-09T01:07:11Z"}
 {"name": "Lending Corner, Inc", "norm": "lending corner", "domain": "lendingcorner.com", "how": "guess:lendingcorner.com", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-09T01:07:11Z"}
 {"name": "Lending.com", "norm": "lending com", "domain": "lending.com", "how": "literal", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-09T01:07:11Z"}
+{"name": "AAA Michigan", "norm": "aaa michigan", "domain": "aaa.com", "how": "search", "source_url": "https://everquote.com/partners", "ts": "2026-09-09T01:09:24Z"}
+{"name": "AAA Northern New England", "norm": "aaa northern new england", "domain": "aaa.com", "how": "search", "source_url": "https://everquote.com/partners", "ts": "2026-09-09T01:09:32Z"}
+{"name": "AAA New Mexico, LLC", "norm": "aaa new mexico", "domain": "aaa.com", "how": "search", "source_url": "https://everquote.com/partners", "ts": "2026-09-09T01:09:44Z"}
+{"name": "Money Group Ins, LLC", "norm": "money group ins", "domain": "moneygroupins.com", "how": "guess:moneygroupins.com", "source_url": "https://everquote.com/partners", "ts": "2026-09-09T01:09:44Z"}
+{"name": "Policy Goat", "norm": "policy goat", "domain": "policygoat.com", "how": "guess:policygoat.com", "source_url": "https://everquote.com/partners", "ts": "2026-09-09T01:09:44Z"}
+{"name": "Policy genius LLC", "norm": "policy genius", "domain": "policygenius.com", "how": "guess:policygenius.com", "source_url": "https://everquote.com/partners", "ts": "2026-09-09T01:09:44Z"}
+{"name": "Policy Liaison", "norm": "policy liaison", "domain": "policyliaison.com", "how": "guess:policyliaison.com", "source_url": "https://everquote.com/partners", "ts": "2026-09-09T01:09:44Z"}
+{"name": "PolicyPro", "norm": "policypro", "domain": "policypro.com", "how": "guess:policypro.com", "source_url": "https://everquote.com/partners", "ts": "2026-09-09T01:09:44Z"}
+{"name": "PURE", "norm": "pure", "domain": "pure.com", "how": "guess:pure.com", "source_url": "https://everquote.com/partners", "ts": "2026-09-09T01:09:44Z"}
+{"name": "Qualified Coverage", "norm": "qualified coverage", "domain": "qualifiedcoverage.com", "how": "guess:qualifiedcoverage.com", "source_url": "https://everquote.com/partners", "ts": "2026-09-09T01:09:44Z"}
+{"name": "Quote Nerds", "norm": "quote nerds", "domain": "quotenerds.com", "how": "guess:quotenerds.com", "source_url": "https://everquote.com/partners", "ts": "2026-09-09T01:09:44Z"}
+{"name": "Quotelab", "norm": "quotelab", "domain": "quotelab.com", "how": "guess:quotelab.com", "source_url": "https://everquote.com/partners", "ts": "2026-09-09T01:09:44Z"}
+{"name": "QuoteSavant", "norm": "quotesavant", "domain": "quotesavant.com", "how": "guess:quotesavant.com", "source_url": "https://everquote.com/partners", "ts": "2026-09-09T01:09:44Z"}
