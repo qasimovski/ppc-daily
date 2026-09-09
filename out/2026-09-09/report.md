@@ -7,19 +7,21 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | stage | count |
 |---|---|
 | inbox candidates | 0 |
-| partner-list names resolved -> candidates | 3 -> 3 |
+| partner-list names resolved -> candidates | 14 -> 13 |
 | hiring postings read -> candidates | 0 -> 0 |
 | linked-domain candidates | 0 |
 | search requests | 0 |
-| raw finds (search) | 3 |
+| raw finds (search) | 14 |
 | constructed domains probed | 0 |
-| net-new candidates after exclusion index | 3 |
-|   of which from search | 3 |
+| net-new candidates after exclusion index | 13 |
+|   of which from search | 13 |
 |   of which from probing | 0 |
-| crawled | 3 |
-|   crawl: ok | 3 |
+| crawled | 13 |
+|   crawl: ok | 10 |
+|   crawl: unreachable | 1 |
+|   crawl: redirect_offdomain | 2 |
 | probes that resolved to a real site | 0 |
-| v6 classified | 3 |
+| v6 classified | 10 |
 | carried to next run (unclassified) | 0 |
 | carried to next run (uncrawled) | 0 |
 | V6 QUALIFIED | 0 |
@@ -28,18 +30,18 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | stage | count |
 |---|---|
-| candidates crawled | 128 |
-| crawled ok | 95 |
-| v6 classified | 95 |
+| candidates crawled | 141 |
+| crawled ok | 105 |
+| v6 classified | 105 |
 | v6 qualified | 2 |
 
 ## Crawl outcomes (net-new candidates only)
 
 | status | count |
 |---|---|
-| ok | 95 |
-| redirect_offdomain | 17 |
-| unreachable | 6 |
+| ok | 105 |
+| redirect_offdomain | 19 |
+| unreachable | 7 |
 | thin | 5 |
 | unregistered | 4 |
 | parked | 1 |
@@ -49,7 +51,7 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | channel | classified | qualified | rate |
 |---|---|---|---|
 | L11-hiring-agent | 10 | 1 | 10.0% |
-| L10-partners | 82 | 1 | 1.2% |
+| L10-partners | 92 | 1 | 1.1% |
 | L8-linked | 3 | 0 | 0.0% |
 
 **V6 QUALIFIED TODAY: 2** (ICP-clean: 2). Cumulative across all daily runs: 104.
@@ -58,15 +60,16 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | reason | count |
 |---|---|
-| lead_or_appointment_pricing | 29 |
-| unrelated | 27 |
-| end_advertiser | 19 |
+| unrelated | 33 |
+| lead_or_appointment_pricing | 30 |
+| end_advertiser | 20 |
 | no_clear_signal | 6 |
 | service_to_call_receiver | 4 |
 | seo_or_ranking_agency | 4 |
+| coach_or_consultant | 2 |
 | directory_or_content | 2 |
 | recruiting | 1 |
-| coach_or_consultant | 1 |
+| software_or_crm | 1 |
 
 ## Qualified today
 
