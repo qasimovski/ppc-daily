@@ -1442,3 +1442,4 @@
 {"name": "Insurance Allies", "norm": "insurance allies", "domain": "insuranceallies.com", "how": "guess:insuranceallies.com", "source_url": "https://14.us-unemployment-resources.com/marketing-partners", "ts": "2026-09-09T13:16:32Z"}
 {"name": "Insurance Marketplace", "norm": "insurance marketplace", "domain": "insurancemarketplace.net", "how": "guess:insurancemarketplace.net", "source_url": "https://14.us-unemployment-resources.com/marketing-partners", "ts": "2026-09-09T13:16:32Z"}
 {"name": "National Health Advisors", "norm": "national health advisors", "domain": "nationalhealthadvisors.com", "how": "guess:nationalhealthadvisors.com", "source_url": "https://14.us-unemployment-resources.com/marketing-partners", "ts": "2026-09-09T13:16:32Z"}
+{"name": "SelectMyPolicy.com", "norm": "selectmypolicy com", "domain": "selectmypolicy.com", "how": "literal", "source_url": "https://affordableseniorsinsurance.com/marketing-partners", "ts": "2026-09-09T13:19:26Z"}
