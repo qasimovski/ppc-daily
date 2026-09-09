@@ -1274,3 +1274,16 @@
 {"name": "Quote Nerds", "norm": "quote nerds", "domain": "quotenerds.com", "how": "guess:quotenerds.com", "source_url": "https://everquote.com/partners", "ts": "2026-09-09T01:09:44Z"}
 {"name": "Quotelab", "norm": "quotelab", "domain": "quotelab.com", "how": "guess:quotelab.com", "source_url": "https://everquote.com/partners", "ts": "2026-09-09T01:09:44Z"}
 {"name": "QuoteSavant", "norm": "quotesavant", "domain": "quotesavant.com", "how": "guess:quotesavant.com", "source_url": "https://everquote.com/partners", "ts": "2026-09-09T01:09:44Z"}
+{"name": "ICW Leads", "norm": "icw leads", "domain": null, "how": "unresolved:generic-name", "source_url": "https://fastautoquote.org/marketing-partners", "ts": "2026-09-09T01:11:39Z"}
+{"name": "Integriant Ventures Ins", "norm": "integriant ventures ins", "domain": "isolvedhire.com", "how": "search", "source_url": "https://fastautoquote.org/marketing-partners", "ts": "2026-09-09T01:11:45Z"}
+{"name": "Integrity Marketing Acquisition, LLC", "norm": "integrity marketing acquisition", "domain": "bloomberg.com", "how": "search", "source_url": "https://fastautoquote.org/marketing-partners", "ts": "2026-09-09T01:11:50Z"}
+{"name": "Integrity Marketing Intermediate, LLC", "norm": "integrity marketing intermediate", "domain": null, "how": "unresolved:search-miss", "source_url": "https://fastautoquote.org/marketing-partners", "ts": "2026-09-09T01:11:56Z"}
+{"name": "Integrity Marketing Operating, LLC", "norm": "integrity marketing operating", "domain": null, "how": "unresolved:search-miss", "source_url": "https://fastautoquote.org/marketing-partners", "ts": "2026-09-09T01:12:02Z"}
+{"name": "Integrity Marketing Parent, LLC", "norm": "integrity marketing parent", "domain": "privatefunddata.com", "how": "search", "source_url": "https://fastautoquote.org/marketing-partners", "ts": "2026-09-09T01:12:09Z"}
+{"name": "Integrity Marketing Partners Holdco, LLC", "norm": "integrity marketing partners holdco", "domain": null, "how": "unresolved:search-miss", "source_url": "https://fastautoquote.org/marketing-partners", "ts": "2026-09-09T01:12:15Z"}
+{"name": "Integrity Marketing Partners, LLC", "norm": "integrity marketing partners", "domain": "bloomberg.com", "how": "search", "source_url": "https://fastautoquote.org/marketing-partners", "ts": "2026-09-09T01:12:22Z"}
+{"name": "IT Media", "norm": "it media", "domain": null, "how": "unresolved:generic-name", "source_url": "https://fastautoquote.org/marketing-partners", "ts": "2026-09-09T01:12:24Z"}
+{"name": "Jera Marketing", "norm": "jera marketing", "domain": "ufficiocamerale.it", "how": "search", "source_url": "https://fastautoquote.org/marketing-partners", "ts": "2026-09-09T01:12:30Z"}
+{"name": "JHW Marketing", "norm": "jhw marketing", "domain": null, "how": "unresolved:generic-name", "source_url": "https://fastautoquote.org/marketing-partners", "ts": "2026-09-09T01:12:32Z"}
+{"name": "Jobble's Marketing Partners", "norm": "jobble s marketing partners", "domain": null, "how": "unresolved:search-miss", "source_url": "https://fastautoquote.org/marketing-partners", "ts": "2026-09-09T01:12:38Z"}
+{"name": "JWA Marketing", "norm": "jwa marketing", "domain": null, "how": "unresolved:generic-name", "source_url": "https://fastautoquote.org/marketing-partners", "ts": "2026-09-09T01:12:40Z"}
