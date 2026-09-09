@@ -1425,3 +1425,6 @@
 {"name": "Prosperity Life Group", "norm": "prosperity life group", "domain": "prosperitylifegroup.com", "how": "guess:prosperitylifegroup.com", "source_url": "https://www.coveragebeacon.com/marketing-partners", "ts": "2026-09-09T13:08:36Z"}
 {"name": "LA-1024797", "norm": "la 1024797", "domain": null, "how": "unresolved:search-miss", "source_url": "https://www.medicaresolutions.com", "ts": "2026-09-09T13:10:54Z"}
 {"name": "Pennsylvania", "norm": "pennsylvania", "domain": "palegis.us", "how": "search", "source_url": "https://www.medicaresolutions.com", "ts": "2026-09-09T13:11:21Z"}
+{"name": "Alliance 321", "norm": "alliance 321", "domain": "otrusa.com", "how": "search", "source_url": "https://www.quotelab.com/marketing-partners.html", "ts": "2026-09-09T13:13:48Z"}
+{"name": "Dixie", "norm": "dixie", "domain": "dixie.com", "how": "guess:dixie.com", "source_url": "https://www.quotelab.com/marketing-partners.html", "ts": "2026-09-09T13:13:48Z"}
+{"name": "EPath", "norm": "epath", "domain": "epath.com", "how": "guess:epath.com", "source_url": "https://www.quotelab.com/marketing-partners.html", "ts": "2026-09-09T13:13:48Z"}

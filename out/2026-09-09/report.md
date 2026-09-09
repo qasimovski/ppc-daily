@@ -7,19 +7,19 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | stage | count |
 |---|---|
 | inbox candidates | 0 |
-| partner-list names resolved -> candidates | 1 -> 1 |
+| partner-list names resolved -> candidates | 3 -> 3 |
 | hiring postings read -> candidates | 0 -> 0 |
 | linked-domain candidates | 0 |
 | search requests | 0 |
-| raw finds (search) | 1 |
+| raw finds (search) | 3 |
 | constructed domains probed | 0 |
-| net-new candidates after exclusion index | 1 |
-|   of which from search | 1 |
+| net-new candidates after exclusion index | 3 |
+|   of which from search | 3 |
 |   of which from probing | 0 |
-| crawled | 1 |
-|   crawl: ok | 1 |
+| crawled | 3 |
+|   crawl: ok | 3 |
 | probes that resolved to a real site | 0 |
-| v6 classified | 1 |
+| v6 classified | 3 |
 | carried to next run (unclassified) | 0 |
 | carried to next run (uncrawled) | 0 |
 | V6 QUALIFIED | 0 |
@@ -28,16 +28,16 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | stage | count |
 |---|---|
-| candidates crawled | 125 |
-| crawled ok | 92 |
-| v6 classified | 92 |
+| candidates crawled | 128 |
+| crawled ok | 95 |
+| v6 classified | 95 |
 | v6 qualified | 2 |
 
 ## Crawl outcomes (net-new candidates only)
 
 | status | count |
 |---|---|
-| ok | 92 |
+| ok | 95 |
 | redirect_offdomain | 17 |
 | unreachable | 6 |
 | thin | 5 |
@@ -49,7 +49,7 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | channel | classified | qualified | rate |
 |---|---|---|---|
 | L11-hiring-agent | 10 | 1 | 10.0% |
-| L10-partners | 79 | 1 | 1.3% |
+| L10-partners | 82 | 1 | 1.2% |
 | L8-linked | 3 | 0 | 0.0% |
 
 **V6 QUALIFIED TODAY: 2** (ICP-clean: 2). Cumulative across all daily runs: 104.
@@ -59,7 +59,7 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | reason | count |
 |---|---|
 | lead_or_appointment_pricing | 29 |
-| unrelated | 24 |
+| unrelated | 27 |
 | end_advertiser | 19 |
 | no_clear_signal | 6 |
 | service_to_call_receiver | 4 |
