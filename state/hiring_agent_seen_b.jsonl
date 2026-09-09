@@ -53,3 +53,6 @@
 {"url":"https://www.linkedin.com/jobs/view/operations-manager-at-kajae-4437069002","domain":"kajae.com","employer":"Kajae","verdict":"known"}
 {"url":"https://in.linkedin.com/jobs/view/advertising-media-buyer-at-linkinon-inc-4360801780","domain":"","employer":"Linkinon Inc.","verdict":"skipped:employer based in New Delhi, India"}
 {"url":"https://pk.linkedin.com/jobs/view/experienced-verifier-self-closer-closer-at-moji-tech-4320112046","domain":"","employer":"Moji Tech","verdict":"skipped:employer appears Pakistan-based BPO"}
+{"url":"https://www.linkedin.com/jobs/view/business-development-manager-at-leadnova-marekting-4390372673","domain":"leadnovamarketing.com","employer":"Lead Nova Marketing","verdict":"known"}
+{"url":"https://www.linkedin.com/jobs/view/junior-account-manager-at-456-growth-media-4461311682","domain":"456growthmedia.com","employer":"456 Growth Media","verdict":"skipped:influencer marketing agency, not pay-per-call"}
+{"url":"https://www.linkedin.com/jobs/view/client-account-manager-at-legends-legal-marketing-4459358071","domain":"","employer":"Legends Legal Marketing","verdict":"skipped:appears to be a marketing agency serving law-firm clients (buyer side), not a call seller"}

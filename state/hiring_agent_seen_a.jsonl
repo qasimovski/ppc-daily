@@ -108,3 +108,4 @@
 {"url":"https://bebee.com","domain":"","employer":"Tidos moving","verdict":"skipped:buyer_side_inhouse_sales_closer"}
 {"url":"https://www.boomsourcing.com","domain":"boomsourcing.com","employer":"Boomsourcing","verdict":"known"}
 {"url":"https://www.facebook.com/groups/833619610031134/posts/9173067616086250/","domain":"oncall-24.com","employer":"OnCall-24","verdict":"known"}
+{"url":"https://www.linkedin.com/jobs/view/affiliate-manager-home-services-partner-network-at-customers-direct-4458118099","domain":"","employer":"Customers Direct","verdict":"skipped:domain_unconfirmed(customersdirect.com_is_parked_for_sale)"}
