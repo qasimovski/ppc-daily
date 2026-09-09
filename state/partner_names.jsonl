@@ -1311,3 +1311,21 @@
 {"name": "HealthPocket", "norm": "healthpocket", "domain": "healthpocket.io", "how": "guess:healthpocket.io", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-09T01:18:10Z"}
 {"name": "HealthQuoteInfo.com", "norm": "healthquoteinfo com", "domain": "healthquoteinfo.com", "how": "literal", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-09T01:18:10Z"}
 {"name": "Horizon", "norm": "horizon", "domain": "horizon.com", "how": "guess:horizon.com", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-09T01:18:10Z"}
+{"name": "All Star Traffic", "norm": "all star traffic", "domain": "mapquest.com", "how": "search", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-09T01:21:09Z"}
+{"name": "Alt Marketing NYC LLC", "norm": "alt marketing nyc", "domain": null, "how": "unresolved:generic-name", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-09T01:21:11Z"}
+{"name": "Bradley Lead Group LLC", "norm": "bradley lead group", "domain": "privco.com", "how": "search", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-09T01:21:17Z"}
+{"name": "C2M Marketing Inc", "norm": "c2m marketing", "domain": null, "how": "unresolved:generic-name", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-09T01:21:20Z"}
+{"name": "Coldwell Banker - Purchase Dialer Leads", "norm": "coldwell banker purchase dialer leads", "domain": null, "how": "unresolved:search-miss", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-09T01:21:26Z"}
+{"name": "Connect Media Ventures", "norm": "connect media ventures", "domain": "sticky.io", "how": "search", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-09T01:21:33Z"}
+{"name": "CSM Marketing", "norm": "csm marketing", "domain": null, "how": "unresolved:generic-name", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-09T01:21:35Z"}
+{"name": "Direct Connect Solar & Electric LLC", "norm": "direct connect solar & electric", "domain": "mapquest.com", "how": "search", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-09T01:21:41Z"}
+{"name": "Direct Finance", "norm": "direct finance", "domain": "studeersnel.nl", "how": "search", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-09T01:21:47Z"}
+{"name": "Professional Marketing Group", "norm": "professional marketing group", "domain": "professionalmarketinggroup.net", "how": "guess:professionalmarketinggroup.net", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-09T01:21:47Z"}
+{"name": "Showcase Marketing", "norm": "showcase marketing", "domain": "showcasemarketing.com", "how": "guess:showcasemarketing.com", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-09T01:21:47Z"}
+{"name": "Southwest Direct", "norm": "southwest direct", "domain": "southwest-direct.com", "how": "guess:southwest-direct.com", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-09T01:21:47Z"}
+{"name": "The Lead House", "norm": "lead house", "domain": "lead-house.com", "how": "guess:lead-house.com", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-09T01:21:47Z"}
+{"name": "Trinity Marketing", "norm": "trinity marketing", "domain": "trinitymarketing.net", "how": "guess:trinitymarketing.net", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-09T01:21:47Z"}
+{"name": "Bulldog Media", "norm": "bulldog media", "domain": "bulldogmedia.com", "how": "guess:bulldogmedia.com", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-09T01:21:47Z"}
+{"name": "Kinetiq Media", "norm": "kinetiq media", "domain": "kinetiqmedia.com", "how": "guess:kinetiqmedia.com", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-09T01:21:47Z"}
+{"name": "Quoting Fast", "norm": "quoting fast", "domain": "quotingfast.com", "how": "guess:quotingfast.com", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-09T01:21:47Z"}
+{"name": "Shelter", "norm": "shelter", "domain": "shelter.io", "how": "guess:shelter.io", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-09T01:21:47Z"}

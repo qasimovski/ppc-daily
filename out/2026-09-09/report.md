@@ -7,64 +7,71 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | stage | count |
 |---|---|
 | inbox candidates | 0 |
-| partner-list names resolved -> candidates | 16 -> 15 |
+| partner-list names resolved -> candidates | 14 -> 9 |
 | hiring postings read -> candidates | 0 -> 0 |
-| linked-domain candidates | 0 |
+| linked-domain candidates | 1 |
 | search requests | 0 |
-| raw finds (search) | 16 |
+| raw finds (search) | 15 |
 | constructed domains probed | 0 |
-| net-new candidates after exclusion index | 15 |
-|   of which from search | 15 |
+| net-new candidates after exclusion index | 10 |
+|   of which from search | 10 |
 |   of which from probing | 0 |
-| crawled | 15 |
-|   crawl: ok | 12 |
-|   crawl: unregistered | 1 |
+| crawled | 10 |
+|   crawl: ok | 6 |
+|   crawl: thin | 1 |
 |   crawl: unreachable | 1 |
-|   crawl: redirect_offdomain | 1 |
+|   crawl: redirect_offdomain | 2 |
 | probes that resolved to a real site | 0 |
-| v6 classified | 12 |
+| v6 classified | 6 |
 | carried to next run (unclassified) | 0 |
 | carried to next run (uncrawled) | 0 |
-| V6 QUALIFIED | 0 |
+| V6 QUALIFIED | 1 |
 
 ## Day so far (all passes, unique domains)
 
 | stage | count |
 |---|---|
-| candidates crawled | 39 |
-| crawled ok | 30 |
-| v6 classified | 30 |
-| v6 qualified | 0 |
+| candidates crawled | 49 |
+| crawled ok | 36 |
+| v6 classified | 36 |
+| v6 qualified | 1 |
 
 ## Crawl outcomes (net-new candidates only)
 
 | status | count |
 |---|---|
-| ok | 30 |
-| unreachable | 4 |
-| redirect_offdomain | 3 |
-| thin | 1 |
+| ok | 36 |
+| redirect_offdomain | 5 |
+| unreachable | 5 |
+| thin | 2 |
 | unregistered | 1 |
 
 ## v6 qualify rate per discovery channel
 
 | channel | classified | qualified | rate |
 |---|---|---|---|
-| L10-partners | 30 | 0 | 0.0% |
+| L10-partners | 35 | 1 | 2.9% |
+| L8-linked | 1 | 0 | 0.0% |
 
-**V6 QUALIFIED TODAY: 0** (ICP-clean: 0). Cumulative across all daily runs: 102.
+**V6 QUALIFIED TODAY: 1** (ICP-clean: 1). Cumulative across all daily runs: 103.
 
 ## Why candidates failed v6
 
 | reason | count |
 |---|---|
-| lead_or_appointment_pricing | 12 |
+| lead_or_appointment_pricing | 15 |
 | end_advertiser | 6 |
-| unrelated | 4 |
+| unrelated | 5 |
 | no_clear_signal | 3 |
 | service_to_call_receiver | 3 |
+| seo_or_ranking_agency | 2 |
 | recruiting | 1 |
-| seo_or_ranking_agency | 1 |
+
+## Qualified today
+
+| company | domain | fit | business model | marketplace | geo | flags |
+|---|---|---|---|---|---|---|
+| Quoting Fast | quotingfast.com | 95 | lead generation with live transfer calls and internet leads sold | yes | United States |  |
 
 ## Files
 
