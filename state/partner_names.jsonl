@@ -1287,3 +1287,11 @@
 {"name": "JHW Marketing", "norm": "jhw marketing", "domain": null, "how": "unresolved:generic-name", "source_url": "https://fastautoquote.org/marketing-partners", "ts": "2026-09-09T01:12:32Z"}
 {"name": "Jobble's Marketing Partners", "norm": "jobble s marketing partners", "domain": null, "how": "unresolved:search-miss", "source_url": "https://fastautoquote.org/marketing-partners", "ts": "2026-09-09T01:12:38Z"}
 {"name": "JWA Marketing", "norm": "jwa marketing", "domain": null, "how": "unresolved:generic-name", "source_url": "https://fastautoquote.org/marketing-partners", "ts": "2026-09-09T01:12:40Z"}
+{"name": "Affiliate Marketing Programs", "norm": "affiliate marketing programs", "domain": "fluentaffiliate.com", "how": "search", "source_url": "https://mariosroofing.com/privacy-policy", "ts": "2026-09-09T01:15:12Z"}
+{"name": "The Llama Group LLC", "norm": "llama group", "domain": "llama-group.com", "how": "guess:llama-group.com", "source_url": "https://liheapassistance.org/marketing-partners", "ts": "2026-09-09T01:15:12Z"}
+{"name": "TheResourceHelp.com", "norm": "theresourcehelp com", "domain": "theresourcehelp.com", "how": "literal", "source_url": "https://liheapassistance.org/marketing-partners", "ts": "2026-09-09T01:15:12Z"}
+{"name": "Top Quality Coverage Inc", "norm": "top quality coverage", "domain": "topqualitycoverage.com", "how": "guess:topqualitycoverage.com", "source_url": "https://liheapassistance.org/marketing-partners", "ts": "2026-09-09T01:15:12Z"}
+{"name": "Urgent Care Online", "norm": "urgent care online", "domain": "urgent-care-online.com", "how": "guess:urgent-care-online.com", "source_url": "https://liheapassistance.org/marketing-partners", "ts": "2026-09-09T01:15:12Z"}
+{"name": "USABenefits.com", "norm": "usabenefits com", "domain": "usabenefits.com", "how": "literal", "source_url": "https://liheapassistance.org/marketing-partners", "ts": "2026-09-09T01:15:12Z"}
+{"name": "YourAssistance.org", "norm": "yourassistance org", "domain": "yourassistance.org", "how": "literal", "source_url": "https://liheapassistance.org/marketing-partners", "ts": "2026-09-09T01:15:12Z"}
+{"name": "Data Analytics Services", "norm": "data analytics services", "domain": "data-analytics-services.com", "how": "guess:data-analytics-services.com", "source_url": "https://mariosroofing.com/privacy-policy", "ts": "2026-09-09T01:15:12Z"}

@@ -7,20 +7,20 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | stage | count |
 |---|---|
 | inbox candidates | 0 |
-| partner-list names resolved -> candidates | 5 -> 2 |
+| partner-list names resolved -> candidates | 8 -> 7 |
 | hiring postings read -> candidates | 0 -> 0 |
 | linked-domain candidates | 0 |
 | search requests | 0 |
-| raw finds (search) | 5 |
+| raw finds (search) | 8 |
 | constructed domains probed | 0 |
-| net-new candidates after exclusion index | 2 |
-|   of which from search | 2 |
+| net-new candidates after exclusion index | 7 |
+|   of which from search | 7 |
 |   of which from probing | 0 |
-| crawled | 2 |
-|   crawl: ok | 1 |
+| crawled | 7 |
+|   crawl: ok | 6 |
 |   crawl: unreachable | 1 |
 | probes that resolved to a real site | 0 |
-| v6 classified | 1 |
+| v6 classified | 6 |
 | carried to next run (unclassified) | 0 |
 | carried to next run (uncrawled) | 0 |
 | V6 QUALIFIED | 0 |
@@ -29,25 +29,25 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | stage | count |
 |---|---|
-| candidates crawled | 17 |
-| crawled ok | 12 |
-| v6 classified | 12 |
+| candidates crawled | 24 |
+| crawled ok | 18 |
+| v6 classified | 18 |
 | v6 qualified | 0 |
 
 ## Crawl outcomes (net-new candidates only)
 
 | status | count |
 |---|---|
-| ok | 12 |
+| ok | 18 |
+| unreachable | 3 |
 | redirect_offdomain | 2 |
-| unreachable | 2 |
 | thin | 1 |
 
 ## v6 qualify rate per discovery channel
 
 | channel | classified | qualified | rate |
 |---|---|---|---|
-| L10-partners | 12 | 0 | 0.0% |
+| L10-partners | 18 | 0 | 0.0% |
 
 **V6 QUALIFIED TODAY: 0** (ICP-clean: 0). Cumulative across all daily runs: 102.
 
@@ -55,10 +55,10 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | reason | count |
 |---|---|
-| lead_or_appointment_pricing | 6 |
-| end_advertiser | 4 |
+| lead_or_appointment_pricing | 10 |
+| end_advertiser | 5 |
+| no_clear_signal | 2 |
 | unrelated | 1 |
-| no_clear_signal | 1 |
 
 ## Files
 
