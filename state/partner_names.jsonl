@@ -1329,3 +1329,19 @@
 {"name": "Kinetiq Media", "norm": "kinetiq media", "domain": "kinetiqmedia.com", "how": "guess:kinetiqmedia.com", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-09T01:21:47Z"}
 {"name": "Quoting Fast", "norm": "quoting fast", "domain": "quotingfast.com", "how": "guess:quotingfast.com", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-09T01:21:47Z"}
 {"name": "Shelter", "norm": "shelter", "domain": "shelter.io", "how": "guess:shelter.io", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-09T01:21:47Z"}
+{"name": "Adexec Services", "norm": "adexec services", "domain": "selling.com", "how": "search", "source_url": "https://quotelab.com/marketing-partners", "ts": "2026-09-09T01:24:20Z"}
+{"name": "Adrea Rubin", "norm": "adrea rubin", "domain": "tracxn.com", "how": "search", "source_url": "https://quotelab.com/marketing-partners", "ts": "2026-09-09T01:24:27Z"}
+{"name": "AgentCubed Marketplace", "norm": "agentcubed marketplace", "domain": null, "how": "unresolved:search-miss", "source_url": "https://quotelab.com/marketing-partners", "ts": "2026-09-09T01:24:33Z"}
+{"name": "Agentra Healthcare", "norm": "agentra healthcare", "domain": "joinhandshake.com", "how": "search", "source_url": "https://quotelab.com/marketing-partners", "ts": "2026-09-09T01:24:40Z"}
+{"name": "Aliera Healthcare", "norm": "aliera healthcare", "domain": "epiq11.com", "how": "search", "source_url": "https://quotelab.com/marketing-partners", "ts": "2026-09-09T01:24:46Z"}
+{"name": "Alliance & Associates", "norm": "alliance & associates", "domain": "com.hk", "how": "search", "source_url": "https://quotelab.com/marketing-partners", "ts": "2026-09-09T01:24:52Z"}
+{"name": "Complete Car", "norm": "complete car", "domain": "completecar.com", "how": "guess:completecar.com", "source_url": "https://quotelab.com/marketing-partners", "ts": "2026-09-09T01:24:52Z"}
+{"name": "ConnectiCare", "norm": "connecticare", "domain": "connecticare.com", "how": "guess:connecticare.com", "source_url": "https://quotelab.com/marketing-partners", "ts": "2026-09-09T01:24:52Z"}
+{"name": "Cottonwood", "norm": "cottonwood", "domain": "cottonwood.com", "how": "guess:cottonwood.com", "source_url": "https://quotelab.com/marketing-partners", "ts": "2026-09-09T01:24:52Z"}
+{"name": "Cover", "norm": "cover", "domain": "cover.com", "how": "guess:cover.com", "source_url": "https://quotelab.com/marketing-partners", "ts": "2026-09-09T01:24:52Z"}
+{"name": "CoverageBrokers.com", "norm": "coveragebrokers com", "domain": "coveragebrokers.com", "how": "literal", "source_url": "https://quotelab.com/marketing-partners", "ts": "2026-09-09T01:24:52Z"}
+{"name": "Credit Union", "norm": "credit union", "domain": "creditunionllc.com", "how": "guess:creditunionllc.com", "source_url": "https://quotelab.com/marketing-partners", "ts": "2026-09-09T01:24:52Z"}
+{"name": "Crisp-Results", "norm": "crisp results", "domain": "crispresults.com", "how": "guess:crispresults.com", "source_url": "https://quotelab.com/marketing-partners", "ts": "2026-09-09T01:24:52Z"}
+{"name": "Criterion", "norm": "criterion", "domain": "criterion.net", "how": "guess:criterion.net", "source_url": "https://quotelab.com/marketing-partners", "ts": "2026-09-09T01:24:52Z"}
+{"name": "Dakota Fire", "norm": "dakota fire", "domain": "dakotafire.com", "how": "guess:dakotafire.com", "source_url": "https://quotelab.com/marketing-partners", "ts": "2026-09-09T01:24:52Z"}
+{"name": "DataMax", "norm": "datamax", "domain": "datamax.net", "how": "guess:datamax.net", "source_url": "https://quotelab.com/marketing-partners", "ts": "2026-09-09T01:24:52Z"}
