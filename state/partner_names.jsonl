@@ -1295,3 +1295,19 @@
 {"name": "USABenefits.com", "norm": "usabenefits com", "domain": "usabenefits.com", "how": "literal", "source_url": "https://liheapassistance.org/marketing-partners", "ts": "2026-09-09T01:15:12Z"}
 {"name": "YourAssistance.org", "norm": "yourassistance org", "domain": "yourassistance.org", "how": "literal", "source_url": "https://liheapassistance.org/marketing-partners", "ts": "2026-09-09T01:15:12Z"}
 {"name": "Data Analytics Services", "norm": "data analytics services", "domain": "data-analytics-services.com", "how": "guess:data-analytics-services.com", "source_url": "https://mariosroofing.com/privacy-policy", "ts": "2026-09-09T01:15:12Z"}
+{"name": "Acquisition Tech", "norm": "acquisition tech", "domain": "allegisglobalsolutions.com", "how": "search", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-09T01:17:42Z"}
+{"name": "Advocator Group", "norm": "advocator group", "domain": "3-prime.com", "how": "search", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-09T01:17:49Z"}
+{"name": "Aegis First", "norm": "aegis first", "domain": "aegisfirst.ca", "how": "search", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-09T01:18:10Z"}
+{"name": "Flexquote", "norm": "flexquote", "domain": "flexquote.io", "how": "guess:flexquote.io", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-09T01:18:10Z"}
+{"name": "Fortis", "norm": "fortis", "domain": "fortisllc.com", "how": "guess:fortisllc.com", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-09T01:18:10Z"}
+{"name": "GetInsured", "norm": "getinsured", "domain": "getinsured.com", "how": "guess:getinsured.com", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-09T01:18:10Z"}
+{"name": "Globalsky BPO", "norm": "globalsky bpo", "domain": "globalskybpo.com", "how": "guess:globalskybpo.com", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-09T01:18:10Z"}
+{"name": "GoHealthInsurance.com", "norm": "gohealthinsurance com", "domain": "gohealthinsurance.com", "how": "literal", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-09T01:18:10Z"}
+{"name": "Guardian", "norm": "guardian", "domain": "guardian.com", "how": "guess:guardian.com", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-09T01:18:10Z"}
+{"name": "Health Network", "norm": "health network", "domain": "healthnetwork.com", "how": "guess:healthnetwork.com", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-09T01:18:10Z"}
+{"name": "HealthCompare", "norm": "healthcompare", "domain": "healthcompare.com", "how": "guess:healthcompare.com", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-09T01:18:10Z"}
+{"name": "HealthInsurance.net", "norm": "healthinsurance net", "domain": "healthinsurance.net", "how": "literal", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-09T01:18:10Z"}
+{"name": "HealthPartners", "norm": "healthpartners", "domain": "healthpartners.com", "how": "guess:healthpartners.com", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-09T01:18:10Z"}
+{"name": "HealthPocket", "norm": "healthpocket", "domain": "healthpocket.io", "how": "guess:healthpocket.io", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-09T01:18:10Z"}
+{"name": "HealthQuoteInfo.com", "norm": "healthquoteinfo com", "domain": "healthquoteinfo.com", "how": "literal", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-09T01:18:10Z"}
+{"name": "Horizon", "norm": "horizon", "domain": "horizon.com", "how": "guess:horizon.com", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-09T01:18:10Z"}
