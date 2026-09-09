@@ -1416,3 +1416,10 @@
 {"name": "Surety Auto Group, LLC", "norm": "surety auto group", "domain": "suretyautogroup.com", "how": "guess:suretyautogroup.com", "source_url": "https://tunepolicy.com/partners", "ts": "2026-09-09T13:05:37Z"}
 {"name": "Swiss Re", "norm": "swiss re", "domain": "swissre.com", "how": "guess:swissre.com", "source_url": "https://tunepolicy.com/partners", "ts": "2026-09-09T13:05:37Z"}
 {"name": "The Abbey Group", "norm": "abbey group", "domain": "abbey-group.com", "how": "guess:abbey-group.com", "source_url": "https://tunepolicy.com/partners", "ts": "2026-09-09T13:05:37Z"}
+{"name": "Americo Senior Life and Health", "norm": "americo senior life and health", "domain": null, "how": "unresolved:search-miss", "source_url": "https://www.coveragebeacon.com/marketing-partners", "ts": "2026-09-09T13:07:06Z"}
+{"name": "Bestow Life Insurance", "norm": "bestow life insurance", "domain": "bestow.com", "how": "search", "source_url": "https://www.coveragebeacon.com/marketing-partners", "ts": "2026-09-09T13:07:15Z"}
+{"name": "Fidelity Life Association", "norm": "fidelity life association", "domain": "8thlight.com", "how": "search", "source_url": "https://www.coveragebeacon.com/marketing-partners", "ts": "2026-09-09T13:07:47Z"}
+{"name": "Gerber Life Insurance", "norm": "gerber life insurance", "domain": "gerberlife.com", "how": "search", "source_url": "https://www.coveragebeacon.com/marketing-partners", "ts": "2026-09-09T13:08:19Z"}
+{"name": "Heritage Life Insurance Company", "norm": "heritage life insurance company", "domain": "ambest.com", "how": "search", "source_url": "https://www.coveragebeacon.com/marketing-partners", "ts": "2026-09-09T13:08:27Z"}
+{"name": "Pacific Life Insurance", "norm": "pacific life insurance", "domain": "pacificlife.com", "how": "search", "source_url": "https://www.coveragebeacon.com/marketing-partners", "ts": "2026-09-09T13:08:36Z"}
+{"name": "Prosperity Life Group", "norm": "prosperity life group", "domain": "prosperitylifegroup.com", "how": "guess:prosperitylifegroup.com", "source_url": "https://www.coveragebeacon.com/marketing-partners", "ts": "2026-09-09T13:08:36Z"}

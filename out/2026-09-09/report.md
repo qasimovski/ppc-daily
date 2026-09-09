@@ -6,40 +6,40 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | stage | count |
 |---|---|
-| inbox candidates | 10 |
-| partner-list names resolved -> candidates | 11 -> 8 |
+| inbox candidates | 0 |
+| partner-list names resolved -> candidates | 6 -> 5 |
 | hiring postings read -> candidates | 0 -> 0 |
 | linked-domain candidates | 0 |
 | search requests | 0 |
-| raw finds (search) | 22 |
+| raw finds (search) | 6 |
 | constructed domains probed | 0 |
-| net-new candidates after exclusion index | 18 |
-|   of which from search | 18 |
+| net-new candidates after exclusion index | 5 |
+|   of which from search | 5 |
 |   of which from probing | 0 |
-| crawled | 18 |
-|   crawl: ok | 17 |
+| crawled | 5 |
+|   crawl: ok | 4 |
 |   crawl: redirect_offdomain | 1 |
 | probes that resolved to a real site | 0 |
-| v6 classified | 17 |
+| v6 classified | 4 |
 | carried to next run (unclassified) | 0 |
 | carried to next run (uncrawled) | 0 |
-| V6 QUALIFIED | 1 |
+| V6 QUALIFIED | 0 |
 
 ## Day so far (all passes, unique domains)
 
 | stage | count |
 |---|---|
-| candidates crawled | 119 |
-| crawled ok | 87 |
-| v6 classified | 87 |
+| candidates crawled | 124 |
+| crawled ok | 91 |
+| v6 classified | 91 |
 | v6 qualified | 2 |
 
 ## Crawl outcomes (net-new candidates only)
 
 | status | count |
 |---|---|
-| ok | 87 |
-| redirect_offdomain | 16 |
+| ok | 91 |
+| redirect_offdomain | 17 |
 | unreachable | 6 |
 | thin | 5 |
 | unregistered | 4 |
@@ -50,7 +50,7 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | channel | classified | qualified | rate |
 |---|---|---|---|
 | L11-hiring-agent | 10 | 1 | 10.0% |
-| L10-partners | 74 | 1 | 1.4% |
+| L10-partners | 78 | 1 | 1.3% |
 | L8-linked | 3 | 0 | 0.0% |
 
 **V6 QUALIFIED TODAY: 2** (ICP-clean: 2). Cumulative across all daily runs: 104.
@@ -60,9 +60,9 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | reason | count |
 |---|---|
 | lead_or_appointment_pricing | 29 |
-| unrelated | 22 |
-| end_advertiser | 17 |
-| no_clear_signal | 5 |
+| unrelated | 23 |
+| end_advertiser | 19 |
+| no_clear_signal | 6 |
 | service_to_call_receiver | 4 |
 | seo_or_ranking_agency | 4 |
 | directory_or_content | 2 |
