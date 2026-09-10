@@ -1511,3 +1511,24 @@
 {"name": "CarGuard Administration", "norm": "carguard administration", "domain": "carguardadmin.com", "how": "search", "source_url": "https://ratefinder.com/partners.html", "ts": "2026-09-10T01:26:15Z"}
 {"name": "True Auto", "norm": "true auto", "domain": "trueauto.com", "how": "guess:trueauto.com", "source_url": "https://ratefinder.com/partners.html", "ts": "2026-09-10T01:26:15Z"}
 {"name": "Velapoint", "norm": "velapoint", "domain": "velapoint.com", "how": "guess:velapoint.com", "source_url": "https://ratefinder.com/partners.html", "ts": "2026-09-10T01:26:15Z"}
+{"name": "Alco Windows and Doors", "norm": "alco windows and doors", "domain": "vidrioperfil.com", "how": "search", "source_url": "https://renuehome.com/partners", "ts": "2026-09-10T01:27:16Z"}
+{"name": "Alenco Inc", "norm": "alenco", "domain": "alenconline.com", "how": "search", "source_url": "https://renuehome.com/partners", "ts": "2026-09-10T01:27:39Z"}
+{"name": "All American Gutter Protection-FC", "norm": "all american gutter protection fc", "domain": "koalatygutters.com", "how": "search", "source_url": "https://renuehome.com/partners", "ts": "2026-09-10T01:27:46Z"}
+{"name": "All County Roofing", "norm": "all county roofing", "domain": "allcountyroofingid.com", "how": "search", "source_url": "https://renuehome.com/partners", "ts": "2026-09-10T01:27:51Z"}
+{"name": "All Energy LLC", "norm": "all energy", "domain": null, "how": "unresolved:generic-name", "source_url": "https://renuehome.com/partners", "ts": "2026-09-10T01:27:53Z"}
+{"name": "All The Way Gutter Protection Inc", "norm": "all way gutter protection", "domain": "owenscorning.com", "how": "search", "source_url": "https://renuehome.com/partners", "ts": "2026-09-10T01:28:01Z"}
+{"name": "Alliance Fire Water Storm Restorations", "norm": "alliance fire water storm restorations", "domain": "nextdoor.com", "how": "search", "source_url": "https://renuehome.com/partners", "ts": "2026-09-10T01:28:08Z"}
+{"name": "Allied GC LLC", "norm": "allied gc", "domain": "mapquest.com", "how": "search", "source_url": "https://renuehome.com/partners", "ts": "2026-09-10T01:28:13Z"}
+{"name": "All-Weather Seal of West Michigan", "norm": "all weather seal west michigan", "domain": "allweathersealinc.com", "how": "search", "source_url": "https://renuehome.com/partners", "ts": "2026-09-10T01:28:20Z"}
+{"name": "Altair Solar Inc", "norm": "altair solar", "domain": "rocketreach.co", "how": "search", "source_url": "https://renuehome.com/partners", "ts": "2026-09-10T01:28:25Z"}
+{"name": "Alure Home Improvements", "norm": "alure home improvements", "domain": "houzz.com", "how": "search", "source_url": "https://renuehome.com/partners", "ts": "2026-09-10T01:28:37Z"}
+{"name": "Amazing Air and Heat Inc", "norm": "amazing air and heat", "domain": "modernize.com", "how": "search", "source_url": "https://renuehome.com/partners", "ts": "2026-09-10T01:28:44Z"}
+{"name": "Black Bear Home Exteriors", "norm": "black bear home exteriors", "domain": "blackbearhomeexteriors.com", "how": "guess:blackbearhomeexteriors.com", "source_url": "https://renuehome.com/partners", "ts": "2026-09-10T01:28:44Z"}
+{"name": "Block Renovation", "norm": "block renovation", "domain": "blockrenovation.com", "how": "guess:blockrenovation.com", "source_url": "https://renuehome.com/partners", "ts": "2026-09-10T01:28:44Z"}
+{"name": "Blue Raven Solar", "norm": "blue raven solar", "domain": "blueravensolarllc.com", "how": "guess:blueravensolarllc.com", "source_url": "https://renuehome.com/partners", "ts": "2026-09-10T01:28:44Z"}
+{"name": "Blue Springs Siding & Windows", "norm": "blue springs siding & windows", "domain": "bluespringssidingandwindows.com", "how": "guess:bluespringssidingandwindows.com", "source_url": "https://renuehome.com/partners", "ts": "2026-09-10T01:28:44Z"}
+{"name": "Boca Walk-In Tubs", "norm": "boca walk in tubs", "domain": "bocawalkintubs.com", "how": "guess:bocawalkintubs.com", "source_url": "https://renuehome.com/partners", "ts": "2026-09-10T01:28:44Z"}
+{"name": "Boundless Energy Inc", "norm": "boundless energy", "domain": "boundless-energy.com", "how": "guess:boundless-energy.com", "source_url": "https://renuehome.com/partners", "ts": "2026-09-10T01:28:44Z"}
+{"name": "Bravo Roofing llc", "norm": "bravo roofing", "domain": "bravoroofing.com", "how": "guess:bravoroofing.com", "source_url": "https://renuehome.com/partners", "ts": "2026-09-10T01:28:44Z"}
+{"name": "Brothers Roofing", "norm": "brothers roofing", "domain": "brothersroofing.com", "how": "guess:brothersroofing.com", "source_url": "https://renuehome.com/partners", "ts": "2026-09-10T01:28:44Z"}
+{"name": "Brower Mechanical", "norm": "brower mechanical", "domain": "browermechanical.com", "how": "guess:browermechanical.com", "source_url": "https://renuehome.com/partners", "ts": "2026-09-10T01:28:44Z"}
