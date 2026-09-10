@@ -1488,3 +1488,18 @@
 {"name": "MyHealthAngel.com", "norm": "myhealthangel com", "domain": "myhealthangel.com", "how": "literal", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-10T01:17:15Z"}
 {"name": "Next Gen", "norm": "next gen", "domain": "nextgen.com", "how": "guess:nextgen.com", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-10T01:17:15Z"}
 {"name": "NextGen", "norm": "nextgen", "domain": "nextgen.com", "how": "guess:nextgen.com", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-10T01:17:15Z"}
+{"name": "Direct Link Funding", "norm": "direct link funding", "domain": "rocketreach.co", "how": "search", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-10T01:19:05Z"}
+{"name": "Edge Media & Technology, LLC", "norm": "edge media & technology", "domain": null, "how": "unresolved:search-miss", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-10T01:19:14Z"}
+{"name": "Euclid Energy Performance Contractors", "norm": "euclid energy performance contractors", "domain": "homeyou.com", "how": "search", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-10T01:19:20Z"}
+{"name": "Forever Green Marketing LLC", "norm": "forever green marketing", "domain": null, "how": "unresolved:search-miss", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-10T01:19:27Z"}
+{"name": "HCG Marketing - Chad Hansen", "norm": "hcg marketing chad hansen", "domain": null, "how": "unresolved:search-miss", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-10T01:19:33Z"}
+{"name": "Home Direct Mortgage", "norm": "home direct mortgage", "domain": null, "how": "unresolved:generic-name", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-10T01:19:36Z"}
+{"name": "Homequest Mortgage Network LLC", "norm": "homequest mortgage network", "domain": null, "how": "unresolved:search-miss", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-10T01:19:42Z"}
+{"name": "HomeStar Direct", "norm": "homestar direct", "domain": "corporateshopping.com", "how": "search", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-10T01:20:12Z"}
+{"name": "AUTOPAY", "norm": "autopay", "domain": "autopay.com", "how": "guess:autopay.com", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-10T01:20:12Z"}
+{"name": "Beneficial State Bank", "norm": "beneficial state bank", "domain": "beneficialstatebank.com", "how": "guess:beneficialstatebank.com", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-10T01:20:12Z"}
+{"name": "Boatloan.com", "norm": "boatloan com", "domain": "boatloan.com", "how": "literal", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-10T01:20:12Z"}
+{"name": "CarFinance", "norm": "carfinance", "domain": "carfinance.com", "how": "guess:carfinance.com", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-10T01:20:12Z"}
+{"name": "CarFinance.com", "norm": "carfinance com", "domain": "carfinance.com", "how": "literal", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-10T01:20:12Z"}
+{"name": "DriveTime", "norm": "drivetime", "domain": "drivetime.com", "how": "guess:drivetime.com", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-10T01:20:12Z"}
+{"name": "Edmunds", "norm": "edmunds", "domain": "edmunds.net", "how": "guess:edmunds.net", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-10T01:20:12Z"}

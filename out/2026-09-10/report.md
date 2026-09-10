@@ -7,19 +7,19 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | stage | count |
 |---|---|
 | inbox candidates | 0 |
-| partner-list names resolved -> candidates | 10 -> 4 |
+| partner-list names resolved -> candidates | 10 -> 7 |
 | hiring postings read -> candidates | 0 -> 0 |
 | linked-domain candidates | 0 |
 | search requests | 0 |
 | raw finds (search) | 10 |
 | constructed domains probed | 0 |
-| net-new candidates after exclusion index | 4 |
-|   of which from search | 4 |
+| net-new candidates after exclusion index | 7 |
+|   of which from search | 7 |
 |   of which from probing | 0 |
-| crawled | 4 |
-|   crawl: ok | 4 |
+| crawled | 7 |
+|   crawl: ok | 7 |
 | probes that resolved to a real site | 0 |
-| v6 classified | 4 |
+| v6 classified | 7 |
 | carried to next run (unclassified) | 0 |
 | carried to next run (uncrawled) | 0 |
 | V6 QUALIFIED | 0 |
@@ -28,16 +28,16 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | stage | count |
 |---|---|
-| candidates crawled | 22 |
-| crawled ok | 18 |
-| v6 classified | 18 |
+| candidates crawled | 29 |
+| crawled ok | 25 |
+| v6 classified | 25 |
 | v6 qualified | 0 |
 
 ## Crawl outcomes (net-new candidates only)
 
 | status | count |
 |---|---|
-| ok | 18 |
+| ok | 25 |
 | redirect_offdomain | 3 |
 | thin | 1 |
 
@@ -45,7 +45,7 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | channel | classified | qualified | rate |
 |---|---|---|---|
-| L10-partners | 18 | 0 | 0.0% |
+| L10-partners | 25 | 0 | 0.0% |
 
 **V6 QUALIFIED TODAY: 0** (ICP-clean: 0). Cumulative across all daily runs: 104.
 
@@ -53,10 +53,10 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | reason | count |
 |---|---|
-| unrelated | 10 |
-| end_advertiser | 3 |
+| unrelated | 12 |
+| end_advertiser | 7 |
 | software_or_crm | 3 |
-| lead_or_appointment_pricing | 1 |
+| lead_or_appointment_pricing | 2 |
 | seo_or_ranking_agency | 1 |
 
 ## Files
