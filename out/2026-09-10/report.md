@@ -7,20 +7,22 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | stage | count |
 |---|---|
 | inbox candidates | 0 |
-| partner-list names resolved -> candidates | 7 -> 3 |
+| partner-list names resolved -> candidates | 12 -> 7 |
 | hiring postings read -> candidates | 0 -> 0 |
 | linked-domain candidates | 0 |
 | search requests | 0 |
-| raw finds (search) | 7 |
+| raw finds (search) | 12 |
 | constructed domains probed | 0 |
-| net-new candidates after exclusion index | 3 |
-|   of which from search | 3 |
+| net-new candidates after exclusion index | 7 |
+|   of which from search | 7 |
 |   of which from probing | 0 |
-| crawled | 3 |
-|   crawl: ok | 2 |
+| crawled | 7 |
+|   crawl: ok | 4 |
+|   crawl: thin | 1 |
+|   crawl: unreachable | 1 |
 |   crawl: redirect_offdomain | 1 |
 | probes that resolved to a real site | 0 |
-| v6 classified | 2 |
+| v6 classified | 4 |
 | carried to next run (unclassified) | 0 |
 | carried to next run (uncrawled) | 0 |
 | V6 QUALIFIED | 0 |
@@ -29,25 +31,25 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | stage | count |
 |---|---|
-| candidates crawled | 53 |
-| crawled ok | 41 |
-| v6 classified | 41 |
+| candidates crawled | 60 |
+| crawled ok | 45 |
+| v6 classified | 45 |
 | v6 qualified | 0 |
 
 ## Crawl outcomes (net-new candidates only)
 
 | status | count |
 |---|---|
-| ok | 41 |
-| redirect_offdomain | 5 |
-| unreachable | 4 |
-| thin | 3 |
+| ok | 45 |
+| redirect_offdomain | 6 |
+| unreachable | 5 |
+| thin | 4 |
 
 ## v6 qualify rate per discovery channel
 
 | channel | classified | qualified | rate |
 |---|---|---|---|
-| L10-partners | 41 | 0 | 0.0% |
+| L10-partners | 45 | 0 | 0.0% |
 
 **V6 QUALIFIED TODAY: 0** (ICP-clean: 0). Cumulative across all daily runs: 104.
 
@@ -55,8 +57,8 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | reason | count |
 |---|---|
+| unrelated | 19 |
 | end_advertiser | 15 |
-| unrelated | 15 |
 | lead_or_appointment_pricing | 5 |
 | software_or_crm | 3 |
 | seo_or_ranking_agency | 1 |
