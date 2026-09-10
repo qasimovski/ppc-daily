@@ -7,20 +7,19 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | stage | count |
 |---|---|
 | inbox candidates | 0 |
-| partner-list names resolved -> candidates | 3 -> 2 |
+| partner-list names resolved -> candidates | 9 -> 7 |
 | hiring postings read -> candidates | 0 -> 0 |
 | linked-domain candidates | 0 |
 | search requests | 0 |
-| raw finds (search) | 3 |
+| raw finds (search) | 9 |
 | constructed domains probed | 0 |
-| net-new candidates after exclusion index | 2 |
-|   of which from search | 2 |
+| net-new candidates after exclusion index | 7 |
+|   of which from search | 7 |
 |   of which from probing | 0 |
-| crawled | 2 |
-|   crawl: ok | 1 |
-|   crawl: unreachable | 1 |
+| crawled | 7 |
+|   crawl: ok | 7 |
 | probes that resolved to a real site | 0 |
-| v6 classified | 1 |
+| v6 classified | 7 |
 | carried to next run (unclassified) | 0 |
 | carried to next run (uncrawled) | 0 |
 | V6 QUALIFIED | 0 |
@@ -29,16 +28,16 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | stage | count |
 |---|---|
-| candidates crawled | 933 |
-| crawled ok | 560 |
-| v6 classified | 560 |
+| candidates crawled | 940 |
+| crawled ok | 567 |
+| v6 classified | 567 |
 | v6 qualified | 21 |
 
 ## Crawl outcomes (net-new candidates only)
 
 | status | count |
 |---|---|
-| ok | 560 |
+| ok | 567 |
 | unreachable | 226 |
 | unregistered | 79 |
 | thin | 28 |
@@ -51,7 +50,7 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | channel | classified | qualified | rate |
 |---|---|---|---|
 | L12-exalike-gen2 | 503 | 21 | 4.2% |
-| L10-partners | 53 | 0 | 0.0% |
+| L10-partners | 60 | 0 | 0.0% |
 | L11-hiring-agent | 1 | 0 | 0.0% |
 | L8-linked | 3 | 0 | 0.0% |
 
@@ -61,14 +60,14 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | reason | count |
 |---|---|
-| lead_or_appointment_pricing | 188 |
+| lead_or_appointment_pricing | 189 |
 | seo_or_ranking_agency | 85 |
-| unrelated | 74 |
-| service_to_call_receiver | 73 |
-| no_clear_signal | 43 |
-| end_advertiser | 26 |
+| unrelated | 75 |
+| service_to_call_receiver | 74 |
+| no_clear_signal | 44 |
+| end_advertiser | 28 |
 | directory_or_content | 26 |
-| software_or_crm | 17 |
+| software_or_crm | 18 |
 | coach_or_consultant | 3 |
 | recruiting | 2 |
 | diy_ads_or_setup | 2 |
