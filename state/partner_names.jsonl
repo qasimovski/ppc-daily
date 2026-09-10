@@ -1532,3 +1532,17 @@
 {"name": "Bravo Roofing llc", "norm": "bravo roofing", "domain": "bravoroofing.com", "how": "guess:bravoroofing.com", "source_url": "https://renuehome.com/partners", "ts": "2026-09-10T01:28:44Z"}
 {"name": "Brothers Roofing", "norm": "brothers roofing", "domain": "brothersroofing.com", "how": "guess:brothersroofing.com", "source_url": "https://renuehome.com/partners", "ts": "2026-09-10T01:28:44Z"}
 {"name": "Brower Mechanical", "norm": "brower mechanical", "domain": "browermechanical.com", "how": "guess:browermechanical.com", "source_url": "https://renuehome.com/partners", "ts": "2026-09-10T01:28:44Z"}
+{"name": "Jet Media", "norm": "jet media", "domain": null, "how": "unresolved:generic-name", "source_url": "https://selectmypolicy.com/partners", "ts": "2026-09-10T01:30:42Z"}
+{"name": "Kim Wilhelm DBA Final Expense Direct", "norm": "kim wilhelm final expense direct", "domain": null, "how": "unresolved:search-miss", "source_url": "https://selectmypolicy.com/partners", "ts": "2026-09-10T01:30:48Z"}
+{"name": "KO Marketing", "norm": "ko marketing", "domain": null, "how": "unresolved:generic-name", "source_url": "https://selectmypolicy.com/partners", "ts": "2026-09-10T01:30:50Z"}
+{"name": "Lead BOA", "norm": "lead boa", "domain": null, "how": "unresolved:generic-name", "source_url": "https://selectmypolicy.com/partners", "ts": "2026-09-10T01:30:52Z"}
+{"name": "Lead Emblem, LLC", "norm": "lead emblem", "domain": null, "how": "unresolved:search-miss", "source_url": "https://selectmypolicy.com/partners", "ts": "2026-09-10T01:30:59Z"}
+{"name": "Lead Genesis Partners, LLC", "norm": "lead genesis partners", "domain": "leadgenesis.com", "how": "search", "source_url": "https://selectmypolicy.com/partners", "ts": "2026-09-10T01:31:05Z"}
+{"name": "LeadGen Network", "norm": "leadgen network", "domain": "mapquest.com", "how": "search", "source_url": "https://selectmypolicy.com/partners", "ts": "2026-09-10T01:31:18Z"}
+{"name": "Lovera Marketing, LLC", "norm": "lovera marketing", "domain": "buzzfile.com", "how": "search", "source_url": "https://selectmypolicy.com/partners", "ts": "2026-09-10T01:31:25Z"}
+{"name": "M&M Marketing Group II", "norm": "m&m marketing group ii", "domain": null, "how": "unresolved:generic-name", "source_url": "https://selectmypolicy.com/partners", "ts": "2026-09-10T01:31:27Z"}
+{"name": "M+F Marketing", "norm": "m f marketing", "domain": null, "how": "unresolved:generic-name", "source_url": "https://selectmypolicy.com/partners", "ts": "2026-09-10T01:31:29Z"}
+{"name": "Madrivo Media LLC", "norm": "madrivo media", "domain": "madrivo.com", "how": "search", "source_url": "https://selectmypolicy.com/partners", "ts": "2026-09-10T01:31:52Z"}
+{"name": "Thrive Marketing", "norm": "thrive marketing", "domain": "thrivemarketingllc.com", "how": "guess:thrivemarketingllc.com", "source_url": "https://selectmypolicy.com/partners", "ts": "2026-09-10T01:31:52Z"}
+{"name": "Time To Leads", "norm": "time to leads", "domain": "time-to-leads.com", "how": "guess:time-to-leads.com", "source_url": "https://selectmypolicy.com/partners", "ts": "2026-09-10T01:31:52Z"}
+{"name": "Voyant Digital Media Group", "norm": "voyant digital media group", "domain": "voyantdigitalmediagroup.com", "how": "guess:voyantdigitalmediagroup.com", "source_url": "https://selectmypolicy.com/partners", "ts": "2026-09-10T01:31:52Z"}
