@@ -1446,3 +1446,10 @@
 {"name": "Bank of America", "norm": "bank america", "domain": "bankofamerica.com", "how": "search", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-10T01:06:38Z"}
 {"name": "Linear Home Loans", "norm": "linear home loans", "domain": "linearhomeloans.com", "how": "guess:linearhomeloans.com", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-10T01:06:38Z"}
 {"name": "Live Oak Bank", "norm": "live oak bank", "domain": "liveoakbank.com", "how": "guess:liveoakbank.com", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-10T01:06:38Z"}
+{"name": "Allegiance Portfolio Services", "norm": "allegiance portfolio services", "domain": "progressiveagent.com", "how": "search", "source_url": "https://everquote.com/partners", "ts": "2026-09-10T01:09:00Z"}
+{"name": "AllWebLeads", "norm": "allwebleads", "domain": "insuranceleadsguide.com", "how": "search", "source_url": "https://everquote.com/partners", "ts": "2026-09-10T01:09:07Z"}
+{"name": "AP of South Florida, LLC", "norm": "ap south florida", "domain": "justia.com", "how": "search", "source_url": "https://everquote.com/partners", "ts": "2026-09-10T01:09:14Z"}
+{"name": "The Baldwin Group", "norm": "baldwin group", "domain": "baldwingroup.com", "how": "guess:baldwingroup.com", "source_url": "https://everquote.com/partners", "ts": "2026-09-10T01:09:14Z"}
+{"name": "Titan", "norm": "titan", "domain": "titan.com", "how": "guess:titan.com", "source_url": "https://everquote.com/partners", "ts": "2026-09-10T01:09:14Z"}
+{"name": "TopTier LLC", "norm": "toptier", "domain": "toptier.com", "how": "guess:toptier.com", "source_url": "https://everquote.com/partners", "ts": "2026-09-10T01:09:14Z"}
+{"name": "TRANZACT", "norm": "tranzact", "domain": "tranzact.com", "how": "guess:tranzact.com", "source_url": "https://everquote.com/partners", "ts": "2026-09-10T01:09:14Z"}
