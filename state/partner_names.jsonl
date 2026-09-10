@@ -1503,3 +1503,8 @@
 {"name": "CarFinance.com", "norm": "carfinance com", "domain": "carfinance.com", "how": "literal", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-10T01:20:12Z"}
 {"name": "DriveTime", "norm": "drivetime", "domain": "drivetime.com", "how": "guess:drivetime.com", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-10T01:20:12Z"}
 {"name": "Edmunds", "norm": "edmunds", "domain": "edmunds.net", "how": "guess:edmunds.net", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-10T01:20:12Z"}
+{"name": "Allison Carew NPN 21055681", "norm": "allison carew npn 21055681", "domain": null, "how": "unresolved:search-miss", "source_url": "https://quotelab.com/marketing-partners", "ts": "2026-09-10T01:23:39Z"}
+{"name": "American Banks", "norm": "american banks", "domain": "apnews.com", "how": "search", "source_url": "https://quotelab.com/marketing-partners", "ts": "2026-09-10T01:23:44Z"}
+{"name": "Efinancial", "norm": "efinancial", "domain": "efinancial.com", "how": "guess:efinancial.com", "source_url": "https://quotelab.com/marketing-partners", "ts": "2026-09-10T01:23:44Z"}
+{"name": "EmblemHealth", "norm": "emblemhealth", "domain": "emblemhealth.com", "how": "guess:emblemhealth.com", "source_url": "https://quotelab.com/marketing-partners", "ts": "2026-09-10T01:23:44Z"}
+{"name": "Empire", "norm": "empire", "domain": "empireinc.com", "how": "guess:empireinc.com", "source_url": "https://quotelab.com/marketing-partners", "ts": "2026-09-10T01:23:44Z"}
