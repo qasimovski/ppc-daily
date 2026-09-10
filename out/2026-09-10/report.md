@@ -7,19 +7,18 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | stage | count |
 |---|---|
 | inbox candidates | 0 |
-| partner-list names resolved -> candidates | 9 -> 7 |
+| partner-list names resolved -> candidates | 0 -> 0 |
 | hiring postings read -> candidates | 0 -> 0 |
 | linked-domain candidates | 0 |
 | search requests | 0 |
-| raw finds (search) | 9 |
+| raw finds (search) | 0 |
 | constructed domains probed | 0 |
-| net-new candidates after exclusion index | 7 |
-|   of which from search | 7 |
+| net-new candidates after exclusion index | 0 |
+|   of which from search | 0 |
 |   of which from probing | 0 |
-| crawled | 7 |
-|   crawl: ok | 7 |
+| crawled | 0 |
 | probes that resolved to a real site | 0 |
-| v6 classified | 7 |
+| v6 classified | 0 |
 | carried to next run (unclassified) | 0 |
 | carried to next run (uncrawled) | 0 |
 | V6 QUALIFIED | 0 |
