@@ -1466,3 +1466,12 @@
 {"name": "Custom Media", "norm": "custom media", "domain": "custom-media.com", "how": "guess:custom-media.com", "source_url": "https://koalatywindows.com/quote", "ts": "2026-09-10T01:11:48Z"}
 {"name": "Direct Agents", "norm": "direct agents", "domain": "directagents.com", "how": "guess:directagents.com", "source_url": "https://koalatywindows.com/quote", "ts": "2026-09-10T01:11:48Z"}
 {"name": "Direct Exteriors", "norm": "direct exteriors", "domain": "directexteriors.com", "how": "guess:directexteriors.com", "source_url": "https://koalatywindows.com/quote", "ts": "2026-09-10T01:11:48Z"}
+{"name": "Performance Monitoring Tools", "norm": "performance monitoring tools", "domain": "hud.io", "how": "search", "source_url": "https://mariosroofing.com/privacy-policy", "ts": "2026-09-10T01:13:42Z"}
+{"name": "123 Clothes", "norm": "123 clothes", "domain": "amazon.com.br", "how": "search", "source_url": "https://liheapassistance.org/marketing-partners", "ts": "2026-09-10T01:13:48Z"}
+{"name": "Auto Claim Center", "norm": "auto claim center", "domain": "stedi.com", "how": "search", "source_url": "https://liheapassistance.org/marketing-partners", "ts": "2026-09-10T01:13:54Z"}
+{"name": "Benefit Guides", "norm": "benefit guides", "domain": "irmc.org", "how": "search", "source_url": "https://liheapassistance.org/marketing-partners", "ts": "2026-09-10T01:13:59Z"}
+{"name": "Big Sky Data LLC", "norm": "big sky data", "domain": null, "how": "unresolved:generic-name", "source_url": "https://liheapassistance.org/marketing-partners", "ts": "2026-09-10T01:14:02Z"}
+{"name": "Brilliant Solar", "norm": "brilliant solar", "domain": "mybrilliantsolar.com", "how": "search", "source_url": "https://liheapassistance.org/marketing-partners", "ts": "2026-09-10T01:14:08Z"}
+{"name": "Clear Path", "norm": "clear path", "domain": "clearpathgps.com", "how": "search", "source_url": "https://liheapassistance.org/marketing-partners", "ts": "2026-09-10T01:14:30Z"}
+{"name": "Ad Networks", "norm": "ad networks", "domain": "adnetworksllc.com", "how": "guess:adnetworksllc.com", "source_url": "https://mariosroofing.com/privacy-policy", "ts": "2026-09-10T01:14:30Z"}
+{"name": "Testing Tools", "norm": "testing tools", "domain": "testingtools.com", "how": "guess:testingtools.com", "source_url": "https://mariosroofing.com/privacy-policy", "ts": "2026-09-10T01:14:30Z"}
