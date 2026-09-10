@@ -1453,3 +1453,16 @@
 {"name": "Titan", "norm": "titan", "domain": "titan.com", "how": "guess:titan.com", "source_url": "https://everquote.com/partners", "ts": "2026-09-10T01:09:14Z"}
 {"name": "TopTier LLC", "norm": "toptier", "domain": "toptier.com", "how": "guess:toptier.com", "source_url": "https://everquote.com/partners", "ts": "2026-09-10T01:09:14Z"}
 {"name": "TRANZACT", "norm": "tranzact", "domain": "tranzact.com", "how": "guess:tranzact.com", "source_url": "https://everquote.com/partners", "ts": "2026-09-10T01:09:14Z"}
+{"name": "Let's Make a Lead, LLC", "norm": "let s make lead", "domain": "mapquest.com", "how": "search", "source_url": "https://fastautoquote.org/marketing-partners", "ts": "2026-09-10T01:11:05Z"}
+{"name": "LS Lead Gen", "norm": "ls lead gen", "domain": null, "how": "unresolved:generic-name", "source_url": "https://fastautoquote.org/marketing-partners", "ts": "2026-09-10T01:11:08Z"}
+{"name": "Mark Land Media", "norm": "mark land media", "domain": null, "how": "unresolved:search-miss", "source_url": "https://fastautoquote.org/marketing-partners", "ts": "2026-09-10T01:11:30Z"}
+{"name": "Max Media Marketing", "norm": "max media marketing", "domain": null, "how": "unresolved:generic-name", "source_url": "https://fastautoquote.org/marketing-partners", "ts": "2026-09-10T01:11:33Z"}
+{"name": "Medical Marketing Moguls LLC", "norm": "medical marketing moguls", "domain": null, "how": "unresolved:search-miss", "source_url": "https://fastautoquote.org/marketing-partners", "ts": "2026-09-10T01:11:40Z"}
+{"name": "MedicareMedigap Direct", "norm": "medicaremedigap direct", "domain": null, "how": "unresolved:search-miss", "source_url": "https://fastautoquote.org/marketing-partners", "ts": "2026-09-10T01:11:46Z"}
+{"name": "MT Lead Media", "norm": "mt lead media", "domain": null, "how": "unresolved:generic-name", "source_url": "https://fastautoquote.org/marketing-partners", "ts": "2026-09-10T01:11:48Z"}
+{"name": "Bright Solar Marketing", "norm": "bright solar marketing", "domain": "brightsolarmarketing.com", "how": "guess:brightsolarmarketing.com", "source_url": "https://koalatywindows.com/quote", "ts": "2026-09-10T01:11:48Z"}
+{"name": "Contractors Direct", "norm": "contractors direct", "domain": "contractorsdirect.com", "how": "guess:contractorsdirect.com", "source_url": "https://koalatywindows.com/quote", "ts": "2026-09-10T01:11:48Z"}
+{"name": "Crisp Marketing", "norm": "crisp marketing", "domain": "crispmarketing.com", "how": "guess:crispmarketing.com", "source_url": "https://koalatywindows.com/quote", "ts": "2026-09-10T01:11:48Z"}
+{"name": "Custom Media", "norm": "custom media", "domain": "custom-media.com", "how": "guess:custom-media.com", "source_url": "https://koalatywindows.com/quote", "ts": "2026-09-10T01:11:48Z"}
+{"name": "Direct Agents", "norm": "direct agents", "domain": "directagents.com", "how": "guess:directagents.com", "source_url": "https://koalatywindows.com/quote", "ts": "2026-09-10T01:11:48Z"}
+{"name": "Direct Exteriors", "norm": "direct exteriors", "domain": "directexteriors.com", "how": "guess:directexteriors.com", "source_url": "https://koalatywindows.com/quote", "ts": "2026-09-10T01:11:48Z"}
