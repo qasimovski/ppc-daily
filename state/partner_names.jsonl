@@ -1575,3 +1575,8 @@
 {"name": "United of Omaha Life Insurance", "norm": "united omaha life insurance", "domain": "annuityadvantage.com", "how": "search", "source_url": "https://www.coveragebeacon.com/marketing-partners", "ts": "2026-09-10T13:09:13Z"}
 {"name": "Advance Client Solutions (ACS", "norm": "advance client solutions acs", "domain": null, "how": "unresolved:search-miss", "source_url": "https://www.coveragebeacon.com/marketing-partners", "ts": "2026-09-10T13:09:21Z"}
 {"name": "NameMyPremium / NMP Insurance Services, LLC", "norm": "namemypremium nmp insurance services", "domain": null, "how": "unresolved:search-miss", "source_url": "https://www.coveragebeacon.com/marketing-partners", "ts": "2026-09-10T13:09:29Z"}
+{"name": "Virginia", "norm": "virginia", "domain": "virginia.org", "how": "search", "source_url": "https://www.medicaresolutions.com", "ts": "2026-09-10T13:11:22Z"}
+{"name": "Washington", "norm": "washington", "domain": "washingtonpost.com", "how": "search", "source_url": "https://www.medicaresolutions.com", "ts": "2026-09-10T13:11:36Z"}
+{"name": "and New York", "norm": "and new york", "domain": "24timezones.com", "how": "search", "source_url": "https://www.medicaresolutions.com", "ts": "2026-09-10T13:11:44Z"}
+{"name": "Social Security number", "norm": "social security number", "domain": "id.me", "how": "search", "source_url": "https://www.medicaresolutions.com", "ts": "2026-09-10T13:12:10Z"}
+{"name": "COLLECTIVE", "norm": "collective", "domain": "collective.com", "how": "guess:collective.com", "source_url": "https://www.quinstreet.com/terms-of-use", "ts": "2026-09-10T13:12:10Z"}
