@@ -1580,3 +1580,6 @@
 {"name": "and New York", "norm": "and new york", "domain": "24timezones.com", "how": "search", "source_url": "https://www.medicaresolutions.com", "ts": "2026-09-10T13:11:44Z"}
 {"name": "Social Security number", "norm": "social security number", "domain": "id.me", "how": "search", "source_url": "https://www.medicaresolutions.com", "ts": "2026-09-10T13:12:10Z"}
 {"name": "COLLECTIVE", "norm": "collective", "domain": "collective.com", "how": "guess:collective.com", "source_url": "https://www.quinstreet.com/terms-of-use", "ts": "2026-09-10T13:12:10Z"}
+{"name": "American Continental", "norm": "american continental", "domain": "planmedigap.com", "how": "search", "source_url": "https://www.quotelab.com/marketing-partners.html", "ts": "2026-09-10T13:16:10Z"}
+{"name": "American Direct Business Insurance", "norm": "american direct business insurance", "domain": "mapquest.com", "how": "search", "source_url": "https://www.quotelab.com/marketing-partners.html", "ts": "2026-09-10T13:16:18Z"}
+{"name": "Encompass", "norm": "encompass", "domain": "encompass.io", "how": "guess:encompass.io", "source_url": "https://www.quotelab.com/marketing-partners.html", "ts": "2026-09-10T13:16:18Z"}

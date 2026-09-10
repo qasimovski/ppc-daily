@@ -7,20 +7,20 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | stage | count |
 |---|---|
 | inbox candidates | 0 |
-| partner-list names resolved -> candidates | 5 -> 5 |
+| partner-list names resolved -> candidates | 3 -> 2 |
 | hiring postings read -> candidates | 0 -> 0 |
 | linked-domain candidates | 0 |
 | search requests | 0 |
-| raw finds (search) | 5 |
+| raw finds (search) | 3 |
 | constructed domains probed | 0 |
-| net-new candidates after exclusion index | 5 |
-|   of which from search | 5 |
+| net-new candidates after exclusion index | 2 |
+|   of which from search | 2 |
 |   of which from probing | 0 |
-| crawled | 5 |
-|   crawl: ok | 3 |
-|   crawl: unreachable | 2 |
+| crawled | 2 |
+|   crawl: ok | 1 |
+|   crawl: unreachable | 1 |
 | probes that resolved to a real site | 0 |
-| v6 classified | 3 |
+| v6 classified | 1 |
 | carried to next run (unclassified) | 0 |
 | carried to next run (uncrawled) | 0 |
 | V6 QUALIFIED | 0 |
@@ -29,17 +29,17 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | stage | count |
 |---|---|
-| candidates crawled | 931 |
-| crawled ok | 559 |
-| v6 classified | 559 |
+| candidates crawled | 933 |
+| crawled ok | 560 |
+| v6 classified | 560 |
 | v6 qualified | 21 |
 
 ## Crawl outcomes (net-new candidates only)
 
 | status | count |
 |---|---|
-| ok | 559 |
-| unreachable | 225 |
+| ok | 560 |
+| unreachable | 226 |
 | unregistered | 79 |
 | thin | 28 |
 | redirect_offdomain | 22 |
@@ -51,7 +51,7 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | channel | classified | qualified | rate |
 |---|---|---|---|
 | L12-exalike-gen2 | 503 | 21 | 4.2% |
-| L10-partners | 52 | 0 | 0.0% |
+| L10-partners | 53 | 0 | 0.0% |
 | L11-hiring-agent | 1 | 0 | 0.0% |
 | L8-linked | 3 | 0 | 0.0% |
 
@@ -63,7 +63,7 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 |---|---|
 | lead_or_appointment_pricing | 188 |
 | seo_or_ranking_agency | 85 |
-| unrelated | 73 |
+| unrelated | 74 |
 | service_to_call_receiver | 73 |
 | no_clear_signal | 43 |
 | end_advertiser | 26 |
