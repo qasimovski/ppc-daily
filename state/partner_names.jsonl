@@ -1475,3 +1475,16 @@
 {"name": "Clear Path", "norm": "clear path", "domain": "clearpathgps.com", "how": "search", "source_url": "https://liheapassistance.org/marketing-partners", "ts": "2026-09-10T01:14:30Z"}
 {"name": "Ad Networks", "norm": "ad networks", "domain": "adnetworksllc.com", "how": "guess:adnetworksllc.com", "source_url": "https://mariosroofing.com/privacy-policy", "ts": "2026-09-10T01:14:30Z"}
 {"name": "Testing Tools", "norm": "testing tools", "domain": "testingtools.com", "how": "guess:testingtools.com", "source_url": "https://mariosroofing.com/privacy-policy", "ts": "2026-09-10T01:14:30Z"}
+{"name": "Alpha Health Leads", "norm": "alpha health leads", "domain": null, "how": "unresolved:search-miss", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-10T01:16:28Z"}
+{"name": "American Savers Plan", "norm": "american savers plan", "domain": null, "how": "unresolved:search-miss", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-10T01:16:34Z"}
+{"name": "Americare Group", "norm": "americare group", "domain": "americare.com", "how": "search", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-10T01:16:40Z"}
+{"name": "Americare/American Enterprise", "norm": "americare american enterprise", "domain": null, "how": "unresolved:search-miss", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-10T01:16:47Z"}
+{"name": "Arizona General", "norm": "arizona general", "domain": "commonspirit.org", "how": "search", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-10T01:16:53Z"}
+{"name": "Atlantic Indemnity", "norm": "atlantic indemnity", "domain": "icij.org", "how": "search", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-10T01:17:15Z"}
+{"name": "InsuranceQuotes Inc", "norm": "insurancequotes", "domain": "insurancequotes.com", "how": "guess:insurancequotes.com", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-10T01:17:15Z"}
+{"name": "Keystone", "norm": "keystone", "domain": "keystone.com", "how": "guess:keystone.com", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-10T01:17:15Z"}
+{"name": "LiftLogic", "norm": "liftlogic", "domain": "liftlogic.com", "how": "guess:liftlogic.com", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-10T01:17:15Z"}
+{"name": "MyHealthAngel", "norm": "myhealthangel", "domain": "myhealthangel.com", "how": "guess:myhealthangel.com", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-10T01:17:15Z"}
+{"name": "MyHealthAngel.com", "norm": "myhealthangel com", "domain": "myhealthangel.com", "how": "literal", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-10T01:17:15Z"}
+{"name": "Next Gen", "norm": "next gen", "domain": "nextgen.com", "how": "guess:nextgen.com", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-10T01:17:15Z"}
+{"name": "NextGen", "norm": "nextgen", "domain": "nextgen.com", "how": "guess:nextgen.com", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-10T01:17:15Z"}
