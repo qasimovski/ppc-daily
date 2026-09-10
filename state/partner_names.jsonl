@@ -1568,3 +1568,10 @@
 {"name": "Homesite", "norm": "homesite", "domain": "homesiteinc.com", "how": "guess:homesiteinc.com", "source_url": "https://tunepolicy.com/partners", "ts": "2026-09-10T13:07:03Z"}
 {"name": "Simple Quote", "norm": "simple quote", "domain": "simplequote.io", "how": "guess:simplequote.io", "source_url": "https://tunepolicy.com/partners", "ts": "2026-09-10T13:07:03Z"}
 {"name": "TriState", "norm": "tristate", "domain": "tristate.com", "how": "guess:tristate.com", "source_url": "https://tunepolicy.com/partners", "ts": "2026-09-10T13:07:03Z"}
+{"name": "Pinnacle Life Insurance", "norm": "pinnacle life insurance", "domain": "com.gh", "how": "search", "source_url": "https://www.coveragebeacon.com/marketing-partners", "ts": "2026-09-10T13:08:47Z"}
+{"name": "Sagicor Life Insurance", "norm": "sagicor life insurance", "domain": "ambest.com", "how": "search", "source_url": "https://www.coveragebeacon.com/marketing-partners", "ts": "2026-09-10T13:08:55Z"}
+{"name": "SBLI (Savings Bank Life Insurance", "norm": "sbli savings bank life insurance", "domain": "dfmurphy.com", "how": "search", "source_url": "https://www.coveragebeacon.com/marketing-partners", "ts": "2026-09-10T13:09:03Z"}
+{"name": "Senior Life Insurance Company", "norm": "senior life insurance company", "domain": null, "how": "unresolved:generic-name", "source_url": "https://www.coveragebeacon.com/marketing-partners", "ts": "2026-09-10T13:09:05Z"}
+{"name": "United of Omaha Life Insurance", "norm": "united omaha life insurance", "domain": "annuityadvantage.com", "how": "search", "source_url": "https://www.coveragebeacon.com/marketing-partners", "ts": "2026-09-10T13:09:13Z"}
+{"name": "Advance Client Solutions (ACS", "norm": "advance client solutions acs", "domain": null, "how": "unresolved:search-miss", "source_url": "https://www.coveragebeacon.com/marketing-partners", "ts": "2026-09-10T13:09:21Z"}
+{"name": "NameMyPremium / NMP Insurance Services, LLC", "norm": "namemypremium nmp insurance services", "domain": null, "how": "unresolved:search-miss", "source_url": "https://www.coveragebeacon.com/marketing-partners", "ts": "2026-09-10T13:09:29Z"}
