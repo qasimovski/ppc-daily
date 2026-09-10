@@ -1443,3 +1443,6 @@
 {"name": "Insurance Marketplace", "norm": "insurance marketplace", "domain": "insurancemarketplace.net", "how": "guess:insurancemarketplace.net", "source_url": "https://14.us-unemployment-resources.com/marketing-partners", "ts": "2026-09-09T13:16:32Z"}
 {"name": "National Health Advisors", "norm": "national health advisors", "domain": "nationalhealthadvisors.com", "how": "guess:nationalhealthadvisors.com", "source_url": "https://14.us-unemployment-resources.com/marketing-partners", "ts": "2026-09-09T13:16:32Z"}
 {"name": "SelectMyPolicy.com", "norm": "selectmypolicy com", "domain": "selectmypolicy.com", "how": "literal", "source_url": "https://affordableseniorsinsurance.com/marketing-partners", "ts": "2026-09-09T13:19:26Z"}
+{"name": "Bank of America", "norm": "bank america", "domain": "bankofamerica.com", "how": "search", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-10T01:06:38Z"}
+{"name": "Linear Home Loans", "norm": "linear home loans", "domain": "linearhomeloans.com", "how": "guess:linearhomeloans.com", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-10T01:06:38Z"}
+{"name": "Live Oak Bank", "norm": "live oak bank", "domain": "liveoakbank.com", "how": "guess:liveoakbank.com", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-10T01:06:38Z"}
