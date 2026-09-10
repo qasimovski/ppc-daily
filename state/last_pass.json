@@ -1,10 +1,10 @@
 {
  "run_date": "2026-09-10",
- "finished_at": "2026-09-10T13:21:35Z",
+ "finished_at": "2026-09-10T13:24:02Z",
  "replenished_queries": 0,
  "replenished_tokens": 0,
  "linked_candidates_queued": 0,
- "minutes": 2.4,
+ "minutes": 2.3,
  "net_new_candidates": 0,
  "crawled_ok": 0,
  "v6_classified": 0,
