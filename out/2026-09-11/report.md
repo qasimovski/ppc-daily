@@ -7,9 +7,9 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | stage | count |
 |---|---|
 | inbox candidates | 0 |
-| partner-list names resolved -> candidates | 0 -> 0 |
+| partner-list names resolved -> candidates | 1 -> 1 |
 | hiring postings read -> candidates | 0 -> 0 |
-| linked-domain candidates | 1 |
+| linked-domain candidates | 0 |
 | search requests | 0 |
 | raw finds (search) | 1 |
 | constructed domains probed | 0 |
@@ -17,7 +17,7 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 |   of which from search | 1 |
 |   of which from probing | 0 |
 | crawled | 1 |
-|   crawl: thin | 1 |
+|   crawl: redirect_offdomain | 1 |
 | probes that resolved to a real site | 0 |
 | v6 classified | 0 |
 | carried to next run (unclassified) | 0 |
@@ -28,7 +28,7 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | stage | count |
 |---|---|
-| candidates crawled | 77 |
+| candidates crawled | 78 |
 | crawled ok | 55 |
 | v6 classified | 55 |
 | v6 qualified | 5 |
@@ -38,7 +38,7 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | status | count |
 |---|---|
 | ok | 55 |
-| redirect_offdomain | 10 |
+| redirect_offdomain | 11 |
 | thin | 6 |
 | unreachable | 5 |
 | unregistered | 1 |
