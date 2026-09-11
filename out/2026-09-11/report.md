@@ -7,21 +7,21 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | stage | count |
 |---|---|
 | inbox candidates | 0 |
-| partner-list names resolved -> candidates | 7 -> 7 |
+| partner-list names resolved -> candidates | 8 -> 6 |
 | hiring postings read -> candidates | 0 -> 0 |
 | linked-domain candidates | 0 |
 | search requests | 0 |
-| raw finds (search) | 7 |
+| raw finds (search) | 8 |
 | constructed domains probed | 0 |
-| net-new candidates after exclusion index | 7 |
-|   of which from search | 7 |
+| net-new candidates after exclusion index | 6 |
+|   of which from search | 6 |
 |   of which from probing | 0 |
-| crawled | 7 |
-|   crawl: ok | 4 |
-|   crawl: unreachable | 2 |
-|   crawl: redirect_offdomain | 1 |
+| crawled | 6 |
+|   crawl: ok | 2 |
+|   crawl: thin | 2 |
+|   crawl: redirect_offdomain | 2 |
 | probes that resolved to a real site | 0 |
-| v6 classified | 4 |
+| v6 classified | 2 |
 | carried to next run (unclassified) | 0 |
 | carried to next run (uncrawled) | 0 |
 | V6 QUALIFIED | 0 |
@@ -30,25 +30,25 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | stage | count |
 |---|---|
-| candidates crawled | 26 |
-| crawled ok | 18 |
-| v6 classified | 18 |
+| candidates crawled | 32 |
+| crawled ok | 20 |
+| v6 classified | 20 |
 | v6 qualified | 0 |
 
 ## Crawl outcomes (net-new candidates only)
 
 | status | count |
 |---|---|
-| ok | 18 |
+| ok | 20 |
 | unreachable | 4 |
-| redirect_offdomain | 2 |
-| thin | 2 |
+| redirect_offdomain | 4 |
+| thin | 4 |
 
 ## v6 qualify rate per discovery channel
 
 | channel | classified | qualified | rate |
 |---|---|---|---|
-| L10-partners | 18 | 0 | 0.0% |
+| L10-partners | 20 | 0 | 0.0% |
 
 **V6 QUALIFIED TODAY: 0** (ICP-clean: 0). Cumulative across all daily runs: 125.
 
@@ -56,8 +56,8 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | reason | count |
 |---|---|
-| end_advertiser | 6 |
-| unrelated | 4 |
+| end_advertiser | 7 |
+| unrelated | 5 |
 | lead_or_appointment_pricing | 3 |
 | service_to_call_receiver | 2 |
 | seo_or_ranking_agency | 2 |
