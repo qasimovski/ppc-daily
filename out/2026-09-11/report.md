@@ -7,22 +7,20 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | stage | count |
 |---|---|
 | inbox candidates | 0 |
-| partner-list names resolved -> candidates | 13 -> 8 |
+| partner-list names resolved -> candidates | 9 -> 6 |
 | hiring postings read -> candidates | 0 -> 0 |
 | linked-domain candidates | 0 |
 | search requests | 0 |
-| raw finds (search) | 13 |
+| raw finds (search) | 9 |
 | constructed domains probed | 0 |
-| net-new candidates after exclusion index | 8 |
-|   of which from search | 8 |
+| net-new candidates after exclusion index | 6 |
+|   of which from search | 6 |
 |   of which from probing | 0 |
-| crawled | 8 |
-|   crawl: ok | 5 |
-|   crawl: thin | 1 |
-|   crawl: unreachable | 1 |
-|   crawl: redirect_offdomain | 1 |
+| crawled | 6 |
+|   crawl: ok | 4 |
+|   crawl: redirect_offdomain | 2 |
 | probes that resolved to a real site | 0 |
-| v6 classified | 5 |
+| v6 classified | 4 |
 | carried to next run (unclassified) | 0 |
 | carried to next run (uncrawled) | 0 |
 | V6 QUALIFIED | 0 |
@@ -31,17 +29,17 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | stage | count |
 |---|---|
-| candidates crawled | 48 |
-| crawled ok | 31 |
-| v6 classified | 31 |
+| candidates crawled | 54 |
+| crawled ok | 35 |
+| v6 classified | 35 |
 | v6 qualified | 0 |
 
 ## Crawl outcomes (net-new candidates only)
 
 | status | count |
 |---|---|
-| ok | 31 |
-| redirect_offdomain | 6 |
+| ok | 35 |
+| redirect_offdomain | 8 |
 | unreachable | 5 |
 | thin | 5 |
 | unregistered | 1 |
@@ -50,7 +48,7 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | channel | classified | qualified | rate |
 |---|---|---|---|
-| L10-partners | 31 | 0 | 0.0% |
+| L10-partners | 35 | 0 | 0.0% |
 
 **V6 QUALIFIED TODAY: 0** (ICP-clean: 0). Cumulative across all daily runs: 125.
 
@@ -59,12 +57,13 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | reason | count |
 |---|---|
 | end_advertiser | 12 |
-| unrelated | 8 |
+| unrelated | 10 |
 | lead_or_appointment_pricing | 3 |
+| no_clear_signal | 3 |
 | service_to_call_receiver | 2 |
 | software_or_crm | 2 |
 | seo_or_ranking_agency | 2 |
-| no_clear_signal | 2 |
+| directory_or_content | 1 |
 
 ## Files
 
