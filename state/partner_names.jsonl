@@ -1652,3 +1652,5 @@
 {"name": "Lending Arts", "norm": "lending arts", "domain": "lendingarts.com", "how": "guess:lendingarts.com", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-11T01:21:29Z"}
 {"name": "LendingClub", "norm": "lendingclub", "domain": "lendingclub.com", "how": "guess:lendingclub.com", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-11T01:21:29Z"}
 {"name": "Facility", "norm": "facility", "domain": "facility.com", "how": "guess:facility.com", "source_url": "https://quotelab.com/marketing-partners", "ts": "2026-09-11T01:24:25Z"}
+{"name": "CarShield", "norm": "carshield", "domain": "carshield.com", "how": "search", "source_url": "https://ratefinder.com/partners.html", "ts": "2026-09-11T01:27:08Z"}
+{"name": "Sun Edison", "norm": "sun edison", "domain": "sun-edison.com", "how": "guess:sun-edison.com", "source_url": "https://ratefinder.com/partners.html", "ts": "2026-09-11T01:27:08Z"}
