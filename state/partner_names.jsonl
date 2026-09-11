@@ -1654,3 +1654,20 @@
 {"name": "Facility", "norm": "facility", "domain": "facility.com", "how": "guess:facility.com", "source_url": "https://quotelab.com/marketing-partners", "ts": "2026-09-11T01:24:25Z"}
 {"name": "CarShield", "norm": "carshield", "domain": "carshield.com", "how": "search", "source_url": "https://ratefinder.com/partners.html", "ts": "2026-09-11T01:27:08Z"}
 {"name": "Sun Edison", "norm": "sun edison", "domain": "sun-edison.com", "how": "guess:sun-edison.com", "source_url": "https://ratefinder.com/partners.html", "ts": "2026-09-11T01:27:08Z"}
+{"name": "Amazing Exteriors - Corporate", "norm": "amazing exteriors corporate", "domain": null, "how": "unresolved:search-miss", "source_url": "https://renuehome.com/partners", "ts": "2026-09-11T01:28:34Z"}
+{"name": "Amazing Walk-In Tubs", "norm": "amazing walk in tubs", "domain": "amazingwalkintubsandshowers.com", "how": "search", "source_url": "https://renuehome.com/partners", "ts": "2026-09-11T01:28:40Z"}
+{"name": "America Green Roof Energy", "norm": "america green roof energy", "domain": "modernize.com", "how": "search", "source_url": "https://renuehome.com/partners", "ts": "2026-09-11T01:28:46Z"}
+{"name": "America Home Crafters Remodeling", "norm": "america home crafters remodeling", "domain": "houzz.com", "how": "search", "source_url": "https://renuehome.com/partners", "ts": "2026-09-11T01:28:53Z"}
+{"name": "American Home", "norm": "american home", "domain": null, "how": "unresolved:generic-name", "source_url": "https://renuehome.com/partners", "ts": "2026-09-11T01:28:55Z"}
+{"name": "American Home Improvements", "norm": "american home improvements", "domain": "angi.com", "how": "search", "source_url": "https://renuehome.com/partners", "ts": "2026-09-11T01:29:17Z"}
+{"name": "American Metal Roofs Northern Wisconsin", "norm": "american metal roofs northern wisconsin", "domain": null, "how": "unresolved:search-miss", "source_url": "https://renuehome.com/partners", "ts": "2026-09-11T01:29:25Z"}
+{"name": "American Metal Roofs-FC", "norm": "american metal roofs fc", "domain": null, "how": "unresolved:search-miss", "source_url": "https://renuehome.com/partners", "ts": "2026-09-11T01:29:31Z"}
+{"name": "American Remodeling Enterprises", "norm": "american remodeling enterprises", "domain": "tricountyareachamber.com", "how": "search", "source_url": "https://renuehome.com/partners", "ts": "2026-09-11T01:29:38Z"}
+{"name": "American Residential Warranty", "norm": "american residential warranty", "domain": "marketwatch.com", "how": "search", "source_url": "https://renuehome.com/partners", "ts": "2026-09-11T01:29:43Z"}
+{"name": "American Standard - SEM\\_QMP", "norm": "american standard sem qmp", "domain": "shopee.ph", "how": "search", "source_url": "https://renuehome.com/partners", "ts": "2026-09-11T01:29:49Z"}
+{"name": "Bullfrog Spas", "norm": "bullfrog spas", "domain": "bullfrogspas.com", "how": "guess:bullfrogspas.com", "source_url": "https://renuehome.com/partners", "ts": "2026-09-11T01:29:49Z"}
+{"name": "Bushland Roofing & Solar", "norm": "bushland roofing & solar", "domain": "bushlandroofingandsolar.com", "how": "guess:bushlandroofingandsolar.com", "source_url": "https://renuehome.com/partners", "ts": "2026-09-11T01:29:49Z"}
+{"name": "Buyerlink Inc", "norm": "buyerlink", "domain": "buyerlink.com", "how": "guess:buyerlink.com", "source_url": "https://renuehome.com/partners", "ts": "2026-09-11T01:29:49Z"}
+{"name": "Chesapeake Shores", "norm": "chesapeake shores", "domain": "chesapeakeshores.com", "how": "guess:chesapeakeshores.com", "source_url": "https://renuehome.com/partners", "ts": "2026-09-11T01:29:49Z"}
+{"name": "Clear Choice Home Improvements", "norm": "clear choice home improvements", "domain": "clearchoicehomeimprovements.com", "how": "guess:clearchoicehomeimprovements.com", "source_url": "https://renuehome.com/partners", "ts": "2026-09-11T01:29:49Z"}
+{"name": "Click Thesis", "norm": "click thesis", "domain": "clickthesis.com", "how": "guess:clickthesis.com", "source_url": "https://renuehome.com/partners", "ts": "2026-09-11T01:29:49Z"}
