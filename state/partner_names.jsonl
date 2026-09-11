@@ -1593,3 +1593,9 @@
 {"name": "Senior Select", "norm": "senior select", "domain": "senior-select.com", "how": "guess:senior-select.com", "source_url": "https://14.us-unemployment-resources.com/marketing-partners", "ts": "2026-09-10T13:18:46Z"}
 {"name": "Silverpoint Insurance", "norm": "silverpoint insurance", "domain": "silverpointinsurance.com", "how": "guess:silverpointinsurance.com", "source_url": "https://14.us-unemployment-resources.com/marketing-partners", "ts": "2026-09-10T13:18:46Z"}
 {"name": "Open Mortgage", "norm": "open mortgage", "domain": "open-mortgage.com", "how": "guess:open-mortgage.com", "source_url": "https://affordableseniorsinsurance.com/marketing-partners", "ts": "2026-09-11T01:04:38Z"}
+{"name": "Bank of Internet USA", "norm": "bank internet usa", "domain": "axosbank.com", "how": "search", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-11T01:06:48Z"}
+{"name": "Barton Creek Lending Group", "norm": "barton creek lending group", "domain": "bartoncreeklending.com", "how": "search", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-11T01:06:56Z"}
+{"name": "Base Rate Mortgage LLC", "norm": "base rate mortgage", "domain": "modex.com", "how": "search", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-11T01:07:02Z"}
+{"name": "Epic Funding", "norm": "epic funding", "domain": "epicfundingllc.com", "how": "guess:epicfundingllc.com", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-11T01:07:02Z"}
+{"name": "Integrite First Mortgage", "norm": "integrite first mortgage", "domain": "integritefirstmortgage.com", "how": "guess:integritefirstmortgage.com", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-11T01:07:02Z"}
+{"name": "NationsChoice Mortgage", "norm": "nationschoice mortgage", "domain": "nationschoicemortgage.com", "how": "guess:nationschoicemortgage.com", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-11T01:07:02Z"}
