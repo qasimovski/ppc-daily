@@ -1709,3 +1709,6 @@
 {"name": "American Insurance Agencies Direct", "norm": "american insurance agencies direct", "domain": null, "how": "unresolved:generic-name", "source_url": "https://www.quotelab.com/marketing-partners.html", "ts": "2026-09-11T13:11:15Z"}
 {"name": "Farmland", "norm": "farmland", "domain": "farmlandllc.com", "how": "guess:farmlandllc.com", "source_url": "https://www.quotelab.com/marketing-partners.html", "ts": "2026-09-11T13:11:15Z"}
 {"name": "Federal", "norm": "federal", "domain": "federalinc.com", "how": "guess:federalinc.com", "source_url": "https://www.quotelab.com/marketing-partners.html", "ts": "2026-09-11T13:11:15Z"}
+{"name": "BC PIPA", "norm": "bc pipa", "domain": "northstarit.ca", "how": "search", "source_url": "https://www.solarreviews.com/privacy-policy", "ts": "2026-09-11T13:13:27Z"}
+{"name": "BY USING THE SERVICES", "norm": "by using services", "domain": null, "how": "unresolved:search-miss", "source_url": "https://www.solarreviews.com/privacy-policy", "ts": "2026-09-11T13:13:36Z"}
+{"name": "AND THE UNITED KINGDOM", "norm": "and united kingdom", "domain": "as.com", "how": "search", "source_url": "https://www.solarreviews.com/privacy-policy", "ts": "2026-09-11T13:14:04Z"}
