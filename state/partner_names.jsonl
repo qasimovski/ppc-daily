@@ -1606,3 +1606,18 @@
 {"name": "Comparion", "norm": "comparion", "domain": "comparioninsurance.com", "how": "search", "source_url": "https://everquote.com/partners", "ts": "2026-09-11T01:10:20Z"}
 {"name": "Alfa Insurance", "norm": "alfa insurance", "domain": "alfainsurance.com", "how": "guess:alfainsurance.com", "source_url": "https://everquote.com/partners", "ts": "2026-09-11T01:10:20Z"}
 {"name": "All Saints Insurance LLC", "norm": "all saints insurance", "domain": "allsaintsinsurance.com", "how": "guess:allsaintsinsurance.com", "source_url": "https://everquote.com/partners", "ts": "2026-09-11T01:10:20Z"}
+{"name": "Partners Edge Network", "norm": "partners edge network", "domain": "mapquest.com", "how": "search", "source_url": "https://fastautoquote.org/marketing-partners", "ts": "2026-09-11T01:12:05Z"}
+{"name": "Refined Leads", "norm": "refined leads", "domain": "typeui.sh", "how": "search", "source_url": "https://fastautoquote.org/marketing-partners", "ts": "2026-09-11T01:12:11Z"}
+{"name": "RPM Direct", "norm": "rpm direct", "domain": null, "how": "unresolved:generic-name", "source_url": "https://fastautoquote.org/marketing-partners", "ts": "2026-09-11T01:12:14Z"}
+{"name": "Singularity Media", "norm": "singularity media", "domain": "singularitymedia.us", "how": "search", "source_url": "https://fastautoquote.org/marketing-partners", "ts": "2026-09-11T01:12:36Z"}
+{"name": "SNK Media", "norm": "snk media", "domain": null, "how": "unresolved:generic-name", "source_url": "https://fastautoquote.org/marketing-partners", "ts": "2026-09-11T01:12:38Z"}
+{"name": "Stratus Leads", "norm": "stratus leads", "domain": "ghostdraft.com", "how": "search", "source_url": "https://fastautoquote.org/marketing-partners", "ts": "2026-09-11T01:13:01Z"}
+{"name": "Encompass Leads", "norm": "encompass leads", "domain": "encompassleads.com", "how": "guess:encompassleads.com", "source_url": "https://koalatywindows.com/quote", "ts": "2026-09-11T01:13:01Z"}
+{"name": "Evizion Media Group", "norm": "evizion media group", "domain": "evizionmediagroup.com", "how": "guess:evizionmediagroup.com", "source_url": "https://koalatywindows.com/quote", "ts": "2026-09-11T01:13:01Z"}
+{"name": "Fitz Media Group LLC", "norm": "fitz media group", "domain": "fitzmediagroup.com", "how": "guess:fitzmediagroup.com", "source_url": "https://koalatywindows.com/quote", "ts": "2026-09-11T01:13:01Z"}
+{"name": "Follow My Lead", "norm": "follow my lead", "domain": "followmylead.com", "how": "guess:followmylead.com", "source_url": "https://koalatywindows.com/quote", "ts": "2026-09-11T01:13:01Z"}
+{"name": "Fresh Marketing", "norm": "fresh marketing", "domain": "fresh-marketing.com", "how": "guess:fresh-marketing.com", "source_url": "https://koalatywindows.com/quote", "ts": "2026-09-11T01:13:01Z"}
+{"name": "Fresh Tracks Marketing", "norm": "fresh tracks marketing", "domain": "freshtracksmarketing.com", "how": "guess:freshtracksmarketing.com", "source_url": "https://koalatywindows.com/quote", "ts": "2026-09-11T01:13:01Z"}
+{"name": "HeyDay Digital Media", "norm": "heyday digital media", "domain": "heydaydigitalmedia.com", "how": "guess:heydaydigitalmedia.com", "source_url": "https://koalatywindows.com/quote", "ts": "2026-09-11T01:13:01Z"}
+{"name": "High Performance Homes", "norm": "high performance homes", "domain": "highperformancehomes.net", "how": "guess:highperformancehomes.net", "source_url": "https://koalatywindows.com/quote", "ts": "2026-09-11T01:13:01Z"}
+{"name": "Home Improvement Leads", "norm": "home improvement leads", "domain": "homeimprovementleads.com", "how": "guess:homeimprovementleads.com", "source_url": "https://koalatywindows.com/quote", "ts": "2026-09-11T01:13:01Z"}
