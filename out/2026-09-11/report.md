@@ -7,22 +7,21 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | stage | count |
 |---|---|
 | inbox candidates | 0 |
-| partner-list names resolved -> candidates | 13 -> 9 |
+| partner-list names resolved -> candidates | 7 -> 7 |
 | hiring postings read -> candidates | 0 -> 0 |
 | linked-domain candidates | 0 |
 | search requests | 0 |
-| raw finds (search) | 13 |
+| raw finds (search) | 7 |
 | constructed domains probed | 0 |
-| net-new candidates after exclusion index | 9 |
-|   of which from search | 9 |
+| net-new candidates after exclusion index | 7 |
+|   of which from search | 7 |
 |   of which from probing | 0 |
-| crawled | 9 |
-|   crawl: ok | 5 |
-|   crawl: thin | 2 |
-|   crawl: unreachable | 1 |
+| crawled | 7 |
+|   crawl: ok | 4 |
+|   crawl: unreachable | 2 |
 |   crawl: redirect_offdomain | 1 |
 | probes that resolved to a real site | 0 |
-| v6 classified | 5 |
+| v6 classified | 4 |
 | carried to next run (unclassified) | 0 |
 | carried to next run (uncrawled) | 0 |
 | V6 QUALIFIED | 0 |
@@ -31,25 +30,25 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | stage | count |
 |---|---|
-| candidates crawled | 19 |
-| crawled ok | 14 |
-| v6 classified | 14 |
+| candidates crawled | 26 |
+| crawled ok | 18 |
+| v6 classified | 18 |
 | v6 qualified | 0 |
 
 ## Crawl outcomes (net-new candidates only)
 
 | status | count |
 |---|---|
-| ok | 14 |
-| unreachable | 2 |
+| ok | 18 |
+| unreachable | 4 |
+| redirect_offdomain | 2 |
 | thin | 2 |
-| redirect_offdomain | 1 |
 
 ## v6 qualify rate per discovery channel
 
 | channel | classified | qualified | rate |
 |---|---|---|---|
-| L10-partners | 14 | 0 | 0.0% |
+| L10-partners | 18 | 0 | 0.0% |
 
 **V6 QUALIFIED TODAY: 0** (ICP-clean: 0). Cumulative across all daily runs: 125.
 
@@ -57,11 +56,11 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | reason | count |
 |---|---|
-| end_advertiser | 5 |
-| unrelated | 3 |
-| lead_or_appointment_pricing | 2 |
+| end_advertiser | 6 |
+| unrelated | 4 |
+| lead_or_appointment_pricing | 3 |
+| service_to_call_receiver | 2 |
 | seo_or_ranking_agency | 2 |
-| service_to_call_receiver | 1 |
 | software_or_crm | 1 |
 
 ## Files
