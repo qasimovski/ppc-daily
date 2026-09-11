@@ -1693,3 +1693,15 @@
 {"name": "Agent Pipeline, LLC", "norm": "agent pipeline", "domain": "agentpipeline.com", "how": "guess:agentpipeline.com", "source_url": "https://theswitchboardmarketing.com/marketing-partners", "ts": "2026-09-11T01:35:02Z"}
 {"name": "AIMC, LLC", "norm": "aimc", "domain": "aimc.io", "how": "guess:aimc.io", "source_url": "https://theswitchboardmarketing.com/marketing-partners", "ts": "2026-09-11T01:35:02Z"}
 {"name": "AirStar Group LLC", "norm": "airstar group", "domain": "airstar-group.com", "how": "guess:airstar-group.com", "source_url": "https://theswitchboardmarketing.com/marketing-partners", "ts": "2026-09-11T01:35:02Z"}
+{"name": "1World Global", "norm": "1world global", "domain": null, "how": "unresolved:search-miss", "source_url": "https://wowhealthinsight.com/marketing-partners.html", "ts": "2026-09-11T13:04:29Z"}
+{"name": "AAA Medicare (Spring Venture Group", "norm": "aaa medicare spring venture group", "domain": null, "how": "unresolved:search-miss", "source_url": "https://wowhealthinsight.com/marketing-partners.html", "ts": "2026-09-11T13:04:36Z"}
+{"name": "APTA Care", "norm": "apta care", "domain": "aptahealth.com", "how": "search", "source_url": "https://wowhealthinsight.com/marketing-partners.html", "ts": "2026-09-11T13:04:51Z"}
+{"name": "AXA Equitable", "norm": "axa equitable", "domain": "longtermdisabilitylawyer.com", "how": "search", "source_url": "https://wowhealthinsight.com/marketing-partners.html", "ts": "2026-09-11T13:05:18Z"}
+{"name": "Allcare United", "norm": "allcare united", "domain": "allcareunited.com", "how": "guess:allcareunited.com", "source_url": "https://wowhealthinsight.com/marketing-partners.html", "ts": "2026-09-11T13:05:18Z"}
+{"name": "Allied Coverage", "norm": "allied coverage", "domain": "alliedcoverage.com", "how": "guess:alliedcoverage.com", "source_url": "https://wowhealthinsight.com/marketing-partners.html", "ts": "2026-09-11T13:05:18Z"}
+{"name": "Bennett FMO", "norm": "bennett fmo", "domain": "bennettfmo.com", "how": "guess:bennettfmo.com", "source_url": "https://wowhealthinsight.com/marketing-partners.html", "ts": "2026-09-11T13:05:18Z"}
+{"name": "CEGE", "norm": "cege", "domain": "cege.com", "how": "guess:cege.com", "source_url": "https://wowhealthinsight.com/marketing-partners.html", "ts": "2026-09-11T13:05:18Z"}
+{"name": "Connect Medicare Advantage", "norm": "connect medicare advantage", "domain": "connectmedicareadvantage.com", "how": "guess:connectmedicareadvantage.com", "source_url": "https://wowhealthinsight.com/marketing-partners.html", "ts": "2026-09-11T13:05:18Z"}
+{"name": "Conversely", "norm": "conversely", "domain": "conversely.io", "how": "guess:conversely.io", "source_url": "https://wowhealthinsight.com/marketing-partners.html", "ts": "2026-09-11T13:05:18Z"}
+{"name": "Cost-U-Less", "norm": "cost u less", "domain": "costuless.com", "how": "guess:costuless.com", "source_url": "https://wowhealthinsight.com/marketing-partners.html", "ts": "2026-09-11T13:05:18Z"}
+{"name": "Demo", "norm": "demo", "domain": "demo.com", "how": "guess:demo.com", "source_url": "https://wowhealthinsight.com/marketing-partners.html", "ts": "2026-09-11T13:05:18Z"}

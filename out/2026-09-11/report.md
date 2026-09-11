@@ -6,40 +6,40 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | stage | count |
 |---|---|
-| inbox candidates | 0 |
-| partner-list names resolved -> candidates | 8 -> 6 |
+| inbox candidates | 6 |
+| partner-list names resolved -> candidates | 10 -> 10 |
 | hiring postings read -> candidates | 0 -> 0 |
 | linked-domain candidates | 0 |
 | search requests | 0 |
-| raw finds (search) | 8 |
+| raw finds (search) | 16 |
 | constructed domains probed | 0 |
-| net-new candidates after exclusion index | 6 |
-|   of which from search | 6 |
+| net-new candidates after exclusion index | 16 |
+|   of which from search | 16 |
 |   of which from probing | 0 |
-| crawled | 6 |
-|   crawl: ok | 5 |
+| crawled | 16 |
+|   crawl: ok | 15 |
 |   crawl: redirect_offdomain | 1 |
 | probes that resolved to a real site | 0 |
-| v6 classified | 5 |
+| v6 classified | 15 |
 | carried to next run (unclassified) | 0 |
 | carried to next run (uncrawled) | 0 |
-| V6 QUALIFIED | 0 |
+| V6 QUALIFIED | 5 |
 
 ## Day so far (all passes, unique domains)
 
 | stage | count |
 |---|---|
-| candidates crawled | 60 |
-| crawled ok | 40 |
-| v6 classified | 40 |
-| v6 qualified | 0 |
+| candidates crawled | 76 |
+| crawled ok | 55 |
+| v6 classified | 55 |
+| v6 qualified | 5 |
 
 ## Crawl outcomes (net-new candidates only)
 
 | status | count |
 |---|---|
-| ok | 40 |
-| redirect_offdomain | 9 |
+| ok | 55 |
+| redirect_offdomain | 10 |
 | unreachable | 5 |
 | thin | 5 |
 | unregistered | 1 |
@@ -48,22 +48,33 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | channel | classified | qualified | rate |
 |---|---|---|---|
-| L10-partners | 40 | 0 | 0.0% |
+| L11-hiring-agent | 6 | 5 | 83.3% |
+| L10-partners | 49 | 0 | 0.0% |
 
-**V6 QUALIFIED TODAY: 0** (ICP-clean: 0). Cumulative across all daily runs: 125.
+**V6 QUALIFIED TODAY: 5** (ICP-clean: 3). Cumulative across all daily runs: 130.
 
 ## Why candidates failed v6
 
 | reason | count |
 |---|---|
-| end_advertiser | 12 |
-| unrelated | 11 |
-| lead_or_appointment_pricing | 6 |
+| end_advertiser | 14 |
+| unrelated | 12 |
+| lead_or_appointment_pricing | 11 |
+| no_clear_signal | 4 |
 | service_to_call_receiver | 3 |
-| no_clear_signal | 3 |
-| software_or_crm | 2 |
+| software_or_crm | 3 |
 | seo_or_ranking_agency | 2 |
 | directory_or_content | 1 |
+
+## Qualified today
+
+| company | domain | fit | business model | marketplace | geo | flags |
+|---|---|---|---|---|---|---|
+| GrovLabs | grovlabs.com | 95 | pay-per-call network selling live transferred inbound calls to b | yes | United States | MICROSITE of known company: app.google |
+| LeadsBitMedia LLC | joinleadsbitmedia.com | 95 | pay-per-call affiliate network for home-services calls | yes | Pakistan; India | geo outside US/UK/CA: Pakistan, India |
+| Knovatik Tech Vision LLC | knovatiktechvision.com | 90 | pay-per-call lead generation and call center services for US cam |  | United States; India |  |
+| WeCall LLC | wecall.llc | 90 | lead generation agency selling exclusive leads and live transfer |  | United States |  |
+| TenX Ads | tenxads.com | 85 | pay-per-call advertising network | yes |  | geo unknown |
 
 ## Files
 
