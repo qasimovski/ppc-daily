@@ -7,19 +7,19 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | stage | count |
 |---|---|
 | inbox candidates | 0 |
-| partner-list names resolved -> candidates | 2 -> 1 |
+| partner-list names resolved -> candidates | 1 -> 1 |
 | hiring postings read -> candidates | 0 -> 0 |
 | linked-domain candidates | 0 |
 | search requests | 0 |
-| raw finds (search) | 2 |
+| raw finds (search) | 1 |
 | constructed domains probed | 0 |
 | net-new candidates after exclusion index | 1 |
 |   of which from search | 1 |
 |   of which from probing | 0 |
 | crawled | 1 |
-|   crawl: ok | 1 |
+|   crawl: unreachable | 1 |
 | probes that resolved to a real site | 0 |
-| v6 classified | 1 |
+| v6 classified | 0 |
 | carried to next run (unclassified) | 0 |
 | carried to next run (uncrawled) | 0 |
 | V6 QUALIFIED | 0 |
@@ -28,7 +28,7 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | stage | count |
 |---|---|
-| candidates crawled | 83 |
+| candidates crawled | 84 |
 | crawled ok | 59 |
 | v6 classified | 59 |
 | v6 qualified | 5 |
@@ -39,8 +39,8 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 |---|---|
 | ok | 59 |
 | redirect_offdomain | 12 |
+| unreachable | 6 |
 | thin | 6 |
-| unreachable | 5 |
 | unregistered | 1 |
 
 ## v6 qualify rate per discovery channel
