@@ -1683,3 +1683,13 @@
 {"name": "AccuHealth", "norm": "accuhealth", "domain": "accuhealth.com", "how": "guess:accuhealth.com", "source_url": "https://selectmypolicy.com/partners", "ts": "2026-09-11T01:32:33Z"}
 {"name": "Adserv Inc", "norm": "adserv", "domain": "adserv.com", "how": "guess:adserv.com", "source_url": "https://selectmypolicy.com/partners", "ts": "2026-09-11T01:32:33Z"}
 {"name": "AdvancedInsurance", "norm": "advancedinsurance", "domain": "advancedinsurance.com", "how": "guess:advancedinsurance.com", "source_url": "https://selectmypolicy.com/partners", "ts": "2026-09-11T01:32:33Z"}
+{"name": "Sunset Marketing Group", "norm": "sunset marketing group", "domain": "sunsetmktgroup.com", "how": "search", "source_url": "https://theswitchboardmarketing.com/marketing-partners", "ts": "2026-09-11T01:34:17Z"}
+{"name": "Tallac Media", "norm": "tallac media", "domain": "tallactherapeutics.com", "how": "search", "source_url": "https://theswitchboardmarketing.com/marketing-partners", "ts": "2026-09-11T01:34:25Z"}
+{"name": "The Leads Warehouse", "norm": "leads warehouse", "domain": "theleadswarehouse.com", "how": "search", "source_url": "https://theswitchboardmarketing.com/marketing-partners", "ts": "2026-09-11T01:34:31Z"}
+{"name": "Twin Digital Group LLC", "norm": "twin digital group", "domain": null, "how": "unresolved:search-miss", "source_url": "https://theswitchboardmarketing.com/marketing-partners", "ts": "2026-09-11T01:34:37Z"}
+{"name": "US Marketing Group", "norm": "us marketing group", "domain": null, "how": "unresolved:generic-name", "source_url": "https://theswitchboardmarketing.com/marketing-partners", "ts": "2026-09-11T01:34:39Z"}
+{"name": "Veerus Leads", "norm": "veerus leads", "domain": "veerusleads.com", "how": "search", "source_url": "https://theswitchboardmarketing.com/marketing-partners", "ts": "2026-09-11T01:35:02Z"}
+{"name": "Advensure", "norm": "advensure", "domain": "advensure.io", "how": "guess:advensure.io", "source_url": "https://theswitchboardmarketing.com/marketing-partners", "ts": "2026-09-11T01:35:02Z"}
+{"name": "Agent Pipeline, LLC", "norm": "agent pipeline", "domain": "agentpipeline.com", "how": "guess:agentpipeline.com", "source_url": "https://theswitchboardmarketing.com/marketing-partners", "ts": "2026-09-11T01:35:02Z"}
+{"name": "AIMC, LLC", "norm": "aimc", "domain": "aimc.io", "how": "guess:aimc.io", "source_url": "https://theswitchboardmarketing.com/marketing-partners", "ts": "2026-09-11T01:35:02Z"}
+{"name": "AirStar Group LLC", "norm": "airstar group", "domain": "airstar-group.com", "how": "guess:airstar-group.com", "source_url": "https://theswitchboardmarketing.com/marketing-partners", "ts": "2026-09-11T01:35:02Z"}
