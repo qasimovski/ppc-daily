@@ -1640,3 +1640,14 @@
 {"name": "Presidio", "norm": "presidio", "domain": "presidio.com", "how": "guess:presidio.com", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-11T01:18:52Z"}
 {"name": "QuickQuote", "norm": "quickquote", "domain": "quickquote.com", "how": "guess:quickquote.com", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-11T01:18:52Z"}
 {"name": "Quote Wizard", "norm": "quote wizard", "domain": "quotewizard.com", "how": "guess:quotewizard.com", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-11T01:18:52Z"}
+{"name": "iFreedom Direct Corporation", "norm": "ifreedom direct", "domain": "ifreedomdirectcorp.com", "how": "search", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-11T01:21:16Z"}
+{"name": "iFreedom Direct SL", "norm": "ifreedom direct sl", "domain": null, "how": "unresolved:search-miss", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-11T01:21:22Z"}
+{"name": "IHL Direct", "norm": "ihl direct", "domain": null, "how": "unresolved:generic-name", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-11T01:21:24Z"}
+{"name": "IMG Marketing", "norm": "img marketing", "domain": null, "how": "unresolved:generic-name", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-11T01:21:27Z"}
+{"name": "ING Direct", "norm": "ing direct", "domain": null, "how": "unresolved:generic-name", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-11T01:21:29Z"}
+{"name": "Elgin Hyundai", "norm": "elgin hyundai", "domain": "elginhyundai.com", "how": "guess:elginhyundai.com", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-11T01:21:29Z"}
+{"name": "GoRefiMe.com", "norm": "gorefime com", "domain": "gorefime.com", "how": "literal", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-11T01:21:29Z"}
+{"name": "Gravity Lending, LLC", "norm": "gravity lending", "domain": "gravitylending.com", "how": "guess:gravitylending.com", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-11T01:21:29Z"}
+{"name": "Help Me Ride", "norm": "help me ride", "domain": "helpmeride.com", "how": "guess:helpmeride.com", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-11T01:21:29Z"}
+{"name": "Lending Arts", "norm": "lending arts", "domain": "lendingarts.com", "how": "guess:lendingarts.com", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-11T01:21:29Z"}
+{"name": "LendingClub", "norm": "lendingclub", "domain": "lendingclub.com", "how": "guess:lendingclub.com", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-11T01:21:29Z"}
