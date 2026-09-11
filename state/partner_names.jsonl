@@ -1651,3 +1651,4 @@
 {"name": "Help Me Ride", "norm": "help me ride", "domain": "helpmeride.com", "how": "guess:helpmeride.com", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-11T01:21:29Z"}
 {"name": "Lending Arts", "norm": "lending arts", "domain": "lendingarts.com", "how": "guess:lendingarts.com", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-11T01:21:29Z"}
 {"name": "LendingClub", "norm": "lendingclub", "domain": "lendingclub.com", "how": "guess:lendingclub.com", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-11T01:21:29Z"}
+{"name": "Facility", "norm": "facility", "domain": "facility.com", "how": "guess:facility.com", "source_url": "https://quotelab.com/marketing-partners", "ts": "2026-09-11T01:24:25Z"}
