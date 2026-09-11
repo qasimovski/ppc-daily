@@ -1706,3 +1706,6 @@
 {"name": "Cost-U-Less", "norm": "cost u less", "domain": "costuless.com", "how": "guess:costuless.com", "source_url": "https://wowhealthinsight.com/marketing-partners.html", "ts": "2026-09-11T13:05:18Z"}
 {"name": "Demo", "norm": "demo", "domain": "demo.com", "how": "guess:demo.com", "source_url": "https://wowhealthinsight.com/marketing-partners.html", "ts": "2026-09-11T13:05:18Z"}
 {"name": "Internet Protocol address", "norm": "internet protocol address", "domain": "ne.jp", "how": "search", "source_url": "https://www.medicaresolutions.com", "ts": "2026-09-11T13:08:53Z"}
+{"name": "American Insurance Agencies Direct", "norm": "american insurance agencies direct", "domain": null, "how": "unresolved:generic-name", "source_url": "https://www.quotelab.com/marketing-partners.html", "ts": "2026-09-11T13:11:15Z"}
+{"name": "Farmland", "norm": "farmland", "domain": "farmlandllc.com", "how": "guess:farmlandllc.com", "source_url": "https://www.quotelab.com/marketing-partners.html", "ts": "2026-09-11T13:11:15Z"}
+{"name": "Federal", "norm": "federal", "domain": "federalinc.com", "how": "guess:federalinc.com", "source_url": "https://www.quotelab.com/marketing-partners.html", "ts": "2026-09-11T13:11:15Z"}

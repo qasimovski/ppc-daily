@@ -7,19 +7,20 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | stage | count |
 |---|---|
 | inbox candidates | 0 |
-| partner-list names resolved -> candidates | 1 -> 1 |
+| partner-list names resolved -> candidates | 2 -> 2 |
 | hiring postings read -> candidates | 0 -> 0 |
 | linked-domain candidates | 0 |
 | search requests | 0 |
-| raw finds (search) | 1 |
+| raw finds (search) | 2 |
 | constructed domains probed | 0 |
-| net-new candidates after exclusion index | 1 |
-|   of which from search | 1 |
+| net-new candidates after exclusion index | 2 |
+|   of which from search | 2 |
 |   of which from probing | 0 |
-| crawled | 1 |
+| crawled | 2 |
+|   crawl: ok | 1 |
 |   crawl: redirect_offdomain | 1 |
 | probes that resolved to a real site | 0 |
-| v6 classified | 0 |
+| v6 classified | 1 |
 | carried to next run (unclassified) | 0 |
 | carried to next run (uncrawled) | 0 |
 | V6 QUALIFIED | 0 |
@@ -28,17 +29,17 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | stage | count |
 |---|---|
-| candidates crawled | 78 |
-| crawled ok | 55 |
-| v6 classified | 55 |
+| candidates crawled | 80 |
+| crawled ok | 56 |
+| v6 classified | 56 |
 | v6 qualified | 5 |
 
 ## Crawl outcomes (net-new candidates only)
 
 | status | count |
 |---|---|
-| ok | 55 |
-| redirect_offdomain | 11 |
+| ok | 56 |
+| redirect_offdomain | 12 |
 | thin | 6 |
 | unreachable | 5 |
 | unregistered | 1 |
@@ -48,7 +49,7 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | channel | classified | qualified | rate |
 |---|---|---|---|
 | L11-hiring-agent | 6 | 5 | 83.3% |
-| L10-partners | 49 | 0 | 0.0% |
+| L10-partners | 50 | 0 | 0.0% |
 
 **V6 QUALIFIED TODAY: 5** (ICP-clean: 3). Cumulative across all daily runs: 130.
 
@@ -57,7 +58,7 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | reason | count |
 |---|---|
 | end_advertiser | 14 |
-| unrelated | 12 |
+| unrelated | 13 |
 | lead_or_appointment_pricing | 11 |
 | no_clear_signal | 4 |
 | service_to_call_receiver | 3 |
