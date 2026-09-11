@@ -1599,3 +1599,10 @@
 {"name": "Epic Funding", "norm": "epic funding", "domain": "epicfundingllc.com", "how": "guess:epicfundingllc.com", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-11T01:07:02Z"}
 {"name": "Integrite First Mortgage", "norm": "integrite first mortgage", "domain": "integritefirstmortgage.com", "how": "guess:integritefirstmortgage.com", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-11T01:07:02Z"}
 {"name": "NationsChoice Mortgage", "norm": "nationschoice mortgage", "domain": "nationschoicemortgage.com", "how": "guess:nationschoicemortgage.com", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-11T01:07:02Z"}
+{"name": "Auto Club Services, LLC", "norm": "auto club services", "domain": "libertymutual.com", "how": "search", "source_url": "https://everquote.com/partners", "ts": "2026-09-11T01:09:36Z"}
+{"name": "Automobile Club of Missouri", "norm": "automobile club missouri", "domain": "mapquest.com", "how": "search", "source_url": "https://everquote.com/partners", "ts": "2026-09-11T01:09:44Z"}
+{"name": "CDX Consultants", "norm": "cdx consultants", "domain": "tracxn.com", "how": "search", "source_url": "https://everquote.com/partners", "ts": "2026-09-11T01:09:50Z"}
+{"name": "Commonwealth Cassualty Company", "norm": "commonwealth cassualty company", "domain": null, "how": "unresolved:search-miss", "source_url": "https://everquote.com/partners", "ts": "2026-09-11T01:09:56Z"}
+{"name": "Comparion", "norm": "comparion", "domain": "comparioninsurance.com", "how": "search", "source_url": "https://everquote.com/partners", "ts": "2026-09-11T01:10:20Z"}
+{"name": "Alfa Insurance", "norm": "alfa insurance", "domain": "alfainsurance.com", "how": "guess:alfainsurance.com", "source_url": "https://everquote.com/partners", "ts": "2026-09-11T01:10:20Z"}
+{"name": "All Saints Insurance LLC", "norm": "all saints insurance", "domain": "allsaintsinsurance.com", "how": "guess:allsaintsinsurance.com", "source_url": "https://everquote.com/partners", "ts": "2026-09-11T01:10:20Z"}
