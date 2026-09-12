@@ -1887,3 +1887,7 @@
 {"name": "Top5Compare", "norm": "top5compare", "domain": "scamadviser.com", "how": "search", "source_url": "https://14.us-unemployment-resources.com/marketing-partners", "ts": "2026-09-12T13:21:20Z"}
 {"name": "Trustio", "norm": "trustio", "domain": "trustio.app", "how": "search", "source_url": "https://14.us-unemployment-resources.com/marketing-partners", "ts": "2026-09-12T13:21:25Z"}
 {"name": "UMM / United Mommas", "norm": "umm united mommas", "domain": null, "how": "unresolved:search-miss", "source_url": "https://14.us-unemployment-resources.com/marketing-partners", "ts": "2026-09-12T13:21:33Z"}
+{"name": "US Veterans Advocates", "norm": "us veterans advocates", "domain": null, "how": "unresolved:search-miss", "source_url": "https://14.us-unemployment-resources.com/marketing-partners", "ts": "2026-09-12T13:23:41Z"}
+{"name": "USALRT", "norm": "usalrt", "domain": "usalrt.com", "how": "search", "source_url": "https://14.us-unemployment-resources.com/marketing-partners", "ts": "2026-09-12T13:23:47Z"}
+{"name": "United States National Guard", "norm": "united states national guard", "domain": "nationalguard.com", "how": "search", "source_url": "https://14.us-unemployment-resources.com/marketing-partners", "ts": "2026-09-12T13:23:54Z"}
+{"name": "NBKC Bank", "norm": "nbkc bank", "domain": "nbkcbank.com", "how": "guess:nbkcbank.com", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-12T13:23:54Z"}
