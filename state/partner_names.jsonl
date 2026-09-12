@@ -1895,3 +1895,4 @@
 {"name": "BNC National Bank", "norm": "bnc national bank", "domain": "bnc.bank", "how": "search", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-12T13:26:24Z"}
 {"name": "Newfi", "norm": "newfi", "domain": "newfi.com", "how": "guess:newfi.com", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-12T13:26:24Z"}
 {"name": "North American Savings Bank", "norm": "north american savings bank", "domain": "northamericansavingsbank.net", "how": "guess:northamericansavingsbank.net", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-12T13:26:24Z"}
+{"name": "Boise River Lending", "norm": "boise river lending", "domain": "mapquest.com", "how": "search", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-12T13:28:59Z"}
