@@ -7,39 +7,37 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | stage | count |
 |---|---|
 | inbox candidates | 0 |
-| partner-list names resolved -> candidates | 9 -> 6 |
+| partner-list names resolved -> candidates | 11 -> 6 |
 | hiring postings read -> candidates | 0 -> 0 |
 | linked-domain candidates | 0 |
 | search requests | 0 |
-| raw finds (search) | 9 |
+| raw finds (search) | 11 |
 | constructed domains probed | 0 |
 | net-new candidates after exclusion index | 6 |
 |   of which from search | 6 |
 |   of which from probing | 0 |
 | crawled | 6 |
-|   crawl: ok | 4 |
-|   crawl: thin | 1 |
-|   crawl: redirect_offdomain | 1 |
+|   crawl: ok | 6 |
 | probes that resolved to a real site | 0 |
-| v6 classified | 4 |
+| v6 classified | 6 |
 | carried to next run (unclassified) | 0 |
 | carried to next run (uncrawled) | 0 |
-| V6 QUALIFIED | 0 |
+| V6 QUALIFIED | 1 |
 
 ## Day so far (all passes, unique domains)
 
 | stage | count |
 |---|---|
-| candidates crawled | 48 |
-| crawled ok | 30 |
-| v6 classified | 30 |
-| v6 qualified | 0 |
+| candidates crawled | 54 |
+| crawled ok | 36 |
+| v6 classified | 36 |
+| v6 qualified | 1 |
 
 ## Crawl outcomes (net-new candidates only)
 
 | status | count |
 |---|---|
-| ok | 30 |
+| ok | 36 |
 | unreachable | 7 |
 | redirect_offdomain | 7 |
 | thin | 4 |
@@ -48,20 +46,26 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | channel | classified | qualified | rate |
 |---|---|---|---|
-| L10-partners | 30 | 0 | 0.0% |
+| L10-partners | 36 | 1 | 2.8% |
 
-**V6 QUALIFIED TODAY: 0** (ICP-clean: 0). Cumulative across all daily runs: 130.
+**V6 QUALIFIED TODAY: 1** (ICP-clean: 1). Cumulative across all daily runs: 131.
 
 ## Why candidates failed v6
 
 | reason | count |
 |---|---|
-| unrelated | 12 |
-| lead_or_appointment_pricing | 10 |
-| end_advertiser | 3 |
+| unrelated | 14 |
+| lead_or_appointment_pricing | 11 |
+| end_advertiser | 5 |
 | directory_or_content | 2 |
 | service_to_call_receiver | 2 |
 | no_clear_signal | 1 |
+
+## Qualified today
+
+| company | domain | fit | business model | marketplace | geo | flags |
+|---|---|---|---|---|---|---|
+| ExchangeFlo | exchangeflo.io | 90 | pay-per-call and lead marketplace for advertisers and publishers | yes |  | geo unknown |
 
 ## Files
 

@@ -1822,3 +1822,15 @@
 {"name": "Franklin", "norm": "franklin", "domain": "franklin.com", "how": "guess:franklin.com", "source_url": "https://ratequote.com/marketing-partners", "ts": "2026-09-12T01:23:58Z"}
 {"name": "Freeway", "norm": "freeway", "domain": "freeway.com", "how": "guess:freeway.com", "source_url": "https://ratequote.com/marketing-partners", "ts": "2026-09-12T01:23:58Z"}
 {"name": "GetMeHealthCare.com", "norm": "getmehealthcare com", "domain": "getmehealthcare.com", "how": "literal", "source_url": "https://ratequote.com/marketing-partners", "ts": "2026-09-12T01:23:58Z"}
+{"name": "AmeriLife Group, LLC", "norm": "amerilife group", "domain": "bloomberg.com", "how": "search", "source_url": "https://rocketquote.com/marketing-partners", "ts": "2026-09-12T01:25:47Z"}
+{"name": "Andrew Radler", "norm": "andrew radler", "domain": "vaia.com", "how": "search", "source_url": "https://rocketquote.com/marketing-partners", "ts": "2026-09-12T01:25:53Z"}
+{"name": "Callayo", "norm": "callayo", "domain": "myheritage.com", "how": "search", "source_url": "https://rocketquote.com/marketing-partners", "ts": "2026-09-12T01:25:58Z"}
+{"name": "Closersregion", "norm": "closersregion", "domain": null, "how": "unresolved:search-miss", "source_url": "https://rocketquote.com/marketing-partners", "ts": "2026-09-12T01:26:04Z"}
+{"name": "Comparenow", "norm": "comparenow", "domain": "compare.com", "how": "search", "source_url": "https://rocketquote.com/marketing-partners", "ts": "2026-09-12T01:26:09Z"}
+{"name": "CUNA Mutual Group", "norm": "cuna mutual group", "domain": "trustage.com", "how": "search", "source_url": "https://rocketquote.com/marketing-partners", "ts": "2026-09-12T01:26:48Z"}
+{"name": "DigitalBGA", "norm": "digitalbga", "domain": "digitalbga.com", "how": "guess:digitalbga.com", "source_url": "https://rocketquote.com/marketing-partners", "ts": "2026-09-12T01:26:48Z"}
+{"name": "ExchangeFlo", "norm": "exchangeflo", "domain": "exchangeflo.io", "how": "guess:exchangeflo.io", "source_url": "https://rocketquote.com/marketing-partners", "ts": "2026-09-12T01:26:48Z"}
+{"name": "IntelliQuote", "norm": "intelliquote", "domain": "intelliquote.com", "how": "guess:intelliquote.com", "source_url": "https://rocketquote.com/marketing-partners", "ts": "2026-09-12T01:26:48Z"}
+{"name": "LifeQuotes.com", "norm": "lifequotes com", "domain": "lifequotes.com", "how": "literal", "source_url": "https://rocketquote.com/marketing-partners", "ts": "2026-09-12T01:26:48Z"}
+{"name": "NCWC", "norm": "ncwc", "domain": "ncwc.com", "how": "guess:ncwc.com", "source_url": "https://rocketquote.com/marketing-partners", "ts": "2026-09-12T01:26:48Z"}
+{"name": "Penn Mutual", "norm": "penn mutual", "domain": "pennmutual.com", "how": "guess:pennmutual.com", "source_url": "https://rocketquote.com/marketing-partners", "ts": "2026-09-12T01:26:48Z"}
