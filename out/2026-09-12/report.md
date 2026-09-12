@@ -6,21 +6,20 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | stage | count |
 |---|---|
-| inbox candidates | 0 |
-| partner-list names resolved -> candidates | 10 -> 10 |
+| inbox candidates | 3 |
+| partner-list names resolved -> candidates | 0 -> 0 |
 | hiring postings read -> candidates | 0 -> 0 |
 | linked-domain candidates | 0 |
 | search requests | 0 |
-| raw finds (search) | 10 |
+| raw finds (search) | 3 |
 | constructed domains probed | 0 |
-| net-new candidates after exclusion index | 10 |
-|   of which from search | 10 |
+| net-new candidates after exclusion index | 3 |
+|   of which from search | 3 |
 |   of which from probing | 0 |
-| crawled | 10 |
-|   crawl: ok | 9 |
-|   crawl: thin | 1 |
+| crawled | 3 |
+|   crawl: ok | 3 |
 | probes that resolved to a real site | 0 |
-| v6 classified | 9 |
+| v6 classified | 3 |
 | carried to next run (unclassified) | 0 |
 | carried to next run (uncrawled) | 0 |
 | V6 QUALIFIED | 0 |
@@ -29,16 +28,16 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | stage | count |
 |---|---|
-| candidates crawled | 72 |
-| crawled ok | 52 |
-| v6 classified | 52 |
+| candidates crawled | 75 |
+| crawled ok | 55 |
+| v6 classified | 55 |
 | v6 qualified | 2 |
 
 ## Crawl outcomes (net-new candidates only)
 
 | status | count |
 |---|---|
-| ok | 52 |
+| ok | 55 |
 | redirect_offdomain | 8 |
 | unreachable | 7 |
 | thin | 5 |
@@ -48,6 +47,7 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | channel | classified | qualified | rate |
 |---|---|---|---|
 | L10-partners | 52 | 2 | 3.8% |
+| L11-hiring-agent | 3 | 0 | 0.0% |
 
 **V6 QUALIFIED TODAY: 2** (ICP-clean: 2). Cumulative across all daily runs: 132.
 
@@ -56,11 +56,11 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | reason | count |
 |---|---|
 | unrelated | 18 |
-| lead_or_appointment_pricing | 15 |
+| lead_or_appointment_pricing | 17 |
 | end_advertiser | 10 |
+| service_to_call_receiver | 3 |
 | no_clear_signal | 3 |
 | directory_or_content | 2 |
-| service_to_call_receiver | 2 |
 
 ## Qualified today
 
