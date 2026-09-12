@@ -1812,3 +1812,13 @@
 {"name": "Forethought", "norm": "forethought", "domain": "forethoughtllc.com", "how": "guess:forethoughtllc.com", "source_url": "https://quotes.priceshopmedicare.com", "ts": "2026-09-12T01:21:22Z"}
 {"name": "Geisinger", "norm": "geisinger", "domain": "geisinger.com", "how": "guess:geisinger.com", "source_url": "https://quotes.priceshopmedicare.com", "ts": "2026-09-12T01:21:22Z"}
 {"name": "Genworth", "norm": "genworth", "domain": "genworth.com", "how": "guess:genworth.com", "source_url": "https://quotes.priceshopmedicare.com", "ts": "2026-09-12T01:21:22Z"}
+{"name": "AllDigitalPromotions", "norm": "alldigitalpromotions", "domain": null, "how": "unresolved:search-miss", "source_url": "https://ratequote.com/marketing-partners", "ts": "2026-09-12T01:23:52Z"}
+{"name": "American International Ins", "norm": "american international ins", "domain": "service.gov.uk", "how": "search", "source_url": "https://ratequote.com/marketing-partners", "ts": "2026-09-12T01:23:58Z"}
+{"name": "Auto Approve", "norm": "auto approve", "domain": "autoapprove.com", "how": "guess:autoapprove.com", "source_url": "https://ratequote.com/marketing-partners", "ts": "2026-09-12T01:23:58Z"}
+{"name": "Farm and Ranch", "norm": "farm and ranch", "domain": "farmandranch.net", "how": "guess:farmandranch.net", "source_url": "https://ratequote.com/marketing-partners", "ts": "2026-09-12T01:23:58Z"}
+{"name": "Federated", "norm": "federated", "domain": "federated.net", "how": "guess:federated.net", "source_url": "https://ratequote.com/marketing-partners", "ts": "2026-09-12T01:23:58Z"}
+{"name": "Fidelity National", "norm": "fidelity national", "domain": "fidelitynational.com", "how": "guess:fidelitynational.com", "source_url": "https://ratequote.com/marketing-partners", "ts": "2026-09-12T01:23:58Z"}
+{"name": "First National", "norm": "first national", "domain": "first-national.com", "how": "guess:first-national.com", "source_url": "https://ratequote.com/marketing-partners", "ts": "2026-09-12T01:23:58Z"}
+{"name": "Franklin", "norm": "franklin", "domain": "franklin.com", "how": "guess:franklin.com", "source_url": "https://ratequote.com/marketing-partners", "ts": "2026-09-12T01:23:58Z"}
+{"name": "Freeway", "norm": "freeway", "domain": "freeway.com", "how": "guess:freeway.com", "source_url": "https://ratequote.com/marketing-partners", "ts": "2026-09-12T01:23:58Z"}
+{"name": "GetMeHealthCare.com", "norm": "getmehealthcare com", "domain": "getmehealthcare.com", "how": "literal", "source_url": "https://ratequote.com/marketing-partners", "ts": "2026-09-12T01:23:58Z"}
