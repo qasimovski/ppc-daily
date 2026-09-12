@@ -7,19 +7,21 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | stage | count |
 |---|---|
 | inbox candidates | 0 |
-| partner-list names resolved -> candidates | 2 -> 1 |
+| partner-list names resolved -> candidates | 9 -> 8 |
 | hiring postings read -> candidates | 0 -> 0 |
 | linked-domain candidates | 0 |
 | search requests | 0 |
-| raw finds (search) | 2 |
+| raw finds (search) | 9 |
 | constructed domains probed | 0 |
-| net-new candidates after exclusion index | 1 |
-|   of which from search | 1 |
+| net-new candidates after exclusion index | 8 |
+|   of which from search | 8 |
 |   of which from probing | 0 |
-| crawled | 1 |
-|   crawl: unreachable | 1 |
+| crawled | 8 |
+|   crawl: ok | 4 |
+|   crawl: unreachable | 2 |
+|   crawl: redirect_offdomain | 2 |
 | probes that resolved to a real site | 0 |
-| v6 classified | 0 |
+| v6 classified | 4 |
 | carried to next run (unclassified) | 0 |
 | carried to next run (uncrawled) | 0 |
 | V6 QUALIFIED | 0 |
@@ -28,25 +30,25 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | stage | count |
 |---|---|
-| candidates crawled | 34 |
-| crawled ok | 22 |
-| v6 classified | 22 |
+| candidates crawled | 42 |
+| crawled ok | 26 |
+| v6 classified | 26 |
 | v6 qualified | 0 |
 
 ## Crawl outcomes (net-new candidates only)
 
 | status | count |
 |---|---|
-| ok | 22 |
-| unreachable | 5 |
-| redirect_offdomain | 4 |
+| ok | 26 |
+| unreachable | 7 |
+| redirect_offdomain | 6 |
 | thin | 3 |
 
 ## v6 qualify rate per discovery channel
 
 | channel | classified | qualified | rate |
 |---|---|---|---|
-| L10-partners | 22 | 0 | 0.0% |
+| L10-partners | 26 | 0 | 0.0% |
 
 **V6 QUALIFIED TODAY: 0** (ICP-clean: 0). Cumulative across all daily runs: 130.
 
@@ -54,8 +56,8 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | reason | count |
 |---|---|
-| unrelated | 7 |
-| lead_or_appointment_pricing | 7 |
+| unrelated | 9 |
+| lead_or_appointment_pricing | 9 |
 | end_advertiser | 3 |
 | directory_or_content | 2 |
 | service_to_call_receiver | 2 |

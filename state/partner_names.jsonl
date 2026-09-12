@@ -1803,3 +1803,12 @@
 {"name": "Excel Impact", "norm": "excel impact", "domain": "excelimpact.com", "how": "search", "source_url": "https://pickmycoverage.com/partners", "ts": "2026-09-12T01:17:50Z"}
 {"name": "First Connect Charcoal", "norm": "first connect charcoal", "domain": null, "how": "unresolved:search-miss", "source_url": "https://pickmycoverage.com/partners", "ts": "2026-09-12T01:17:57Z"}
 {"name": "Foremost", "norm": "foremost", "domain": "foremost.com", "how": "search", "source_url": "https://pickmycoverage.com/partners", "ts": "2026-09-12T01:18:18Z"}
+{"name": "LLC. All trademarks", "norm": "all trademarks", "domain": "american-trademarks.com", "how": "search", "source_url": "https://quotes.priceshopmedicare.com", "ts": "2026-09-12T01:20:48Z"}
+{"name": "Welcome", "norm": "welcome", "domain": "welcomeskateboards.com", "how": "search", "source_url": "https://quotes.priceshopmedicare.com", "ts": "2026-09-12T01:21:22Z"}
+{"name": "Carevalue", "norm": "carevalue", "domain": "carevalue.com", "how": "guess:carevalue.com", "source_url": "https://quotes.priceshopmedicare.com", "ts": "2026-09-12T01:21:22Z"}
+{"name": "E-Telequote", "norm": "e telequote", "domain": "etelequote.com", "how": "guess:etelequote.com", "source_url": "https://quotes.priceshopmedicare.com", "ts": "2026-09-12T01:21:22Z"}
+{"name": "Fidelis", "norm": "fidelis", "domain": "fidelis.com", "how": "guess:fidelis.com", "source_url": "https://quotes.priceshopmedicare.com", "ts": "2026-09-12T01:21:22Z"}
+{"name": "FinanceBox.com", "norm": "financebox com", "domain": "financebox.com", "how": "literal", "source_url": "https://quotes.priceshopmedicare.com", "ts": "2026-09-12T01:21:22Z"}
+{"name": "Forethought", "norm": "forethought", "domain": "forethoughtllc.com", "how": "guess:forethoughtllc.com", "source_url": "https://quotes.priceshopmedicare.com", "ts": "2026-09-12T01:21:22Z"}
+{"name": "Geisinger", "norm": "geisinger", "domain": "geisinger.com", "how": "guess:geisinger.com", "source_url": "https://quotes.priceshopmedicare.com", "ts": "2026-09-12T01:21:22Z"}
+{"name": "Genworth", "norm": "genworth", "domain": "genworth.com", "how": "guess:genworth.com", "source_url": "https://quotes.priceshopmedicare.com", "ts": "2026-09-12T01:21:22Z"}
