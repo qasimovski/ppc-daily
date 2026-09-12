@@ -1878,3 +1878,5 @@
 {"name": "TechSent / Tech Sentinel", "norm": "techsent tech sentinel", "domain": null, "how": "unresolved:search-miss", "source_url": "https://14.us-unemployment-resources.com/marketing-partners", "ts": "2026-09-12T13:09:11Z"}
 {"name": "Reach Financial", "norm": "reach financial", "domain": "reachfinancial.com", "how": "guess:reachfinancial.com", "source_url": "https://14.us-unemployment-resources.com/marketing-partners", "ts": "2026-09-12T13:09:11Z"}
 {"name": "The Accident Helpers", "norm": "accident helpers", "domain": "helpjuice.com", "how": "search", "source_url": "https://14.us-unemployment-resources.com/marketing-partners", "ts": "2026-09-12T13:11:48Z"}
+{"name": "The Accident Office", "norm": "accident office", "domain": null, "how": "unresolved:search-miss", "source_url": "https://14.us-unemployment-resources.com/marketing-partners", "ts": "2026-09-12T13:14:06Z"}
+{"name": "The Free Sample Guide", "norm": "free sample guide", "domain": null, "how": "unresolved:search-miss", "source_url": "https://14.us-unemployment-resources.com/marketing-partners", "ts": "2026-09-12T13:14:11Z"}
