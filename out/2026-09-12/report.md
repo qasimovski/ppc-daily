@@ -7,20 +7,19 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | stage | count |
 |---|---|
 | inbox candidates | 0 |
-| partner-list names resolved -> candidates | 3 -> 3 |
+| partner-list names resolved -> candidates | 6 -> 5 |
 | hiring postings read -> candidates | 0 -> 0 |
 | linked-domain candidates | 0 |
 | search requests | 0 |
-| raw finds (search) | 3 |
+| raw finds (search) | 6 |
 | constructed domains probed | 0 |
-| net-new candidates after exclusion index | 3 |
-|   of which from search | 3 |
+| net-new candidates after exclusion index | 5 |
+|   of which from search | 5 |
 |   of which from probing | 0 |
-| crawled | 3 |
-|   crawl: unreachable | 2 |
-|   crawl: redirect_offdomain | 1 |
+| crawled | 5 |
+|   crawl: ok | 5 |
 | probes that resolved to a real site | 0 |
-| v6 classified | 0 |
+| v6 classified | 5 |
 | carried to next run (unclassified) | 0 |
 | carried to next run (uncrawled) | 0 |
 | V6 QUALIFIED | 0 |
@@ -29,16 +28,16 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | stage | count |
 |---|---|
-| candidates crawled | 78 |
-| crawled ok | 55 |
-| v6 classified | 55 |
+| candidates crawled | 83 |
+| crawled ok | 60 |
+| v6 classified | 60 |
 | v6 qualified | 2 |
 
 ## Crawl outcomes (net-new candidates only)
 
 | status | count |
 |---|---|
-| ok | 55 |
+| ok | 60 |
 | unreachable | 9 |
 | redirect_offdomain | 9 |
 | thin | 5 |
@@ -47,7 +46,7 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | channel | classified | qualified | rate |
 |---|---|---|---|
-| L10-partners | 52 | 2 | 3.8% |
+| L10-partners | 57 | 2 | 3.5% |
 | L11-hiring-agent | 3 | 0 | 0.0% |
 
 **V6 QUALIFIED TODAY: 2** (ICP-clean: 2). Cumulative across all daily runs: 132.
@@ -56,12 +55,13 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | reason | count |
 |---|---|
-| unrelated | 18 |
+| unrelated | 19 |
 | lead_or_appointment_pricing | 17 |
-| end_advertiser | 10 |
-| service_to_call_receiver | 3 |
+| end_advertiser | 12 |
+| service_to_call_receiver | 4 |
 | no_clear_signal | 3 |
 | directory_or_content | 2 |
+| seo_or_ranking_agency | 1 |
 
 ## Qualified today
 

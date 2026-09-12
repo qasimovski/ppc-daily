@@ -1864,3 +1864,9 @@
 {"name": "Our employees", "norm": "our employees", "domain": "tradeweb.com", "how": "search", "source_url": "https://www.medicaresolutions.com", "ts": "2026-09-12T13:04:06Z"}
 {"name": "WHETHER EXPRESS OR IMPLIED", "norm": "whether express or implied", "domain": "sirion.ai", "how": "search", "source_url": "https://www.medicaresolutions.com", "ts": "2026-09-12T13:04:12Z"}
 {"name": "INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY", "norm": "including implied warranties merchantability", "domain": "westlaw.com", "how": "search", "source_url": "https://www.medicaresolutions.com", "ts": "2026-09-12T13:04:16Z"}
+{"name": "American International Pacific", "norm": "american international pacific", "domain": "trademarkia.com", "how": "search", "source_url": "https://www.quotelab.com/marketing-partners.html", "ts": "2026-09-12T13:06:24Z"}
+{"name": "American International South", "norm": "american international south", "domain": "justia.com", "how": "search", "source_url": "https://www.quotelab.com/marketing-partners.html", "ts": "2026-09-12T13:06:30Z"}
+{"name": "American Manufacturers", "norm": "american manufacturers", "domain": "iqsdirectory.com", "how": "search", "source_url": "https://www.quotelab.com/marketing-partners.html", "ts": "2026-09-12T13:06:37Z"}
+{"name": "First Connect", "norm": "first connect", "domain": "firstconnect.io", "how": "guess:firstconnect.io", "source_url": "https://www.quotelab.com/marketing-partners.html", "ts": "2026-09-12T13:06:37Z"}
+{"name": "Good2Go", "norm": "good2go", "domain": "good2go.com", "how": "guess:good2go.com", "source_url": "https://www.quotelab.com/marketing-partners.html", "ts": "2026-09-12T13:06:37Z"}
+{"name": "Goosehead", "norm": "goosehead", "domain": "goosehead.com", "how": "guess:goosehead.com", "source_url": "https://www.quotelab.com/marketing-partners.html", "ts": "2026-09-12T13:06:37Z"}
