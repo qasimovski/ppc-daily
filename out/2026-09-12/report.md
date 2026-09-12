@@ -7,20 +7,21 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | stage | count |
 |---|---|
 | inbox candidates | 0 |
-| partner-list names resolved -> candidates | 3 -> 3 |
+| partner-list names resolved -> candidates | 4 -> 4 |
 | hiring postings read -> candidates | 0 -> 0 |
 | linked-domain candidates | 0 |
 | search requests | 0 |
-| raw finds (search) | 3 |
+| raw finds (search) | 4 |
 | constructed domains probed | 0 |
-| net-new candidates after exclusion index | 3 |
-|   of which from search | 3 |
+| net-new candidates after exclusion index | 4 |
+|   of which from search | 4 |
 |   of which from probing | 0 |
-| crawled | 3 |
-|   crawl: thin | 1 |
-|   crawl: redirect_offdomain | 2 |
+| crawled | 4 |
+|   crawl: ok | 2 |
+|   crawl: unreachable | 1 |
+|   crawl: redirect_offdomain | 1 |
 | probes that resolved to a real site | 0 |
-| v6 classified | 0 |
+| v6 classified | 2 |
 | carried to next run (unclassified) | 0 |
 | carried to next run (uncrawled) | 0 |
 | V6 QUALIFIED | 0 |
@@ -29,25 +30,25 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | stage | count |
 |---|---|
-| candidates crawled | 94 |
-| crawled ok | 66 |
-| v6 classified | 66 |
+| candidates crawled | 98 |
+| crawled ok | 68 |
+| v6 classified | 68 |
 | v6 qualified | 2 |
 
 ## Crawl outcomes (net-new candidates only)
 
 | status | count |
 |---|---|
-| ok | 66 |
-| redirect_offdomain | 12 |
-| unreachable | 10 |
+| ok | 68 |
+| redirect_offdomain | 13 |
+| unreachable | 11 |
 | thin | 6 |
 
 ## v6 qualify rate per discovery channel
 
 | channel | classified | qualified | rate |
 |---|---|---|---|
-| L10-partners | 63 | 2 | 3.2% |
+| L10-partners | 65 | 2 | 3.1% |
 | L11-hiring-agent | 3 | 0 | 0.0% |
 
 **V6 QUALIFIED TODAY: 2** (ICP-clean: 2). Cumulative across all daily runs: 132.
@@ -56,9 +57,9 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | reason | count |
 |---|---|
-| unrelated | 20 |
+| unrelated | 21 |
 | lead_or_appointment_pricing | 17 |
-| end_advertiser | 13 |
+| end_advertiser | 14 |
 | service_to_call_receiver | 5 |
 | directory_or_content | 3 |
 | no_clear_signal | 3 |

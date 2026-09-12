@@ -1891,3 +1891,7 @@
 {"name": "USALRT", "norm": "usalrt", "domain": "usalrt.com", "how": "search", "source_url": "https://14.us-unemployment-resources.com/marketing-partners", "ts": "2026-09-12T13:23:47Z"}
 {"name": "United States National Guard", "norm": "united states national guard", "domain": "nationalguard.com", "how": "search", "source_url": "https://14.us-unemployment-resources.com/marketing-partners", "ts": "2026-09-12T13:23:54Z"}
 {"name": "NBKC Bank", "norm": "nbkc bank", "domain": "nbkcbank.com", "how": "guess:nbkcbank.com", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-12T13:23:54Z"}
+{"name": "BMO Harris Bank", "norm": "bmo harris bank", "domain": "abilitymagazine.com", "how": "search", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-12T13:26:05Z"}
+{"name": "BNC National Bank", "norm": "bnc national bank", "domain": "bnc.bank", "how": "search", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-12T13:26:24Z"}
+{"name": "Newfi", "norm": "newfi", "domain": "newfi.com", "how": "guess:newfi.com", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-12T13:26:24Z"}
+{"name": "North American Savings Bank", "norm": "north american savings bank", "domain": "northamericansavingsbank.net", "how": "guess:northamericansavingsbank.net", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-12T13:26:24Z"}
