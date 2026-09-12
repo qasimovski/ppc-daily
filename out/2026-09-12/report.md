@@ -17,9 +17,9 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 |   of which from search | 1 |
 |   of which from probing | 0 |
 | crawled | 1 |
-|   crawl: unreachable | 1 |
+|   crawl: ok | 1 |
 | probes that resolved to a real site | 0 |
-| v6 classified | 0 |
+| v6 classified | 1 |
 | carried to next run (unclassified) | 0 |
 | carried to next run (uncrawled) | 0 |
 | V6 QUALIFIED | 0 |
@@ -28,16 +28,16 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | stage | count |
 |---|---|
-| candidates crawled | 90 |
-| crawled ok | 65 |
-| v6 classified | 65 |
+| candidates crawled | 91 |
+| crawled ok | 66 |
+| v6 classified | 66 |
 | v6 qualified | 2 |
 
 ## Crawl outcomes (net-new candidates only)
 
 | status | count |
 |---|---|
-| ok | 65 |
+| ok | 66 |
 | unreachable | 10 |
 | redirect_offdomain | 10 |
 | thin | 5 |
@@ -46,7 +46,7 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | channel | classified | qualified | rate |
 |---|---|---|---|
-| L10-partners | 62 | 2 | 3.2% |
+| L10-partners | 63 | 2 | 3.2% |
 | L11-hiring-agent | 3 | 0 | 0.0% |
 
 **V6 QUALIFIED TODAY: 2** (ICP-clean: 2). Cumulative across all daily runs: 132.
@@ -55,7 +55,7 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | reason | count |
 |---|---|
-| unrelated | 19 |
+| unrelated | 20 |
 | lead_or_appointment_pricing | 17 |
 | end_advertiser | 13 |
 | service_to_call_receiver | 5 |

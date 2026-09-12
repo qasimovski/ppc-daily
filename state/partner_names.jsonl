@@ -1884,3 +1884,6 @@
 {"name": "The Medical Alert Center", "norm": "medical alert center", "domain": "lifeassure.com", "how": "search", "source_url": "https://14.us-unemployment-resources.com/marketing-partners", "ts": "2026-09-12T13:16:27Z"}
 {"name": "To The Degrees", "norm": "to degrees", "domain": "tumblr.com", "how": "search", "source_url": "https://14.us-unemployment-resources.com/marketing-partners", "ts": "2026-09-12T13:18:38Z"}
 {"name": "Top Offers", "norm": "top offers", "domain": "meesho.com", "how": "search", "source_url": "https://14.us-unemployment-resources.com/marketing-partners", "ts": "2026-09-12T13:19:12Z"}
+{"name": "Top5Compare", "norm": "top5compare", "domain": "scamadviser.com", "how": "search", "source_url": "https://14.us-unemployment-resources.com/marketing-partners", "ts": "2026-09-12T13:21:20Z"}
+{"name": "Trustio", "norm": "trustio", "domain": "trustio.app", "how": "search", "source_url": "https://14.us-unemployment-resources.com/marketing-partners", "ts": "2026-09-12T13:21:25Z"}
+{"name": "UMM / United Mommas", "norm": "umm united mommas", "domain": null, "how": "unresolved:search-miss", "source_url": "https://14.us-unemployment-resources.com/marketing-partners", "ts": "2026-09-12T13:21:33Z"}
