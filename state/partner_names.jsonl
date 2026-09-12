@@ -1870,3 +1870,10 @@
 {"name": "First Connect", "norm": "first connect", "domain": "firstconnect.io", "how": "guess:firstconnect.io", "source_url": "https://www.quotelab.com/marketing-partners.html", "ts": "2026-09-12T13:06:37Z"}
 {"name": "Good2Go", "norm": "good2go", "domain": "good2go.com", "how": "guess:good2go.com", "source_url": "https://www.quotelab.com/marketing-partners.html", "ts": "2026-09-12T13:06:37Z"}
 {"name": "Goosehead", "norm": "goosehead", "domain": "goosehead.com", "how": "guess:goosehead.com", "source_url": "https://www.quotelab.com/marketing-partners.html", "ts": "2026-09-12T13:06:37Z"}
+{"name": "CLASS ACTION AND COLLECTIVE ACTION WAIVERS", "norm": "class action and collective action waivers", "domain": "floridabar.org", "how": "search", "source_url": "https://www.solarreviews.com/privacy-policy", "ts": "2026-09-12T13:08:38Z"}
+{"name": "JURY TRIAL WAIVER", "norm": "jury trial waiver", "domain": "afterpattern.com", "how": "search", "source_url": "https://www.solarreviews.com/privacy-policy", "ts": "2026-09-12T13:08:45Z"}
+{"name": "RetirementSMART", "norm": "retirementsmart", "domain": "epgnow.net", "how": "search", "source_url": "https://14.us-unemployment-resources.com/marketing-partners", "ts": "2026-09-12T13:08:50Z"}
+{"name": "Revstream ApS", "norm": "revstream aps", "domain": "proff.dk", "how": "search", "source_url": "https://14.us-unemployment-resources.com/marketing-partners", "ts": "2026-09-12T13:08:57Z"}
+{"name": "TRN / True North", "norm": "trn true north", "domain": null, "how": "unresolved:search-miss", "source_url": "https://14.us-unemployment-resources.com/marketing-partners", "ts": "2026-09-12T13:09:04Z"}
+{"name": "TechSent / Tech Sentinel", "norm": "techsent tech sentinel", "domain": null, "how": "unresolved:search-miss", "source_url": "https://14.us-unemployment-resources.com/marketing-partners", "ts": "2026-09-12T13:09:11Z"}
+{"name": "Reach Financial", "norm": "reach financial", "domain": "reachfinancial.com", "how": "guess:reachfinancial.com", "source_url": "https://14.us-unemployment-resources.com/marketing-partners", "ts": "2026-09-12T13:09:11Z"}
