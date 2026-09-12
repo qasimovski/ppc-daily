@@ -1761,3 +1761,9 @@
 {"name": "Qualify Medicare", "norm": "qualify medicare", "domain": "qualifymedicare.com", "how": "guess:qualifymedicare.com", "source_url": "https://compareinsurancequotes.com/marketing-partners", "ts": "2026-09-12T01:05:57Z"}
 {"name": "Quantum Research LLC", "norm": "quantum research", "domain": "quantumresearch.com", "how": "guess:quantumresearch.com", "source_url": "https://compareinsurancequotes.com/marketing-partners", "ts": "2026-09-12T01:05:57Z"}
 {"name": "QuoteNerds, LLC", "norm": "quotenerds", "domain": "quotenerds.com", "how": "guess:quotenerds.com", "source_url": "https://compareinsurancequotes.com/marketing-partners", "ts": "2026-09-12T01:05:57Z"}
+{"name": "TSC Direct", "norm": "tsc direct", "domain": null, "how": "unresolved:generic-name", "source_url": "https://fastautoquote.org/marketing-partners", "ts": "2026-09-12T01:08:25Z"}
+{"name": "Wax Digital", "norm": "wax digital", "domain": null, "how": "unresolved:generic-name", "source_url": "https://fastautoquote.org/marketing-partners", "ts": "2026-09-12T01:08:27Z"}
+{"name": "WeMake Media LLC", "norm": "wemake media", "domain": null, "how": "unresolved:search-miss", "source_url": "https://fastautoquote.org/marketing-partners", "ts": "2026-09-12T01:08:35Z"}
+{"name": "Western Marketing Associates, LLC", "norm": "western marketing associates", "domain": null, "how": "unresolved:search-miss", "source_url": "https://fastautoquote.org/marketing-partners", "ts": "2026-09-12T01:08:42Z"}
+{"name": "Yasha Marketing", "norm": "yasha marketing", "domain": "lawinsider.com", "how": "search", "source_url": "https://fastautoquote.org/marketing-partners", "ts": "2026-09-12T01:08:48Z"}
+{"name": "Zenith Marketing Group, LLC", "norm": "zenith marketing group", "domain": "ltddir.com", "how": "search", "source_url": "https://fastautoquote.org/marketing-partners", "ts": "2026-09-12T01:08:54Z"}
