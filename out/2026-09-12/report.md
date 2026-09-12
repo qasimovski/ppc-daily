@@ -7,19 +7,20 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | stage | count |
 |---|---|
 | inbox candidates | 0 |
-| partner-list names resolved -> candidates | 11 -> 6 |
+| partner-list names resolved -> candidates | 9 -> 8 |
 | hiring postings read -> candidates | 0 -> 0 |
 | linked-domain candidates | 0 |
 | search requests | 0 |
-| raw finds (search) | 11 |
+| raw finds (search) | 9 |
 | constructed domains probed | 0 |
-| net-new candidates after exclusion index | 6 |
-|   of which from search | 6 |
+| net-new candidates after exclusion index | 8 |
+|   of which from search | 8 |
 |   of which from probing | 0 |
-| crawled | 6 |
-|   crawl: ok | 6 |
+| crawled | 8 |
+|   crawl: ok | 7 |
+|   crawl: redirect_offdomain | 1 |
 | probes that resolved to a real site | 0 |
-| v6 classified | 6 |
+| v6 classified | 7 |
 | carried to next run (unclassified) | 0 |
 | carried to next run (uncrawled) | 0 |
 | V6 QUALIFIED | 1 |
@@ -28,35 +29,35 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | stage | count |
 |---|---|
-| candidates crawled | 54 |
-| crawled ok | 36 |
-| v6 classified | 36 |
-| v6 qualified | 1 |
+| candidates crawled | 62 |
+| crawled ok | 43 |
+| v6 classified | 43 |
+| v6 qualified | 2 |
 
 ## Crawl outcomes (net-new candidates only)
 
 | status | count |
 |---|---|
-| ok | 36 |
+| ok | 43 |
+| redirect_offdomain | 8 |
 | unreachable | 7 |
-| redirect_offdomain | 7 |
 | thin | 4 |
 
 ## v6 qualify rate per discovery channel
 
 | channel | classified | qualified | rate |
 |---|---|---|---|
-| L10-partners | 36 | 1 | 2.8% |
+| L10-partners | 43 | 2 | 4.7% |
 
-**V6 QUALIFIED TODAY: 1** (ICP-clean: 1). Cumulative across all daily runs: 131.
+**V6 QUALIFIED TODAY: 2** (ICP-clean: 2). Cumulative across all daily runs: 132.
 
 ## Why candidates failed v6
 
 | reason | count |
 |---|---|
-| unrelated | 14 |
-| lead_or_appointment_pricing | 11 |
-| end_advertiser | 5 |
+| unrelated | 15 |
+| lead_or_appointment_pricing | 14 |
+| end_advertiser | 7 |
 | directory_or_content | 2 |
 | service_to_call_receiver | 2 |
 | no_clear_signal | 1 |
@@ -66,6 +67,7 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | company | domain | fit | business model | marketplace | geo | flags |
 |---|---|---|---|---|---|---|
 | ExchangeFlo | exchangeflo.io | 90 | pay-per-call and lead marketplace for advertisers and publishers | yes |  | geo unknown |
+| Affordable Auto | affordableautoinc.com | 90 | auto insurance lead generation and call sales | yes |  | geo unknown |
 
 ## Files
 

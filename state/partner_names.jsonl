@@ -1834,3 +1834,16 @@
 {"name": "LifeQuotes.com", "norm": "lifequotes com", "domain": "lifequotes.com", "how": "literal", "source_url": "https://rocketquote.com/marketing-partners", "ts": "2026-09-12T01:26:48Z"}
 {"name": "NCWC", "norm": "ncwc", "domain": "ncwc.com", "how": "guess:ncwc.com", "source_url": "https://rocketquote.com/marketing-partners", "ts": "2026-09-12T01:26:48Z"}
 {"name": "Penn Mutual", "norm": "penn mutual", "domain": "pennmutual.com", "how": "guess:pennmutual.com", "source_url": "https://rocketquote.com/marketing-partners", "ts": "2026-09-12T01:26:48Z"}
+{"name": "Merge Media", "norm": "merge media", "domain": "merge-mediagroup.com", "how": "search", "source_url": "https://selectmypolicy.com/partners", "ts": "2026-09-12T01:28:47Z"}
+{"name": "Method Marketing, LLC", "norm": "method marketing", "domain": null, "how": "unresolved:generic-name", "source_url": "https://selectmypolicy.com/partners", "ts": "2026-09-12T01:28:50Z"}
+{"name": "MMI Media", "norm": "mmi media", "domain": null, "how": "unresolved:generic-name", "source_url": "https://selectmypolicy.com/partners", "ts": "2026-09-12T01:28:52Z"}
+{"name": "MTK Marketing", "norm": "mtk marketing", "domain": null, "how": "unresolved:generic-name", "source_url": "https://selectmypolicy.com/partners", "ts": "2026-09-12T01:28:54Z"}
+{"name": "NAF Digital", "norm": "naf digital", "domain": null, "how": "unresolved:generic-name", "source_url": "https://selectmypolicy.com/partners", "ts": "2026-09-12T01:28:56Z"}
+{"name": "Oncor Direct", "norm": "oncor direct", "domain": "choosemypower.org", "how": "search", "source_url": "https://selectmypolicy.com/partners", "ts": "2026-09-12T01:29:02Z"}
+{"name": "OneLife Marketing", "norm": "onelife marketing", "domain": "onelifemarketingsolutions.com", "how": "search", "source_url": "https://selectmypolicy.com/partners", "ts": "2026-09-12T01:29:25Z"}
+{"name": "Affinitycoverage.com", "norm": "affinitycoverage com", "domain": "affinitycoverage.com", "how": "literal", "source_url": "https://selectmypolicy.com/partners", "ts": "2026-09-12T01:29:25Z"}
+{"name": "Affordable Auto", "norm": "affordable auto", "domain": "affordableautoinc.com", "how": "guess:affordableautoinc.com", "source_url": "https://selectmypolicy.com/partners", "ts": "2026-09-12T01:29:25Z"}
+{"name": "Affordable Prescription Assistance LLC", "norm": "affordable prescription assistance", "domain": "affordableprescriptionassistance.com", "how": "guess:affordableprescriptionassistance.com", "source_url": "https://selectmypolicy.com/partners", "ts": "2026-09-12T01:29:25Z"}
+{"name": "AIS MANAGEMENT, LLC", "norm": "ais management", "domain": "ais-management.com", "how": "guess:ais-management.com", "source_url": "https://selectmypolicy.com/partners", "ts": "2026-09-12T01:29:25Z"}
+{"name": "Alain Racine", "norm": "alain racine", "domain": "alainracine.com", "how": "guess:alainracine.com", "source_url": "https://selectmypolicy.com/partners", "ts": "2026-09-12T01:29:25Z"}
+{"name": "Alan Pinto", "norm": "alan pinto", "domain": "alanpinto.com", "how": "guess:alanpinto.com", "source_url": "https://selectmypolicy.com/partners", "ts": "2026-09-12T01:29:25Z"}
