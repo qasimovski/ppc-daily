@@ -1877,3 +1877,4 @@
 {"name": "TRN / True North", "norm": "trn true north", "domain": null, "how": "unresolved:search-miss", "source_url": "https://14.us-unemployment-resources.com/marketing-partners", "ts": "2026-09-12T13:09:04Z"}
 {"name": "TechSent / Tech Sentinel", "norm": "techsent tech sentinel", "domain": null, "how": "unresolved:search-miss", "source_url": "https://14.us-unemployment-resources.com/marketing-partners", "ts": "2026-09-12T13:09:11Z"}
 {"name": "Reach Financial", "norm": "reach financial", "domain": "reachfinancial.com", "how": "guess:reachfinancial.com", "source_url": "https://14.us-unemployment-resources.com/marketing-partners", "ts": "2026-09-12T13:09:11Z"}
+{"name": "The Accident Helpers", "norm": "accident helpers", "domain": "helpjuice.com", "how": "search", "source_url": "https://14.us-unemployment-resources.com/marketing-partners", "ts": "2026-09-12T13:11:48Z"}

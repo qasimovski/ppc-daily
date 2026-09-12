@@ -7,20 +7,19 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | stage | count |
 |---|---|
 | inbox candidates | 0 |
-| partner-list names resolved -> candidates | 5 -> 5 |
+| partner-list names resolved -> candidates | 1 -> 1 |
 | hiring postings read -> candidates | 0 -> 0 |
 | linked-domain candidates | 0 |
 | search requests | 0 |
-| raw finds (search) | 5 |
+| raw finds (search) | 1 |
 | constructed domains probed | 0 |
-| net-new candidates after exclusion index | 5 |
-|   of which from search | 5 |
+| net-new candidates after exclusion index | 1 |
+|   of which from search | 1 |
 |   of which from probing | 0 |
-| crawled | 5 |
-|   crawl: ok | 4 |
-|   crawl: redirect_offdomain | 1 |
+| crawled | 1 |
+|   crawl: ok | 1 |
 | probes that resolved to a real site | 0 |
-| v6 classified | 4 |
+| v6 classified | 1 |
 | carried to next run (unclassified) | 0 |
 | carried to next run (uncrawled) | 0 |
 | V6 QUALIFIED | 0 |
@@ -29,16 +28,16 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | stage | count |
 |---|---|
-| candidates crawled | 88 |
-| crawled ok | 64 |
-| v6 classified | 64 |
+| candidates crawled | 89 |
+| crawled ok | 65 |
+| v6 classified | 65 |
 | v6 qualified | 2 |
 
 ## Crawl outcomes (net-new candidates only)
 
 | status | count |
 |---|---|
-| ok | 64 |
+| ok | 65 |
 | redirect_offdomain | 10 |
 | unreachable | 9 |
 | thin | 5 |
@@ -47,7 +46,7 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | channel | classified | qualified | rate |
 |---|---|---|---|
-| L10-partners | 61 | 2 | 3.3% |
+| L10-partners | 62 | 2 | 3.2% |
 | L11-hiring-agent | 3 | 0 | 0.0% |
 
 **V6 QUALIFIED TODAY: 2** (ICP-clean: 2). Cumulative across all daily runs: 132.
@@ -62,8 +61,8 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | service_to_call_receiver | 5 |
 | directory_or_content | 3 |
 | no_clear_signal | 3 |
+| software_or_crm | 2 |
 | seo_or_ranking_agency | 1 |
-| software_or_crm | 1 |
 
 ## Qualified today
 
