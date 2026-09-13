@@ -2026,3 +2026,9 @@
 {"name": "Credence Mortgage", "norm": "credence mortgage", "domain": "credencema.com", "how": "search", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-13T13:17:14Z"}
 {"name": "Oregonrealestateloans.com", "norm": "oregonrealestateloans com", "domain": "oregonrealestateloans.com", "how": "literal", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-13T13:17:14Z"}
 {"name": "Orrstown Bank", "norm": "orrstown bank", "domain": "orrstownbank.com", "how": "guess:orrstownbank.com", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-13T13:17:14Z"}
+{"name": "Credit Union of Texas", "norm": "credit union texas", "domain": "cutx.org", "how": "search", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-13T13:19:15Z"}
+{"name": "EBSBDirect", "norm": "ebsbdirect", "domain": null, "how": "unresolved:search-miss", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-13T13:19:22Z"}
+{"name": "Elending Group", "norm": "elending group", "domain": "zillow.com", "how": "search", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-13T13:19:29Z"}
+{"name": "EMPIRE OF AMERICA CORPORATION", "norm": "empire america", "domain": "empireofamerica.com", "how": "search", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-13T13:19:52Z"}
+{"name": "Pacific National Bank", "norm": "pacific national bank", "domain": "pacificnationalbank.com", "how": "guess:pacificnationalbank.com", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-13T13:19:52Z"}
+{"name": "Pacific Oaks Mortgage", "norm": "pacific oaks mortgage", "domain": "pacificoaksmortgage.com", "how": "guess:pacificoaksmortgage.com", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-13T13:19:52Z"}
