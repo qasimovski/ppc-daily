@@ -1951,3 +1951,11 @@
 {"name": "Imperial Clermont", "norm": "imperial clermont", "domain": "pagesmode.com", "how": "search", "source_url": "https://pickmycoverage.com/partners", "ts": "2026-09-13T01:20:33Z"}
 {"name": "Independent Carriers", "norm": "independent carriers", "domain": "carriersource.io", "how": "search", "source_url": "https://pickmycoverage.com/partners", "ts": "2026-09-13T01:20:52Z"}
 {"name": "Inside Response", "norm": "inside response", "domain": "archello.com", "how": "search", "source_url": "https://pickmycoverage.com/partners", "ts": "2026-09-13T01:21:15Z"}
+{"name": "FITNESS FOR A PARTICULAR PURPOSE", "norm": "fitness for particular purpose", "domain": "lawinfo.com", "how": "search", "source_url": "https://quotes.priceshopmedicare.com", "ts": "2026-09-13T01:23:38Z"}
+{"name": "OR THAT THE SERVICES WILL BE UNINTERRUPTED", "norm": "or that services will be uninterrupted", "domain": null, "how": "unresolved:search-miss", "source_url": "https://quotes.priceshopmedicare.com", "ts": "2026-09-13T01:23:45Z"}
+{"name": "WHETHER ORAL OR WRITTEN", "norm": "whether oral or written", "domain": null, "how": "unresolved:search-miss", "source_url": "https://quotes.priceshopmedicare.com", "ts": "2026-09-13T01:23:51Z"}
+{"name": "Great American", "norm": "great american", "domain": "great-american.com", "how": "guess:great-american.com", "source_url": "https://quotes.priceshopmedicare.com", "ts": "2026-09-13T01:23:51Z"}
+{"name": "Guardian Healthcare", "norm": "guardian healthcare", "domain": "guardian-healthcare.com", "how": "guess:guardian-healthcare.com", "source_url": "https://quotes.priceshopmedicare.com", "ts": "2026-09-13T01:23:51Z"}
+{"name": "Health1nsurance.com", "norm": "health1nsurance com", "domain": "health1nsurance.com", "how": "literal", "source_url": "https://quotes.priceshopmedicare.com", "ts": "2026-09-13T01:23:51Z"}
+{"name": "Healthcare.com", "norm": "healthcare com", "domain": "healthcare.com", "how": "literal", "source_url": "https://quotes.priceshopmedicare.com", "ts": "2026-09-13T01:23:51Z"}
+{"name": "HealthSpring", "norm": "healthspring", "domain": "healthspring.com", "how": "guess:healthspring.com", "source_url": "https://quotes.priceshopmedicare.com", "ts": "2026-09-13T01:23:51Z"}
