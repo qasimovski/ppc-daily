@@ -7,21 +7,19 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | stage | count |
 |---|---|
 | inbox candidates | 0 |
-| partner-list names resolved -> candidates | 8 -> 5 |
+| partner-list names resolved -> candidates | 4 -> 2 |
 | hiring postings read -> candidates | 0 -> 0 |
 | linked-domain candidates | 0 |
 | search requests | 0 |
-| raw finds (search) | 8 |
+| raw finds (search) | 4 |
 | constructed domains probed | 0 |
-| net-new candidates after exclusion index | 5 |
-|   of which from search | 5 |
+| net-new candidates after exclusion index | 2 |
+|   of which from search | 2 |
 |   of which from probing | 0 |
-| crawled | 5 |
-|   crawl: ok | 3 |
-|   crawl: thin | 1 |
-|   crawl: unreachable | 1 |
+| crawled | 2 |
+|   crawl: ok | 2 |
 | probes that resolved to a real site | 0 |
-| v6 classified | 3 |
+| v6 classified | 2 |
 | carried to next run (unclassified) | 0 |
 | carried to next run (uncrawled) | 0 |
 | V6 QUALIFIED | 0 |
@@ -30,16 +28,16 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | stage | count |
 |---|---|
-| candidates crawled | 68 |
-| crawled ok | 52 |
-| v6 classified | 52 |
+| candidates crawled | 70 |
+| crawled ok | 54 |
+| v6 classified | 54 |
 | v6 qualified | 1 |
 
 ## Crawl outcomes (net-new candidates only)
 
 | status | count |
 |---|---|
-| ok | 52 |
+| ok | 54 |
 | redirect_offdomain | 7 |
 | unreachable | 6 |
 | thin | 2 |
@@ -50,7 +48,7 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | channel | classified | qualified | rate |
 |---|---|---|---|
 | L11-hiring-agent | 5 | 1 | 20.0% |
-| L10-partners | 47 | 0 | 0.0% |
+| L10-partners | 49 | 0 | 0.0% |
 
 **V6 QUALIFIED TODAY: 1** (ICP-clean: 1). Cumulative across all daily runs: 133.
 
@@ -60,7 +58,7 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 |---|---|
 | unrelated | 23 |
 | lead_or_appointment_pricing | 11 |
-| end_advertiser | 6 |
+| end_advertiser | 8 |
 | seo_or_ranking_agency | 4 |
 | directory_or_content | 3 |
 | service_to_call_receiver | 2 |

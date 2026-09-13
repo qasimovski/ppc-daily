@@ -2011,3 +2011,7 @@
 {"name": "Assured Health Group", "norm": "assured health group", "domain": "assuredhealthins.com", "how": "search", "source_url": "https://14.us-unemployment-resources.com/marketing-partners", "ts": "2026-09-13T13:09:13Z"}
 {"name": "Aura / Aurora Health", "norm": "aura aurora health", "domain": "mts.ru", "how": "search", "source_url": "https://14.us-unemployment-resources.com/marketing-partners", "ts": "2026-09-13T13:09:19Z"}
 {"name": "BEME / United Benefits Partners", "norm": "beme united benefits partners", "domain": null, "how": "unresolved:search-miss", "source_url": "https://14.us-unemployment-resources.com/marketing-partners", "ts": "2026-09-13T13:09:26Z"}
+{"name": "Close Your Own Loan.com", "norm": "close your own loan com", "domain": "closeyourownloan.com", "how": "search", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-13T13:11:51Z"}
+{"name": "Codex Lending", "norm": "codex lending", "domain": "zillow.com", "how": "search", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-13T13:11:58Z"}
+{"name": "Colonial Mortgage Service Company of America", "norm": "colonial mortgage service company america", "domain": "colonialmort.com", "how": "search", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-13T13:12:05Z"}
+{"name": "Oceans Mortgage", "norm": "oceans mortgage", "domain": "oceansmortgage.com", "how": "guess:oceansmortgage.com", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-13T13:12:05Z"}
