@@ -6,40 +6,41 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | stage | count |
 |---|---|
-| inbox candidates | 0 |
-| partner-list names resolved -> candidates | 5 -> 3 |
+| inbox candidates | 6 |
+| partner-list names resolved -> candidates | 0 -> 0 |
 | hiring postings read -> candidates | 0 -> 0 |
 | linked-domain candidates | 0 |
 | search requests | 0 |
-| raw finds (search) | 5 |
+| raw finds (search) | 6 |
 | constructed domains probed | 0 |
-| net-new candidates after exclusion index | 3 |
-|   of which from search | 3 |
+| net-new candidates after exclusion index | 6 |
+|   of which from search | 6 |
 |   of which from probing | 0 |
-| crawled | 3 |
-|   crawl: ok | 3 |
+| crawled | 6 |
+|   crawl: ok | 5 |
+|   crawl: unreachable | 1 |
 | probes that resolved to a real site | 0 |
-| v6 classified | 3 |
+| v6 classified | 5 |
 | carried to next run (unclassified) | 0 |
 | carried to next run (uncrawled) | 0 |
-| V6 QUALIFIED | 0 |
+| V6 QUALIFIED | 1 |
 
 ## Day so far (all passes, unique domains)
 
 | stage | count |
 |---|---|
-| candidates crawled | 55 |
-| crawled ok | 42 |
-| v6 classified | 42 |
-| v6 qualified | 0 |
+| candidates crawled | 61 |
+| crawled ok | 47 |
+| v6 classified | 47 |
+| v6 qualified | 1 |
 
 ## Crawl outcomes (net-new candidates only)
 
 | status | count |
 |---|---|
-| ok | 42 |
+| ok | 47 |
 | redirect_offdomain | 7 |
-| unreachable | 4 |
+| unreachable | 5 |
 | unregistered | 1 |
 | thin | 1 |
 
@@ -47,21 +48,28 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | channel | classified | qualified | rate |
 |---|---|---|---|
+| L11-hiring-agent | 5 | 1 | 20.0% |
 | L10-partners | 42 | 0 | 0.0% |
 
-**V6 QUALIFIED TODAY: 0** (ICP-clean: 0). Cumulative across all daily runs: 132.
+**V6 QUALIFIED TODAY: 1** (ICP-clean: 1). Cumulative across all daily runs: 133.
 
 ## Why candidates failed v6
 
 | reason | count |
 |---|---|
 | unrelated | 20 |
-| lead_or_appointment_pricing | 6 |
+| lead_or_appointment_pricing | 10 |
 | end_advertiser | 5 |
 | seo_or_ranking_agency | 4 |
 | directory_or_content | 3 |
 | service_to_call_receiver | 2 |
 | no_clear_signal | 2 |
+
+## Qualified today
+
+| company | domain | fit | business model | marketplace | geo | flags |
+|---|---|---|---|---|---|---|
+| Handy Alliance | handyalliance.com | 95 | Qualified inbound home service calls sold to service businesses |  |  | geo unknown |
 
 ## Files
 
