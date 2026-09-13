@@ -1968,3 +1968,9 @@
 {"name": "Halcyon", "norm": "halcyon", "domain": "halcyon.com", "how": "guess:halcyon.com", "source_url": "https://ratequote.com/marketing-partners", "ts": "2026-09-13T01:26:21Z"}
 {"name": "Happy Days", "norm": "happy days", "domain": "happydays.com", "how": "guess:happydays.com", "source_url": "https://ratequote.com/marketing-partners", "ts": "2026-09-13T01:26:21Z"}
 {"name": "Hawkeye Security", "norm": "hawkeye security", "domain": "hawkeyesecurity.com", "how": "guess:hawkeyesecurity.com", "source_url": "https://ratequote.com/marketing-partners", "ts": "2026-09-13T01:26:21Z"}
+{"name": "Docktors", "norm": "docktors", "domain": "mndocktors.com", "how": "search", "source_url": "https://rocketquote.com/marketing-partners", "ts": "2026-09-13T01:28:51Z"}
+{"name": "EBache, LLC", "norm": "ebache", "domain": "mapquest.com", "how": "search", "source_url": "https://rocketquote.com/marketing-partners", "ts": "2026-09-13T01:28:57Z"}
+{"name": "ReliaQuote", "norm": "reliaquote", "domain": "reliaquote.com", "how": "guess:reliaquote.com", "source_url": "https://rocketquote.com/marketing-partners", "ts": "2026-09-13T01:28:57Z"}
+{"name": "Safeguard", "norm": "safeguard", "domain": "safeguard.net", "how": "guess:safeguard.net", "source_url": "https://rocketquote.com/marketing-partners", "ts": "2026-09-13T01:28:57Z"}
+{"name": "Stone Hill National", "norm": "stone hill national", "domain": "stonehillnational.com", "how": "guess:stonehillnational.com", "source_url": "https://rocketquote.com/marketing-partners", "ts": "2026-09-13T01:28:57Z"}
+{"name": "Three Rivers Holdings", "norm": "three rivers holdings", "domain": "threeriversholdings.net", "how": "guess:threeriversholdings.net", "source_url": "https://rocketquote.com/marketing-partners", "ts": "2026-09-13T01:28:57Z"}
