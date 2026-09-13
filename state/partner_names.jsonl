@@ -2032,3 +2032,8 @@
 {"name": "EMPIRE OF AMERICA CORPORATION", "norm": "empire america", "domain": "empireofamerica.com", "how": "search", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-13T13:19:52Z"}
 {"name": "Pacific National Bank", "norm": "pacific national bank", "domain": "pacificnationalbank.com", "how": "guess:pacificnationalbank.com", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-13T13:19:52Z"}
 {"name": "Pacific Oaks Mortgage", "norm": "pacific oaks mortgage", "domain": "pacificoaksmortgage.com", "how": "guess:pacificoaksmortgage.com", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-13T13:19:52Z"}
+{"name": "EMPIREAMERICA", "norm": "empireamerica", "domain": null, "how": "unresolved:search-miss", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-13T13:22:29Z"}
+{"name": "Equity Home Mortgage", "norm": "equity home mortgage", "domain": "goequityhome.com", "how": "search", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-13T13:22:35Z"}
+{"name": "Peyton Mortgage", "norm": "peyton mortgage", "domain": "peytonmortgage.com", "how": "guess:peytonmortgage.com", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-13T13:22:35Z"}
+{"name": "Prosper", "norm": "prosper", "domain": "prosper.com", "how": "guess:prosper.com", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-13T13:22:35Z"}
+{"name": "Quick Quote Mortgage", "norm": "quick quote mortgage", "domain": "quickquotemortgage.net", "how": "guess:quickquotemortgage.net", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-13T13:22:35Z"}
