@@ -1959,3 +1959,12 @@
 {"name": "Health1nsurance.com", "norm": "health1nsurance com", "domain": "health1nsurance.com", "how": "literal", "source_url": "https://quotes.priceshopmedicare.com", "ts": "2026-09-13T01:23:51Z"}
 {"name": "Healthcare.com", "norm": "healthcare com", "domain": "healthcare.com", "how": "literal", "source_url": "https://quotes.priceshopmedicare.com", "ts": "2026-09-13T01:23:51Z"}
 {"name": "HealthSpring", "norm": "healthspring", "domain": "healthspring.com", "how": "guess:healthspring.com", "source_url": "https://quotes.priceshopmedicare.com", "ts": "2026-09-13T01:23:51Z"}
+{"name": "American National Property and Casualty", "norm": "american national property and casualty", "domain": "ambest.com", "how": "search", "source_url": "https://ratequote.com/marketing-partners", "ts": "2026-09-13T01:25:58Z"}
+{"name": "American Premier", "norm": "american premier", "domain": "hospicenews.com", "how": "search", "source_url": "https://ratequote.com/marketing-partners", "ts": "2026-09-13T01:26:21Z"}
+{"name": "Fabric", "norm": "fabric", "domain": "fabric.com", "how": "guess:fabric.com", "source_url": "https://ratequote.com/marketing-partners", "ts": "2026-09-13T01:26:21Z"}
+{"name": "Grange", "norm": "grange", "domain": "grange.com", "how": "guess:grange.com", "source_url": "https://ratequote.com/marketing-partners", "ts": "2026-09-13T01:26:21Z"}
+{"name": "Great Way", "norm": "great way", "domain": "great-way.com", "how": "guess:great-way.com", "source_url": "https://ratequote.com/marketing-partners", "ts": "2026-09-13T01:26:21Z"}
+{"name": "Grinnell Mutual", "norm": "grinnell mutual", "domain": "grinnellmutual.com", "how": "guess:grinnellmutual.com", "source_url": "https://ratequote.com/marketing-partners", "ts": "2026-09-13T01:26:21Z"}
+{"name": "Halcyon", "norm": "halcyon", "domain": "halcyon.com", "how": "guess:halcyon.com", "source_url": "https://ratequote.com/marketing-partners", "ts": "2026-09-13T01:26:21Z"}
+{"name": "Happy Days", "norm": "happy days", "domain": "happydays.com", "how": "guess:happydays.com", "source_url": "https://ratequote.com/marketing-partners", "ts": "2026-09-13T01:26:21Z"}
+{"name": "Hawkeye Security", "norm": "hawkeye security", "domain": "hawkeyesecurity.com", "how": "guess:hawkeyesecurity.com", "source_url": "https://ratequote.com/marketing-partners", "ts": "2026-09-13T01:26:21Z"}
