@@ -2037,3 +2037,10 @@
 {"name": "Peyton Mortgage", "norm": "peyton mortgage", "domain": "peytonmortgage.com", "how": "guess:peytonmortgage.com", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-13T13:22:35Z"}
 {"name": "Prosper", "norm": "prosper", "domain": "prosper.com", "how": "guess:prosper.com", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-13T13:22:35Z"}
 {"name": "Quick Quote Mortgage", "norm": "quick quote mortgage", "domain": "quickquotemortgage.net", "how": "guess:quickquotemortgage.net", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-13T13:22:35Z"}
+{"name": "Excel Mortgage Services", "norm": "excel mortgage services", "domain": "teamerm.com", "how": "search", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-13T13:24:41Z"}
+{"name": "Fast Forward Home Loans", "norm": "fast forward home loans", "domain": "addy.com", "how": "search", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-13T13:24:47Z"}
+{"name": "Federated Mortgage Corp", "norm": "federated mortgage", "domain": "fedmc.com", "how": "search", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-13T13:24:53Z"}
+{"name": "Fifth Third Bank", "norm": "fifth third bank", "domain": "53.com", "how": "search", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-13T13:25:34Z"}
+{"name": "QuickenLoans", "norm": "quickenloans", "domain": "quickenloans.com", "how": "guess:quickenloans.com", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-13T13:25:34Z"}
+{"name": "Quontic Bank", "norm": "quontic bank", "domain": "quonticbank.com", "how": "guess:quonticbank.com", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-13T13:25:34Z"}
+{"name": "Quorum", "norm": "quorum", "domain": "quorum.com", "how": "guess:quorum.com", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-13T13:25:34Z"}
