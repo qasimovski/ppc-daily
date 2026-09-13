@@ -1896,3 +1896,7 @@
 {"name": "Newfi", "norm": "newfi", "domain": "newfi.com", "how": "guess:newfi.com", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-12T13:26:24Z"}
 {"name": "North American Savings Bank", "norm": "north american savings bank", "domain": "northamericansavingsbank.net", "how": "guess:northamericansavingsbank.net", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-12T13:26:24Z"}
 {"name": "Boise River Lending", "norm": "boise river lending", "domain": "mapquest.com", "how": "search", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-12T13:28:59Z"}
+{"name": "BOKF, National Association dba HomeDirect Mortgage", "norm": "bokf national association homedirect mortgage", "domain": null, "how": "unresolved:search-miss", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-13T01:03:34Z"}
+{"name": "Citizens One Home Mortgage", "norm": "citizens one home mortgage", "domain": "bankrate.com", "how": "search", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-13T01:03:41Z"}
+{"name": "Clara Lending Co", "norm": "clara lending", "domain": "bloomberg.com", "how": "search", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-13T01:04:04Z"}
+{"name": "Oceans Lending LLC", "norm": "oceans lending", "domain": "oceanslending.com", "how": "guess:oceanslending.com", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-13T01:04:04Z"}
