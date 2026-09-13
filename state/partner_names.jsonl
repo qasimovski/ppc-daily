@@ -1998,3 +1998,7 @@
 {"name": "INCIDENTAL", "norm": "incidental", "domain": "merriam-webster.com", "how": "search", "source_url": "https://www.medicaresolutions.com", "ts": "2026-09-13T13:04:23Z"}
 {"name": "SPECIAL OR OTHERWISE) ARISING OUT OF", "norm": "special or otherwise arising out", "domain": null, "how": "unresolved:search-miss", "source_url": "https://www.medicaresolutions.com", "ts": "2026-09-13T13:04:30Z"}
 {"name": "OR IN ANY WAY CONNECTED WITH", "norm": "or in any way connected with", "domain": null, "how": "unresolved:search-miss", "source_url": "https://www.medicaresolutions.com", "ts": "2026-09-13T13:04:37Z"}
+{"name": "Assigned Risk", "norm": "assigned risk", "domain": "ncci.com", "how": "search", "source_url": "https://www.quotelab.com/marketing-partners.html", "ts": "2026-09-13T13:06:31Z"}
+{"name": "Associated Indemnity", "norm": "associated indemnity", "domain": "ambest.com", "how": "search", "source_url": "https://www.quotelab.com/marketing-partners.html", "ts": "2026-09-13T13:06:37Z"}
+{"name": "Atlanta Casualty", "norm": "atlanta casualty", "domain": "rocketreach.co", "how": "search", "source_url": "https://www.quotelab.com/marketing-partners.html", "ts": "2026-09-13T13:06:49Z"}
+{"name": "Atlanta Specialty", "norm": "atlanta specialty", "domain": "atl-sm.com", "how": "search", "source_url": "https://www.quotelab.com/marketing-partners.html", "ts": "2026-09-13T13:06:56Z"}
