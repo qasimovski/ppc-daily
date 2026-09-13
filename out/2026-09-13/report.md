@@ -7,20 +7,19 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | stage | count |
 |---|---|
 | inbox candidates | 0 |
-| partner-list names resolved -> candidates | 7 -> 6 |
+| partner-list names resolved -> candidates | 4 -> 3 |
 | hiring postings read -> candidates | 0 -> 0 |
 | linked-domain candidates | 0 |
 | search requests | 0 |
-| raw finds (search) | 7 |
+| raw finds (search) | 4 |
 | constructed domains probed | 0 |
-| net-new candidates after exclusion index | 6 |
-|   of which from search | 6 |
+| net-new candidates after exclusion index | 3 |
+|   of which from search | 3 |
 |   of which from probing | 0 |
-| crawled | 6 |
-|   crawl: ok | 5 |
-|   crawl: redirect_offdomain | 1 |
+| crawled | 3 |
+|   crawl: ok | 3 |
 | probes that resolved to a real site | 0 |
-| v6 classified | 5 |
+| v6 classified | 3 |
 | carried to next run (unclassified) | 0 |
 | carried to next run (uncrawled) | 0 |
 | V6 QUALIFIED | 0 |
@@ -29,16 +28,16 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | stage | count |
 |---|---|
-| candidates crawled | 100 |
-| crawled ok | 78 |
-| v6 classified | 78 |
+| candidates crawled | 103 |
+| crawled ok | 81 |
+| v6 classified | 81 |
 | v6 qualified | 1 |
 
 ## Crawl outcomes (net-new candidates only)
 
 | status | count |
 |---|---|
-| ok | 78 |
+| ok | 81 |
 | redirect_offdomain | 11 |
 | unreachable | 8 |
 | thin | 2 |
@@ -49,7 +48,7 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | channel | classified | qualified | rate |
 |---|---|---|---|
 | L11-hiring-agent | 5 | 1 | 20.0% |
-| L10-partners | 73 | 0 | 0.0% |
+| L10-partners | 76 | 0 | 0.0% |
 
 **V6 QUALIFIED TODAY: 1** (ICP-clean: 1). Cumulative across all daily runs: 133.
 
@@ -57,8 +56,8 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | reason | count |
 |---|---|
-| unrelated | 33 |
-| end_advertiser | 21 |
+| unrelated | 35 |
+| end_advertiser | 22 |
 | lead_or_appointment_pricing | 11 |
 | seo_or_ranking_agency | 4 |
 | directory_or_content | 3 |

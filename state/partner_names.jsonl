@@ -2052,3 +2052,7 @@
 {"name": "RealMortgage Inc", "norm": "realmortgage", "domain": "realmortgage.com", "how": "guess:realmortgage.com", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-13T13:28:25Z"}
 {"name": "Real Genius LLC", "norm": "real genius", "domain": "realgenius.com", "how": "guess:realgenius.com", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-13T13:28:25Z"}
 {"name": "Reliance Bank", "norm": "reliance bank", "domain": "reliancebank.com", "how": "guess:reliancebank.com", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-13T13:28:25Z"}
+{"name": "First Internet Bank of Indiana", "norm": "first internet bank indiana", "domain": "firstib.com", "how": "search", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-13T13:30:53Z"}
+{"name": "First Midwest Bank", "norm": "first midwest bank", "domain": "onemidwest.com", "how": "search", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-13T13:30:59Z"}
+{"name": "Renasant Bank", "norm": "renasant bank", "domain": "renasantbank.com", "how": "guess:renasantbank.com", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-13T13:30:59Z"}
+{"name": "Revolution Mortgage", "norm": "revolution mortgage", "domain": "revolutionmortgage.com", "how": "guess:revolutionmortgage.com", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-13T13:30:59Z"}
