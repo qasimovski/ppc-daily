@@ -7,19 +7,21 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | stage | count |
 |---|---|
 | inbox candidates | 0 |
-| partner-list names resolved -> candidates | 4 -> 2 |
+| partner-list names resolved -> candidates | 8 -> 5 |
 | hiring postings read -> candidates | 0 -> 0 |
 | linked-domain candidates | 0 |
 | search requests | 0 |
-| raw finds (search) | 4 |
+| raw finds (search) | 8 |
 | constructed domains probed | 0 |
-| net-new candidates after exclusion index | 2 |
-|   of which from search | 2 |
+| net-new candidates after exclusion index | 5 |
+|   of which from search | 5 |
 |   of which from probing | 0 |
-| crawled | 2 |
-|   crawl: ok | 2 |
+| crawled | 5 |
+|   crawl: ok | 3 |
+|   crawl: thin | 1 |
+|   crawl: unreachable | 1 |
 | probes that resolved to a real site | 0 |
-| v6 classified | 2 |
+| v6 classified | 3 |
 | carried to next run (unclassified) | 0 |
 | carried to next run (uncrawled) | 0 |
 | V6 QUALIFIED | 0 |
@@ -28,27 +30,27 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | stage | count |
 |---|---|
-| candidates crawled | 63 |
-| crawled ok | 49 |
-| v6 classified | 49 |
+| candidates crawled | 68 |
+| crawled ok | 52 |
+| v6 classified | 52 |
 | v6 qualified | 1 |
 
 ## Crawl outcomes (net-new candidates only)
 
 | status | count |
 |---|---|
-| ok | 49 |
+| ok | 52 |
 | redirect_offdomain | 7 |
-| unreachable | 5 |
+| unreachable | 6 |
+| thin | 2 |
 | unregistered | 1 |
-| thin | 1 |
 
 ## v6 qualify rate per discovery channel
 
 | channel | classified | qualified | rate |
 |---|---|---|---|
 | L11-hiring-agent | 5 | 1 | 20.0% |
-| L10-partners | 44 | 0 | 0.0% |
+| L10-partners | 47 | 0 | 0.0% |
 
 **V6 QUALIFIED TODAY: 1** (ICP-clean: 1). Cumulative across all daily runs: 133.
 
@@ -56,9 +58,9 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | reason | count |
 |---|---|
-| unrelated | 22 |
-| lead_or_appointment_pricing | 10 |
-| end_advertiser | 5 |
+| unrelated | 23 |
+| lead_or_appointment_pricing | 11 |
+| end_advertiser | 6 |
 | seo_or_ranking_agency | 4 |
 | directory_or_content | 3 |
 | service_to_call_receiver | 2 |
