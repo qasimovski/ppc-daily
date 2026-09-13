@@ -1974,3 +1974,16 @@
 {"name": "Safeguard", "norm": "safeguard", "domain": "safeguard.net", "how": "guess:safeguard.net", "source_url": "https://rocketquote.com/marketing-partners", "ts": "2026-09-13T01:28:57Z"}
 {"name": "Stone Hill National", "norm": "stone hill national", "domain": "stonehillnational.com", "how": "guess:stonehillnational.com", "source_url": "https://rocketquote.com/marketing-partners", "ts": "2026-09-13T01:28:57Z"}
 {"name": "Three Rivers Holdings", "norm": "three rivers holdings", "domain": "threeriversholdings.net", "how": "guess:threeriversholdings.net", "source_url": "https://rocketquote.com/marketing-partners", "ts": "2026-09-13T01:28:57Z"}
+{"name": "Parasol Leads Agents Network", "norm": "parasol leads agents network", "domain": null, "how": "unresolved:search-miss", "source_url": "https://selectmypolicy.com/partners", "ts": "2026-09-13T01:31:16Z"}
+{"name": "QuoteLab Marketing Partners", "norm": "quotelab marketing partners", "domain": null, "how": "unresolved:search-miss", "source_url": "https://selectmypolicy.com/partners", "ts": "2026-09-13T01:31:22Z"}
+{"name": "Rasani Media, LLC", "norm": "rasani media", "domain": "gethired.com", "how": "search", "source_url": "https://selectmypolicy.com/partners", "ts": "2026-09-13T01:31:29Z"}
+{"name": "Real Marketing Investments", "norm": "real marketing investments", "domain": null, "how": "unresolved:search-miss", "source_url": "https://selectmypolicy.com/partners", "ts": "2026-09-13T01:31:36Z"}
+{"name": "Reliable Partners (Trips Marketing", "norm": "reliable partners trips marketing", "domain": null, "how": "unresolved:search-miss", "source_url": "https://selectmypolicy.com/partners", "ts": "2026-09-13T01:31:43Z"}
+{"name": "Robinson Lead Management, Inc", "norm": "robinson lead management", "domain": null, "how": "unresolved:search-miss", "source_url": "https://selectmypolicy.com/partners", "ts": "2026-09-13T01:31:50Z"}
+{"name": "Select Start Media", "norm": "select start media", "domain": "justia.com", "how": "search", "source_url": "https://selectmypolicy.com/partners", "ts": "2026-09-13T01:31:55Z"}
+{"name": "She Is Media, LLC", "norm": "she is media", "domain": null, "how": "unresolved:generic-name", "source_url": "https://selectmypolicy.com/partners", "ts": "2026-09-13T01:31:58Z"}
+{"name": "Sky Leads MIA", "norm": "sky leads mia", "domain": null, "how": "unresolved:generic-name", "source_url": "https://selectmypolicy.com/partners", "ts": "2026-09-13T01:32:00Z"}
+{"name": "Smart Energy Direct", "norm": "smart energy direct", "domain": "service.gov.uk", "how": "search", "source_url": "https://selectmypolicy.com/partners", "ts": "2026-09-13T01:32:15Z"}
+{"name": "Allianza", "norm": "allianza", "domain": "allianza.com", "how": "guess:allianza.com", "source_url": "https://selectmypolicy.com/partners", "ts": "2026-09-13T01:32:15Z"}
+{"name": "Allied Partners", "norm": "allied partners", "domain": "alliedpartners.com", "how": "guess:alliedpartners.com", "source_url": "https://selectmypolicy.com/partners", "ts": "2026-09-13T01:32:15Z"}
+{"name": "Alyssa Aguilar", "norm": "alyssa aguilar", "domain": "alyssaaguilar.com", "how": "guess:alyssaaguilar.com", "source_url": "https://selectmypolicy.com/partners", "ts": "2026-09-13T01:32:15Z"}
