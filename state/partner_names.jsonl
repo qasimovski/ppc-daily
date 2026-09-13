@@ -2015,3 +2015,9 @@
 {"name": "Codex Lending", "norm": "codex lending", "domain": "zillow.com", "how": "search", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-13T13:11:58Z"}
 {"name": "Colonial Mortgage Service Company of America", "norm": "colonial mortgage service company america", "domain": "colonialmort.com", "how": "search", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-13T13:12:05Z"}
 {"name": "Oceans Mortgage", "norm": "oceans mortgage", "domain": "oceansmortgage.com", "how": "guess:oceansmortgage.com", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-13T13:12:05Z"}
+{"name": "Colorado Unified Lending", "norm": "colorado unified lending", "domain": "counifiedlending.com", "how": "search", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-13T13:14:03Z"}
+{"name": "Colorado Unified Lending/ JMWAGCORP", "norm": "colorado unified lending jmwagcorp", "domain": "bankrate.com", "how": "search", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-13T13:14:10Z"}
+{"name": "Columbia Bank", "norm": "columbia bank", "domain": "columbiabank.com", "how": "search", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-13T13:14:16Z"}
+{"name": "Commonwealth Mortgage", "norm": "commonwealth mortgage", "domain": "commonwealthmg.com", "how": "search", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-13T13:14:39Z"}
+{"name": "Olympus Home Loans", "norm": "olympus home loans", "domain": "olympushomeloans.com", "how": "guess:olympushomeloans.com", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-13T13:14:39Z"}
+{"name": "Omni Fund, Inc", "norm": "omni fund", "domain": "omnifund.com", "how": "guess:omnifund.com", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-13T13:14:39Z"}
