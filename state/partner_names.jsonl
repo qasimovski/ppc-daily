@@ -1900,3 +1900,13 @@
 {"name": "Citizens One Home Mortgage", "norm": "citizens one home mortgage", "domain": "bankrate.com", "how": "search", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-13T01:03:41Z"}
 {"name": "Clara Lending Co", "norm": "clara lending", "domain": "bloomberg.com", "how": "search", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-13T01:04:04Z"}
 {"name": "Oceans Lending LLC", "norm": "oceans lending", "domain": "oceanslending.com", "how": "guess:oceanslending.com", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-13T01:04:04Z"}
+{"name": "Egis Auto", "norm": "egis auto", "domain": "mapquest.com", "how": "search", "source_url": "https://compareinsurancequotes.com/marketing-partners", "ts": "2026-09-13T01:06:14Z"}
+{"name": "Empire Consumer Services", "norm": "empire consumer services", "domain": "webflow.io", "how": "search", "source_url": "https://compareinsurancequotes.com/marketing-partners", "ts": "2026-09-13T01:06:20Z"}
+{"name": "Endurance Warranty Servcies", "norm": "endurance warranty servcies", "domain": "pitchbook.com", "how": "search", "source_url": "https://compareinsurancequotes.com/marketing-partners", "ts": "2026-09-13T01:06:30Z"}
+{"name": "GoMediGap", "norm": "gomedigap", "domain": "ehealthinsurance.com", "how": "search", "source_url": "https://compareinsurancequotes.com/marketing-partners", "ts": "2026-09-13T01:06:52Z"}
+{"name": "Physicians Mutual", "norm": "physicians mutual", "domain": "physiciansmutual.com", "how": "guess:physiciansmutual.com", "source_url": "https://compareinsurancequotes.com/marketing-partners", "ts": "2026-09-13T01:06:52Z"}
+{"name": "Stone Tapert", "norm": "stone tapert", "domain": "stonetapert.com", "how": "guess:stonetapert.com", "source_url": "https://compareinsurancequotes.com/marketing-partners", "ts": "2026-09-13T01:06:52Z"}
+{"name": "The Brown Group, LLC", "norm": "brown group", "domain": "browngroup.net", "how": "guess:browngroup.net", "source_url": "https://compareinsurancequotes.com/marketing-partners", "ts": "2026-09-13T01:06:52Z"}
+{"name": "Themedicareassistant.com", "norm": "themedicareassistant com", "domain": "themedicareassistant.com", "how": "literal", "source_url": "https://compareinsurancequotes.com/marketing-partners", "ts": "2026-09-13T01:06:52Z"}
+{"name": "Agency Staff Solutions", "norm": "agency staff solutions", "domain": "agencystaffsolutions.com", "how": "guess:agencystaffsolutions.com", "source_url": "https://compareinsurancequotes.com/marketing-partners", "ts": "2026-09-13T01:06:52Z"}
+{"name": "Allina Health", "norm": "allina health", "domain": "allinahealth.com", "how": "guess:allinahealth.com", "source_url": "https://compareinsurancequotes.com/marketing-partners", "ts": "2026-09-13T01:06:52Z"}
