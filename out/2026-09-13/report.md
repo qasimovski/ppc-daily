@@ -7,21 +7,19 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | stage | count |
 |---|---|
 | inbox candidates | 0 |
-| partner-list names resolved -> candidates | 14 -> 11 |
+| partner-list names resolved -> candidates | 4 -> 4 |
 | hiring postings read -> candidates | 0 -> 0 |
 | linked-domain candidates | 0 |
 | search requests | 0 |
-| raw finds (search) | 14 |
+| raw finds (search) | 4 |
 | constructed domains probed | 0 |
-| net-new candidates after exclusion index | 11 |
-|   of which from search | 11 |
+| net-new candidates after exclusion index | 4 |
+|   of which from search | 4 |
 |   of which from probing | 0 |
-| crawled | 11 |
-|   crawl: ok | 9 |
-|   crawl: unreachable | 1 |
-|   crawl: redirect_offdomain | 1 |
+| crawled | 4 |
+|   crawl: ok | 4 |
 | probes that resolved to a real site | 0 |
-| v6 classified | 9 |
+| v6 classified | 4 |
 | carried to next run (unclassified) | 0 |
 | carried to next run (uncrawled) | 0 |
 | V6 QUALIFIED | 0 |
@@ -30,16 +28,16 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | stage | count |
 |---|---|
-| candidates crawled | 21 |
-| crawled ok | 17 |
-| v6 classified | 17 |
+| candidates crawled | 25 |
+| crawled ok | 21 |
+| v6 classified | 21 |
 | v6 qualified | 0 |
 
 ## Crawl outcomes (net-new candidates only)
 
 | status | count |
 |---|---|
-| ok | 17 |
+| ok | 21 |
 | redirect_offdomain | 2 |
 | unregistered | 1 |
 | unreachable | 1 |
@@ -48,7 +46,7 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | channel | classified | qualified | rate |
 |---|---|---|---|
-| L10-partners | 17 | 0 | 0.0% |
+| L10-partners | 21 | 0 | 0.0% |
 
 **V6 QUALIFIED TODAY: 0** (ICP-clean: 0). Cumulative across all daily runs: 132.
 
@@ -56,12 +54,13 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | reason | count |
 |---|---|
-| unrelated | 7 |
+| unrelated | 10 |
 | seo_or_ranking_agency | 4 |
 | service_to_call_receiver | 2 |
 | lead_or_appointment_pricing | 2 |
 | end_advertiser | 1 |
 | no_clear_signal | 1 |
+| directory_or_content | 1 |
 
 ## Files
 
