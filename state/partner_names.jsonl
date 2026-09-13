@@ -2044,3 +2044,11 @@
 {"name": "QuickenLoans", "norm": "quickenloans", "domain": "quickenloans.com", "how": "guess:quickenloans.com", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-13T13:25:34Z"}
 {"name": "Quontic Bank", "norm": "quontic bank", "domain": "quonticbank.com", "how": "guess:quonticbank.com", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-13T13:25:34Z"}
 {"name": "Quorum", "norm": "quorum", "domain": "quorum.com", "how": "guess:quorum.com", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-13T13:25:34Z"}
+{"name": "Finance of America Mortgage LLC", "norm": "finance america mortgage", "domain": "zillow.com", "how": "search", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-13T13:27:41Z"}
+{"name": "First Atlantic FCU", "norm": "first atlantic fcu", "domain": "fafcu.com", "how": "search", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-13T13:27:47Z"}
+{"name": "First Cal of Washington", "norm": "first cal washington", "domain": null, "how": "unresolved:search-miss", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-13T13:27:55Z"}
+{"name": "First Federal Bank", "norm": "first federal bank", "domain": "ffbf.com", "how": "search", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-13T13:28:02Z"}
+{"name": "First Internet Bank", "norm": "first internet bank", "domain": "firstib.com", "how": "search", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-13T13:28:25Z"}
+{"name": "RealMortgage Inc", "norm": "realmortgage", "domain": "realmortgage.com", "how": "guess:realmortgage.com", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-13T13:28:25Z"}
+{"name": "Real Genius LLC", "norm": "real genius", "domain": "realgenius.com", "how": "guess:realgenius.com", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-13T13:28:25Z"}
+{"name": "Reliance Bank", "norm": "reliance bank", "domain": "reliancebank.com", "how": "guess:reliancebank.com", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-13T13:28:25Z"}
