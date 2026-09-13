@@ -1987,3 +1987,9 @@
 {"name": "Allianza", "norm": "allianza", "domain": "allianza.com", "how": "guess:allianza.com", "source_url": "https://selectmypolicy.com/partners", "ts": "2026-09-13T01:32:15Z"}
 {"name": "Allied Partners", "norm": "allied partners", "domain": "alliedpartners.com", "how": "guess:alliedpartners.com", "source_url": "https://selectmypolicy.com/partners", "ts": "2026-09-13T01:32:15Z"}
 {"name": "Alyssa Aguilar", "norm": "alyssa aguilar", "domain": "alyssaaguilar.com", "how": "guess:alyssaaguilar.com", "source_url": "https://selectmypolicy.com/partners", "ts": "2026-09-13T01:32:15Z"}
+{"name": "Acclaimed Home Warranty", "norm": "acclaimed home warranty", "domain": "acclaimedhw.com", "how": "search", "source_url": "https://theswitchboardmarketing.com/marketing-partners", "ts": "2026-09-13T01:33:56Z"}
+{"name": "Acuity Mutual", "norm": "acuity mutual", "domain": "law360.com", "how": "search", "source_url": "https://theswitchboardmarketing.com/marketing-partners", "ts": "2026-09-13T01:34:15Z"}
+{"name": "Adam Cardon", "norm": "adam cardon", "domain": "imdb.com", "how": "search", "source_url": "https://theswitchboardmarketing.com/marketing-partners", "ts": "2026-09-13T01:34:34Z"}
+{"name": "Adam Hufstetler", "norm": "adam hufstetler", "domain": "adaminsures.com", "how": "search", "source_url": "https://theswitchboardmarketing.com/marketing-partners", "ts": "2026-09-13T01:34:41Z"}
+{"name": "Adam Neiderauer USHA", "norm": "adam neiderauer usha", "domain": null, "how": "unresolved:search-miss", "source_url": "https://theswitchboardmarketing.com/marketing-partners", "ts": "2026-09-13T01:34:48Z"}
+{"name": "Andrews Wharton", "norm": "andrews wharton", "domain": "andrewswharton.com", "how": "guess:andrewswharton.com", "source_url": "https://theswitchboardmarketing.com/marketing-partners", "ts": "2026-09-13T01:34:48Z"}
