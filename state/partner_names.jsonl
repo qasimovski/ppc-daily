@@ -1910,3 +1910,9 @@
 {"name": "Themedicareassistant.com", "norm": "themedicareassistant com", "domain": "themedicareassistant.com", "how": "literal", "source_url": "https://compareinsurancequotes.com/marketing-partners", "ts": "2026-09-13T01:06:52Z"}
 {"name": "Agency Staff Solutions", "norm": "agency staff solutions", "domain": "agencystaffsolutions.com", "how": "guess:agencystaffsolutions.com", "source_url": "https://compareinsurancequotes.com/marketing-partners", "ts": "2026-09-13T01:06:52Z"}
 {"name": "Allina Health", "norm": "allina health", "domain": "allinahealth.com", "how": "guess:allinahealth.com", "source_url": "https://compareinsurancequotes.com/marketing-partners", "ts": "2026-09-13T01:06:52Z"}
+{"name": "GetAuto", "norm": "getauto", "domain": "openkore.com", "how": "search", "source_url": "https://everquote.com/partners", "ts": "2026-09-13T01:08:56Z"}
+{"name": "GotQuotes", "norm": "gotquotes", "domain": null, "how": "unresolved:search-miss", "source_url": "https://everquote.com/partners", "ts": "2026-09-13T01:09:09Z"}
+{"name": "Greene", "norm": "greene", "domain": "thanhnien.vn", "how": "search", "source_url": "https://everquote.com/partners", "ts": "2026-09-13T01:09:14Z"}
+{"name": "Home Service Companies", "norm": "home service companies", "domain": null, "how": "unresolved:generic-name", "source_url": "https://everquote.com/partners", "ts": "2026-09-13T01:09:16Z"}
+{"name": "How to Enroll", "norm": "how to enroll", "domain": "garlandisd.net", "how": "search", "source_url": "https://everquote.com/partners", "ts": "2026-09-13T01:09:35Z"}
+{"name": "iCan Benefit", "norm": "ican benefit", "domain": "pbcap.com", "how": "search", "source_url": "https://everquote.com/partners", "ts": "2026-09-13T01:09:58Z"}
