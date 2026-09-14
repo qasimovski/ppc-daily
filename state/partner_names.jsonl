@@ -2093,3 +2093,7 @@
 {"name": "Retargeting Platforms", "norm": "retargeting platforms", "domain": "adroll.com", "how": "search", "source_url": "https://mariosroofing.com/privacy-policy", "ts": "2026-09-14T01:15:23Z"}
 {"name": "USHEALTH Group", "norm": "ushealth group", "domain": "ushealthgroup.com", "how": "guess:ushealthgroup.com", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-14T01:15:23Z"}
 {"name": "USInsuranceOnline", "norm": "usinsuranceonline", "domain": "usinsuranceonline.com", "how": "guess:usinsuranceonline.com", "source_url": "https://meetinsured.com/marketing-partners", "ts": "2026-09-14T01:15:23Z"}
+{"name": "New Jersey Media Driven", "norm": "new jersey media driven", "domain": null, "how": "unresolved:search-miss", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-14T01:17:31Z"}
+{"name": "P&A Marketing Enterprises", "norm": "p& marketing enterprises", "domain": null, "how": "unresolved:search-miss", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-14T01:17:37Z"}
+{"name": "Pacific Referral Marketing Corp", "norm": "pacific referral marketing", "domain": null, "how": "unresolved:search-miss", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-14T01:17:44Z"}
+{"name": "PaperLeaf Media, LLC", "norm": "paperleaf media", "domain": "dnb.com", "how": "search", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-14T01:17:51Z"}
