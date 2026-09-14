@@ -2061,3 +2061,11 @@
 {"name": "First National Financing", "norm": "first national financing", "domain": "fnbalaska.com", "how": "search", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-14T01:03:33Z"}
 {"name": "First State Veteran Mortgage", "norm": "first state veteran mortgage", "domain": null, "how": "unresolved:search-miss", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-14T01:03:40Z"}
 {"name": "Rising Bank", "norm": "rising bank", "domain": "risingbank.com", "how": "guess:risingbank.com", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-14T01:03:40Z"}
+{"name": "GreatAmerican", "norm": "greatamerican", "domain": "wbasny.org", "how": "search", "source_url": "https://compareinsurancequotes.com/marketing-partners", "ts": "2026-09-14T01:06:01Z"}
+{"name": "Hawaii Medical Services Association", "norm": "hawaii medical services association", "domain": "gs-legal.com", "how": "search", "source_url": "https://compareinsurancequotes.com/marketing-partners", "ts": "2026-09-14T01:06:07Z"}
+{"name": "Healthcare.com Partners", "norm": "healthcare com partners", "domain": "healthcare.com", "how": "search", "source_url": "https://compareinsurancequotes.com/marketing-partners", "ts": "2026-09-14T01:06:15Z"}
+{"name": "HealtheDeals", "norm": "healthedeals", "domain": null, "how": "unresolved:search-miss", "source_url": "https://compareinsurancequotes.com/marketing-partners", "ts": "2026-09-14T01:06:20Z"}
+{"name": "HealthPlus of Michigan", "norm": "healthplus michigan", "domain": "geneseefun.com", "how": "search", "source_url": "https://compareinsurancequotes.com/marketing-partners", "ts": "2026-09-14T01:06:26Z"}
+{"name": "High Quality Vehicle Protection", "norm": "high quality vehicle protection", "domain": "interexautomotive.com", "how": "search", "source_url": "https://compareinsurancequotes.com/marketing-partners", "ts": "2026-09-14T01:06:33Z"}
+{"name": "Ucare", "norm": "ucare", "domain": "ucarellc.com", "how": "guess:ucarellc.com", "source_url": "https://compareinsurancequotes.com/marketing-partners", "ts": "2026-09-14T01:06:33Z"}
+{"name": "Cost-U-Less\\_Insurance", "norm": "cost u less insurance", "domain": "costulessinsurance.com", "how": "guess:costulessinsurance.com", "source_url": "https://compareinsurancequotes.com/marketing-partners", "ts": "2026-09-14T01:06:33Z"}
