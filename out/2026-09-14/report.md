@@ -6,38 +6,38 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | stage | count |
 |---|---|
-| inbox candidates | 0 |
-| partner-list names resolved -> candidates | 4 -> 2 |
+| inbox candidates | 4 |
+| partner-list names resolved -> candidates | 0 -> 0 |
 | hiring postings read -> candidates | 0 -> 0 |
 | linked-domain candidates | 0 |
 | search requests | 0 |
 | raw finds (search) | 4 |
 | constructed domains probed | 0 |
-| net-new candidates after exclusion index | 2 |
-|   of which from search | 2 |
+| net-new candidates after exclusion index | 4 |
+|   of which from search | 4 |
 |   of which from probing | 0 |
-| crawled | 2 |
-|   crawl: ok | 2 |
+| crawled | 4 |
+|   crawl: ok | 4 |
 | probes that resolved to a real site | 0 |
-| v6 classified | 2 |
+| v6 classified | 4 |
 | carried to next run (unclassified) | 0 |
 | carried to next run (uncrawled) | 0 |
-| V6 QUALIFIED | 0 |
+| V6 QUALIFIED | 2 |
 
 ## Day so far (all passes, unique domains)
 
 | stage | count |
 |---|---|
-| candidates crawled | 39 |
-| crawled ok | 27 |
-| v6 classified | 27 |
-| v6 qualified | 0 |
+| candidates crawled | 43 |
+| crawled ok | 31 |
+| v6 classified | 31 |
+| v6 qualified | 2 |
 
 ## Crawl outcomes (net-new candidates only)
 
 | status | count |
 |---|---|
-| ok | 27 |
+| ok | 31 |
 | redirect_offdomain | 7 |
 | unreachable | 3 |
 | thin | 1 |
@@ -47,20 +47,28 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | channel | classified | qualified | rate |
 |---|---|---|---|
+| L11-hiring-agent | 4 | 2 | 50.0% |
 | L10-partners | 27 | 0 | 0.0% |
 
-**V6 QUALIFIED TODAY: 0** (ICP-clean: 0). Cumulative across all daily runs: 133.
+**V6 QUALIFIED TODAY: 2** (ICP-clean: 1). Cumulative across all daily runs: 135.
 
 ## Why candidates failed v6
 
 | reason | count |
 |---|---|
 | unrelated | 11 |
-| lead_or_appointment_pricing | 5 |
+| lead_or_appointment_pricing | 6 |
 | end_advertiser | 4 |
+| seo_or_ranking_agency | 4 |
 | no_clear_signal | 3 |
-| seo_or_ranking_agency | 3 |
 | service_to_call_receiver | 1 |
+
+## Qualified today
+
+| company | domain | fit | business model | marketplace | geo | flags |
+|---|---|---|---|---|---|---|
+| Scypop Media | scypop.com | 95 | pay-per-call network connecting advertisers and publishers | yes | United States | MICROSITE of known company: wkf.ms |
+| Insurance Calls Direct | insurancecallsdirect.com | 90 | sells inbound insurance calls to buyers | yes |  | geo unknown |
 
 ## Files
 
