@@ -2164,3 +2164,4 @@
 {"name": "Home Loans Today/FBC Mortgage, LLC./CO", "norm": "home loans today fbc mortgage", "domain": null, "how": "unresolved:search-miss", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-14T13:25:06Z"}
 {"name": "Home Savings Mortgage LLC", "norm": "home savings mortgage", "domain": "kompass.com", "how": "search", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-14T13:25:12Z"}
 {"name": "HomeDirect Mortgage", "norm": "homedirect mortgage", "domain": "housingwire.com", "how": "search", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-14T13:25:20Z"}
+{"name": "Penn Community Bank", "norm": "penn community bank", "domain": "penncommunitybank.com", "how": "guess:penncommunitybank.com", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-14T13:32:18Z"}
