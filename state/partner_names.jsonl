@@ -2097,3 +2097,7 @@
 {"name": "P&A Marketing Enterprises", "norm": "p& marketing enterprises", "domain": null, "how": "unresolved:search-miss", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-14T01:17:37Z"}
 {"name": "Pacific Referral Marketing Corp", "norm": "pacific referral marketing", "domain": null, "how": "unresolved:search-miss", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-14T01:17:44Z"}
 {"name": "PaperLeaf Media, LLC", "norm": "paperleaf media", "domain": "dnb.com", "how": "search", "source_url": "https://nerdwallet.com/our-partners", "ts": "2026-09-14T01:17:51Z"}
+{"name": "STRICT LIABILITY", "norm": "strict liability", "domain": "respicio.ph", "how": "search", "source_url": "https://quotes.priceshopmedicare.com", "ts": "2026-09-14T01:22:29Z"}
+{"name": "Insphere", "norm": "insphere", "domain": "insphere.net", "how": "guess:insphere.net", "source_url": "https://quotes.priceshopmedicare.com", "ts": "2026-09-14T01:22:29Z"}
+{"name": "Integon", "norm": "integon", "domain": "integon.io", "how": "guess:integon.io", "source_url": "https://quotes.priceshopmedicare.com", "ts": "2026-09-14T01:22:29Z"}
+{"name": "Kelsey-Seybold", "norm": "kelsey seybold", "domain": "kelsey-seybold.com", "how": "guess:kelsey-seybold.com", "source_url": "https://quotes.priceshopmedicare.com", "ts": "2026-09-14T01:22:29Z"}
