@@ -2133,3 +2133,6 @@
 {"name": "DATA OR OTHER INTANGIBLE", "norm": "data or other intangible", "domain": null, "how": "unresolved:search-miss", "source_url": "https://www.medicaresolutions.com", "ts": "2026-09-14T13:06:14Z"}
 {"name": "PROCEEDINGS", "norm": "proceedings", "domain": "cambridge.org", "how": "search", "source_url": "https://www.medicaresolutions.com", "ts": "2026-09-14T13:06:19Z"}
 {"name": "LIABILITIES", "norm": "liabilities", "domain": "ac.id", "how": "search", "source_url": "https://www.medicaresolutions.com", "ts": "2026-09-14T13:06:24Z"}
+{"name": "Atreus Medicare Group", "norm": "atreus medicare group", "domain": null, "how": "unresolved:search-miss", "source_url": "https://www.quotelab.com/marketing-partners.html", "ts": "2026-09-14T13:08:39Z"}
+{"name": "Austin Mutual", "norm": "austin mutual", "domain": "msainsurance.com", "how": "search", "source_url": "https://www.quotelab.com/marketing-partners.html", "ts": "2026-09-14T13:08:54Z"}
+{"name": "AutoInsuranceMatchup", "norm": "autoinsurancematchup", "domain": "gridinsoft.com", "how": "search", "source_url": "https://www.quotelab.com/marketing-partners.html", "ts": "2026-09-14T13:09:17Z"}

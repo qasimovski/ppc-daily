@@ -7,21 +7,19 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | stage | count |
 |---|---|
 | inbox candidates | 0 |
-| partner-list names resolved -> candidates | 4 -> 2 |
+| partner-list names resolved -> candidates | 2 -> 2 |
 | hiring postings read -> candidates | 0 -> 0 |
-| linked-domain candidates | 1 |
+| linked-domain candidates | 0 |
 | search requests | 0 |
-| raw finds (search) | 5 |
+| raw finds (search) | 2 |
 | constructed domains probed | 0 |
-| net-new candidates after exclusion index | 3 |
-|   of which from search | 3 |
+| net-new candidates after exclusion index | 2 |
+|   of which from search | 2 |
 |   of which from probing | 0 |
-| crawled | 3 |
-|   crawl: ok | 1 |
-|   crawl: unregistered | 1 |
-|   crawl: unreachable | 1 |
+| crawled | 2 |
+|   crawl: ok | 2 |
 | probes that resolved to a real site | 0 |
-| v6 classified | 1 |
+| v6 classified | 2 |
 | carried to next run (unclassified) | 0 |
 | carried to next run (uncrawled) | 0 |
 | V6 QUALIFIED | 0 |
@@ -30,16 +28,16 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | stage | count |
 |---|---|
-| candidates crawled | 46 |
-| crawled ok | 32 |
-| v6 classified | 32 |
+| candidates crawled | 48 |
+| crawled ok | 34 |
+| v6 classified | 34 |
 | v6 qualified | 2 |
 
 ## Crawl outcomes (net-new candidates only)
 
 | status | count |
 |---|---|
-| ok | 32 |
+| ok | 34 |
 | redirect_offdomain | 7 |
 | unreachable | 4 |
 | thin | 1 |
@@ -51,7 +49,7 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | channel | classified | qualified | rate |
 |---|---|---|---|
 | L11-hiring-agent | 4 | 2 | 50.0% |
-| L10-partners | 27 | 0 | 0.0% |
+| L10-partners | 29 | 0 | 0.0% |
 | L8-linked | 1 | 0 | 0.0% |
 
 **V6 QUALIFIED TODAY: 2** (ICP-clean: 1). Cumulative across all daily runs: 135.
@@ -60,7 +58,7 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | reason | count |
 |---|---|
-| unrelated | 12 |
+| unrelated | 14 |
 | lead_or_appointment_pricing | 6 |
 | end_advertiser | 4 |
 | seo_or_ranking_agency | 4 |
