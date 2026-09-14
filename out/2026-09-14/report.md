@@ -7,19 +7,17 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | stage | count |
 |---|---|
 | inbox candidates | 0 |
-| partner-list names resolved -> candidates | 6 -> 4 |
+| partner-list names resolved -> candidates | 4 -> 2 |
 | hiring postings read -> candidates | 0 -> 0 |
 | linked-domain candidates | 0 |
 | search requests | 0 |
-| raw finds (search) | 6 |
+| raw finds (search) | 4 |
 | constructed domains probed | 0 |
-| net-new candidates after exclusion index | 4 |
-|   of which from search | 4 |
+| net-new candidates after exclusion index | 2 |
+|   of which from search | 2 |
 |   of which from probing | 0 |
-| crawled | 4 |
+| crawled | 2 |
 |   crawl: ok | 2 |
-|   crawl: redirect_offdomain | 1 |
-|   crawl: ringba_banned | 1 |
 | probes that resolved to a real site | 0 |
 | v6 classified | 2 |
 | carried to next run (unclassified) | 0 |
@@ -30,16 +28,16 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | stage | count |
 |---|---|
-| candidates crawled | 37 |
-| crawled ok | 25 |
-| v6 classified | 25 |
+| candidates crawled | 39 |
+| crawled ok | 27 |
+| v6 classified | 27 |
 | v6 qualified | 0 |
 
 ## Crawl outcomes (net-new candidates only)
 
 | status | count |
 |---|---|
-| ok | 25 |
+| ok | 27 |
 | redirect_offdomain | 7 |
 | unreachable | 3 |
 | thin | 1 |
@@ -49,7 +47,7 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | channel | classified | qualified | rate |
 |---|---|---|---|
-| L10-partners | 25 | 0 | 0.0% |
+| L10-partners | 27 | 0 | 0.0% |
 
 **V6 QUALIFIED TODAY: 0** (ICP-clean: 0). Cumulative across all daily runs: 133.
 
@@ -57,11 +55,11 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | reason | count |
 |---|---|
-| unrelated | 10 |
+| unrelated | 11 |
 | lead_or_appointment_pricing | 5 |
 | end_advertiser | 4 |
+| no_clear_signal | 3 |
 | seo_or_ranking_agency | 3 |
-| no_clear_signal | 2 |
 | service_to_call_receiver | 1 |
 
 ## Files
