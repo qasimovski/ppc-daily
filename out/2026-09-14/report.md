@@ -7,19 +7,21 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | stage | count |
 |---|---|
 | inbox candidates | 0 |
-| partner-list names resolved -> candidates | 5 -> 3 |
+| partner-list names resolved -> candidates | 8 -> 6 |
 | hiring postings read -> candidates | 0 -> 0 |
 | linked-domain candidates | 0 |
 | search requests | 0 |
-| raw finds (search) | 5 |
+| raw finds (search) | 8 |
 | constructed domains probed | 0 |
-| net-new candidates after exclusion index | 3 |
-|   of which from search | 3 |
+| net-new candidates after exclusion index | 6 |
+|   of which from search | 6 |
 |   of which from probing | 0 |
-| crawled | 3 |
-|   crawl: ok | 3 |
+| crawled | 6 |
+|   crawl: ok | 2 |
+|   crawl: unreachable | 1 |
+|   crawl: redirect_offdomain | 3 |
 | probes that resolved to a real site | 0 |
-| v6 classified | 3 |
+| v6 classified | 2 |
 | carried to next run (unclassified) | 0 |
 | carried to next run (uncrawled) | 0 |
 | V6 QUALIFIED | 0 |
@@ -28,18 +30,18 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | stage | count |
 |---|---|
-| candidates crawled | 51 |
-| crawled ok | 37 |
-| v6 classified | 37 |
+| candidates crawled | 57 |
+| crawled ok | 39 |
+| v6 classified | 39 |
 | v6 qualified | 2 |
 
 ## Crawl outcomes (net-new candidates only)
 
 | status | count |
 |---|---|
-| ok | 37 |
-| redirect_offdomain | 7 |
-| unreachable | 4 |
+| ok | 39 |
+| redirect_offdomain | 10 |
+| unreachable | 5 |
 | thin | 1 |
 | ringba_banned | 1 |
 | unregistered | 1 |
@@ -49,7 +51,7 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | channel | classified | qualified | rate |
 |---|---|---|---|
 | L11-hiring-agent | 4 | 2 | 50.0% |
-| L10-partners | 32 | 0 | 0.0% |
+| L10-partners | 34 | 0 | 0.0% |
 | L8-linked | 1 | 0 | 0.0% |
 
 **V6 QUALIFIED TODAY: 2** (ICP-clean: 1). Cumulative across all daily runs: 135.
@@ -58,8 +60,8 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | reason | count |
 |---|---|
-| unrelated | 14 |
-| end_advertiser | 6 |
+| unrelated | 15 |
+| end_advertiser | 7 |
 | lead_or_appointment_pricing | 6 |
 | seo_or_ranking_agency | 4 |
 | no_clear_signal | 3 |
