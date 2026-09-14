@@ -2075,3 +2075,15 @@
 {"name": "IWebQuotes", "norm": "iwebquotes", "domain": "iwebquotes.com", "how": "search", "source_url": "https://everquote.com/partners", "ts": "2026-09-14T01:09:51Z"}
 {"name": "J&M Revenue Group LLC", "norm": "j&m revenue group", "domain": "clarionledger.com", "how": "search", "source_url": "https://everquote.com/partners", "ts": "2026-09-14T01:09:57Z"}
 {"name": "Justin Willaims AAA", "norm": "justin willaims aaa", "domain": null, "how": "unresolved:search-miss", "source_url": "https://everquote.com/partners", "ts": "2026-09-14T01:10:04Z"}
+{"name": "Defender Direct", "norm": "defender direct", "domain": "weebly.com", "how": "search", "source_url": "https://koalatywindows.com/quote", "ts": "2026-09-14T01:12:16Z"}
+{"name": "Direct Energy", "norm": "direct energy", "domain": null, "how": "unresolved:generic-name", "source_url": "https://koalatywindows.com/quote", "ts": "2026-09-14T01:12:18Z"}
+{"name": "Direct Energy Solar", "norm": "direct energy solar", "domain": null, "how": "unresolved:generic-name", "source_url": "https://koalatywindows.com/quote", "ts": "2026-09-14T01:12:20Z"}
+{"name": "Direct Home Services", "norm": "direct home services", "domain": null, "how": "unresolved:generic-name", "source_url": "https://koalatywindows.com/quote", "ts": "2026-09-14T01:12:22Z"}
+{"name": "Direct Home Services – FL", "norm": "direct home services fl", "domain": null, "how": "unresolved:generic-name", "source_url": "https://koalatywindows.com/quote", "ts": "2026-09-14T01:12:25Z"}
+{"name": "Direct Protect Security and Surveillance Inc", "norm": "direct protect security and surveillance", "domain": "mapquest.com", "how": "search", "source_url": "https://koalatywindows.com/quote", "ts": "2026-09-14T01:12:32Z"}
+{"name": "Disability Law Marketing", "norm": "disability law marketing", "domain": "firmidable.com", "how": "search", "source_url": "https://koalatywindows.com/quote", "ts": "2026-09-14T01:12:39Z"}
+{"name": "Resource Marketing", "norm": "resource marketing", "domain": "resourcemarketing.com", "how": "guess:resourcemarketing.com", "source_url": "https://koalatywindows.com/quote", "ts": "2026-09-14T01:12:39Z"}
+{"name": "Solar Media Team", "norm": "solar media team", "domain": "solarmediateam.com", "how": "guess:solarmediateam.com", "source_url": "https://koalatywindows.com/quote", "ts": "2026-09-14T01:12:39Z"}
+{"name": "Star Advertising", "norm": "star advertising", "domain": "star-advertising.com", "how": "guess:star-advertising.com", "source_url": "https://koalatywindows.com/quote", "ts": "2026-09-14T01:12:39Z"}
+{"name": "Turtle Leads", "norm": "turtle leads", "domain": "turtleleads.com", "how": "guess:turtleleads.com", "source_url": "https://koalatywindows.com/quote", "ts": "2026-09-14T01:12:39Z"}
+{"name": "Two Seam Media", "norm": "two seam media", "domain": "twoseammedia.com", "how": "guess:twoseammedia.com", "source_url": "https://koalatywindows.com/quote", "ts": "2026-09-14T01:12:39Z"}
