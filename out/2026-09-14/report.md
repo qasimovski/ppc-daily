@@ -6,42 +6,45 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | stage | count |
 |---|---|
-| inbox candidates | 4 |
-| partner-list names resolved -> candidates | 0 -> 0 |
+| inbox candidates | 0 |
+| partner-list names resolved -> candidates | 4 -> 2 |
 | hiring postings read -> candidates | 0 -> 0 |
-| linked-domain candidates | 0 |
+| linked-domain candidates | 1 |
 | search requests | 0 |
-| raw finds (search) | 4 |
+| raw finds (search) | 5 |
 | constructed domains probed | 0 |
-| net-new candidates after exclusion index | 4 |
-|   of which from search | 4 |
+| net-new candidates after exclusion index | 3 |
+|   of which from search | 3 |
 |   of which from probing | 0 |
-| crawled | 4 |
-|   crawl: ok | 4 |
+| crawled | 3 |
+|   crawl: ok | 1 |
+|   crawl: unregistered | 1 |
+|   crawl: unreachable | 1 |
 | probes that resolved to a real site | 0 |
-| v6 classified | 4 |
+| v6 classified | 1 |
 | carried to next run (unclassified) | 0 |
 | carried to next run (uncrawled) | 0 |
-| V6 QUALIFIED | 2 |
+| V6 QUALIFIED | 0 |
 
 ## Day so far (all passes, unique domains)
 
 | stage | count |
 |---|---|
-| candidates crawled | 43 |
-| crawled ok | 31 |
-| v6 classified | 31 |
+| candidates crawled | 46 |
+| crawled ok | 32 |
+| v6 classified | 32 |
 | v6 qualified | 2 |
 
 ## Crawl outcomes (net-new candidates only)
 
 | status | count |
 |---|---|
-| ok | 31 |
+| ok | 32 |
 | redirect_offdomain | 7 |
-| unreachable | 3 |
+| unreachable | 4 |
 | thin | 1 |
 | ringba_banned | 1 |
+| unregistered | 1 |
 
 ## v6 qualify rate per discovery channel
 
@@ -49,6 +52,7 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 |---|---|---|---|
 | L11-hiring-agent | 4 | 2 | 50.0% |
 | L10-partners | 27 | 0 | 0.0% |
+| L8-linked | 1 | 0 | 0.0% |
 
 **V6 QUALIFIED TODAY: 2** (ICP-clean: 1). Cumulative across all daily runs: 135.
 
@@ -56,7 +60,7 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | reason | count |
 |---|---|
-| unrelated | 11 |
+| unrelated | 12 |
 | lead_or_appointment_pricing | 6 |
 | end_advertiser | 4 |
 | seo_or_ranking_agency | 4 |
