@@ -2101,3 +2101,5 @@
 {"name": "Insphere", "norm": "insphere", "domain": "insphere.net", "how": "guess:insphere.net", "source_url": "https://quotes.priceshopmedicare.com", "ts": "2026-09-14T01:22:29Z"}
 {"name": "Integon", "norm": "integon", "domain": "integon.io", "how": "guess:integon.io", "source_url": "https://quotes.priceshopmedicare.com", "ts": "2026-09-14T01:22:29Z"}
 {"name": "Kelsey-Seybold", "norm": "kelsey seybold", "domain": "kelsey-seybold.com", "how": "guess:kelsey-seybold.com", "source_url": "https://quotes.priceshopmedicare.com", "ts": "2026-09-14T01:22:29Z"}
+{"name": "American Republic", "norm": "american republic", "domain": "democracy.community", "how": "search", "source_url": "https://ratequote.com/marketing-partners", "ts": "2026-09-14T01:25:16Z"}
+{"name": "Hometown", "norm": "hometown", "domain": "hometown.com", "how": "guess:hometown.com", "source_url": "https://ratequote.com/marketing-partners", "ts": "2026-09-14T01:25:16Z"}
