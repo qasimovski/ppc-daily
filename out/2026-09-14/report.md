@@ -7,21 +7,19 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | stage | count |
 |---|---|
 | inbox candidates | 0 |
-| partner-list names resolved -> candidates | 8 -> 6 |
+| partner-list names resolved -> candidates | 2 -> 1 |
 | hiring postings read -> candidates | 0 -> 0 |
 | linked-domain candidates | 0 |
 | search requests | 0 |
-| raw finds (search) | 8 |
+| raw finds (search) | 2 |
 | constructed domains probed | 0 |
-| net-new candidates after exclusion index | 6 |
-|   of which from search | 6 |
+| net-new candidates after exclusion index | 1 |
+|   of which from search | 1 |
 |   of which from probing | 0 |
-| crawled | 6 |
-|   crawl: ok | 2 |
-|   crawl: unreachable | 1 |
-|   crawl: redirect_offdomain | 3 |
+| crawled | 1 |
+|   crawl: ok | 1 |
 | probes that resolved to a real site | 0 |
-| v6 classified | 2 |
+| v6 classified | 1 |
 | carried to next run (unclassified) | 0 |
 | carried to next run (uncrawled) | 0 |
 | V6 QUALIFIED | 0 |
@@ -30,16 +28,16 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | stage | count |
 |---|---|
-| candidates crawled | 57 |
-| crawled ok | 39 |
-| v6 classified | 39 |
+| candidates crawled | 58 |
+| crawled ok | 40 |
+| v6 classified | 40 |
 | v6 qualified | 2 |
 
 ## Crawl outcomes (net-new candidates only)
 
 | status | count |
 |---|---|
-| ok | 39 |
+| ok | 40 |
 | redirect_offdomain | 10 |
 | unreachable | 5 |
 | thin | 1 |
@@ -51,7 +49,7 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | channel | classified | qualified | rate |
 |---|---|---|---|
 | L11-hiring-agent | 4 | 2 | 50.0% |
-| L10-partners | 34 | 0 | 0.0% |
+| L10-partners | 35 | 0 | 0.0% |
 | L8-linked | 1 | 0 | 0.0% |
 
 **V6 QUALIFIED TODAY: 2** (ICP-clean: 1). Cumulative across all daily runs: 135.
@@ -61,7 +59,7 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | reason | count |
 |---|---|
 | unrelated | 15 |
-| end_advertiser | 7 |
+| end_advertiser | 8 |
 | lead_or_appointment_pricing | 6 |
 | seo_or_ranking_agency | 4 |
 | no_clear_signal | 3 |

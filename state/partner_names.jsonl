@@ -2155,3 +2155,5 @@
 {"name": "Rockland Trust", "norm": "rockland trust", "domain": "rocklandtrust.com", "how": "guess:rocklandtrust.com", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-14T13:14:48Z"}
 {"name": "Sage Mortgage", "norm": "sage mortgage", "domain": "sagemortgage.com", "how": "guess:sagemortgage.com", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-14T13:14:48Z"}
 {"name": "Sallie Mae", "norm": "sallie mae", "domain": "salliemae.com", "how": "guess:salliemae.com", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-14T13:14:48Z"}
+{"name": "Flagstar Bank, FSB", "norm": "flagstar bank fsb", "domain": "fitchratings.com", "how": "search", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-14T13:17:35Z"}
+{"name": "Sammamish Mortgage", "norm": "sammamish mortgage", "domain": "sammamishmortgage.com", "how": "guess:sammamishmortgage.com", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-14T13:17:35Z"}
