@@ -2056,3 +2056,8 @@
 {"name": "First Midwest Bank", "norm": "first midwest bank", "domain": "onemidwest.com", "how": "search", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-13T13:30:59Z"}
 {"name": "Renasant Bank", "norm": "renasant bank", "domain": "renasantbank.com", "how": "guess:renasantbank.com", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-13T13:30:59Z"}
 {"name": "Revolution Mortgage", "norm": "revolution mortgage", "domain": "revolutionmortgage.com", "how": "guess:revolutionmortgage.com", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-13T13:30:59Z"}
+{"name": "First Mortgage Direct/First Mortgage Solutions, LLC", "norm": "first mortgage direct first mortgage solutions", "domain": null, "how": "unresolved:search-miss", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-14T01:03:19Z"}
+{"name": "First National Bank of America", "norm": "first national bank america", "domain": "fnba.com", "how": "search", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-14T01:03:26Z"}
+{"name": "First National Financing", "norm": "first national financing", "domain": "fnbalaska.com", "how": "search", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-14T01:03:33Z"}
+{"name": "First State Veteran Mortgage", "norm": "first state veteran mortgage", "domain": null, "how": "unresolved:search-miss", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-14T01:03:40Z"}
+{"name": "Rising Bank", "norm": "rising bank", "domain": "risingbank.com", "how": "guess:risingbank.com", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-14T01:03:40Z"}
