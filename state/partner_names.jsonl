@@ -2157,3 +2157,5 @@
 {"name": "Sallie Mae", "norm": "sallie mae", "domain": "salliemae.com", "how": "guess:salliemae.com", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-14T13:14:48Z"}
 {"name": "Flagstar Bank, FSB", "norm": "flagstar bank fsb", "domain": "fitchratings.com", "how": "search", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-14T13:17:35Z"}
 {"name": "Sammamish Mortgage", "norm": "sammamish mortgage", "domain": "sammamishmortgage.com", "how": "guess:sammamishmortgage.com", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-14T13:17:35Z"}
+{"name": "Flat Branch Mortgage Inc", "norm": "flat branch mortgage", "domain": "flatbranchhomeloans.com", "how": "search", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-14T13:20:01Z"}
+{"name": "Fortress Home Mortgage", "norm": "fortress home mortgage", "domain": "fortresshomemortgage.com", "how": "search", "source_url": "https://bankrate.com/partner-list", "ts": "2026-09-14T13:20:08Z"}
