@@ -2112,3 +2112,13 @@
 {"name": "Western Mutual", "norm": "western mutual", "domain": "westernmutual.com", "how": "guess:westernmutual.com", "source_url": "https://rocketquote.com/marketing-partners", "ts": "2026-09-14T01:28:05Z"}
 {"name": "Zander", "norm": "zander", "domain": "zander.com", "how": "guess:zander.com", "source_url": "https://rocketquote.com/marketing-partners", "ts": "2026-09-14T01:28:05Z"}
 {"name": "Zurich", "norm": "zurich", "domain": "zurichllc.com", "how": "guess:zurichllc.com", "source_url": "https://rocketquote.com/marketing-partners", "ts": "2026-09-14T01:28:05Z"}
+{"name": "Smart Media IQ", "norm": "smart media iq", "domain": "getlatka.com", "how": "search", "source_url": "https://selectmypolicy.com/partners", "ts": "2026-09-14T01:29:56Z"}
+{"name": "SmartChoice Agent Network", "norm": "smartchoice agent network", "domain": null, "how": "unresolved:search-miss", "source_url": "https://selectmypolicy.com/partners", "ts": "2026-09-14T01:30:02Z"}
+{"name": "Solar Direct Marketing", "norm": "solar direct marketing", "domain": null, "how": "unresolved:generic-name", "source_url": "https://selectmypolicy.com/partners", "ts": "2026-09-14T01:30:04Z"}
+{"name": "Solar Leads", "norm": "solar leads", "domain": null, "how": "unresolved:generic-name", "source_url": "https://selectmypolicy.com/partners", "ts": "2026-09-14T01:30:07Z"}
+{"name": "Traffic Panda", "norm": "traffic panda", "domain": "rocketreach.co", "how": "search", "source_url": "https://selectmypolicy.com/partners", "ts": "2026-09-14T01:30:29Z"}
+{"name": "USWeb Leads", "norm": "usweb leads", "domain": null, "how": "unresolved:search-miss", "source_url": "https://selectmypolicy.com/partners", "ts": "2026-09-14T01:30:53Z"}
+{"name": "Amac", "norm": "amac", "domain": "amac.net", "how": "guess:amac.net", "source_url": "https://selectmypolicy.com/partners", "ts": "2026-09-14T01:30:53Z"}
+{"name": "Amber Barnett", "norm": "amber barnett", "domain": "amberbarnett.com", "how": "guess:amberbarnett.com", "source_url": "https://selectmypolicy.com/partners", "ts": "2026-09-14T01:30:53Z"}
+{"name": "AMCAP", "norm": "amcap", "domain": "amcap.com", "how": "guess:amcap.com", "source_url": "https://selectmypolicy.com/partners", "ts": "2026-09-14T01:30:53Z"}
+{"name": "American Extra Help", "norm": "american extra help", "domain": "americanextrahelp.com", "how": "guess:americanextrahelp.com", "source_url": "https://selectmypolicy.com/partners", "ts": "2026-09-14T01:30:53Z"}

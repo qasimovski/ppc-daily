@@ -7,22 +7,21 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | stage | count |
 |---|---|
 | inbox candidates | 0 |
-| partner-list names resolved -> candidates | 9 -> 7 |
+| partner-list names resolved -> candidates | 6 -> 4 |
 | hiring postings read -> candidates | 0 -> 0 |
 | linked-domain candidates | 0 |
 | search requests | 0 |
-| raw finds (search) | 9 |
+| raw finds (search) | 6 |
 | constructed domains probed | 0 |
-| net-new candidates after exclusion index | 7 |
-|   of which from search | 7 |
+| net-new candidates after exclusion index | 4 |
+|   of which from search | 4 |
 |   of which from probing | 0 |
-| crawled | 7 |
-|   crawl: ok | 4 |
-|   crawl: thin | 1 |
-|   crawl: unreachable | 1 |
+| crawled | 4 |
+|   crawl: ok | 2 |
 |   crawl: redirect_offdomain | 1 |
+|   crawl: ringba_banned | 1 |
 | probes that resolved to a real site | 0 |
-| v6 classified | 4 |
+| v6 classified | 2 |
 | carried to next run (unclassified) | 0 |
 | carried to next run (uncrawled) | 0 |
 | V6 QUALIFIED | 0 |
@@ -31,25 +30,26 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | stage | count |
 |---|---|
-| candidates crawled | 33 |
-| crawled ok | 23 |
-| v6 classified | 23 |
+| candidates crawled | 37 |
+| crawled ok | 25 |
+| v6 classified | 25 |
 | v6 qualified | 0 |
 
 ## Crawl outcomes (net-new candidates only)
 
 | status | count |
 |---|---|
-| ok | 23 |
-| redirect_offdomain | 6 |
+| ok | 25 |
+| redirect_offdomain | 7 |
 | unreachable | 3 |
 | thin | 1 |
+| ringba_banned | 1 |
 
 ## v6 qualify rate per discovery channel
 
 | channel | classified | qualified | rate |
 |---|---|---|---|
-| L10-partners | 23 | 0 | 0.0% |
+| L10-partners | 25 | 0 | 0.0% |
 
 **V6 QUALIFIED TODAY: 0** (ICP-clean: 0). Cumulative across all daily runs: 133.
 
@@ -57,7 +57,7 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | reason | count |
 |---|---|
-| unrelated | 8 |
+| unrelated | 10 |
 | lead_or_appointment_pricing | 5 |
 | end_advertiser | 4 |
 | seo_or_ranking_agency | 3 |
