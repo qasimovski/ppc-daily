@@ -7,19 +7,19 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | stage | count |
 |---|---|
 | inbox candidates | 0 |
-| partner-list names resolved -> candidates | 2 -> 2 |
+| partner-list names resolved -> candidates | 5 -> 3 |
 | hiring postings read -> candidates | 0 -> 0 |
 | linked-domain candidates | 0 |
 | search requests | 0 |
-| raw finds (search) | 2 |
+| raw finds (search) | 5 |
 | constructed domains probed | 0 |
-| net-new candidates after exclusion index | 2 |
-|   of which from search | 2 |
+| net-new candidates after exclusion index | 3 |
+|   of which from search | 3 |
 |   of which from probing | 0 |
-| crawled | 2 |
-|   crawl: ok | 2 |
+| crawled | 3 |
+|   crawl: ok | 3 |
 | probes that resolved to a real site | 0 |
-| v6 classified | 2 |
+| v6 classified | 3 |
 | carried to next run (unclassified) | 0 |
 | carried to next run (uncrawled) | 0 |
 | V6 QUALIFIED | 0 |
@@ -28,16 +28,16 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 
 | stage | count |
 |---|---|
-| candidates crawled | 48 |
-| crawled ok | 34 |
-| v6 classified | 34 |
+| candidates crawled | 51 |
+| crawled ok | 37 |
+| v6 classified | 37 |
 | v6 qualified | 2 |
 
 ## Crawl outcomes (net-new candidates only)
 
 | status | count |
 |---|---|
-| ok | 34 |
+| ok | 37 |
 | redirect_offdomain | 7 |
 | unreachable | 4 |
 | thin | 1 |
@@ -49,7 +49,7 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | channel | classified | qualified | rate |
 |---|---|---|---|
 | L11-hiring-agent | 4 | 2 | 50.0% |
-| L10-partners | 29 | 0 | 0.0% |
+| L10-partners | 32 | 0 | 0.0% |
 | L8-linked | 1 | 0 | 0.0% |
 
 **V6 QUALIFIED TODAY: 2** (ICP-clean: 1). Cumulative across all daily runs: 135.
@@ -59,11 +59,12 @@ All figures are UNIQUE DOMAINS. A lead only counts if it passed Kaliper's v6 gat
 | reason | count |
 |---|---|
 | unrelated | 14 |
+| end_advertiser | 6 |
 | lead_or_appointment_pricing | 6 |
-| end_advertiser | 4 |
 | seo_or_ranking_agency | 4 |
 | no_clear_signal | 3 |
 | service_to_call_receiver | 1 |
+| directory_or_content | 1 |
 
 ## Qualified today
 
